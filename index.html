@@ -69,8 +69,8 @@
             filter: drop-shadow(0 8px 25px rgba(0,0,0,0.5)); 
         }
 
-        .left-img { right: -164px; }
-        .right-img { left: -172px; }
+        .left-img { right: -210px; }
+        .right-img { left: -77px; }
 
         @media (max-width: 1550px) {
             .girl-col { display: none; }
@@ -408,8 +408,8 @@
             height: 650px; 
             filter: drop-shadow(0 8px 25px rgba(0,0,0,0.5)); 
         }
-        .modal-left-img { right: -165px; }
-        .modal-right-img { left: -172px; }
+        .modal-left-img { right: -210px; }
+        .modal-right-img { left: -77px; }
 
         @media (max-width: 1550px) {
             .modal-girl-col { display: none; }
@@ -554,11 +554,11 @@
     <div class="container">
         <div class="content-wrapper">
             <div class="header">
-                <!-- БЕЙДЖ ВЕРХНИЙ (prrsephonne) -->
-                <div class="creator-badge" onclick="window.open('https://twitch.tv/prrsephonne', '_blank')">
-                    <img src="https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-70x70.png" id="prrsephonneAvatar" alt="prrsephonne">
+                <!-- БЕЙДЖ ВЕРХНИЙ (cherteya) -->
+                <div class="creator-badge" onclick="window.open('https://twitch.tv/cherteya', '_blank')">
+                    <img src="https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-70x70.png" id="cherteyaAvatar" alt="cherteya">
                     <div class="creator-info">
-                        <span class="creator-name">prrsephonne</span>
+                        <span class="creator-name">cherteya</span>
                     </div>
                 </div>
                 
@@ -722,10 +722,10 @@
 
     async function loadCreatorAvatars() {
         try {
-            const res1 = await fetch('https://api.ivr.fi/v2/twitch/user?login=prrsephonne');
+            const res1 = await fetch('https://api.ivr.fi/v2/twitch/user?login=cherteya');
             const data1 = await res1.json();
             if (data1 && data1.length > 0 && data1[0].logo) {
-                const pAv = document.getElementById('prrsephonneAvatar');
+                const pAv = document.getElementById('cherteyaAvatar');
                 if(pAv) pAv.src = data1[0].logo.replace('300x300', '150x150');
             }
             
