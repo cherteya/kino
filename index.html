@@ -298,7 +298,6 @@
             display: flex; flex-direction: column; align-items: center; gap: 8px;
             cursor: pointer; transition: transform 0.3s; margin: 0 auto;
         }
-        .requester-badge:hover { transform: translateY(-3px); }
         .requester-badge:hover .req-avatar { border-color: var(--mint-light); box-shadow: 0 0 15px rgba(92, 242, 138, 0.5); }
         .requester-badge:hover .req-name { color: #fff; text-shadow: 0 0 8px rgba(92, 242, 138, 0.6); }
         
@@ -367,11 +366,9 @@
         
         .director-avatar { border: 2px solid var(--cute-pink); }
 
-        .cast-group { display: flex; align-items: center; gap: 0; }
-        .cast-group .avatar-container { margin-left: -10px; } 
+        .cast-group { display: flex; align-items: center; gap: 8px; }
         
         tr.movie-row:has(.poster-wrapper:hover) .poster-wrapper { 
-            transform: scale(1.05) translateY(-5px);
             box-shadow: 0 12px 25px rgba(92, 242, 138, 0.3); 
             border-color: var(--mint-main);
         }
@@ -379,11 +376,8 @@
         tr.movie-row:has(.poster-wrapper:hover) .movie-overview-wrapper { max-height: 250px; }
         tr.movie-row:has(.poster-wrapper:hover) .movie-overview-text { -webkit-line-clamp: 20; color: var(--text-main); }
         
-        tr.movie-row:hover .avatar { transform: scale(1.1) translateY(-2px); box-shadow: 0 6px 15px rgba(92, 242, 138, 0.3); z-index: 10; border-color: var(--mint-main); }
+        tr.movie-row:hover .avatar { box-shadow: 0 6px 15px rgba(92, 242, 138, 0.3); z-index: 10; border-color: var(--mint-main); }
         tr.movie-row:hover .director-avatar { border-color: #ffb3c1; box-shadow: 0 6px 15px rgba(255, 143, 163, 0.3); }
-        tr.movie-row:hover .cast-group .avatar-container:nth-child(2) { transform: translateX(12px); }
-        tr.movie-row:hover .cast-group .avatar-container:nth-child(3) { transform: translateX(24px); }
-        tr.movie-row:hover .cast-group .avatar-container:nth-child(4) { transform: translateX(36px); }
 
         /* --- МОДАЛЬНОЕ ОКНО --- */
         .modal-overlay {
