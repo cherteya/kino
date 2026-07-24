@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Афиша OBS Card</title>
+    <!-- 🔥 ПОДКЛЮЧЕНЫ ФИРМЕННЫЕ ШРИФТЫ САЙТА 🔥 -->
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+    <style>
+        /* 🎨 ПАЛИТРА И ПЕРЕМЕННЫЕ С ОСНОВНОГО САЙТА */
+        :root {
+            --bg-deep: #1a090a;         
+            --bg-sunset: #9e391b;       
+            --bg-velvet: #4a1a1e;       
+            
+            --gold-light: #fff6d1;      
+            --gold-main: #f5c285;       
+            --gold-dark: #b57a42;       
+            
+            --blood-red: #e62222;       
+            --text-parchment: #ffffff;  
+            --text-muted: #e3cebe;      
+            
+            --font-title: 'Cinzel Decorative', serif;
+            --font-text: 'Cormorant Garamond', serif;
+            
+            --color-glow-dim: rgba(245, 194, 133, 0.2);
+            --color-glow-bright: rgba(245, 194, 133, 0.6);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            display: flex; align-items: center; justify-content: center; min-height: 100vh; overflow: hidden; background: transparent; 
+            -webkit-font-smoothing: antialiased; 
+            -moz-osx-font-smoothing: grayscale; 
+            color: var(--text-parchment);
+        }
+        
+        .container { 
+            /* 🔥 ИСПРАВЛЕНИЕ: МЕНЯЕМ ФЛЕКС НА АБСОЛЮТ И ПРИВЯЗЫВАЕМ К НИЗУ 🔥 */
+            position: absolute; 
+            bottom: 50px; /* Отступ от нижнего края экрана */
+            width: 100%; 
+            display: flex; align-items: flex-end; justify-content: center; /* Выравнивание элементов внутри по нижнему краю */
+            transform: translateZ(0); perspective: 1000px;
+            opacity: 0; 
+            will-change: transform, opacity;
+            height: 900px; /* Задаем достаточную высоту, чтобы вместить и карточку и девушку */
+        }
+
+        /* 🔥 АНИМАЦИЯ ПОЯВЛЕНИЯ 🔥 */
+        .magic-enter { animation: springInRight 0.9s cubic-bezier(0.28, 0.84, 0.42, 1) forwards; }
+        .magic-exit { animation: springOutRight 0.8s ease-in forwards; }
+        
+        @keyframes springInRight { 
+            0%   { opacity: 0; transform: translateX(100vw) translateZ(0); } 
+            60%  { opacity: 1; transform: translateX(-40px) translateZ(0); } 
+            80%  { opacity: 1; transform: translateX(15px) translateZ(0); }              
+            100% { opacity: 1; transform: translateX(0) translateZ(0); } 
+        }
+        @keyframes springOutRight { 
+            0%   { opacity: 1; transform: translateX(0) translateZ(0); }     
+            20%  { opacity: 1; transform: translateX(-40px) translateZ(0); } 
+            100% { opacity: 0; transform: translateX(100vw) translateZ(0); } 
+        }
+
+        /* 🔥 ПУЛЬСАЦИЯ ТЕНИ КАРТОЧКИ 🔥 */
+        @keyframes glow-pulse-shadow {
+            0% { box-shadow: 0 15px 40px rgba(0,0,0,0.9), 0 0 15px var(--color-glow-dim); }
+            100% { box-shadow: 0 15px 40px rgba(0,0,0,0.9), 0 0 35px var(--color-glow-bright); }
+        }
+
+        /* Главная карточка (Стилизована под контейнер сайта) */
+        .card { 
+            position: relative; 
+            width: 440px; 
+            min-height: 520px; 
+            height: auto; 
+            padding: 20px 15px 40px 15px; 
+            background: rgba(36, 14, 16, 0.93); 
+            border: 1px solid var(--gold-main);
+            border-radius: 4px; /* Более строгие углы */
+            animation: glow-pulse-shadow 2.5s infinite alternate ease-in-out; 
+            display: flex; flex-direction: column; align-items: center;
+            backdrop-filter: blur(8px); 
+            -webkit-backdrop-filter: blur(8px);
+        }
+
+        /* 🔥 АНИМАЦИЯ ДЕВУШКИ (МОЖНО МЕНЯТЬ ЗДЕСЬ) 🔥 */
+        @keyframes floatGirl {
+            0% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-15px) rotate(2deg); }
+            100% { transform: translateY(0px) rotate(0deg); }
+        }
+
+        /* 🔥 ДЕВУШКА СЛЕВА ОТ КАРТОЧКИ В OBS 🔥 */
+        .card-girl {
+            position: absolute;
+            left: -275px; /* Выдвигаем за левый край карточки */
+            bottom: 300px; /* Привязываем к низу карточки */
+            height: 520px; /* Высота под размер карточки */
+            z-index: -1; /* Находится строго ЗА карточкой */
+            filter: drop-shadow(-5px 10px 15px rgba(0,0,0,0.8));
+            pointer-events: none;
+            /* Вызов анимации: 6s - длительность цикла, infinite - бесконечно */
+            animation: floatGirl 6s ease-in-out infinite;
+        }
+
+        /* Внутренняя золотая рамка */
+        .card::before {
+            content: ''; position: absolute;
+            top: 4px; left: 4px; right: 4px; bottom: 4px;
+            border: 1px solid rgba(245, 194, 133, 0.3);
+            pointer-events: none; z-index: 10;
+        }
+
+        /* Угловые орнаменты как на сайте */
+        .corner-ornament { position: absolute; width: 15px; height: 15px; border: 2px solid var(--gold-main); z-index: 11; box-shadow: 0 0 6px rgba(245, 194, 133, 0.3); }
+        .corner-tl { top: 1px; left: 1px; border-right: none; border-bottom: none; }
+        .corner-tr { top: 1px; right: 1px; border-left: none; border-bottom: none; }
+        .corner-bl { bottom: 1px; left: 1px; border-right: none; border-top: none; }
+        .corner-br { bottom: 1px; right: 1px; border-left: none; border-top: none; }
+        
+        /* Фон шейдера */
+        .card-bg { 
+            position: absolute; top:0; left:0; width:100%; height:100%; 
+            overflow: hidden; z-index: 0; 
+            border-radius: 3px; 
+        }
+        #canvas { width: 100%; height: 100%; opacity: 0.55; mix-blend-mode: screen; }
+
+        /* ========================================= */
+        /* 👑 БЛОК ИМЕНИ ПОЛЬЗОВАТЕЛЯ */
+        /* ========================================= */
+        @keyframes pulseNameAnimation {
+            0% { transform: translateY(0px) scale(1); }
+            100% { transform: translateY(-3px) scale(1.02); } 
+        }
+
+        .user-name {
+            position: relative;
+            z-index: 16; /* Чуть выше девушки, чтобы ник был поверх неё, если пересекаются */
+            font-family: var(--font-title);
+            font-size: 20px;
+            font-weight: 900;
+            color: var(--gold-light);
+            margin-top: -38px;
+            margin-bottom: -15px;
+            text-shadow: 0 0 10px rgba(0,0,0,0.9);
+            background: linear-gradient(135deg, rgba(74, 26, 30, 0.95), rgba(26, 9, 10, 0.95));
+            padding: 8px 30px;
+            border-radius: 4px;
+            border: 1px solid var(--gold-main);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.8), inset 0 0 10px rgba(245, 194, 133, 0.1);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            animation: pulseNameAnimation 3s infinite alternate ease-in-out;
+            white-space: nowrap; 
+            max-width: 90%; 
+            overflow: hidden; 
+            text-overflow: ellipsis; 
+            text-align: center;
+            line-height: 1;
+            text-shadow: 0 2px 5px rgba(0,0,0,0.9);
+        }
+
+        /* ========================================= */
+        /* 🖼️ БЛОК ПОСТЕРА И АВАТАРКИ */
+        /* ========================================= */
+        .image-wrapper {
+            position: relative;
+            width: 360px;
+            height: 480px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            z-index: 2;
+        }
+
+        .zodiac-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 2px; 
+            border: 1px solid var(--gold-dark);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.9);
+        }
+
+        @keyframes pulseAvatarAnimation {
+            0% { filter: drop-shadow(0 0 5px rgba(245, 194, 133, 0.4)); transform: translateY(0px); }
+            100% { filter: drop-shadow(0 0 15px rgba(245, 194, 133, 0.8)); transform: translateY(-3px); } 
+        }
+
+        .user-avatar {
+            position: absolute;
+            bottom: -20px; 
+            right: -20px; 
+            width: 100px; 
+            height: 100px;
+            border-radius: 50%; 
+            border: 2px solid var(--gold-main);
+            object-fit: cover;
+            background: #000;
+            z-index: 12;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.8);
+            animation: pulseAvatarAnimation 3s infinite alternate ease-in-out;
+        }
+
+        /* 🔥 БАШНЯ БЕЙДЖЕЙ (Оценка, Аукцион, Слезы) 🔥 */
+        @keyframes pulseSquareAnimation {
+            0% { transform: translateY(0px); }
+            100% { transform: translateY(-3px); } 
+        }
+
+        .left-badges-container {
+            position: absolute;
+            bottom: -15px;
+            left: -15px;
+            display: flex;
+            flex-direction: column-reverse;
+            align-items: flex-start;
+            gap: 10px;
+            z-index: 12;
+        }
+
+        /* Общий стиль для плашек в стиле сайта */
+        .site-style-badge {
+            font-size: 16px; 
+            font-style: normal; font-weight: 900; 
+            text-shadow: 0 0 5px rgba(0,0,0,0.9);
+            background: rgba(0, 0, 0, 0.85); 
+            border: 1px solid rgba(245, 194, 133, 0.3);
+            padding: 6px 14px; border-radius: 4px; letter-spacing: 0.5px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.8); 
+            display: none; justify-content: center; align-items: center; gap: 6px;
+            font-family: var(--font-title);
+            animation: pulseSquareAnimation 3s infinite alternate ease-in-out;
+        }
+
+        .watched-badge { /* Оценка */
+            font-size: 20px;
+        }
+
+        .mini-badge.auction {
+            font-size: 13px;
+            color: var(--gold-light);
+            text-transform: uppercase; letter-spacing: 2px;
+            border-color: var(--gold-main);
+            text-shadow: 0 0 5px rgba(0,0,0,0.8);
+        }
+
+        .mini-badge.cried {
+            font-size: 14px;
+            color: #a0c4ff;
+            border-color: #a0c4ff;
+            text-shadow: 0 0 5px #a0c4ff;
+        }
+
+        /* ========================================= */
+        /* 📜 ТЕКСТОВЫЙ БЛОК */
+        /* ========================================= */
+        .content {
+            position: relative; z-index: 2; width: 100%; display: flex; flex-direction: column; align-items: center; text-align: center; padding: 0 10px;
+        }
+
+        .horo-type {
+            background: rgba(74, 26, 30, 0.8); 
+            font-family: var(--font-title); color: #fff; padding: 6px 25px; border-radius: 4px;
+            margin-bottom: 12px; 
+            border-top: 1px solid var(--gold-main); border-bottom: 1px solid var(--gold-main);
+            border-left: 1px solid rgba(245, 194, 133, 0.3); border-right: 1px solid rgba(245, 194, 133, 0.3);
+            text-shadow: 0 0 8px rgba(0,0,0,0.9); box-shadow: 0 5px 15px rgba(0, 0, 0, 0.6);
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+        }
+
+        .queue-title-main {
+            font-size: 16px;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #fff;
+        }
+
+        .queue-user-box {
+            display: none; align-items: center; justify-content: center; gap: 10px; margin-top: 8px;
+            background: rgba(26, 9, 10, 0.85); 
+            padding: 6px 15px; 
+            border-radius: 4px; 
+            border: 1px solid rgba(245, 194, 133, 0.4);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+
+        .horo-date {
+            font-family: var(--font-text);
+            font-size: 28px; 
+            color: var(--gold-light);
+            font-weight: 600;
+            font-style: italic;
+            margin-bottom: 5px;
+            padding: 8px 10px;
+            width: 100%; 
+            border-bottom: 1px solid rgba(245, 194, 133, 0.2);
+            text-shadow: 0 0 5px rgba(0,0,0,0.8);
+            line-height: 1.25;
+            text-align: center;
+            overflow: hidden; 
+        }
+
+        .zodiac-name {
+            font-family: var(--font-title);
+            font-size: 36px;
+            font-weight: 900;
+            color: #fff; 
+            line-height: 1.1;
+            margin-bottom: 8px; margin-top: 5px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.9), 0 0 10px rgba(245, 194, 133, 0.4); 
+            background: rgba(0, 0, 0, 0.55);
+            border: 1px solid rgba(245, 194, 133, 0.2);
+            border-radius: 4px;
+            padding: 8px 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+            width: 100%;
+        }
+
+        .horo-text {
+            font-family: var(--font-text); 
+            font-size: 19px; 
+            color: #fff; line-height: 1.3;
+            font-weight: 400; text-align: justify; text-shadow: 0 1px 3px rgba(0,0,0,0.8);
+            background: rgba(0, 0, 0, 0.55);
+            border: 1px solid rgba(245, 194, 133, 0.2);
+            border-radius: 6px;
+            padding: 5px 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+            width: 100%;
+            display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden;
+        }
+
+        .tv-status-badge {
+            display: inline-block;
+            background: #8a0b0b;
+            border: 1px solid #d31a1a;
+            padding: 2px 8px;
+            border-radius: 2px;
+            font-size: 15px; 
+            font-family: var(--font-title);
+            color: #fff;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.4);
+            font-weight: 700;
+            letter-spacing: 1px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.4); 
+        }
+
+        .tmdb-rating {
+            font-family: var(--font-title);
+            font-size: 16px; 
+            font-weight: 600;
+            color: var(--gold-light);
+            background: rgba(43,17,19,0.9);
+            border: 1px solid var(--gold-main);
+            padding: 2px 8px;
+            border-radius: 2px;
+            letter-spacing: 1px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container" id="widget">
+    <!-- 🔥 ОБЕРТКА ДЛЯ ПРАВИЛЬНОГО ПОЗИЦИОНИРОВАНИЯ КАРТОЧКИ СНИЗУ 🔥 -->
+    <div style="position: relative;">
+        <!-- 🔥 КАРТИНКА ДЕВУШКИ С АНИМАЦИЕЙ 🔥 -->
+        <img src="obs-girl.png" class="card-girl" alt="">
+
+        <div class="card">
+            <div class="corner-ornament corner-tl"></div>
+            <div class="corner-ornament corner-tr"></div>
+            <div class="corner-ornament corner-bl"></div>
+            <div class="corner-ornament corner-br"></div>
+
+            <div class="card-bg"><canvas id="canvas"></canvas></div>
+            
+            <div class="user-name" id="requester-name">Загрузка...</div>
+
+            <div class="image-wrapper">
+                <img src="" id="movie-poster" class="zodiac-img">
+                <img src="" id="user-avatar" class="user-avatar">
+                
+                <div class="left-badges-container">
+                    <div class="site-style-badge watched-badge" id="watched-badge">
+                        ОЦЕНКА: <span id="badge-rating-text">10</span>
+                    </div>
+
+                    <div class="site-style-badge mini-badge cried" id="cried-badge">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="#a0c4ff" stroke="#a0c4ff" stroke-width="1" style="filter: drop-shadow(0 0 2px #a0c4ff);"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path></svg> 
+                        Пролиты слезы
+                    </div>
+
+                    <div class="site-style-badge mini-badge auction" id="auction-badge">✦ Дар Аукциона ✦</div>
+                </div>
+            </div>
+
+            <div class="content">
+                <div class="horo-type" id="queue-status">
+                    <div class="queue-title-main" id="queue-text">В ОЧЕРЕДИ</div>
+                    
+                    <div class="queue-user-box" id="queue-user">
+                        <span style="font-size: 15px; color: var(--gold-light); font-style: italic; font-family: var(--font-text);">от</span>
+                        <img id="queue-avatar-img" src="" style="width: 32px; height: 32px; border-radius: 50%; object-fit: cover; border: 1px solid var(--gold-main); box-shadow: 0 0 5px rgba(0,0,0,0.8);">
+                        <span id="queue-username-text" style="font-size: 16px; font-weight: 700; font-family: var(--font-title); color: var(--gold-light); white-space: nowrap; max-width: 180px; display: inline-block; text-shadow: 0 0 5px rgba(0,0,0,0.8);">Name</span>
+                    </div>
+                </div>
+
+                <div class="horo-date" id="movie-year-rating">Год | ⭐ Оценка</div>
+                
+                <div class="zodiac-name" id="movie-title">НАЗВАНИЕ</div>
+                <div class="horo-text" id="movie-desc">Ищем данные в архиве...</div>
+            </div>
+        </div>  
+    </div>
+</div>
+
+<script type="module">
+    import FragmentCanvas from "https://esm.sh/fragment-canvas@1.0.7";
+
+    function getRatingColor(rating) {
+        if (!rating) return 'var(--gold-main)';
+        const r = parseFloat(rating);
+        if (isNaN(r)) return 'var(--gold-main)';
+        let hue = ((r - 1) / 9) * 120;
+        if (hue < 0) hue = 0;
+        if (hue > 120) hue = 120;
+        return `hsl(${hue}, 80%, 50%)`;
+    }
+
+    const params = new URLSearchParams(window.location.search);
+    const displayTime = parseInt(params.get('time')) || 14000; 
+
+    const widget = document.getElementById('widget');
+    setTimeout(() => { widget.classList.add('magic-enter'); }, 100);
+    setTimeout(() => { 
+        widget.classList.remove('magic-enter');
+        widget.classList.add('magic-exit'); 
+    }, displayTime); 
+
+    document.getElementById('user-avatar').src = params.get('avatar') || "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png";
+    document.getElementById('movie-poster').src = params.get('poster') || "";
+    
+    // =========================================
+    // 🔥 ЛОГИКА ФОРМИРОВАНИЯ ИНФО-СТРОКИ 🔥
+    // =========================================
+    const year = params.get('year') || "????";
+    const rating = params.get('rating') || "0.0";
+    const runtime = params.get('runtime');
+    const seasons = params.get('seasons');
+    const episodes = params.get('episodes');
+    let tvStatus = params.get('tvStatus');
+
+    if (tvStatus && tvStatus.includes("Идёт выпуск")) {
+        tvStatus = "Идёт выпуск";
+    }
+
+    const infoEl = document.getElementById('movie-year-rating');
+    let contentHtml = "";
+    let formattedRating = `<span class="tmdb-rating">TMDB ${rating}</span>`;
+
+    if (seasons || episodes) {
+        let line1 = `<div>${year}`;
+        if (seasons) line1 += ` ✧ ${seasons} СЕЗ.`;
+        if (episodes) line1 += ` (${episodes} СЕР.)`;
+        line1 += `</div>`;
+        
+        let line2 = runtime ? `<div style="margin-top: 4px;">⏱ ${runtime.toUpperCase()}</div>` : "";
+        
+        let line3 = `<div style="display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 8px;">`;
+        if (tvStatus) {
+            line3 += `<span class="tv-status-badge">${tvStatus.toUpperCase()}</span>`;
+        }
+        line3 += formattedRating;
+        line3 += `</div>`;
+
+        contentHtml = line1 + line2 + line3;
+    } else {
+        contentHtml = `<div style="display: flex; align-items: center; justify-content: center; gap: 8px; white-space: nowrap; font-style: normal;">`;
+        contentHtml += `<span style="font-style: italic;">${year}</span>`;
+        if (runtime) contentHtml += `<span>✧ ⏱ ${runtime.toUpperCase()} ✧</span>`;
+        contentHtml += `${formattedRating}`;
+        contentHtml += `</div>`;
+    }
+
+    infoEl.innerHTML = contentHtml;
+    
+    let infoFontSize = 28; 
+    infoEl.style.fontSize = infoFontSize + "px";
+    setTimeout(() => {
+        while (infoEl.scrollWidth > infoEl.clientWidth && infoFontSize > 12) {
+            infoFontSize -= 1;
+            infoEl.style.fontSize = infoFontSize + "px";
+        }
+    }, 50);
+    
+    document.getElementById('movie-desc').innerText = params.get('desc') || "Описание отсутствует.";
+
+    // =========================================
+    // 🔥 БЕЙДЖИ (Аукцион, Слезы, Оценка) 🔥
+    // =========================================
+    if (params.get('auction') === 'true') {
+        document.getElementById('auction-badge').style.display = 'flex';
+    }
+    if (params.get('cried') === 'true') {
+        document.getElementById('cried-badge').style.display = 'flex';
+    }
+
+    const myRatingParam = params.get('myRating');
+    const badge = document.getElementById('watched-badge');
+
+    if (myRatingParam) {
+        badge.style.display = 'flex'; 
+        const scoreEl = document.getElementById('badge-rating-text');
+        scoreEl.innerText = myRatingParam;
+
+        const parsedScore = parseFloat(myRatingParam.replace(',', '.'));
+        if (!isNaN(parsedScore)) {
+            const rColor = getRatingColor(parsedScore);
+            badge.style.color = rColor;
+            badge.style.borderColor = rColor;
+            badge.style.textShadow = `0 0 5px ${rColor}`;
+            badge.style.boxShadow = `0 4px 10px rgba(0,0,0,0.8), inset 0 0 8px ${rColor}`;
+        } else {
+            scoreEl.innerText = "👀"; 
+            badge.style.borderColor = "rgba(255, 255, 255, 0.3)";
+        }
+    }
+
+    // =========================================
+    // 🔥 СТАТУС В ОЧЕРЕДИ 🔥
+    // =========================================
+    const inQueue = params.get('inQueue') === 'true';
+    const requester = params.get('requester');
+    const queueStatusEl = document.getElementById('queue-text');
+    const queueUserBox = document.getElementById('queue-user');
+    const queueUsernameEl = document.getElementById('queue-username-text');
+    const queueAvatarEl = document.getElementById('queue-avatar-img');
+    
+    if (inQueue && requester) {
+        queueStatusEl.innerText = `В ОЧЕРЕДИ`;
+        queueUserBox.style.display = 'flex';
+        
+        let cleanReq = requester.replace("@", "");
+        queueUsernameEl.innerText = cleanReq;
+        queueAvatarEl.src = params.get('reqAvatar') || "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-300x300.png";
+
+        let qFontSize = 16; 
+        setTimeout(() => {
+            while (queueUsernameEl.scrollWidth > 170 && qFontSize > 10) {
+                qFontSize--;
+                queueUsernameEl.style.fontSize = qFontSize + "px";
+            }
+        }, 50);
+
+    } else {
+        let contentType = "ФИЛЬМ";
+        if (seasons || episodes) contentType = "СЕРИАЛ";
+        if (document.getElementById('movie-desc').innerText.toLowerCase().includes("япон")) contentType = "АНИМЕ"; 
+        queueStatusEl.innerText = contentType;
+    }
+
+    // =========================================
+    // 🔥 ШРИФТЫ ОСНОВНОГО НИКА И НАЗВАНИЯ 🔥
+    // =========================================
+    const nameEl = document.getElementById('requester-name');
+    let rawName = params.get('name') || "Зритель";
+    nameEl.innerText = rawName.replace("@", "");
+    
+    let nameFontSize = 20; 
+    nameEl.style.fontSize = nameFontSize + "px";
+    setTimeout(() => {
+        while (nameEl.scrollWidth > 360 && nameFontSize > 12) {
+            nameFontSize--;
+            nameEl.style.fontSize = nameFontSize + "px";
+        }
+    }, 50);
+
+    const titleEl = document.getElementById('movie-title');
+    titleEl.innerText = params.get('title') || "Без названия";
+    let titleFontSize = 36; 
+    titleEl.style.fontSize = titleFontSize + "px";
+    setTimeout(() => {
+        while (titleEl.scrollHeight > 80 && titleFontSize > 18) {
+            titleFontSize -= 2;
+            titleEl.style.fontSize = titleFontSize + "px";
+        }
+    }, 50);
+
+    // =========================================
+    // 🔥 ШЕЙДЕРЫ 🔥
+    // =========================================
+    const baseShader = `
+        precision mediump float; 
+        uniform vec2 iResolution; 
+        uniform float iTime; 
+        float random(vec2 pos) { return fract(sin(dot(pos, vec2(12.9898, 78.233))) * 43758.5453); } 
+        float noise(vec2 pos) { 
+            vec2 i = floor(pos); vec2 f = fract(pos); 
+            float a = random(i); float b = random(i + vec2(1.0, 0.0)); 
+            float c = random(i + vec2(0.0, 1.0)); float d = random(i + vec2(1.0, 1.0)); 
+            vec2 u = f * f * (3.0 - 2.0 * f); 
+            return mix(a, b, u.x) + (c - a) * u.y * (1.0 - u.x) + (d - b) * u.x * u.y; 
+        } 
+        float fbm(vec2 pos) { 
+            float v = 0.0; float a = 0.5; 
+            vec2 shift = vec2(100.0); 
+            mat2 rot = mat2(cos(0.5), sin(0.5), -sin(0.5), cos(0.5)); 
+            for (int i = 0; i < 6; i++) { 
+                v += a * noise(pos); pos = rot * pos * 2.0 + shift; a *= 0.5; 
+            } 
+            return v; 
+        } 
+        void main(void) { 
+            vec2 uv = gl_FragCoord.xy * 0.003 + vec2(50.0, 50.0); 
+            float t = iTime * 0.35; 
+            vec2 q = vec2(fbm(uv + vec2(0.0, t)), fbm(uv + vec2(t, 0.0))); 
+            vec2 r = vec2(fbm(uv + 1.0 * q + vec2(1.7, 9.2) + 0.15 * t), fbm(uv + 1.0 * q + vec2(8.3, 2.8) + 0.126 * t)); 
+            float f = fbm(uv + r); 
+            // COLOR_BLOCK
+            gl_FragColor = vec4(color, 1.0); 
+        }
+    `;
+
+    const siteColors = `
+        vec3 color = mix(vec3(0.12, 0.01, 0.03), vec3(0.35, 0.02, 0.08), clamp((f*f)*4.0, 0.0, 1.0)); 
+        color = mix(color, vec3(0.75, 0.05, 0.15), clamp(length(q), 0.0, 1.0)); 
+        color = mix(color, vec3(0.95, 0.65, 0.30), clamp(length(r.x), 0.0, 1.0)); 
+        color = vec3(0.05, 0.00, 0.02) + (f*f*f + 0.6*f*f + 0.5*f) * color;
+    `;
+
+    new FragmentCanvas(document.getElementById('canvas'), { fragmentShader: baseShader.replace('// COLOR_BLOCK', siteColors) });
+</script>
+
+</body>
+</html>
