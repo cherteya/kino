@@ -434,11 +434,15 @@
         .modal-hero { 
 			width: 100%; 
 			height: 320px; 
+    
+			/* Добавляем цвет фона, как у блока с названием */
+			background-color: rgba(34, 24, 54, 0.6); 
+    
 			background-size: cover; 
 			background-position: top center; 
 			position: relative; 
-			z-index: 1; /* Поднимаем картинку, чтобы тень ложилась на фон */
-			box-shadow: 0 20px 50px 10px rgba(0, 0, 0, 0.7); /* Глубокая тень снизу */
+			z-index: 1; 
+			box-shadow: 0 20px 50px 10px rgba(0, 0, 0, 0.7);
 		}
         .modal-hero::after { content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to top, var(--bg-velvet) 0%, transparent 100%); }
 
