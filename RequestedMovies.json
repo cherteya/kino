@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "26.07.2026 16:36"
+    "lastUpdated": "26.07.2026 16:37"
   },
   "cherteya": [
     {
@@ -1700,55 +1700,6 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
-    },
-    {
-      "title": "Левша",
-      "year": "2015",
-      "type": "Фильм",
-      "runtime": "2 ч 3 мин",
-      "genres": "боевик, драма",
-      "studios": "🟢 Fuqua Films, 🟢 Escape Artists, 🟢 Wanda Pictures, 🟢 The Weinstein Company, 🟢 Riche Productions",
-      "budget": "30.000.000 $",
-      "revenue": "91.709.827 $",
-      "tmdbRating": "7.364",
-      "overview": "История боксера с трудной судьбой, пытающегося вернуть себе былую славу ради маленькой дочери.",
-      "poster": "https://image.tmdb.org/t/p/w500/jsPdRIpDwHbmrTUZuEM9fHzLtDT.jpg",
-      "tagline": "Преодолей судьбу",
-      "backdrop": "https://image.tmdb.org/t/p/original/zT9iYKMtmU82Jo44WbiuMOW7jRi.jpg",
-      "cast": [
-        {
-          "name": "Джейк Джилленхол",
-          "photo": "https://image.tmdb.org/t/p/w185/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
-        },
-        {
-          "name": "Рэйчел МакАдамс",
-          "photo": "https://image.tmdb.org/t/p/w185/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
-        },
-        {
-          "name": "Форест Уитакер",
-          "photo": "https://image.tmdb.org/t/p/w185/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
-        },
-        {
-          "name": "Oona Laurence",
-          "photo": "https://image.tmdb.org/t/p/w185/6t5lhsDen23VcVU5ssP71mdS1TI.jpg"
-        }
-      ],
-      "director": {
-        "name": "Антуан Фукуа",
-        "photo": "https://image.tmdb.org/t/p/w185/h58HRBCQOtWIR8zMqOIVgkHjssU.jpg"
-      },
-      "trailer": "",
-      "ageRating": "R",
-      "keywords": "sports, fighter, tragedy, death, boxing",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 43,
-      "dateRequested": "26.07.2026 13:53",
-      "status": "Смотрели",
-      "ourRating": "1000",
-      "cried": true,
-      "isAuction": true,
-      "dateWatched": "26.07.2026 14:59"
     }
   ],
   "DworfiQ": [
