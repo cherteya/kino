@@ -223,10 +223,11 @@
 
         .movie-info { display: flex; flex-direction: column; gap: 8px; padding-left: 10px; }
         
+        /* === ВЫРАВНИВАНИЕ ЗАГОЛОВКА ДЛЯ ФИЛЬМОВ === */
         .movie-header { 
             display: flex; 
-            align-items: flex-start; 
-            justify-content: flex-start; 
+            align-items: flex-start; /* Год и кнопка не улетают вниз при переносе названия */
+            justify-content: flex-start; /* Год притягивается к названию */
             gap: 12px; 
             width: 100%; 
             margin-bottom: 5px; 
@@ -261,6 +262,7 @@
             opacity: 0; transform: scale(0.8);
             position: relative; top: 2px; flex-shrink: 0;
         }
+        /* ========================================= */
 
         tr.movie-row:hover .copy-btn { opacity: 1; transform: scale(1); }
         .copy-btn:hover { 
@@ -460,10 +462,10 @@
             border: 1px solid rgba(92, 242, 138, 0.1);
         }
 
-        /* === ИСПРАВЛЕННЫЙ БЛОК ДЛЯ ЗАГОЛОВКА МОДАЛЬНОГО ОКНА === */
+        /* === ИЗМЕНЕННЫЙ БЛОК ЗАГОЛОВКА ДЛЯ МОДАЛЬНОГО ОКНА === */
         .modal-title-wrapper { 
             display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; 
-            max-width: 100%; /* УБРАН overflow: hidden, чтобы текст не срезался */
+            flex-wrap: nowrap; max-width: 100%; 
         }
         
         .modal-title { 
@@ -471,13 +473,9 @@
             color: #ffffff;
             text-shadow: 0 2px 4px rgba(0,0,0,0.5), 0 0 15px rgba(92, 242, 138, 0.3);
             flex-shrink: 1; min-width: 0; line-height: 1.2;
-            
-            /* Стили по умолчанию до загрузки скрипта, чтобы выглядело опрятно */
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
 
+        /* Обертка для Года и Кнопки, чтобы они не разваливались */
         .modal-title-extras {
             display: flex; align-items: center; gap: 10px; flex-shrink: 0; margin-top: 4px;
         }
@@ -489,16 +487,15 @@
             color: var(--mint-main); 
             padding: 6px; display: inline-flex; align-items: center; justify-content: center; 
             transition: all 0.3s; border: none; cursor: pointer; border-radius: 8px;
-            position: relative;
         }
         .modal-title-wrapper:hover .copy-btn { opacity: 1; }
         .modal-title-wrapper .copy-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 12px rgba(92, 242, 138, 0.5); }
         
+        /* === ВЫРАВНИВАНИЕ ДАТЫ И БЕЙДЖЕЙ ВНИЗУ === */
         .modal-meta-wrapper {
             display: flex; align-items: center; gap: 12px; margin-bottom: 20px; 
             border-bottom: 1px dashed rgba(92, 242, 138, 0.2); padding-bottom: 15px; flex-wrap: wrap;
         }
-
         .modal-meta { color: var(--mint-light); font-size: 16px; font-weight: 600; }
         
         .modal-overview { color: var(--text-main); font-size: 16px; line-height: 1.7; margin-bottom: 30px; }
@@ -668,6 +665,7 @@
                 <div class="modal-body">
                     <div><img id="modalPoster" class="modal-poster" src="" alt="Постер"></div>
                     <div class="modal-info-main">
+                        <!-- === ОБНОВЛЕННЫЙ ЗАГОЛОВОК С ЭКСТРА-БЛОКОМ === -->
                         <div class="modal-title-wrapper">
                             <h2 class="modal-title" id="modalTitle">Название</h2>
                             <div class="modal-title-extras">
@@ -678,11 +676,12 @@
                             </div>
                         </div>
                         
+                        <!-- === ОБНОВЛЕННЫЙ БЛОК МЕТА-ИНФОРМАЦИИ И БЕЙДЖЕЙ === -->
                         <div class="modal-meta-wrapper">
                             <div class="modal-meta" id="modalMeta">2023 ✧ 120 мин</div>
                             <div id="modalBadges" style="display: flex; gap: 8px;"></div>
                         </div>
-                        
+
                         <div class="modal-overview" id="modalOverview">Описание фильма...</div>
                         <div class="modal-crew-section" id="modalCrewSection"></div>
 
@@ -1015,14 +1014,14 @@
             tbody.appendChild(tr);
         });
 
-        // НЕМНОГО УЛУЧШИЛ РАСЧЕТ ДЛЯ ГЛАВНОГО СПИСКА
         setTimeout(() => {
             document.querySelectorAll('.movie-row .movie-title').forEach(titleEl => {
                 let currentSize = 24;
                 titleEl.style.fontSize = currentSize + "px";
+                
                 titleEl.style.whiteSpace = 'nowrap';
                 titleEl.style.display = 'block';
-                titleEl.style.overflow = 'visible'; // Позволяем тексту "вытекать" для точного замера
+                titleEl.style.overflow = 'visible';
 
                 while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 18) {
                     currentSize -= 1;
@@ -1062,8 +1061,6 @@
         
         const titleEl = document.getElementById('modalTitle');
         titleEl.textContent = movie.title || 'Безымянный';
-        // Убрали блок скрипта для текста отсюда...
-
         document.getElementById('modalYear').textContent = movie.year || '----';
         
         let badgesHtml = '';
@@ -1149,23 +1146,25 @@
             trailerIframe.src = `https://www.youtube.com/embed/${movie.trailer.split('v=')[1].split('&')[0]}?color=white`; trailerWrapper.style.display = 'block';
         } else { trailerIframe.src = ""; trailerWrapper.style.display = 'none'; }
 
-        // СНАЧАЛА открываем модальное окно (чтобы оно получило размеры)
+        // СНАЧАЛА открываем модальное окно, чтобы оно получилось видимым для браузера
         modal.classList.add('active'); 
         document.body.style.overflow = 'hidden'; 
         
-        // ... и ТОЛЬКО ПОТОМ запускаем замер и пересчет текста с нормальной задержкой!
+        // НОВАЯ ЛОГИКА АВТОМАСШТАБИРОВАНИЯ (с задержкой, чтобы окно успело отрендериться)
         setTimeout(() => {
-            titleEl.style.display = 'block';
             titleEl.style.fontSize = "34px"; 
             titleEl.style.whiteSpace = 'nowrap';
-            titleEl.style.overflow = 'visible'; // Позволяем тексту выйти за края для точного замера
+            titleEl.style.display = 'block';
+            titleEl.style.overflow = 'visible';
             
             let currentSize = 34;
+            // Уменьшаем размер до 18px, если текст не влезает
             while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 18) {
                 currentSize -= 1;
                 titleEl.style.fontSize = currentSize + "px";
             }
             
+            // Если все еще не влезает - переносим на 2 строчку
             if (titleEl.scrollWidth > titleEl.clientWidth) {
                 titleEl.style.whiteSpace = 'normal';
                 titleEl.style.display = '-webkit-box';
