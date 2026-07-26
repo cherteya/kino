@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "26.07.2026 19:46"
+    "lastUpdated": "27.07.2026 01:32"
   },
   "MadMan1408": [
     {
@@ -100,6 +100,102 @@
       "cried": true,
       "isAuction": false,
       "dateWatched": "02.06.2026 16:48"
+    },
+    {
+      "title": "Горько!",
+      "year": "2013",
+      "type": "Фильм",
+      "runtime": "1 ч 40 мин",
+      "genres": "комедия",
+      "studios": "🟢 Bazelevs, 🟢 Lunapark Film Company, 🟢 STS Media, 🟢 Cinema Foundation of Russia",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "5.598",
+      "overview": "Прогрессивные и талантливые Наташа и Рома мечтают о европейской свадьбе на берегу моря… но у Наташиного отчима заготовлен другой сценарий. Грубый чиновник городской администрации рассматривает торжество как трамплин для собственной карьеры и стремится устроить все «как надо». Молодых ждет незабываемый вечер в ресторане «Золотой» с полным набором занудных обрядов. Не в силах бороться, ребята решают провести свадьбу своей мечты в секрете от консервативных родственников. Но по нелепой случайности оба торжества сливаются воедино.",
+      "poster": "https://image.tmdb.org/t/p/w500/4WkssY4QM8Vs7ets0YVptnYSW3F.jpg",
+      "tagline": "Главное не нажраться",
+      "backdrop": "https://image.tmdb.org/t/p/original/uEKiqn1lE551lDgfvseVFH7OKZu.jpg",
+      "cast": [
+        {
+          "name": "Юлия Александрова",
+          "photo": "https://image.tmdb.org/t/p/w185/YQN39md12ePFgibB5z1qfdg3Hf.jpg"
+        },
+        {
+          "name": "Егор Корешков",
+          "photo": "https://image.tmdb.org/t/p/w185/yQceTOuTGiNuy31LuehQW432t7p.jpg"
+        },
+        {
+          "name": "Сергей Светлаков",
+          "photo": "https://image.tmdb.org/t/p/w185/oATh42sMA7V5veOAApMJOplyVAy.jpg"
+        },
+        {
+          "name": "Ян Цапник",
+          "photo": "https://image.tmdb.org/t/p/w185/1iMP5YsgeXIOCZfkr79yo5mUZ2V.jpg"
+        }
+      ],
+      "director": {
+        "name": "Жора Крыжовников",
+        "photo": "https://image.tmdb.org/t/p/w185/5vUdcCWjTOOqgnixftTOSMdMNsx.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=VBR_d8OiiOs",
+      "ageRating": "16+",
+      "keywords": "love, wedding",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "Горько! (Коллекция)",
+      "id": 43,
+      "dateRequested": "27.07.2026 01:29",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Война миров",
+      "year": "2025",
+      "type": "Фильм",
+      "runtime": "1 ч 31 мин",
+      "genres": "фантастика, триллер",
+      "studios": "🟢 Universal Pictures, 🟢 Bazelevs, 🟢 Patrick Aiello Productions",
+      "budget": "10.000.000 $",
+      "revenue": "Нет данных",
+      "tmdbRating": "4.1",
+      "overview": "Скринлайф-экранизация романа «Война миров» Герберта Уэллса. Землю атакуют агрессивные пришельцы, использующие гигантских роботов с щупальцами. Людям предстоит бороться за выживание и попытаться дать отпор захватчикам. Фильм затронет темы слежки и конфиденциальности.",
+      "poster": "https://image.tmdb.org/t/p/w500/12dBX2CibQ0CXAJfIRBqOY6ac3h.jpg",
+      "tagline": "«Ваши данные смертельно опасны»",
+      "backdrop": "https://image.tmdb.org/t/p/original/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "cast": [
+        {
+          "name": "Айс Кьюб",
+          "photo": "https://image.tmdb.org/t/p/w185/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+        },
+        {
+          "name": "Ева Лонгория",
+          "photo": "https://image.tmdb.org/t/p/w185/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+        },
+        {
+          "name": "Кларк Грегг",
+          "photo": "https://image.tmdb.org/t/p/w185/mq686D91XoZpqkzELn0888NOiZW.jpg"
+        },
+        {
+          "name": "Иман Бенсон",
+          "photo": "https://image.tmdb.org/t/p/w185/6s8Cyc4rxDRpX1vYnczU52RM4IM.jpg"
+        }
+      ],
+      "director": {
+        "name": "Рич Ли",
+        "photo": "https://image.tmdb.org/t/p/w185/r7WIjhtHWcnRJO3nlao6jwsrWG6.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=MuvbG9LajZQ",
+      "ageRating": "PG-13",
+      "keywords": "government, attack, privacy, surveillance, found footage",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 44,
+      "dateRequested": "27.07.2026 01:30",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
     }
   ],
   "bazar_gure": [
