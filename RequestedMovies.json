@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "26.07.2026 18:04"
+    "lastUpdated": "26.07.2026 18:05"
   },
   "DworfiQ": [
     {
@@ -56,46 +56,46 @@
       "isAuction": false
     },
     {
-      "title": "Кулак ярости – 1991",
+      "title": "Оскар",
       "year": "1991",
       "type": "Фильм",
-      "runtime": "1 ч 36 мин",
-      "genres": "боевик, комедия",
-      "studios": "🟢 Chun Sing Film Company",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "6.4",
-      "overview": "Какой материковый китаец в 1991 году не мечтал жить в Гонконге? Вот и наш герой пустился мечте навстречу с открытым сердцем и пустыми карманами. Но город мечты встречает парня совсем не так, как тот ожидал — судьба сводит его с карманником. А парень оказывается не так прост, он обладает невероятно сильным ударом справа, поэтому скоро оказывается в школе кунфу, где влюбляется в дочку учителя. Но зависть менее способных и более злобных всегда найдёт виноватого, и вот уже наш герой должен участвовать в турнире по боевым искусствам, чтобы защитить свою честь.",
-      "poster": "https://image.tmdb.org/t/p/w500/dOXchmNwK4Xzqjip94W7dUZGMpl.jpg",
+      "runtime": "1 ч 49 мин",
+      "genres": "комедия",
+      "studios": "🟢 Joseph S. Vecchio Entertainment, 🟢 Touchstone Pictures, 🟢 Silver Screen Partners IV",
+      "budget": "35.000.000 $",
+      "revenue": "23.562.716 $",
+      "tmdbRating": "6.357",
+      "overview": "У постели умирающего отца гангстер обещает прекратить преступную жизнь и стать легальным бизнесменом. Но невыносимая путаница и хаос в его доме приводят к тому, что «завязать» оказывается самой сложной работенкой из всех, что ему удавалось провернуть…",
+      "poster": "https://image.tmdb.org/t/p/w500/5b9jhvY0Bj5gbKO08LqbgQHcmmH.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/tnFbCw7vmfEDUjPYgSUcaOesByW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/6fAIKXVzkIil9NEyYuwvSivWvV9.jpg",
       "cast": [
         {
-          "name": "Стивен Чоу",
-          "photo": "https://image.tmdb.org/t/p/w185/j5DWs54BGZfp92G43c9OyHPvkNG.jpg"
+          "name": "Сильвестр Сталлоне",
+          "photo": "https://image.tmdb.org/t/p/w185/gn3pDWthJqR0VDYGViGD3048og7.jpg"
         },
         {
-          "name": "鍾鎮濤",
-          "photo": "https://image.tmdb.org/t/p/w185/pXfPg5bpaadsKNCBnYKKsXD46KU.jpg"
+          "name": "Мариса Томей",
+          "photo": "https://image.tmdb.org/t/p/w185/1cT8wWwGX5jEeGAgjydjb5EwnZF.jpg"
         },
         {
-          "name": "張敏",
-          "photo": "https://image.tmdb.org/t/p/w185/mHu0edLezIp5gPYzPX7w4d2Iw15.jpg"
+          "name": "Vincent Spano",
+          "photo": "https://image.tmdb.org/t/p/w185/ani7dv9xRTwgvbRUl6llciyh48K.jpg"
         },
         {
-          "name": "Кори Юэнь Гуай",
-          "photo": "https://image.tmdb.org/t/p/w185/d4doL1fc0TCcQqgFvkB8fRRpa1F.jpg"
+          "name": "Орнелла Мути",
+          "photo": "https://image.tmdb.org/t/p/w185/mfqcHHrBH6NdhjiMozCwhaR9oqo.jpg"
         }
       ],
       "director": {
-        "name": "左頌昇",
-        "photo": "https://image.tmdb.org/t/p/w185/6tvypNRr4lC4yYd1FWVLLSAZhMo.jpg"
+        "name": "Джон Лэндис",
+        "photo": "https://image.tmdb.org/t/p/w185/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg"
       },
-      "trailer": "",
-      "ageRating": "Нет данных",
-      "keywords": "martial arts",
+      "trailer": "https://www.youtube.com/watch?v=hG5HKv8VgMs",
+      "ageRating": "PG",
+      "keywords": "businessman, honesty, based on play or musical, mobster, delightful",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bdfab78-2ce3-4c92-886e-7437896bf7c0-profile_image-600x600.png",
-      "collection": "Fist of Fury 1991 Collection",
+      "collection": "",
       "id": 19,
       "dateRequested": "04.05.2026 11:44",
       "status": "Не смотрели",
