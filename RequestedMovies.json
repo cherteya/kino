@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "26.07.2026 14:13"
+    "lastUpdated": "26.07.2026 14:55"
   },
   "cherteya": [
     {
@@ -1743,11 +1743,11 @@
       "collection": "",
       "id": 43,
       "dateRequested": "26.07.2026 13:53",
-      "status": "Смотрели",
-      "ourRating": "1000",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
       "cried": true,
       "isAuction": true,
-      "dateWatched": "26.07.2026 14:13"
+      "dateWatched": ""
     }
   ],
   "DworfiQ": [
