@@ -223,24 +223,47 @@
 
         .movie-info { display: flex; flex-direction: column; gap: 8px; padding-left: 10px; }
         
-        .movie-header { display: block; line-height: 1.4; margin-bottom: 5px; } 
+        /* === ВЫРАВНИВАНИЕ ЗАГОЛОВКА ДЛЯ ФИЛЬМОВ === */
+        .movie-header { 
+            display: flex; 
+            align-items: flex-start; /* Год и кнопка не улетают вниз при переносе названия */
+            justify-content: flex-start; /* Год притягивается к названию */
+            gap: 12px; 
+            width: 100%; 
+            margin-bottom: 5px; 
+        } 
         
         .movie-title { 
             font-size: 24px; font-weight: 700; color: #fff; 
             font-family: var(--font-title); 
             text-shadow: 0 2px 5px rgba(0,0,0,0.6); 
-            display: inline; word-wrap: break-word;
+            flex: 0 1 auto; 
+            min-width: 0; 
+            line-height: 1.2;
         }
 
-        .movie-year { color: var(--mint-light); font-size: 18px; font-weight: 600; opacity: 0.8; margin-left: 10px; display: inline; } 
+        .movie-meta-box {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-shrink: 0; /* Блок с годом и копированием не сплющивается */
+            margin-top: 3px; /* Выравнивание по центру первой строки */
+        }
+
+        .movie-year { 
+            color: var(--mint-light); font-size: 18px; font-weight: 600; opacity: 0.8; 
+            white-space: nowrap; flex-shrink: 0; 
+        } 
         
         .copy-btn {
             background: rgba(92, 242, 138, 0.1); border: 1px solid transparent; color: var(--mint-main); 
             cursor: pointer; padding: 4px; border-radius: 8px;
-            display: inline-flex; align-items: center; justify-content: center; transition: all 0.3s; 
+            display: flex; align-items: center; justify-content: center; transition: all 0.3s; 
             opacity: 0; transform: scale(0.8);
-            position: relative; top: -3px; margin-left: 10px; vertical-align: middle;
+            position: relative; top: 2px; flex-shrink: 0;
         }
+        /* ========================================= */
+
         tr.movie-row:hover .copy-btn { opacity: 1; transform: scale(1); }
         .copy-btn:hover { 
             background: var(--mint-main); color: var(--bg-deep); 
@@ -418,15 +441,15 @@
         .close-btn:hover { color: var(--cute-pink); background: rgba(19, 15, 28, 0.9); transform: rotate(90deg); }
 
         .modal-hero { 
-			width: 100%; 
-			height: 320px; 
-			background-color: rgba(34, 24, 54, 1); 
-			background-size: cover; 
-			background-position: top center; 
-			position: relative; 
-			z-index: 1; 
-			box-shadow: 0 20px 50px 10px rgba(0, 0, 0, 0.7);
-		}
+            width: 100%; 
+            height: 320px; 
+            background-color: rgba(34, 24, 54, 1); 
+            background-size: cover; 
+            background-position: top center; 
+            position: relative; 
+            z-index: 1; 
+            box-shadow: 0 20px 50px 10px rgba(0, 0, 0, 0.7);
+        }
         .modal-hero::after { content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to top, var(--bg-velvet) 0%, transparent 100%); }
 
         .modal-body { padding: 0 40px 40px 40px; position: relative; margin-top: -120px; z-index: 2; display: flex; gap: 35px; }
@@ -876,7 +899,9 @@
             
             const cleanTitle = escapeHTML(movie.title || 'Безымянный');
             const cleanOverview = escapeHTML(movie.overview || '');
-            const safeTitle = (movie.title || '').replace(/'/g, "\'").replace(/"/g, '&quot;');
+            
+            // Исправлено экранирование для JS (чтобы не было ошибки в onclick)
+            const safeTitle = (movie.title || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
 
             let castHtml = '';
             if (Array.isArray(movie.cast) && movie.cast.length > 0) {
@@ -928,10 +953,12 @@
                     <div class="movie-info">
                         <div class="movie-header">
                             <span class="movie-title">${cleanTitle}</span>
-                            <span class="movie-year">${movie.year || '----'}</span>
-                            <button class="copy-btn" onclick="copyMovieNameFromTable(event, '${safeTitle}', '${movie.year || ''}', this)" title="Скопировать">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
-                            </button>
+                            <div class="movie-meta-box">
+                                <span class="movie-year">${movie.year || '----'}</span>
+                                <button class="copy-btn" onclick="copyMovieNameFromTable(event, '${safeTitle}', '${movie.year || ''}', this)" title="Скопировать">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
+                                </button>
+                            </div>
                         </div>
                         <div class="badges-container">
                             ${typeLabel} ${tmdbBadge} ${ageRating} ${idBadge}
@@ -967,6 +994,32 @@
             `;
             tbody.appendChild(tr);
         });
+
+        // НОВЫЙ СКРИПТ: Логика изменения размера и переноса строк (как в играх)
+        setTimeout(() => {
+            document.querySelectorAll('.movie-row .movie-title').forEach(titleEl => {
+                let currentSize = 24;
+                titleEl.style.fontSize = currentSize + "px";
+                
+                titleEl.style.whiteSpace = 'nowrap';
+                titleEl.style.display = 'block';
+
+                while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 18) {
+                    currentSize -= 1;
+                    titleEl.style.fontSize = currentSize + "px";
+                }
+
+                if (titleEl.scrollWidth > titleEl.clientWidth) {
+                    titleEl.style.whiteSpace = 'normal';
+                    titleEl.style.display = '-webkit-box';
+                    titleEl.style.webkitLineClamp = '2';
+                    titleEl.style.webkitBoxOrient = 'vertical';
+                } else {
+                    titleEl.style.whiteSpace = 'nowrap';
+                    titleEl.style.textOverflow = 'ellipsis';
+                }
+            });
+        }, 10);
     }
 
     function openModal(index) {
