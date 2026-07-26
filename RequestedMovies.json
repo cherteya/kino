@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "27.07.2026 01:38"
+    "lastUpdated": "27.07.2026 01:47"
   },
   "MadMan1408": [
     {
@@ -247,6 +247,54 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
+    },
+    {
+      "title": "Апокалипсис",
+      "year": "2006",
+      "type": "Фильм",
+      "runtime": "2 ч 19 мин",
+      "genres": "боевик, драма, история",
+      "studios": "🟢 Icon Entertainment International, 🟢 Icon Productions, 🟢 Touchstone Pictures",
+      "budget": "40.000.000 $",
+      "revenue": "120.654.337 $",
+      "tmdbRating": "7.654",
+      "overview": "1517 год. Полуостров Юкатан. В один день рушится мир индейца по имени Лапа Ягуара. Его деревню захватывает соседнее племя, уничтожая хижины, забирая местных жителей в плен. Его ведут в город, чтобы принести в жертву богам. Перед лицом неминуемой смерти Лапа Ягуара должен побороть свои самые сильные страхи и совершить отчаянный рывок, чтобы спасти то, что ему дорого.",
+      "poster": "https://image.tmdb.org/t/p/w500/k09zMRwIlQCKNsS6aPgDy9AWWqP.jpg",
+      "tagline": "«Империя майя. Участь предрешена»",
+      "backdrop": "https://image.tmdb.org/t/p/original/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
+      "cast": [
+        {
+          "name": "Руди Янгблад",
+          "photo": "https://image.tmdb.org/t/p/w185/64HlxkHjgZ8oBxyosonWnSw2e9k.jpg"
+        },
+        {
+          "name": "Рауль Трухильо",
+          "photo": "https://image.tmdb.org/t/p/w185/dIfHIt1pgnYW9oCksc0DdoY5Mt5.jpg"
+        },
+        {
+          "name": "Херардо Тарасена",
+          "photo": "https://image.tmdb.org/t/p/w185/wvqDQf71ezlA36ZzhWe1D7cKLLS.jpg"
+        },
+        {
+          "name": "Иазуа Лариос",
+          "photo": "https://image.tmdb.org/t/p/w185/7xneMbsqSVqPq2NFMpkpAAZr6SG.jpg"
+        }
+      ],
+      "director": {
+        "name": "Мел Гибсон",
+        "photo": "https://image.tmdb.org/t/p/w185/jnqHMaOslt8cef2atSmOpGRvNla.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "loss of loved one, maya civilization, village, solar eclipse, affectation",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 46,
+      "dateRequested": "27.07.2026 01:47",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": true
     }
   ],
   "bazar_gure": [
