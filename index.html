@@ -871,11 +871,11 @@
             
             let watchedDetails = '';
             if (isWatched && movie.dateWatched) {
-                watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content;">${movie.dateWatched}</div>`;
+                watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content;">${movie.dateWatched.split(' ')[0]}</div>`;
                 if (movie.ourRating && movie.ourRating !== "Без оценки") {
                     const parsedRating = parseFloat(movie.ourRating);
                     if (parsedRating === 1000) {
-                        watchedDetails += `<div class="date-badge legendary-badge" style="margin-top: 0; width: fit-content;">🏆 Оценка: 1000</div>`;
+                        watchedDetails += `<div class="date-badge legendary-badge" style="margin-top: 0; width: fit-content;">🏆 Наша Оценка: 1000</div>`;
                     } else {
                         const rColor = getRatingColor(movie.ourRating);
                         watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; color: ${rColor}; border-color: ${rColor}; box-shadow: 0 0 10px rgba(0,0,0,0.5);">Наша Оценка: ${movie.ourRating}</div>`;
@@ -967,7 +967,7 @@
                             ${avatarMarkup}
                             <span class="req-name">${cleanNick}</span>
                         </div>
-                        ${movie.dateRequested ? `<div class="date-badge">${movie.dateRequested}</div>` : ''}
+                        ${movie.dateRequested ? `<div class="date-badge">${movie.dateRequested.split(' ')[0]}</div>` : ''}
                         ${auctionHTML}
                     </div>
                 </td>
@@ -1015,19 +1015,19 @@
         
         const dateReqEl = document.getElementById('modalDateReq');
         if (movie.dateRequested) {
-             dateReqEl.innerHTML = `<div class="modal-grid-box">${movie.dateRequested}</div>`;
+             dateReqEl.innerHTML = `<div class="modal-grid-box">${movie.dateRequested.split(' ')[0]}</div>`;
         } else {
              dateReqEl.innerHTML = `<div class="grid-value" style="color: var(--text-muted); font-weight: normal;">Нет данных</div>`;
         }
         
         const dateWatchedEl = document.getElementById('modalDateWatched');
         if (movie.status === 'Смотрели' && movie.dateWatched) {
-             let html = `<div class="modal-grid-box" style="margin-top: 0;">${movie.dateWatched}</div>`;
+             let html = `<div class="modal-grid-box" style="margin-top: 0;">${movie.dateWatched.split(' ')[0]}</div>`;
              
              if (movie.ourRating && movie.ourRating !== "Без оценки") {
                  const parsedRating = parseFloat(movie.ourRating);
                  if (parsedRating === 1000) {
-                     html += `<div class="modal-grid-box legendary-badge" style="margin-top: 0;">🏆 Оценка: 1000</div>`;
+                     html += `<div class="modal-grid-box legendary-badge" style="margin-top: 0;">🏆 Наша Оценка: 1000</div>`;
                  } else {
                      const rColor = getRatingColor(movie.ourRating);
                      html += `<div class="modal-grid-box" style="margin-top: 0; color: ${rColor}; border-color: ${rColor};">Наша Оценка: ${movie.ourRating}</div>`;
