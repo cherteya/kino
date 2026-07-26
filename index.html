@@ -184,8 +184,8 @@
         }
         .sort-select { cursor: pointer; appearance: none; padding-right: 30px; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%235cf28a' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 12px center; }
         .sort-select option { background: var(--bg-deep); color: var(--mint-light); }
-		
-		table { width: 100%; border-collapse: separate; border-spacing: 0; text-align: left; table-layout: fixed; }
+        
+        table { width: 100%; border-collapse: separate; border-spacing: 0; text-align: left; table-layout: fixed; }
         
         th { 
             text-align: center; color: var(--mint-main); font-weight: 700; font-size: 13px; 
@@ -461,30 +461,44 @@
             padding: 25px; border-radius: 20px;
             border: 1px solid rgba(92, 242, 138, 0.1);
         }
-        .modal-title-wrapper { display: block; line-height: 1.4; margin-bottom: 12px; }
+
+        /* === ИЗМЕНЕНЫ СТИЛИ ДЛЯ ЗАГОЛОВКА МОДАЛЬНОГО ОКНА === */
+        .modal-title-wrapper { 
+            display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; 
+            max-width: 100%; overflow: hidden;
+        }
         
         .modal-title { 
             font-family: var(--font-title); font-size: 34px; font-weight: 700; margin: 0; 
             color: #ffffff;
             text-shadow: 0 2px 4px rgba(0,0,0,0.5), 0 0 15px rgba(92, 242, 138, 0.3);
-            display: inline; word-wrap: break-word;
+            flex-shrink: 1; min-width: 0; line-height: 1.2;
+        }
+
+        /* Блок для года и кнопки копирования, чтобы они держались вместе */
+        .modal-title-extras {
+            display: flex; align-items: center; gap: 10px; flex-shrink: 0; margin-top: 4px;
         }
         
-        .modal-year { color: var(--mint-light); font-size: 24px; font-weight: 600; opacity: 0.8; margin-left: 10px; display: inline; } 
+        .modal-year { color: var(--mint-light); font-size: 24px; font-weight: 600; opacity: 0.8; } 
 
         .modal-title-wrapper .copy-btn { 
             opacity: 0.8; transform: scale(1); background: rgba(92, 242, 138, 0.15);
             color: var(--mint-main); 
             padding: 6px; display: inline-flex; align-items: center; justify-content: center; 
             transition: all 0.3s; border: none; cursor: pointer; border-radius: 8px;
-            position: relative; top: -4px; margin-left: 10px; margin-right: 10px; vertical-align: middle;
+            position: relative;
         }
         .modal-title-wrapper:hover .copy-btn { opacity: 1; }
         .modal-title-wrapper .copy-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 12px rgba(92, 242, 138, 0.5); }
         
-        #modalBadges { display: inline-flex; gap: 8px; vertical-align: middle; position: relative; top: -4px; }
+        /* === ИЗМЕНЕНЫ СТИЛИ ДЛЯ ВЫРАВНИВАНИЯ ДАТЫ И БЕЙДЖЕЙ === */
+        .modal-meta-wrapper {
+            display: flex; align-items: center; gap: 12px; margin-bottom: 20px; 
+            border-bottom: 1px dashed rgba(92, 242, 138, 0.2); padding-bottom: 15px; flex-wrap: wrap;
+        }
 
-        .modal-meta { color: var(--mint-light); font-size: 16px; font-weight: 600; margin-bottom: 20px; border-bottom: 1px dashed rgba(92, 242, 138, 0.2); padding-bottom: 15px; }
+        .modal-meta { color: var(--mint-light); font-size: 16px; font-weight: 600; }
         
         .modal-overview { color: var(--text-main); font-size: 16px; line-height: 1.7; margin-bottom: 30px; }
 
@@ -653,15 +667,24 @@
                 <div class="modal-body">
                     <div><img id="modalPoster" class="modal-poster" src="" alt="Постер"></div>
                     <div class="modal-info-main">
+                        <!-- ИЗМЕНЕННЫЙ БЛОК НАЗВАНИЯ, ГОДА И КНОПКИ -->
                         <div class="modal-title-wrapper">
                             <h2 class="modal-title" id="modalTitle">Название</h2>
-                            <span class="modal-year" id="modalYear"></span>
-                            <button class="copy-btn" id="modalCopyBtn" onclick="copyMovieNameFromModal()" title="Скопировать имя">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
-                            </button>
-                            <div id="modalBadges"></div>
+                            <div class="modal-title-extras">
+                                <span class="modal-year" id="modalYear"></span>
+                                <button class="copy-btn" id="modalCopyBtn" onclick="copyMovieNameFromModal()" title="Скопировать имя">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
+                                </button>
+                            </div>
                         </div>
-                        <div class="modal-meta" id="modalMeta">2023 ✧ 120 мин</div>
+                        
+                        <!-- БЕЙДЖИ ТЕПЕРЬ РЯДОМ С МЕТА-ДАННЫМИ -->
+                        <div class="modal-meta-wrapper">
+                            <div class="modal-meta" id="modalMeta">2023 ✧ 120 мин</div>
+                            <div id="modalBadges" style="display: flex; gap: 8px;"></div>
+                        </div>
+                        <!-- =================================== -->
+                        
                         <div class="modal-overview" id="modalOverview">Описание фильма...</div>
                         <div class="modal-crew-section" id="modalCrewSection"></div>
 
@@ -900,7 +923,6 @@
             const cleanTitle = escapeHTML(movie.title || 'Безымянный');
             const cleanOverview = escapeHTML(movie.overview || '');
             
-            // Исправлено экранирование для JS (чтобы не было ошибки в onclick)
             const safeTitle = (movie.title || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
 
             let castHtml = '';
@@ -995,7 +1017,6 @@
             tbody.appendChild(tr);
         });
 
-        // НОВЫЙ СКРИПТ: Логика изменения размера и переноса строк (как в играх)
         setTimeout(() => {
             document.querySelectorAll('.movie-row .movie-title').forEach(titleEl => {
                 let currentSize = 24;
@@ -1037,10 +1058,46 @@
         else { heroEl.style.display = 'none'; }
 
         document.getElementById('modalPoster').src = getSafePoster(movie.poster);
-        document.getElementById('modalTitle').textContent = movie.title || 'Безымянный';
+        
+        const titleEl = document.getElementById('modalTitle');
+        titleEl.textContent = movie.title || 'Безымянный';
+        
+        // НОВАЯ ЛОГИКА АВТОМАСШТАБИРОВАНИЯ И ПЕРЕНОСА ДЛЯ МОДАЛЬНОГО ОКНА
+        titleEl.style.fontSize = "34px"; 
+        titleEl.style.whiteSpace = 'nowrap';
+        titleEl.style.display = 'block';
+
+        setTimeout(() => {
+            let currentSize = 34;
+            // Сжимаем до 18 пикселей, если не влезает
+            while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 18) {
+                currentSize -= 1;
+                titleEl.style.fontSize = currentSize + "px";
+            }
+            
+            // Разрешаем перенос текста до 2 строк, если 18px оказалось недостаточно
+            if (titleEl.scrollWidth > titleEl.clientWidth) {
+                titleEl.style.whiteSpace = 'normal';
+                titleEl.style.display = '-webkit-box';
+                titleEl.style.webkitLineClamp = '2';
+                titleEl.style.webkitBoxOrient = 'vertical';
+                titleEl.style.overflow = 'hidden';
+            } else {
+                titleEl.style.whiteSpace = 'nowrap';
+                titleEl.style.textOverflow = 'ellipsis';
+                titleEl.style.overflow = 'hidden';
+            }
+        }, 10);
+
         document.getElementById('modalYear').textContent = movie.year || '----';
         
-        document.getElementById('modalBadges').innerHTML = `${movie.tmdbRating ? `<span class="tmdb-badge">TMDB ${movie.tmdbRating}</span>` : ''} ${movie.ageRating && movie.ageRating !== "Нет данных" ? `<span class="outline-badge">${movie.ageRating}</span>` : ''} <span class="outline-badge">ID №${movie.id || 0}</span>`;
+        // ОБНОВЛЕННАЯ СБОРКА БЕЙДЖЕЙ ДЛЯ НИЖНЕГО РЯДА
+        let badgesHtml = '';
+        if (movie.tmdbRating) badgesHtml += `<span class="tmdb-badge">TMDB ${movie.tmdbRating}</span>`;
+        if (movie.ageRating && movie.ageRating !== "Нет данных") badgesHtml += `<span class="outline-badge">${movie.ageRating}</span>`;
+        badgesHtml += `<span class="outline-badge">ID №${movie.id || 0}</span>`;
+        
+        document.getElementById('modalBadges').innerHTML = badgesHtml;
         
         let metaText = `${escapeHTML(movie.type || 'Свиток')}`;
         if (movie.runtime && movie.runtime !== "Неизвестно" && movie.runtime !== "Нет данных") {
