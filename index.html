@@ -231,23 +231,34 @@
         }
         .poster-wrapper img { width: 100%; height: 100%; object-fit: cover; border-radius: 10px; } 
 
-        .movie-info { display: flex; flex-direction: column; gap: 8px; padding-left: 10px; }
-        .movie-header { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+        .movie-info { display: flex; flex-direction: column; gap: 8px; padding-left: 10px; min-width: 0; }
+        
+        /* 🔥 ОБНОВЛЕННАЯ СТРОКА НАЗВАНИЯ И ГОДА В ТАБЛИЦЕ 🔥 */
+        .movie-header { 
+            display: flex; align-items: baseline; gap: 10px; 
+            flex-wrap: nowrap; 
+            max-width: 100%; overflow: hidden; 
+        }
         
         .movie-title { 
             font-size: 24px; font-weight: 700; color: #fff; 
             font-family: var(--font-title); 
             text-shadow: 0 2px 5px rgba(0,0,0,0.6); 
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+            flex-shrink: 1; min-width: 0; 
         }
 
-        .movie-year { color: var(--mint-light); font-size: 18px; font-weight: 600; opacity: 0.8; } 
+        .movie-year { 
+            color: var(--mint-light); font-size: 18px; font-weight: 600; opacity: 0.8; 
+            white-space: nowrap; flex-shrink: 0; 
+        } 
         
         .copy-btn {
             background: rgba(92, 242, 138, 0.1); border: 1px solid transparent; color: var(--mint-main); 
             cursor: pointer; padding: 4px; border-radius: 8px;
             display: flex; align-items: center; justify-content: center; transition: all 0.3s; 
             opacity: 0; transform: scale(0.8);
-            position: relative; top: 2px;
+            position: relative; top: 2px; flex-shrink: 0; 
         }
         tr.movie-row:hover .copy-btn { opacity: 1; transform: scale(1); }
         .copy-btn:hover { 
@@ -455,21 +466,21 @@
             padding: 25px; border-radius: 20px;
             border: 1px solid rgba(92, 242, 138, 0.1);
         }
-        .modal-title-wrapper { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; }
         
+        /* 🔥 ОБНОВЛЕННАЯ СТРОКА НАЗВАНИЯ В МОДАЛКЕ 🔥 */
+        .modal-title-wrapper { 
+            display: flex; align-items: center; gap: 12px; margin-bottom: 12px; 
+            flex-wrap: nowrap; 
+            max-width: 100%; overflow: hidden; 
+        }
         .modal-title { 
-            font-family: var(--font-title); font-size: 34px; font-weight: 700; margin: 0; 
-            color: #ffffff;
+            font-family: var(--font-title); font-weight: 700; margin: 0; color: #ffffff;
             text-shadow: 0 2px 4px rgba(0,0,0,0.5), 0 0 15px rgba(92, 242, 138, 0.3);
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+            flex-shrink: 1; min-width: 0; 
         }
 
-        .modal-title-wrapper .copy-btn { 
-            opacity: 0.8; transform: scale(1); background: rgba(92, 242, 138, 0.15);
-            color: var(--mint-main); 
-            padding: 6px; display: flex; align-items: center; justify-content: center; 
-            transition: all 0.3s; border: none; cursor: pointer; border-radius: 8px;
-            position: relative; top: 2px; 
-        }
+        .modal-title-wrapper .copy-btn { opacity: 0.8; transform: scale(1); background: rgba(92, 242, 138, 0.15); color: var(--mint-main); padding: 6px; display: flex; align-items: center; justify-content: center; transition: all 0.3s; border: none; cursor: pointer; border-radius: 8px; position: relative; top: 2px; flex-shrink: 0; }
         .modal-title-wrapper:hover .copy-btn { opacity: 1; }
         .modal-title-wrapper .copy-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 12px rgba(92, 242, 138, 0.5); }
 
@@ -985,6 +996,18 @@
             `;
             tbody.appendChild(tr);
         });
+
+        // 🔥 АВТО-ПОДГОНКА ШРИФТОВ В ТАБЛИЦЕ ДЛЯ ДЛИННЫХ НАЗВАНИЙ 🔥
+        setTimeout(() => {
+            document.querySelectorAll('.movie-row .movie-title').forEach(titleEl => {
+                let currentSize = 24;
+                titleEl.style.fontSize = currentSize + "px";
+                while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 12) {
+                    currentSize -= 1;
+                    titleEl.style.fontSize = currentSize + "px";
+                }
+            });
+        }, 10);
     }
 
     function openModal(index) {
@@ -1002,7 +1025,20 @@
         else { heroEl.style.display = 'none'; }
 
         document.getElementById('modalPoster').src = getSafePoster(movie.poster);
-        document.getElementById('modalTitle').textContent = movie.title || 'Безымянный';
+        
+        const titleEl = document.getElementById('modalTitle');
+        titleEl.textContent = movie.title || 'Безымянный';
+        
+        // 🔥 АВТО-ПОДГОНКА ШРИФТОВ В МОДАЛКЕ 🔥
+        titleEl.style.fontSize = "34px"; 
+        setTimeout(() => {
+            let currentSize = 34;
+            while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 14) {
+                currentSize -= 1;
+                titleEl.style.fontSize = currentSize + "px";
+            }
+        }, 10);
+        
         document.getElementById('modalBadges').innerHTML = `${movie.tmdbRating ? `<span class="tmdb-badge">TMDB ${movie.tmdbRating}</span>` : ''} ${movie.ageRating && movie.ageRating !== "Нет данных" ? `<span class="outline-badge">${movie.ageRating}</span>` : ''} <span class="outline-badge">ID №${movie.id || 0}</span>`;
         
         let metaText = `${movie.year || '----'} ✧ ${escapeHTML(movie.type || 'Свиток')}`;
