@@ -221,7 +221,8 @@
         }
         .poster-wrapper img { width: 100%; height: 100%; object-fit: cover; border-radius: 10px; } 
 
-        .movie-info { display: flex; flex-direction: column; gap: 8px; padding-left: 10px; }
+        /* ДОБАВЛЕН OVERFLOW: HIDDEN для правильного сжатия ширины в таблице */
+        .movie-info { display: flex; flex-direction: column; gap: 8px; padding-left: 10px; overflow: hidden; }
         
         /* === ВЫРАВНИВАНИЕ ЗАГОЛОВКА ДЛЯ ФИЛЬМОВ === */
         .movie-header { 
@@ -455,17 +456,20 @@
         .modal-body { padding: 0 40px 40px 40px; position: relative; margin-top: -120px; z-index: 2; display: flex; gap: 35px; }
         .modal-poster { width: 200px; border-radius: 16px; box-shadow: 0 15px 35px rgba(0,0,0,0.6); border: 2px solid var(--mint-main); align-self: flex-start; }
         
+        /* ДОБАВЛЕН OVERFLOW: HIDDEN для правильного сжатия ширины в модальном окне */
         .modal-info-main { 
             flex: 1; 
             background: rgba(34, 24, 54, 0.98);
             padding: 25px; border-radius: 20px;
             border: 1px solid rgba(92, 242, 138, 0.1);
+            overflow: hidden;
         }
 
         /* === ИЗМЕНЕННЫЙ БЛОК ЗАГОЛОВКА ДЛЯ МОДАЛЬНОГО ОКНА === */
+        /* ДОБАВЛЕН OVERFLOW: HIDDEN и FLEX-WRAP: NOWRAP для контейнера */
         .modal-title-wrapper { 
             display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; 
-            flex-wrap: nowrap; max-width: 100%; 
+            flex-wrap: nowrap; max-width: 100%; overflow: hidden;
         }
         
         .modal-title { 
@@ -1014,6 +1018,7 @@
             tbody.appendChild(tr);
         });
 
+        // ТОТ САМЫЙ ИДЕАЛЬНЫЙ СКРИПТ АВТОМАСШТАБИРОВАНИЯ ИЗ ИГР (ДЛЯ ГЛАВНОГО СПИСКА)
         setTimeout(() => {
             document.querySelectorAll('.movie-row .movie-title').forEach(titleEl => {
                 let currentSize = 24;
@@ -1021,7 +1026,6 @@
                 
                 titleEl.style.whiteSpace = 'nowrap';
                 titleEl.style.display = 'block';
-                titleEl.style.overflow = 'visible';
 
                 while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 18) {
                     currentSize -= 1;
@@ -1033,14 +1037,13 @@
                     titleEl.style.display = '-webkit-box';
                     titleEl.style.webkitLineClamp = '2';
                     titleEl.style.webkitBoxOrient = 'vertical';
-                    titleEl.style.overflow = 'hidden';
                 } else {
                     titleEl.style.whiteSpace = 'nowrap';
                     titleEl.style.textOverflow = 'ellipsis';
                     titleEl.style.overflow = 'hidden';
                 }
             });
-        }, 20);
+        }, 10);
     }
 
     function openModal(index) {
@@ -1150,21 +1153,20 @@
         modal.classList.add('active'); 
         document.body.style.overflow = 'hidden'; 
         
-        // НОВАЯ ЛОГИКА АВТОМАСШТАБИРОВАНИЯ (с задержкой, чтобы окно успело отрендериться)
+        // ТОТ САМЫЙ ИДЕАЛЬНЫЙ СКРИПТ АВТОМАСШТАБИРОВАНИЯ ИЗ ИГР (ДЛЯ МОДАЛКИ)
         setTimeout(() => {
             titleEl.style.fontSize = "34px"; 
             titleEl.style.whiteSpace = 'nowrap';
             titleEl.style.display = 'block';
-            titleEl.style.overflow = 'visible';
-            
+
             let currentSize = 34;
-            // Уменьшаем размер до 18px, если текст не влезает
+            // Уменьшаем до 18 пикселей
             while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 18) {
                 currentSize -= 1;
                 titleEl.style.fontSize = currentSize + "px";
             }
             
-            // Если все еще не влезает - переносим на 2 строчку
+            // Если и 18px не помогло, разрешаем перенос на 2 строки
             if (titleEl.scrollWidth > titleEl.clientWidth) {
                 titleEl.style.whiteSpace = 'normal';
                 titleEl.style.display = '-webkit-box';
@@ -1176,7 +1178,7 @@
                 titleEl.style.textOverflow = 'ellipsis';
                 titleEl.style.overflow = 'hidden';
             }
-        }, 50);
+        }, 10);
     }
 
     function closeModal(arg) {
