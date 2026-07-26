@@ -102,57 +102,6 @@
       "dateWatched": "02.06.2026 16:48"
     },
     {
-      "title": "Друзья",
-      "year": "1994",
-      "type": "Сериал",
-      "runtime": "Неизвестно",
-      "genres": "комедия",
-      "studios": "🔴 Warner Bros. Television | 🟢 Bright/Kauffman/Crane Productions",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "8.4",
-      "overview": "Главные герои – шестеро друзей – Рейчел, Моника, Фиби, Джоуи, Чендлер и Росс. Три девушки и три парня, которые дружат, живут по соседству, вместе убивают время и противостоят жестокой реальности, делятся своими секретами и иногда очень сильно влюбляются.",
-      "poster": "https://image.tmdb.org/t/p/w500/zBOs8S3UOHyWLzOl9gF8lknBxlL.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
-      "cast": [
-        {
-          "name": "Дженнифер Энистон",
-          "photo": "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
-        },
-        {
-          "name": "Кортни Кокс",
-          "photo": "https://image.tmdb.org/t/p/w185/qyGgNpvXFGHAxdG4ieFmRL3JiWq.jpg"
-        },
-        {
-          "name": "Лиза Кудроу",
-          "photo": "https://image.tmdb.org/t/p/w185/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
-        },
-        {
-          "name": "Мэтт Леблан",
-          "photo": "https://image.tmdb.org/t/p/w185/a7Fl1sLUq1UDJ4pHsnwpBdEiDEZ.jpg"
-        }
-      ],
-      "director": {
-        "name": "Марта Кауффман",
-        "photo": "https://image.tmdb.org/t/p/w185/AsX4ZOoQP5oQVLiA51zdRiTNKTm.jpg"
-      },
-      "trailer": "",
-      "ageRating": "TV-14",
-      "keywords": "new york city, roommates, friendship, cafe, apartment building",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "seasons": "10",
-      "episodes": "228",
-      "tvStatus": "Ended",
-      "id": 45,
-      "dateRequested": "27.07.2026 01:38",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
-    },
-    {
       "title": "Апокалипсис",
       "year": "2006",
       "type": "Фильм",
