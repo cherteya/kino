@@ -1,57 +1,9 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "26.07.2026 14:59"
+    "lastUpdated": "26.07.2026 16:36"
   },
   "cherteya": [
-    {
-      "title": "Лило и Стич 2: Большая Проблема Стича",
-      "year": "2005",
-      "type": "Мультфильм",
-      "runtime": "1 ч 8 мин",
-      "genres": "мультфильм, семейный, комедия, фантастика",
-      "studios": "🟢 Disney Television Animation, 🟢 DisneyToon Studios",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "6.701",
-      "overview": "Стич помогает Лило пойти по стопам ее матери в подготовке к большому танцевальному конкурсу на острове. Жизнь кажется идеальной, пока Стич не попадает в затруднительное положение, и тогда все идет наперекосяк. И вот пришла пора Лило, Нани, Джамба и их всей большой семье последовать законам «Оханы» и прийти на помощь маленькому веселому другу.",
-      "poster": "https://image.tmdb.org/t/p/w500/iXI3yci0L32ItDicRH3AUyuKsGp.jpg",
-      "tagline": "«Самый опасный инопланетянин в мире вернулся»",
-      "backdrop": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg",
-      "cast": [
-        {
-          "name": "Крис Сандерс",
-          "photo": "https://image.tmdb.org/t/p/w185/8mKI9aPT5btPz0n0O3knHjKMDCe.jpg"
-        },
-        {
-          "name": "Дакота Фэннинг",
-          "photo": "https://image.tmdb.org/t/p/w185/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg"
-        },
-        {
-          "name": "Тиа Каррере",
-          "photo": "https://image.tmdb.org/t/p/w185/keNGO3NAGVhiFzHhGPjGw4TzqJ5.jpg"
-        },
-        {
-          "name": "Дэвид Огден Стайерс",
-          "photo": "https://image.tmdb.org/t/p/w185/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
-        }
-      ],
-      "director": {
-        "name": "Michael LaBash",
-        "photo": "https://via.placeholder.com/185x278?text=No+Photo"
-      },
-      "trailer": "https://www.youtube.com/watch?v=LhUAuMfNXXk",
-      "ageRating": "PG",
-      "keywords": "hawaii, sequel, alien, glitch, native hawaiian",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
-      "collection": "Лило и Стич (Коллекция)",
-      "id": 1,
-      "dateRequested": "26.07.2026 11:20",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
-    },
     {
       "title": "Я Краснею",
       "year": "2022",
@@ -1161,6 +1113,55 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
+    },
+    {
+      "title": "Лило и Стич 2: Большая Проблема Стича",
+      "year": "2005",
+      "type": "Мультфильм",
+      "runtime": "1 ч 8 мин",
+      "genres": "мультфильм, семейный, комедия, фантастика",
+      "studios": "🟢 Disney Television Animation, 🟢 DisneyToon Studios",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "6.701",
+      "overview": "Стич помогает Лило пойти по стопам ее матери в подготовке к большому танцевальному конкурсу на острове. Жизнь кажется идеальной, пока Стич не попадает в затруднительное положение, и тогда все идет наперекосяк. И вот пришла пора Лило, Нани, Джамба и их всей большой семье последовать законам «Оханы» и прийти на помощь маленькому веселому другу.",
+      "poster": "https://image.tmdb.org/t/p/w500/iXI3yci0L32ItDicRH3AUyuKsGp.jpg",
+      "tagline": "«Самый опасный инопланетянин в мире вернулся»",
+      "backdrop": "https://image.tmdb.org/t/p/original/5blbwmFZekM3ffqxDoveupJck5C.jpg",
+      "cast": [
+        {
+          "name": "Крис Сандерс",
+          "photo": "https://image.tmdb.org/t/p/w185/8mKI9aPT5btPz0n0O3knHjKMDCe.jpg"
+        },
+        {
+          "name": "Дакота Фэннинг",
+          "photo": "https://image.tmdb.org/t/p/w185/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg"
+        },
+        {
+          "name": "Тиа Каррере",
+          "photo": "https://image.tmdb.org/t/p/w185/keNGO3NAGVhiFzHhGPjGw4TzqJ5.jpg"
+        },
+        {
+          "name": "Дэвид Огден Стайерс",
+          "photo": "https://image.tmdb.org/t/p/w185/cgCTQt3RZVkhkusG77l4HwHEH6A.jpg"
+        }
+      ],
+      "director": {
+        "name": "Michael LaBash",
+        "photo": "https://via.placeholder.com/185x278?text=No+Photo"
+      },
+      "trailer": "https://www.youtube.com/watch?v=LhUAuMfNXXk",
+      "ageRating": "PG",
+      "keywords": "hawaii, sequel, alien, glitch, native hawaiian",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
+      "collection": "Лило и Стич (Коллекция)",
+      "id": 1,
+      "dateRequested": "26.07.2026 11:20",
+      "status": "Смотрели",
+      "ourRating": "Без оценки",
+      "cried": true,
+      "isAuction": false,
+      "dateWatched": "26.07.2026 16:36"
     }
   ],
   "tiltnessa": [
