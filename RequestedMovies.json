@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "27.07.2026 01:32"
+    "lastUpdated": "27.07.2026 01:36"
   },
   "MadMan1408": [
     {
@@ -151,43 +151,43 @@
     },
     {
       "title": "Война миров",
-      "year": "2025",
+      "year": "2005",
       "type": "Фильм",
-      "runtime": "1 ч 31 мин",
-      "genres": "фантастика, триллер",
-      "studios": "🟢 Universal Pictures, 🟢 Bazelevs, 🟢 Patrick Aiello Productions",
-      "budget": "10.000.000 $",
-      "revenue": "Нет данных",
-      "tmdbRating": "4.1",
-      "overview": "Скринлайф-экранизация романа «Война миров» Герберта Уэллса. Землю атакуют агрессивные пришельцы, использующие гигантских роботов с щупальцами. Людям предстоит бороться за выживание и попытаться дать отпор захватчикам. Фильм затронет темы слежки и конфиденциальности.",
-      "poster": "https://image.tmdb.org/t/p/w500/12dBX2CibQ0CXAJfIRBqOY6ac3h.jpg",
-      "tagline": "«Ваши данные смертельно опасны»",
-      "backdrop": "https://image.tmdb.org/t/p/original/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "runtime": "1 ч 56 мин",
+      "genres": "приключения, триллер, фантастика",
+      "studios": "🟢 Paramount Pictures, 🟢 DreamWorks Pictures, 🟢 Amblin Entertainment, 🟢 Cruise/Wagner Productions",
+      "budget": "132.000.000 $",
+      "revenue": "603.873.119 $",
+      "tmdbRating": "6.557",
+      "overview": "На Землю нападают высокоразвитые пришельцы. Пока армия ведёт ожесточённые бои с захватчиками, обычный семьянин Рэй стремится выжить, чтобы любой ценой спасти своих детей.",
+      "poster": "https://image.tmdb.org/t/p/w500/v17DjtODShB6hQPBzG70i97Pdz6.jpg",
+      "tagline": "«Они уже здесь»",
+      "backdrop": "https://image.tmdb.org/t/p/original/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
       "cast": [
         {
-          "name": "Айс Кьюб",
-          "photo": "https://image.tmdb.org/t/p/w185/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+          "name": "Том Круз",
+          "photo": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
         },
         {
-          "name": "Ева Лонгория",
-          "photo": "https://image.tmdb.org/t/p/w185/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+          "name": "Дакота Фэннинг",
+          "photo": "https://image.tmdb.org/t/p/w185/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg"
         },
         {
-          "name": "Кларк Грегг",
-          "photo": "https://image.tmdb.org/t/p/w185/mq686D91XoZpqkzELn0888NOiZW.jpg"
+          "name": "Миранда Отто",
+          "photo": "https://image.tmdb.org/t/p/w185/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
         },
         {
-          "name": "Иман Бенсон",
-          "photo": "https://image.tmdb.org/t/p/w185/6s8Cyc4rxDRpX1vYnczU52RM4IM.jpg"
+          "name": "Джастин Чэтвин",
+          "photo": "https://image.tmdb.org/t/p/w185/nEHYlooGSwRzkhze1rQ7DOpJXLD.jpg"
         }
       ],
       "director": {
-        "name": "Рич Ли",
-        "photo": "https://image.tmdb.org/t/p/w185/r7WIjhtHWcnRJO3nlao6jwsrWG6.jpg"
+        "name": "Стивен Спилберг",
+        "photo": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
       },
-      "trailer": "https://www.youtube.com/watch?v=MuvbG9LajZQ",
-      "ageRating": "PG-13",
-      "keywords": "government, attack, privacy, surveillance, found footage",
+      "trailer": "https://www.youtube.com/watch?v=nJQMkY2v-QA",
+      "ageRating": "16+",
+      "keywords": "daughter, new jersey, post-traumatic stress disorder (ptsd), airplane, based on novel or book",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
       "collection": "",
       "id": 44,
