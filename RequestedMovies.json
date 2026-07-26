@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "26.07.2026 19:01"
+    "lastUpdated": "26.07.2026 19:18"
   },
   "MadMan1408": [
     {
@@ -100,54 +100,6 @@
       "cried": true,
       "isAuction": false,
       "dateWatched": "02.06.2026 16:48"
-    },
-    {
-      "title": "Мимино",
-      "year": "1977",
-      "type": "Фильм",
-      "runtime": "1 ч 32 мин",
-      "genres": "комедия, драма",
-      "studios": "🟢 Mosfilm",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "7.588",
-      "overview": "Провинциальный пилот Валико Мизандари по прозвищу Мимино, что значит «сокол», занимается вертолётными перевозками почты, фруктов, кур, баранов и даже коров в горных районах Грузинской ССР. Однажды встретив в Тбилисском аэропорту приятеля по лётному училищу и увидев, на каком великолепном сверхзвуковом самолёте тот летает и в компании каких красавиц-стюардесс работает, Мимино решает изменить свою жизнь и отправляется в Москву подавать документы на переобучение. В гостинице он оказывается в одном номере с армянским водителем Рубеном Хачикяном, которого ошибочно приняли за профессора-эндокринолога.",
-      "poster": "https://image.tmdb.org/t/p/w500/61reasUU2uxRFQhxfKdvVHHMOsl.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/sk2vIjjqxr8aBeCGx1zSxpscvzF.jpg",
-      "cast": [
-        {
-          "name": "Вахтанг Кикабидзе",
-          "photo": "https://image.tmdb.org/t/p/w185/k1xoO9vAzu2kyonAPFnqi6FRZ6L.jpg"
-        },
-        {
-          "name": "Фрунзик Мкртчян",
-          "photo": "https://image.tmdb.org/t/p/w185/geafQ8oQN1coM6bewOR3hrbvIRt.jpg"
-        },
-        {
-          "name": "Евгений Леонов",
-          "photo": "https://image.tmdb.org/t/p/w185/uJiqS63TeqkA1fZ1znoxuLLPhyc.jpg"
-        },
-        {
-          "name": "Елена Проклова",
-          "photo": "https://image.tmdb.org/t/p/w185/omepFiIeAd7j4KOydpYFYVhcJDy.jpg"
-        }
-      ],
-      "director": {
-        "name": "Георгий Данелия",
-        "photo": "https://image.tmdb.org/t/p/w185/xw1nTEaWzd0QEQGRFGAU0s9xwd9.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=_cSVD_oZF6U",
-      "ageRating": "Нет данных",
-      "keywords": "pilot, helicopter pilot, misadventure, moscow, russia",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 43,
-      "dateRequested": "26.07.2026 18:08",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
     }
   ],
   "bazar_gure": [
