@@ -102,54 +102,6 @@
       "dateWatched": "02.06.2026 16:48"
     },
     {
-      "title": "Война миров",
-      "year": "2005",
-      "type": "Фильм",
-      "runtime": "1 ч 56 мин",
-      "genres": "приключения, триллер, фантастика",
-      "studios": "🟢 Paramount Pictures, 🟢 DreamWorks Pictures, 🟢 Amblin Entertainment, 🟢 Cruise/Wagner Productions",
-      "budget": "132.000.000 $",
-      "revenue": "603.873.119 $",
-      "tmdbRating": "6.557",
-      "overview": "На Землю нападают высокоразвитые пришельцы. Пока армия ведёт ожесточённые бои с захватчиками, обычный семьянин Рэй стремится выжить, чтобы любой ценой спасти своих детей.",
-      "poster": "https://image.tmdb.org/t/p/w500/v17DjtODShB6hQPBzG70i97Pdz6.jpg",
-      "tagline": "«Они уже здесь»",
-      "backdrop": "https://image.tmdb.org/t/p/original/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
-      "cast": [
-        {
-          "name": "Том Круз",
-          "photo": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
-        },
-        {
-          "name": "Дакота Фэннинг",
-          "photo": "https://image.tmdb.org/t/p/w185/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg"
-        },
-        {
-          "name": "Миранда Отто",
-          "photo": "https://image.tmdb.org/t/p/w185/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
-        },
-        {
-          "name": "Джастин Чэтвин",
-          "photo": "https://image.tmdb.org/t/p/w185/nEHYlooGSwRzkhze1rQ7DOpJXLD.jpg"
-        }
-      ],
-      "director": {
-        "name": "Стивен Спилберг",
-        "photo": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=nJQMkY2v-QA",
-      "ageRating": "16+",
-      "keywords": "daughter, new jersey, post-traumatic stress disorder (ptsd), airplane, based on novel or book",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 44,
-      "dateRequested": "27.07.2026 01:30",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
-    },
-    {
       "title": "Друзья",
       "year": "1994",
       "type": "Сериал",
