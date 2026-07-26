@@ -4,24 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Кинотеатр</title>
-    <!-- Подключаем новые сказочные и милые шрифты -->
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Nunito:ital,wght@0,400;0,600;0,700;0,900;1,400&display=swap" rel="stylesheet">
     <style>
-        /* --- ВОЛШЕБНАЯ СКАЗОЧНАЯ ПАЛИТРА --- */
         :root {
-            --bg-deep: #130f1c;         /* Глубокий ночной цвет */
-            --bg-sunset: #38255c;       /* Магический фиолетовый */
-            --bg-velvet: #221836;       /* Мягкий фон панелей */
+            --bg-deep: #130f1c;
+            --bg-sunset: #38255c;
+            --bg-velvet: #221836;
             
-            --mint-light: #d1fce0;      /* Светло-мятный */
-            --mint-main: #5cf28a;       /* Основной цвет рожек и глаз */
-            --mint-dark: #278c47;       /* Темно-зеленый для теней */
+            --mint-light: #d1fce0;
+            --mint-main: #5cf28a;
+            --mint-dark: #278c47;
             
-            --warm-star: #fce8a1;       /* Теплый свет (как от гирлянды или лампы) */
-            --cute-pink: #ff8fa3;       /* Нежный акцент */
+            --warm-star: #fce8a1;
+            --cute-pink: #ff8fa3;
             
-            --text-main: #f0edf5;       /* Основной текст */
-            --text-muted: #b5adc4;      /* Приглушенный текст */
+            --text-main: #f0edf5;
+            --text-muted: #b5adc4;
             
             --font-title: 'Comfortaa', cursive;
             --font-text: 'Nunito', sans-serif;
@@ -39,7 +37,6 @@
             overflow-x: hidden; 
         }
 
-        /* ИДЕАЛЬНАЯ ПРИВЯЗКА ДЕВУШЕК К КОНТЕЙНЕРУ */
         .main-wrapper {
             display: flex;
             justify-content: center;
@@ -76,7 +73,6 @@
             .girl-col { display: none; }
         }
 
-        /* --- ГЛАВНЫЙ КОНТЕЙНЕР --- */
         .container {
             width: 100%;
             max-width: 1150px;
@@ -98,7 +94,6 @@
             pointer-events: none; z-index: 10;
         }
 
-        /* Скрываем старые угловые орнаменты, они не подходят к округлому милому стилю */
         .corner-ornament { display: none; }
 
         .content-wrapper { 
@@ -109,7 +104,6 @@
             border-radius: 18px;
         }
 
-        /* --- ШАПКА --- */
         .header {
             padding: 35px 30px 25px;
             text-align: center;
@@ -147,7 +141,6 @@
             filter: drop-shadow(0 0 8px rgba(92, 242, 138, 0.6)); 
         }
 
-        /* Плашка Владельца */
         .creator-badge {
             position: absolute; top: 20px; left: 30px;
             display: flex; align-items: center; gap: 10px;
@@ -173,7 +166,6 @@
         .creator-name { font-size: 16px; font-weight: 700; color: #fff; font-family: var(--font-text); transition: text-shadow 0.3s ease;}
         .creator-badge:hover .creator-name { text-shadow: 0 0 8px rgba(92, 242, 138, 0.8); color: var(--mint-light); }
 
-        /* --- ПАНЕЛЬ УПРАВЛЕНИЯ --- */
         .controls-panel { display: flex; gap: 20px; flex-wrap: wrap; align-items: center; justify-content: center; margin-top: 5px; }
         
         .search-box, .sort-select {
@@ -193,7 +185,6 @@
         .sort-select { cursor: pointer; appearance: none; padding-right: 30px; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%235cf28a' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 12px center; }
         .sort-select option { background: var(--bg-deep); color: var(--mint-light); }
 
-        /* --- ТАБЛИЦА СВИТКОВ --- */
         table { width: 100%; border-collapse: separate; border-spacing: 0; text-align: left; table-layout: auto; }
         
         th { 
@@ -219,7 +210,6 @@
         }
         tr.movie-row:hover td:nth-child(2)::before { opacity: 1; }
 
-        /* Постеры */
         .poster-wrapper { 
             width: 140px; 
             height: 210px; 
@@ -232,22 +222,24 @@
         .poster-wrapper img { width: 100%; height: 100%; object-fit: cover; border-radius: 10px; } 
 
         .movie-info { display: flex; flex-direction: column; gap: 8px; padding-left: 10px; }
-        .movie-header { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+        
+        .movie-header { display: block; line-height: 1.4; margin-bottom: 5px; } 
         
         .movie-title { 
             font-size: 24px; font-weight: 700; color: #fff; 
             font-family: var(--font-title); 
             text-shadow: 0 2px 5px rgba(0,0,0,0.6); 
+            display: inline; word-wrap: break-word;
         }
 
-        .movie-year { color: var(--mint-light); font-size: 18px; font-weight: 600; opacity: 0.8; } 
+        .movie-year { color: var(--mint-light); font-size: 18px; font-weight: 600; opacity: 0.8; margin-left: 10px; display: inline; } 
         
         .copy-btn {
             background: rgba(92, 242, 138, 0.1); border: 1px solid transparent; color: var(--mint-main); 
             cursor: pointer; padding: 4px; border-radius: 8px;
-            display: flex; align-items: center; justify-content: center; transition: all 0.3s; 
+            display: inline-flex; align-items: center; justify-content: center; transition: all 0.3s; 
             opacity: 0; transform: scale(0.8);
-            position: relative; top: 2px;
+            position: relative; top: -3px; margin-left: 10px; vertical-align: middle;
         }
         tr.movie-row:hover .copy-btn { opacity: 1; transform: scale(1); }
         .copy-btn:hover { 
@@ -293,7 +285,6 @@
             overflow: hidden;
         }
 
-        /* Кто заказал */
         .requester-badge {
             display: flex; flex-direction: column; align-items: center; gap: 8px;
             cursor: pointer; transition: transform 0.3s; margin: 0 auto;
@@ -342,7 +333,6 @@
             min-width: 85px; 
         }
 
-        /* НОВЫЙ КЛАСС ДЛЯ ОЦЕНКИ */
         .rating-badge {
             font-size: 14px; 
             font-weight: 800; 
@@ -354,7 +344,6 @@
             font-family: var(--font-text);
         }
 
-        /* АВАТАРКИ */
         .crew-section { display: flex; align-items: center; margin-top: 15px; gap: 12px; }
         .avatar-container { position: relative; z-index: 1; transition: transform 0.3s ease; } 
         .avatar { 
@@ -379,7 +368,6 @@
         tr.movie-row:hover .avatar { box-shadow: 0 6px 15px rgba(92, 242, 138, 0.3); z-index: 10; border-color: var(--mint-main); }
         tr.movie-row:hover .director-avatar { border-color: #ffb3c1; box-shadow: 0 6px 15px rgba(255, 143, 163, 0.3); }
 
-        /* --- МОДАЛЬНОЕ ОКНО --- */
         .modal-overlay {
             display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
             background: radial-gradient(circle at center, rgba(34, 24, 54, 0.9) 0%, rgba(19, 15, 28, 0.95) 100%);
@@ -388,7 +376,6 @@
         }
         .modal-overlay.active { display: flex; opacity: 1; }
 
-        /* ДЕВУШКИ В МОДАЛЬНОМ ОКНЕ */
         .modal-girl-col {
             width: 0; 
             position: relative;
@@ -409,7 +396,6 @@
             .modal-girl-col { display: none; }
         }
 
-        /* ШИРИНА МОДАЛЬНОГО ОКНА */
         .modal-content {
             background: var(--bg-deep); width: 90%; max-width: 1000px; 
             max-height: 85vh; 
@@ -422,7 +408,7 @@
         }
         .modal-overlay.active .modal-content { transform: scale(1) translateY(0); }
         
-        .modal-inner { /*background: var(--bg-velvet);*/  background: url('background1.png');  border-radius: 18px; min-height: 100%; overflow: hidden; }
+        .modal-inner { background: url('background1.png'); border-radius: 18px; min-height: 100%; overflow: hidden; }
 
         .close-btn {
             position: absolute; top: 15px; right: 20px; color: var(--text-main); cursor: pointer;
@@ -434,10 +420,7 @@
         .modal-hero { 
 			width: 100%; 
 			height: 320px; 
-    
-			/* Добавляем цвет фона, как у блока с названием */
 			background-color: rgba(34, 24, 54, 1); 
-    
 			background-size: cover; 
 			background-position: top center; 
 			position: relative; 
@@ -455,23 +438,28 @@
             padding: 25px; border-radius: 20px;
             border: 1px solid rgba(92, 242, 138, 0.1);
         }
-        .modal-title-wrapper { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; }
+        .modal-title-wrapper { display: block; line-height: 1.4; margin-bottom: 12px; }
         
         .modal-title { 
             font-family: var(--font-title); font-size: 34px; font-weight: 700; margin: 0; 
             color: #ffffff;
             text-shadow: 0 2px 4px rgba(0,0,0,0.5), 0 0 15px rgba(92, 242, 138, 0.3);
+            display: inline; word-wrap: break-word;
         }
+        
+        .modal-year { color: var(--mint-light); font-size: 24px; font-weight: 600; opacity: 0.8; margin-left: 10px; display: inline; } 
 
         .modal-title-wrapper .copy-btn { 
             opacity: 0.8; transform: scale(1); background: rgba(92, 242, 138, 0.15);
             color: var(--mint-main); 
-            padding: 6px; display: flex; align-items: center; justify-content: center; 
+            padding: 6px; display: inline-flex; align-items: center; justify-content: center; 
             transition: all 0.3s; border: none; cursor: pointer; border-radius: 8px;
-            position: relative; top: 2px; 
+            position: relative; top: -4px; margin-left: 10px; margin-right: 10px; vertical-align: middle;
         }
         .modal-title-wrapper:hover .copy-btn { opacity: 1; }
         .modal-title-wrapper .copy-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 12px rgba(92, 242, 138, 0.5); }
+        
+        #modalBadges { display: inline-flex; gap: 8px; vertical-align: middle; position: relative; top: -4px; }
 
         .modal-meta { color: var(--mint-light); font-size: 16px; font-weight: 600; margin-bottom: 20px; border-bottom: 1px dashed rgba(92, 242, 138, 0.2); padding-bottom: 15px; }
         
@@ -516,7 +504,6 @@
         .trailer-container { width: 100%; aspect-ratio: 16/9; border: 2px solid var(--mint-main); border-radius: 12px; margin-top: 25px; box-shadow: 0 8px 25px rgba(0,0,0,0.5); overflow: hidden; position: relative;}
         .trailer-container iframe { width: 100%; height: 100%; border: none; }
 
-        /* СТИЛЬ ДЛЯ НИЖНЕГО БЕЙДЖА CREATED BY */
         .footer-badge {
             display: flex; align-items: center; gap: 10px;
             justify-content: center; margin-top: 30px; padding-bottom: 20px;
@@ -558,7 +545,6 @@
 <body>
 
 <div class="main-wrapper">
-    <!-- Левая девушка -->
     <div class="girl-col">
         <div class="sticky-box">
             <img src="girl-left.png" class="girl-img left-img" alt="">
@@ -568,7 +554,6 @@
     <div class="container">
         <div class="content-wrapper">
             <div class="header">
-                <!-- БЕЙДЖ ВЕРХНИЙ (cherteya) -->
                 <div class="creator-badge" onclick="window.open('https://twitch.tv/cherteya', '_blank')">
                     <img src="https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-70x70.png" id="cherteyaAvatar" alt="cherteya">
                     <div class="creator-info">
@@ -612,7 +597,6 @@
                 </tbody>
             </table>
 
-            <!-- НИЖНИЙ БЕЙДЖ (MadMan1408) -->
             <div class="footer-badge" onclick="window.open('https://twitch.tv/MadMan1408', '_blank')">
                 <img src="https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-70x70.png" id="madmanAvatar" alt="MadMan1408">
                 <div class="creator-info">
@@ -623,7 +607,6 @@
         </div>
     </div>
 
-    <!-- Правая девушка -->
     <div class="girl-col">
         <div class="sticky-box">
             <img src="girl-right.png" class="girl-img right-img" alt="">
@@ -649,10 +632,11 @@
                     <div class="modal-info-main">
                         <div class="modal-title-wrapper">
                             <h2 class="modal-title" id="modalTitle">Название</h2>
+                            <span class="modal-year" id="modalYear"></span>
                             <button class="copy-btn" id="modalCopyBtn" onclick="copyMovieNameFromModal()" title="Скопировать имя">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
                             </button>
-                            <div id="modalBadges" style="display: flex; gap: 8px; margin-left: 10px;"></div>
+                            <div id="modalBadges"></div>
                         </div>
                         <div class="modal-meta" id="modalMeta">2023 ✧ 120 мин</div>
                         <div class="modal-overview" id="modalOverview">Описание фильма...</div>
@@ -761,13 +745,12 @@
         return `hsl(${h}, ${s}%, ${l}%)`;
     }
     
-    // 🔥 ФУНКЦИЯ ДЛЯ ЦВЕТА ОЦЕНКИ 🔥
     function getRatingColor(rating) {
         if (!rating) return 'var(--mint-main)';
         const r = parseFloat(rating);
         if (isNaN(r)) return 'var(--mint-main)';
         
-        let hue = ((r - 1) / 9) * 140; // Немного смещаем в зеленый для стиля
+        let hue = ((r - 1) / 9) * 140; 
         if (hue < 0) hue = 0;
         if (hue > 140) hue = 140;
         
@@ -833,11 +816,10 @@
         else if (sortMode === 'newest') { filtered.sort((a, b) => b.parsedDate - a.parsedDate); }
         else if (sortMode === 'date_asc') { filtered.sort((a, b) => a.parsedDate - b.parsedDate); }
         else { 
-            // sortMode === 'order'
             filtered.sort((a, b) => {
                 const getPriority = (status) => {
                     if (status === 'Не смотрели') return 1;
-                    return 2; // Смотрели и т.д.
+                    return 2; 
                 };
                 const priorityA = getPriority(a.status);
                 const priorityB = getPriority(b.status);
@@ -1003,9 +985,11 @@
 
         document.getElementById('modalPoster').src = getSafePoster(movie.poster);
         document.getElementById('modalTitle').textContent = movie.title || 'Безымянный';
+        document.getElementById('modalYear').textContent = movie.year || '----';
+        
         document.getElementById('modalBadges').innerHTML = `${movie.tmdbRating ? `<span class="tmdb-badge">TMDB ${movie.tmdbRating}</span>` : ''} ${movie.ageRating && movie.ageRating !== "Нет данных" ? `<span class="outline-badge">${movie.ageRating}</span>` : ''} <span class="outline-badge">ID №${movie.id || 0}</span>`;
         
-        let metaText = `${movie.year || '----'} ✧ ${escapeHTML(movie.type || 'Свиток')}`;
+        let metaText = `${escapeHTML(movie.type || 'Свиток')}`;
         if (movie.runtime && movie.runtime !== "Неизвестно" && movie.runtime !== "Нет данных") {
             metaText += ` ✧ ${movie.runtime}`;
         }
