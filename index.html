@@ -223,11 +223,10 @@
 
         .movie-info { display: flex; flex-direction: column; gap: 8px; padding-left: 10px; }
         
-        /* === ВЫРАВНИВАНИЕ ЗАГОЛОВКА ДЛЯ ФИЛЬМОВ === */
         .movie-header { 
             display: flex; 
-            align-items: flex-start; /* Год и кнопка не улетают вниз при переносе названия */
-            justify-content: flex-start; /* Год притягивается к названию */
+            align-items: flex-start; 
+            justify-content: flex-start; 
             gap: 12px; 
             width: 100%; 
             margin-bottom: 5px; 
@@ -262,7 +261,6 @@
             opacity: 0; transform: scale(0.8);
             position: relative; top: 2px; flex-shrink: 0;
         }
-        /* ========================================= */
 
         tr.movie-row:hover .copy-btn { opacity: 1; transform: scale(1); }
         .copy-btn:hover { 
@@ -462,10 +460,10 @@
             border: 1px solid rgba(92, 242, 138, 0.1);
         }
 
-        /* === ИЗМЕНЕНЫ СТИЛИ ДЛЯ ЗАГОЛОВКА МОДАЛЬНОГО ОКНА === */
+        /* === ИСПРАВЛЕННЫЙ БЛОК ДЛЯ ЗАГОЛОВКА МОДАЛЬНОГО ОКНА === */
         .modal-title-wrapper { 
             display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; 
-            max-width: 100%; overflow: hidden;
+            max-width: 100%; /* УБРАН overflow: hidden, чтобы текст не срезался */
         }
         
         .modal-title { 
@@ -473,9 +471,13 @@
             color: #ffffff;
             text-shadow: 0 2px 4px rgba(0,0,0,0.5), 0 0 15px rgba(92, 242, 138, 0.3);
             flex-shrink: 1; min-width: 0; line-height: 1.2;
+            
+            /* Стили по умолчанию до загрузки скрипта, чтобы выглядело опрятно */
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
-        /* Блок для года и кнопки копирования, чтобы они держались вместе */
         .modal-title-extras {
             display: flex; align-items: center; gap: 10px; flex-shrink: 0; margin-top: 4px;
         }
@@ -492,7 +494,6 @@
         .modal-title-wrapper:hover .copy-btn { opacity: 1; }
         .modal-title-wrapper .copy-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 12px rgba(92, 242, 138, 0.5); }
         
-        /* === ИЗМЕНЕНЫ СТИЛИ ДЛЯ ВЫРАВНИВАНИЯ ДАТЫ И БЕЙДЖЕЙ === */
         .modal-meta-wrapper {
             display: flex; align-items: center; gap: 12px; margin-bottom: 20px; 
             border-bottom: 1px dashed rgba(92, 242, 138, 0.2); padding-bottom: 15px; flex-wrap: wrap;
@@ -667,7 +668,6 @@
                 <div class="modal-body">
                     <div><img id="modalPoster" class="modal-poster" src="" alt="Постер"></div>
                     <div class="modal-info-main">
-                        <!-- ИЗМЕНЕННЫЙ БЛОК НАЗВАНИЯ, ГОДА И КНОПКИ -->
                         <div class="modal-title-wrapper">
                             <h2 class="modal-title" id="modalTitle">Название</h2>
                             <div class="modal-title-extras">
@@ -678,12 +678,10 @@
                             </div>
                         </div>
                         
-                        <!-- БЕЙДЖИ ТЕПЕРЬ РЯДОМ С МЕТА-ДАННЫМИ -->
                         <div class="modal-meta-wrapper">
                             <div class="modal-meta" id="modalMeta">2023 ✧ 120 мин</div>
                             <div id="modalBadges" style="display: flex; gap: 8px;"></div>
                         </div>
-                        <!-- =================================== -->
                         
                         <div class="modal-overview" id="modalOverview">Описание фильма...</div>
                         <div class="modal-crew-section" id="modalCrewSection"></div>
@@ -1017,13 +1015,14 @@
             tbody.appendChild(tr);
         });
 
+        // НЕМНОГО УЛУЧШИЛ РАСЧЕТ ДЛЯ ГЛАВНОГО СПИСКА
         setTimeout(() => {
             document.querySelectorAll('.movie-row .movie-title').forEach(titleEl => {
                 let currentSize = 24;
                 titleEl.style.fontSize = currentSize + "px";
-                
                 titleEl.style.whiteSpace = 'nowrap';
                 titleEl.style.display = 'block';
+                titleEl.style.overflow = 'visible'; // Позволяем тексту "вытекать" для точного замера
 
                 while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 18) {
                     currentSize -= 1;
@@ -1035,12 +1034,14 @@
                     titleEl.style.display = '-webkit-box';
                     titleEl.style.webkitLineClamp = '2';
                     titleEl.style.webkitBoxOrient = 'vertical';
+                    titleEl.style.overflow = 'hidden';
                 } else {
                     titleEl.style.whiteSpace = 'nowrap';
                     titleEl.style.textOverflow = 'ellipsis';
+                    titleEl.style.overflow = 'hidden';
                 }
             });
-        }, 10);
+        }, 20);
     }
 
     function openModal(index) {
@@ -1061,37 +1062,10 @@
         
         const titleEl = document.getElementById('modalTitle');
         titleEl.textContent = movie.title || 'Безымянный';
-        
-        // НОВАЯ ЛОГИКА АВТОМАСШТАБИРОВАНИЯ И ПЕРЕНОСА ДЛЯ МОДАЛЬНОГО ОКНА
-        titleEl.style.fontSize = "34px"; 
-        titleEl.style.whiteSpace = 'nowrap';
-        titleEl.style.display = 'block';
-
-        setTimeout(() => {
-            let currentSize = 34;
-            // Сжимаем до 18 пикселей, если не влезает
-            while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 18) {
-                currentSize -= 1;
-                titleEl.style.fontSize = currentSize + "px";
-            }
-            
-            // Разрешаем перенос текста до 2 строк, если 18px оказалось недостаточно
-            if (titleEl.scrollWidth > titleEl.clientWidth) {
-                titleEl.style.whiteSpace = 'normal';
-                titleEl.style.display = '-webkit-box';
-                titleEl.style.webkitLineClamp = '2';
-                titleEl.style.webkitBoxOrient = 'vertical';
-                titleEl.style.overflow = 'hidden';
-            } else {
-                titleEl.style.whiteSpace = 'nowrap';
-                titleEl.style.textOverflow = 'ellipsis';
-                titleEl.style.overflow = 'hidden';
-            }
-        }, 10);
+        // Убрали блок скрипта для текста отсюда...
 
         document.getElementById('modalYear').textContent = movie.year || '----';
         
-        // ОБНОВЛЕННАЯ СБОРКА БЕЙДЖЕЙ ДЛЯ НИЖНЕГО РЯДА
         let badgesHtml = '';
         if (movie.tmdbRating) badgesHtml += `<span class="tmdb-badge">TMDB ${movie.tmdbRating}</span>`;
         if (movie.ageRating && movie.ageRating !== "Нет данных") badgesHtml += `<span class="outline-badge">${movie.ageRating}</span>`;
@@ -1175,7 +1149,35 @@
             trailerIframe.src = `https://www.youtube.com/embed/${movie.trailer.split('v=')[1].split('&')[0]}?color=white`; trailerWrapper.style.display = 'block';
         } else { trailerIframe.src = ""; trailerWrapper.style.display = 'none'; }
 
-        modal.classList.add('active'); document.body.style.overflow = 'hidden'; 
+        // СНАЧАЛА открываем модальное окно (чтобы оно получило размеры)
+        modal.classList.add('active'); 
+        document.body.style.overflow = 'hidden'; 
+        
+        // ... и ТОЛЬКО ПОТОМ запускаем замер и пересчет текста с нормальной задержкой!
+        setTimeout(() => {
+            titleEl.style.display = 'block';
+            titleEl.style.fontSize = "34px"; 
+            titleEl.style.whiteSpace = 'nowrap';
+            titleEl.style.overflow = 'visible'; // Позволяем тексту выйти за края для точного замера
+            
+            let currentSize = 34;
+            while (titleEl.scrollWidth > titleEl.clientWidth && currentSize > 18) {
+                currentSize -= 1;
+                titleEl.style.fontSize = currentSize + "px";
+            }
+            
+            if (titleEl.scrollWidth > titleEl.clientWidth) {
+                titleEl.style.whiteSpace = 'normal';
+                titleEl.style.display = '-webkit-box';
+                titleEl.style.webkitLineClamp = '2';
+                titleEl.style.webkitBoxOrient = 'vertical';
+                titleEl.style.overflow = 'hidden';
+            } else {
+                titleEl.style.whiteSpace = 'nowrap';
+                titleEl.style.textOverflow = 'ellipsis';
+                titleEl.style.overflow = 'hidden';
+            }
+        }, 50);
     }
 
     function closeModal(arg) {
