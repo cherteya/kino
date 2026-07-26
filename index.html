@@ -545,7 +545,15 @@
             .header-top h1 { font-size: 32px; }
             .header-top h1::before, .header-top h1::after { display: none; }
         }
-    </style>
+    
+        .legendary-badge {
+            box-shadow: 0 4px 10px rgba(0,0,0,0.8), inset 0 0 15px #ffd700, 0 0 25px rgba(255, 215, 0, 0.6) !important;
+            border-color: #ffd700 !important;
+            color: #fff !important;
+            text-shadow: 0 0 10px #ffd700, 0 0 15px #fff !important;
+            font-weight: 900 !important;
+        }
+</style>
 </head>
 <body>
 
@@ -578,7 +586,8 @@
                         <option value="all">Все заказчики</option>
                     </select>
                     <select id="sortSelect" class="sort-select" onchange="applyFilters()">
-                        <option value="oldest">По порядку (По дате заказов)</option>
+                        <option value="order">По порядку</option>
+                        <option value="date_asc">По дате заказов</option>
                         <option value="newest">Новые поступления</option>
                         <option value="waiting">В ожидании</option>
                         <option value="watched">Смотрели</option>
@@ -818,11 +827,27 @@
         if (searchQuery.trim() !== '') filtered = filtered.filter(m => (m.title && m.title.toLowerCase().includes(searchQuery)) || (m.requestedBy && m.requestedBy.toLowerCase().includes(searchQuery)));
 
         if (sortMode === 'waiting') { filtered = filtered.filter(m => m.status === 'Не смотрели').sort((a, b) => a.parsedDate - b.parsedDate); } 
-        else if (sortMode === 'watched') { filtered = filtered.filter(m => m.status === 'Смотрели').sort((a, b) => b.parsedDate - a.parsedDate); }
-        else if (sortMode === 'auction') { filtered = filtered.filter(m => m.isAuction === true).sort((a, b) => b.parsedDate - a.parsedDate); }
-        else if (sortMode === 'cried') { filtered = filtered.filter(m => m.cried === true).sort((a, b) => b.parsedDate - a.parsedDate); }
+        else if (sortMode === 'watched') { filtered = filtered.filter(m => m.status === 'Смотрели').sort((a, b) => a.parsedDate - b.parsedDate); }
+        else if (sortMode === 'auction') { filtered = filtered.filter(m => m.isAuction === true).sort((a, b) => a.parsedDate - b.parsedDate); }
+        else if (sortMode === 'cried') { filtered = filtered.filter(m => m.cried === true).sort((a, b) => a.parsedDate - b.parsedDate); }
         else if (sortMode === 'newest') { filtered.sort((a, b) => b.parsedDate - a.parsedDate); }
-        else if (sortMode === 'oldest') { filtered.sort((a, b) => a.parsedDate - b.parsedDate); }
+        else if (sortMode === 'date_asc') { filtered.sort((a, b) => a.parsedDate - b.parsedDate); }
+        else { 
+            // sortMode === 'order'
+            filtered.sort((a, b) => {
+                const getPriority = (status) => {
+                    if (status === 'Не смотрели') return 1;
+                    return 2; // Смотрели и т.д.
+                };
+                const priorityA = getPriority(a.status);
+                const priorityB = getPriority(b.status);
+                
+                if (priorityA !== priorityB) {
+                    return priorityA - priorityB;
+                }
+                return a.parsedDate - b.parsedDate;
+            });
+        }
         currentViewData = filtered; renderTable(currentViewData);
     }
 
@@ -847,13 +872,17 @@
             let watchedDetails = '';
             if (isWatched && movie.dateWatched) {
                 watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content;">${movie.dateWatched}</div>`;
-                if (movie.ourRating) {
-                    const rColor = getRatingColor(movie.ourRating);
-                    watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; color: ${rColor}; border-color: ${rColor}; box-shadow: 0 0 10px rgba(0,0,0,0.5);">Наша Оценка: ${movie.ourRating}</div>`;
+                if (movie.ourRating && movie.ourRating !== "Без оценки") {
+                    const parsedRating = parseFloat(movie.ourRating);
+                    if (parsedRating === 1000) {
+                        watchedDetails += `<div class="date-badge legendary-badge" style="margin-top: 0; width: fit-content;">🏆 Оценка: 1000</div>`;
+                    } else {
+                        const rColor = getRatingColor(movie.ourRating);
+                        watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; color: ${rColor}; border-color: ${rColor}; box-shadow: 0 0 10px rgba(0,0,0,0.5);">Наша Оценка: ${movie.ourRating}</div>`;
+                    }
                 }
                 if (movie.cried) {
-                    // 🔥 УВЕЛИЧЕНА ИКОНКА ДО 24px 🔥
-                    watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; font-family: var(--font-text); font-size: 13px;"><svg width="24" height="24" viewBox="0 0 24 24" fill="var(--mint-light)" stroke="var(--mint-light)" stroke-width="1"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path></svg> Пролиты слезы</div>`;
+                    watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content; font-family: var(--font-text); font-size: 13px;"><svg width="24" height="24" viewBox="0 0 24 24" fill="var(--mint-light)" stroke="var(--mint-light)" stroke-width="1"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path></svg> Слёзы</div>`;
                 }
             }
             const watchedDateHTML = watchedDetails ? `<div style="display: flex; flex-direction: column; align-items: center; gap: 8px; margin-top: 8px;">${watchedDetails}</div>` : '';
@@ -865,7 +894,7 @@
             
             const cleanTitle = escapeHTML(movie.title || 'Безымянный');
             const cleanOverview = escapeHTML(movie.overview || '');
-            const safeTitle = (movie.title || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
+            const safeTitle = (movie.title || '').replace(/'/g, "\'").replace(/"/g, '&quot;');
 
             let castHtml = '';
             if (Array.isArray(movie.cast) && movie.cast.length > 0) {
@@ -909,7 +938,7 @@
                 ? `<img src="${movie.userAvatar}" class="req-avatar" alt="">` 
                 : `<div class="req-avatar" style="background-color: ${userColor}; border-color: ${userColor};">${getInitials(cleanNick)}</div>`;
 
-            const auctionHTML = movie.isAuction ? `<div style="color: var(--warm-star); font-size: 11px; text-transform: uppercase; letter-spacing: 1px; font-weight: 800; margin-top: 8px;">✦ Дар Аукциона ✦</div>` : '';
+            const auctionHTML = movie.isAuction ? `<div style="color: var(--warm-star); font-size: 11px; text-transform: uppercase; letter-spacing: 1px; font-weight: 800; margin-top: 8px;">✦ Аукцион ✦</div>` : '';
 
             tr.innerHTML = `
                 <td><div class="poster-wrapper"><img src="${posterUrl}" alt=""></div></td>
@@ -995,14 +1024,18 @@
         if (movie.status === 'Смотрели' && movie.dateWatched) {
              let html = `<div class="modal-grid-box" style="margin-top: 0;">${movie.dateWatched}</div>`;
              
-             if (movie.ourRating) {
-                 const rColor = getRatingColor(movie.ourRating);
-                 html += `<div class="modal-grid-box" style="margin-top: 0; color: ${rColor}; border-color: ${rColor};">Наша Оценка: ${movie.ourRating}</div>`;
+             if (movie.ourRating && movie.ourRating !== "Без оценки") {
+                 const parsedRating = parseFloat(movie.ourRating);
+                 if (parsedRating === 1000) {
+                     html += `<div class="modal-grid-box legendary-badge" style="margin-top: 0;">🏆 Оценка: 1000</div>`;
+                 } else {
+                     const rColor = getRatingColor(movie.ourRating);
+                     html += `<div class="modal-grid-box" style="margin-top: 0; color: ${rColor}; border-color: ${rColor};">Наша Оценка: ${movie.ourRating}</div>`;
+                 }
              }
              
              if (movie.cried) {
-                 // 🔥 УВЕЛИЧЕНА ИКОНКА ДО 24px 🔥
-                 html += `<div class="modal-grid-box" style="margin-top: 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="var(--mint-light)" stroke="var(--mint-light)" stroke-width="1"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path></svg> Пролиты слезы</div>`;
+                 html += `<div class="modal-grid-box" style="margin-top: 0;"><svg width="24" height="24" viewBox="0 0 24 24" fill="var(--mint-light)" stroke="var(--mint-light)" stroke-width="1"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path></svg> Слёзы</div>`;
              }
              dateWatchedEl.innerHTML = `<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 8px;">${html}</div>`;
         } else {
@@ -1024,8 +1057,12 @@
             ? `<img src="${movie.userAvatar}" class="req-avatar" style="width:32px; height:32px; border-width:2px; border-radius:50%; object-fit:cover; margin-right:10px;" alt="">` 
             : `<div class="req-avatar" style="width:32px; height:32px; font-size:14px; border-width:2px; background-color: ${userColor}; border-color: ${userColor}; border-radius:50%; display:flex; align-items:center; justify-content:center; margin-right:10px; color:var(--bg-deep); font-weight:800;">${getInitials(cleanNick)}</div>`;
             
-        requesterEl.innerHTML = `<div style="display:flex; align-items:center;">${avatarMarkup}<span>${cleanNick}</span></div>`;
-        requesterEl.style.color = stringToColor(cleanNick);
+        let reqInner = `<div style="display:flex; align-items:center;">${avatarMarkup}<span>${cleanNick}</span></div>`;
+        if (movie.isAuction) {
+            reqInner += `<div style="color: var(--warm-star); font-size: 11px; text-transform: uppercase; letter-spacing: 1px; font-weight: 800; margin-top: 4px; text-shadow: 0 0 5px rgba(0,0,0,0.8);">✦ Аукцион ✦</div>`;
+        }
+        
+        requesterEl.innerHTML = `<div style="display:flex; flex-direction:column; align-items:flex-start;">${reqInner}</div>`;
         requesterEl.onclick = () => window.open(`https://twitch.tv/${cleanNick}`, '_blank');
 
         let dirHtml = '', castHtml = '';
