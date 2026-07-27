@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "27.07.2026 04:25"
+    "lastUpdated": "27.07.2026 04:28"
   },
   "MadMan1408": [
     {
@@ -940,48 +940,45 @@
     },
     {
       "title": "Облачно, возможны осадки в виде фрикаделек",
-      "year": "2017",
+      "year": "2009",
       "type": "Мультфильм",
-      "runtime": "15 мин",
-      "genres": "мультфильм, комедия, Боевик и Приключения, НФ и Фэнтези, Детский",
-      "studios": "🟢 Corus Entertainment, 🟢 Sony Pictures Animation, 🟢 DHX Media",
-      "budget": "Нет данных",
-      "revenue": "Нет данных",
-      "tmdbRating": "6,0",
-      "overview": "Флинт Локвуд – ученик старшей школы, который страдает от СНР (снов-не связанных-с рыбами). Он старается стать серьёзным изобретателем в мире за пределами сардин... и, возможно, в один прекрасный день его изобретения смогут принести миру пользу, а не просто взорваться у него перед носом. Его соратница Сэм Спаркс – новая девочка в городке и увлечённый метеоролог.",
-      "poster": "https://image.tmdb.org/t/p/w500/q41n9xD3Gcrv4PyT8NsMGVOOUyh.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/o8n0xUIvt9RuljzavmKXmDmxl0.jpg",
+      "runtime": "1 ч 30 мин",
+      "genres": "мультфильм, комедия, семейный",
+      "studios": "🟢 Sony Pictures Animation, 🟢 Columbia Pictures",
+      "budget": "100.000.000 $",
+      "revenue": "242.988.466 $",
+      "tmdbRating": "6.662",
+      "overview": "Главный герой мультфильма — странный ученый Флинт Локвуд, который всегда хотел изобрести что-то такое, что сделает его родной городок счастливым. И вот, у него получилось! Еды теперь хватает всем, и она просто падает с неба, создавая новые пейзажи вокруг: можно любоваться закатом с живописных холмов из фруктового желе. Но иногда вкусные осадки в виде фрикаделек могут превратиться в настоящий торнадо из аппетитных, но уже опасных спагетти! Гениальному ученому и его друзьям предстоит исправить положение дел в сытом городке.",
+      "poster": "https://image.tmdb.org/t/p/w500/ePnI73UEGY8nE9ZGIWQKLj0qBPN.jpg",
+      "tagline": "«Приготовьтесь к подаче!»",
+      "backdrop": "https://image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
       "cast": [
         {
-          "name": "Марк Эдвардс",
-          "photo": "https://image.tmdb.org/t/p/w185/tHcaRkxAspAJ3G3350EJAFhxdzc.jpg"
+          "name": "Билл Хейдер",
+          "photo": "https://image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
         },
         {
-          "name": "Katie Griffin",
-          "photo": "https://image.tmdb.org/t/p/w185/xrbk2tCtv2QmVIerMddrO1C8Peq.jpg"
+          "name": "Анна Фэрис",
+          "photo": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
         },
         {
-          "name": "Patrick McKenna",
-          "photo": "https://image.tmdb.org/t/p/w185/x3i6LaieQC7z96DN4jYlwnVYI6S.jpg"
+          "name": "Джеймс Каан",
+          "photo": "https://image.tmdb.org/t/p/w185/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg"
         },
         {
-          "name": "Seán Cullen",
-          "photo": "https://image.tmdb.org/t/p/w185/jPAYk01KVuMVgIQRDQyhq1S6jo8.jpg"
+          "name": "Энди Сэмберг",
+          "photo": "https://image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
         }
       ],
       "director": {
-        "name": "Alex Galatis",
-        "photo": "https://via.placeholder.com/185x278?text=No+Photo"
+        "name": "Крис Миллер",
+        "photo": "https://image.tmdb.org/t/p/w185/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
       },
-      "trailer": "",
-      "ageRating": "TV-Y7",
-      "keywords": "inventor, robot, family, kids, 3d animation",
+      "trailer": "https://www.youtube.com/watch?v=VJdrQntPee4",
+      "ageRating": "PG",
+      "keywords": "based on novel or book, inventor, weather, food, based on children's book",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
-      "collection": "",
-      "seasons": "2",
-      "episodes": "104",
-      "tvStatus": "Ended",
+      "collection": "Облачно, возможны осадки в виде фрикаделек (Коллекция)",
       "id": 38,
       "dateRequested": "26.07.2026 12:50",
       "status": "Не смотрели",
