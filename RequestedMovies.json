@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "27.07.2026 04:28"
+    "lastUpdated": "27.07.2026 04:29"
   },
   "MadMan1408": [
     {
@@ -100,54 +100,6 @@
       "cried": true,
       "isAuction": false,
       "dateWatched": "02.06.2026 16:48"
-    },
-    {
-      "title": "Матрица",
-      "year": "1999",
-      "type": "Фильм",
-      "runtime": "2 ч 16 мин",
-      "genres": "боевик, фантастика",
-      "studios": "🔴 Warner Bros. Pictures | 🟢 Village Roadshow Pictures, 🟢 Groucho II Film Partnership, 🟢 Silver Pictures",
-      "budget": "63.000.000 $",
-      "revenue": "463.517.383 $",
-      "tmdbRating": "8.252",
-      "overview": "Жизнь Томаса Андерсона разделена на две части: днём он — самый обычный офисный работник, получающий нагоняи от начальства, а ночью превращается в хакера по имени Нео, и нет места в сети, куда он бы не смог проникнуть. Но однажды всё меняется. Томас узнаёт ужасающую правду о реальности.",
-      "poster": "https://image.tmdb.org/t/p/w500/kEDbym5htJgDQNenjUtSJxAHysB.jpg",
-      "tagline": "«Добро пожаловать в реальный мир»",
-      "backdrop": "https://image.tmdb.org/t/p/original/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
-      "cast": [
-        {
-          "name": "Киану Ривз",
-          "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
-        },
-        {
-          "name": "Лоренс Фишбёрн",
-          "photo": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
-        },
-        {
-          "name": "Кэрри-Энн Мосс",
-          "photo": "https://image.tmdb.org/t/p/w185/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
-        },
-        {
-          "name": "Хьюго Уивинг",
-          "photo": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
-        }
-      ],
-      "director": {
-        "name": "Ларри Вачовски",
-        "photo": "https://image.tmdb.org/t/p/w185/4nE4ttPQBuw1virOz0LYT08c1Vm.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=YihPA42fdQ8",
-      "ageRating": "16+",
-      "keywords": "man vs machine, martial arts, fortune teller, artificial intelligence (a.i.), saving the world",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "Матрица (Коллекция)",
-      "id": 43,
-      "dateRequested": "27.07.2026 04:24",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
     }
   ],
   "bazar_gure": [
