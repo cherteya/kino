@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "28.07.2026 04:54"
+    "lastUpdated": "28.07.2026 04:55"
   },
   "MadMan1408": [
     {
@@ -144,10 +144,11 @@
       "collection": "",
       "id": 44,
       "dateRequested": "28.07.2026 04:52",
-      "status": "Не смотрели",
+      "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": true
+      "isAuction": true,
+      "dateWatched": "28.07.2026 04:55"
     }
   ],
   "bazar_gure": [
