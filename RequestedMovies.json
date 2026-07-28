@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "28.07.2026 04:51"
+    "lastUpdated": "28.07.2026 04:52"
   },
   "MadMan1408": [
     {
@@ -100,6 +100,54 @@
       "cried": true,
       "isAuction": false,
       "dateWatched": "02.06.2026 16:48"
+    },
+    {
+      "title": "Интерстеллар",
+      "year": "2014",
+      "type": "Фильм",
+      "runtime": "2 ч 49 мин",
+      "genres": "приключения, драма, фантастика",
+      "studios": "🟢 Legendary Pictures, 🟢 Syncopy, 🟢 Lynda Obst Productions",
+      "budget": "165.000.000 $",
+      "revenue": "746.606.706 $",
+      "tmdbRating": "8.483",
+      "overview": "Когда засуха, пыльные бури и вымирание растений приводят человечество к продовольственному кризису, коллектив исследователей и учёных отправляется сквозь червоточину в путешествие, чтобы превзойти прежние ограничения для космических путешествий человека и найти планету с подходящими для человечества условиями.",
+      "poster": "https://image.tmdb.org/t/p/w500/vReLRjDV9XPhiOSEW7QWow4DXwf.jpg",
+      "tagline": "«Следующий шаг человечества станет величайшим»",
+      "backdrop": "https://image.tmdb.org/t/p/original/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+      "cast": [
+        {
+          "name": "Мэттью Макконахи",
+          "photo": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+        },
+        {
+          "name": "Энн Хэтэуэй",
+          "photo": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+        },
+        {
+          "name": "Майкл Кейн",
+          "photo": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+        },
+        {
+          "name": "Джессика Честейн",
+          "photo": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+        }
+      ],
+      "director": {
+        "name": "Кристофер Нолан",
+        "photo": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=qcPfI0y7wRU",
+      "ageRating": "Нет данных",
+      "keywords": "spacecraft, race against time, artificial intelligence (a.i.), nasa, time warp",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 44,
+      "dateRequested": "28.07.2026 04:52",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": true
     }
   ],
   "bazar_gure": [
