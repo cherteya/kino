@@ -1863,6 +1863,56 @@
       "dateWatched": "21.07.2026 16:53"
     }
   ],
+  "cross_loss": [
+    {
+      "title": "Ловец снов",
+      "year": "2003",
+      "type": "Фильм",
+      "runtime": "2 ч 16 мин",
+      "genres": "драма, ужасы, фантастика, триллер",
+      "studios": "🔴 Castle Rock Entertainment | 🟢 Kasdan Pictures, 🟢 Village Roadshow Pictures, 🟢 NPV Entertainment, 🟢 WV Films II",
+      "budget": "68.000.000 $",
+      "revenue": "81.240.206 $",
+      "tmdbRating": "5.647",
+      "overview": "Джонси, Генри, Пит и Бивер. Двадцать лет назад они были просто мальчишками, проживающими в одном небольшом городке штата Мэн, - детьми, нашедшими в себе достаточно мужества, чтобы героически ответить на детскую жестокость. Награда за спасение странноватого мальчика по имени Даддитс совершенно неожиданно пришла к ним в виде сверхъестественных сил, связавших всех пятерых крепчайшими узами братства.Но когда на ежегодной охоте друзья собираются вместе в лесной хижине, то вместо ожидаемой теплой веселой атмосферы над ними начинает сгущаться абсолютное зло, приносящее гибель. Сначала к ним попадает незнакомец - затерявшийся в лесу охотник, которому и невдомек, что его организм поражен смертельной заразой. А вслед за ним возникает неистовствующий снежный буран, в эпицентре которого движется нечто еще более зловещее... Впереди - крупнейшее противостояние ужасу, не имеющему аналогов.",
+      "poster": "https://image.tmdb.org/t/p/w500/mRo7SHrbKGaoCR5RMssyVNVfdQb.jpg",
+      "tagline": "«Злу удается проскользнуть»",
+      "backdrop": "https://image.tmdb.org/t/p/original/fKEF2MD4tA8G9Eywqq0k9E76sxw.jpg",
+      "cast": [
+        {
+          "name": "Томас Джейн",
+          "photo": "https://image.tmdb.org/t/p/w185/9frnlc2zoDcoeqZALB6aeYSQddl.jpg"
+        },
+        {
+          "name": "Дэмиэн Льюис",
+          "photo": "https://image.tmdb.org/t/p/w185/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+        },
+        {
+          "name": "Морган Фримен",
+          "photo": "https://image.tmdb.org/t/p/w185/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+        },
+        {
+          "name": "Джейсон Ли",
+          "photo": "https://image.tmdb.org/t/p/w185/3duPl6Ve8RnvcouOaXoMCdJf5ln.jpg"
+        }
+      ],
+      "director": {
+        "name": "Лоуренс Кэздан",
+        "photo": "https://image.tmdb.org/t/p/w185/1c57YAUDEsyI6jwc3buKISgh2pf.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=YG0ZoVrndh0",
+      "ageRating": "Нет данных",
+      "keywords": "based on novel or book, 1970s, religion and supernatural, snowstorm, alien",
+      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/13e5fa74-defa-11e9-809c-784f43822e80-profile_image-600x600.png",
+      "collection": "",
+      "id": 44,
+      "dateRequested": "28.07.2026 05:35",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    }
+  ],
   "Cross_loss": [],
   "chipotl_s": [
     {
