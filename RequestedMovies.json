@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "28.07.2026 05:37"
+    "lastUpdated": "28.07.2026 10:52"
   },
   "MadMan1408": [
     {
@@ -1813,6 +1813,57 @@
       "cried": true,
       "isAuction": false,
       "dateWatched": "21.07.2026 16:53"
+    },
+    {
+      "title": "Молодой Шерлок",
+      "year": "2026",
+      "type": "Сериал",
+      "runtime": "Неизвестно",
+      "genres": "Боевик и Приключения, детектив",
+      "studios": "🟢 Motive Pictures, 🟢 Amazon MGM Studios, 🟢 Inspirational Entertainment, 🟢 Jack Tar Pictures",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "7.848",
+      "overview": "События разворачиваются в Лондоне и Оксфорде, около 1870-х годов. 19-летний Шерлок Холмс освобождён из тюрьмы по протекции старшего брата Майкрофта и становится уборщиком в кампусе Оксфорда. Здесь он знакомится со студентом Джеймсом Мориарти и между молодыми людьми возникает дружба. Мама Шерлока и Майкрофта Корделия Холмс помещена мужем в психиатрическую клинику из-за отклонений в поведении. Много лет назад она потеряла в результате несчастного случая дочь Беатрис и с тех пор не может прийти в себя. Шерлок тоже считает себя виновным в смерти сестры.",
+      "poster": "https://image.tmdb.org/t/p/w500/52UzDGe5rdaswTT9pa0masj25Z8.jpg",
+      "tagline": "Думай быстро. Действуй ещё быстрее.",
+      "backdrop": "https://image.tmdb.org/t/p/original/8mmDLb108DoFZlE8sfc64TRqLvm.jpg",
+      "cast": [
+        {
+          "name": "Хиро Файнс-Тиффин",
+          "photo": "https://image.tmdb.org/t/p/w185/6zMrrZvOMH6uGwEFoK0Uo8sZvxL.jpg"
+        },
+        {
+          "name": "Донал Финн",
+          "photo": "https://image.tmdb.org/t/p/w185/4LXCZdrP9OOYQ9PeGGCCBQsyIUP.jpg"
+        },
+        {
+          "name": "Зине Цзэн",
+          "photo": "https://image.tmdb.org/t/p/w185/4p75iioOcY8JzQ044AGK59goNF2.jpg"
+        },
+        {
+          "name": "Наташа Макэлхоун",
+          "photo": "https://image.tmdb.org/t/p/w185/9pxaoasotR1pdCXYSfN1pkm0geO.jpg"
+        }
+      ],
+      "director": {
+        "name": "Мэттью Паркхилл",
+        "photo": "https://via.placeholder.com/185x278?text=No+Photo"
+      },
+      "trailer": "https://www.youtube.com/watch?v=QbQmj_ZjLIc",
+      "ageRating": "16+",
+      "keywords": "based on novel or book, conspiracy, oxford, england, globetrotting, oxford university",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
+      "collection": "",
+      "seasons": "1",
+      "episodes": "8",
+      "tvStatus": "Returning Series",
+      "id": 43,
+      "dateRequested": "28.07.2026 10:52",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
     }
   ],
   "cross_loss": [],
