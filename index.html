@@ -141,8 +141,24 @@
             filter: drop-shadow(0 0 8px rgba(92, 242, 138, 0.6)); 
         }
 
-        .creator-badge {
+        .back-btn {
             position: absolute; top: 20px; left: 30px;
+            display: inline-flex; align-items: center; gap: 10px;
+            background: rgba(92, 242, 138, 0.1);
+            color: var(--mint-main); text-decoration: none;
+            padding: 10px 20px; border-radius: 20px;
+            border: 1px solid rgba(92, 242, 138, 0.3);
+            font-family: var(--font-title); font-weight: 700;
+            font-size: 15px; transition: all 0.3s ease;
+            z-index: 10;
+        }
+        .back-btn:hover {
+            background: var(--mint-main); color: var(--bg-deep);
+            box-shadow: 0 0 15px rgba(92, 242, 138, 0.5);
+        }
+
+        .creator-badge {
+            position: absolute; top: 20px; right: 30px;
             display: flex; align-items: center; gap: 10px;
             background: rgba(34, 24, 54, 0.6); 
             padding: 6px 12px 6px 6px; cursor: pointer;
@@ -465,8 +481,6 @@
             overflow: hidden;
         }
 
-        /* === ИЗМЕНЕННЫЙ БЛОК ЗАГОЛОВКА ДЛЯ МОДАЛЬНОГО ОКНА === */
-        /* ДОБАВЛЕН OVERFLOW: HIDDEN и FLEX-WRAP: NOWRAP для контейнера */
         .modal-title-wrapper { 
             display: flex; align-items: flex-start; gap: 12px; margin-bottom: 12px; 
             flex-wrap: nowrap; max-width: 100%; overflow: hidden;
@@ -479,7 +493,6 @@
             flex-shrink: 1; min-width: 0; line-height: 1.2;
         }
 
-        /* Обертка для Года и Кнопки, чтобы они не разваливались */
         .modal-title-extras {
             display: flex; align-items: center; gap: 10px; flex-shrink: 0; margin-top: 4px;
         }
@@ -495,7 +508,6 @@
         .modal-title-wrapper:hover .copy-btn { opacity: 1; }
         .modal-title-wrapper .copy-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 12px rgba(92, 242, 138, 0.5); }
         
-        /* === ВЫРАВНИВАНИЕ ДАТЫ И БЕЙДЖЕЙ ВНИЗУ === */
         .modal-meta-wrapper {
             display: flex; align-items: center; gap: 12px; margin-bottom: 20px; 
             border-bottom: 1px dashed rgba(92, 242, 138, 0.2); padding-bottom: 15px; flex-wrap: wrap;
@@ -593,6 +605,12 @@
     <div class="container">
         <div class="content-wrapper">
             <div class="header">
+                
+                <a href="https://cherteya.github.io/lists/" class="back-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+                    В Архивы
+                </a>
+
                 <div class="creator-badge" onclick="window.open('https://twitch.tv/cherteya', '_blank')">
                     <img src="https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-70x70.png" id="cherteyaAvatar" alt="cherteya">
                     <div class="creator-info">
@@ -669,7 +687,7 @@
                 <div class="modal-body">
                     <div><img id="modalPoster" class="modal-poster" src="" alt="Постер"></div>
                     <div class="modal-info-main">
-                        <!-- === ОБНОВЛЕННЫЙ ЗАГОЛОВОК С ЭКСТРА-БЛОКОМ === -->
+                    
                         <div class="modal-title-wrapper">
                             <h2 class="modal-title" id="modalTitle">Название</h2>
                             <div class="modal-title-extras">
@@ -680,7 +698,7 @@
                             </div>
                         </div>
                         
-                        <!-- === ОБНОВЛЕННЫЙ БЛОК МЕТА-ИНФОРМАЦИИ И БЕЙДЖЕЙ === -->
+                        
                         <div class="modal-meta-wrapper">
                             <div class="modal-meta" id="modalMeta">2023 ✧ 120 мин</div>
                             <div id="modalBadges" style="display: flex; gap: 8px;"></div>
