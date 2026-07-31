@@ -106,19 +106,26 @@
         
         .search-box, .sort-select {
             background: rgba(19, 15, 28, 0.6); border: 1px solid rgba(92, 242, 138, 0.3); border-radius: 20px;
-            padding: 8px 16px; color: var(--mint-light); font-size: 15px; font-family: var(--font-text);
+            padding: 0 16px; color: var(--mint-light); font-size: 15px; font-family: var(--font-text);
             outline: none; transition: all 0.3s ease; text-align: left; 
+            box-sizing: border-box; height: 40px; 
         }
         .search-box { width: 220px; }
         .search-box::placeholder { color: var(--text-muted); }
         .search-box:focus, .sort-select:focus { border-color: var(--mint-main); color: #fff; box-shadow: 0 0 12px rgba(92, 242, 138, 0.2); }
-        .sort-select { cursor: pointer; appearance: none; padding-right: 30px; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%235cf28a' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 12px center; }
-        .sort-select option { background: var(--bg-deep); color: var(--mint-light); }
         
+        .sort-select { 
+            cursor: pointer; appearance: none; padding-right: 30px; 
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%235cf28a' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14 2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E"); 
+            background-repeat: no-repeat; background-position: right 12px center; 
+        }
+        .sort-select option { background: var(--bg-deep); color: var(--mint-light); }
+
         .view-toggle-btn {
             background: rgba(92, 242, 138, 0.1); border: 1px solid var(--mint-main); border-radius: 20px;
-            padding: 8px 20px; color: var(--mint-main); font-size: 15px; font-family: var(--font-title); font-weight: 700;
-            cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 8px;
+            padding: 0 20px; color: var(--mint-main); font-size: 15px; font-family: var(--font-title); font-weight: 700;
+            cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; justify-content: center; gap: 8px;
+            box-sizing: border-box; height: 40px;
         }
         .view-toggle-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 15px rgba(92, 242, 138, 0.4); }
 
@@ -420,8 +427,8 @@
                     </select>
                     <select id="sortSelect" class="sort-select" onchange="applyFilters()">
                         <option value="order">По порядку</option>
-                        <option value="date_asc">По дате заказов</option>
-                        <option value="newest">Новые заказы</option>
+                        <option value="date_asc">По дате заказов (Старые)</option>
+                        <option value="newest">По дате заказов (Новые)</option>
                         <option value="waiting">В ожидании</option>
                         <option value="watched">Смотрели</option>
                         <option value="auction">Аукцион</option>
@@ -607,13 +614,33 @@
         if (userFilterVal !== 'all') filtered = filtered.filter(m => m.requestedBy.toLowerCase() === userFilterVal);
         if (searchQuery.trim() !== '') filtered = filtered.filter(m => (m.title && m.title.toLowerCase().includes(searchQuery)) || (m.requestedBy && m.requestedBy.toLowerCase().includes(searchQuery)));
 
+        const sortByOrder = (a, b) => { 
+            const isUnwatchedA = a.status === 'Не смотрели'; 
+            const isUnwatchedB = b.status === 'Не смотрели'; 
+            if (isUnwatchedA !== isUnwatchedB) return isUnwatchedA ? -1 : 1; 
+            if (isUnwatchedA) return a.parsedDate - b.parsedDate; 
+            let dateA = a.dateWatched ? parseDateObj(a.dateWatched) : 0; 
+            if (!dateA) dateA = a.parsedDate; 
+            let dateB = b.dateWatched ? parseDateObj(b.dateWatched) : 0; 
+            if (!dateB) dateB = b.parsedDate; 
+            return dateB - dateA; 
+        };
+
+        const sortByWatchedDateDesc = (a, b) => {
+            let dateA = a.dateWatched ? parseDateObj(a.dateWatched) : 0; 
+            if (!dateA) dateA = a.parsedDate; 
+            let dateB = b.dateWatched ? parseDateObj(b.dateWatched) : 0; 
+            if (!dateB) dateB = b.parsedDate; 
+            return dateB - dateA; 
+        };
+
         if (sortMode === 'waiting') { filtered = filtered.filter(m => m.status === 'Не смотрели').sort((a, b) => a.parsedDate - b.parsedDate); } 
-        else if (sortMode === 'watched') { filtered = filtered.filter(m => m.status === 'Смотрели').sort((a, b) => a.parsedDate - b.parsedDate); }
-        else if (sortMode === 'auction') { filtered = filtered.filter(m => m.isAuction === true).sort((a, b) => a.parsedDate - b.parsedDate); }
-        else if (sortMode === 'cried') { filtered = filtered.filter(m => m.cried === true).sort((a, b) => a.parsedDate - b.parsedDate); }
+        else if (sortMode === 'watched') { filtered = filtered.filter(m => m.status === 'Смотрели').sort(sortByWatchedDateDesc); }
+        else if (sortMode === 'auction') { filtered = filtered.filter(m => m.isAuction === true).sort(sortByOrder); }
+        else if (sortMode === 'cried') { filtered = filtered.filter(m => m.cried === true).sort(sortByWatchedDateDesc); }
         else if (sortMode === 'newest') { filtered.sort((a, b) => b.parsedDate - a.parsedDate); }
         else if (sortMode === 'date_asc') { filtered.sort((a, b) => a.parsedDate - b.parsedDate); }
-        else { filtered.sort((a, b) => { const priorityA = a.status === 'Не смотрели' ? 1 : 2; const priorityB = b.status === 'Не смотрели' ? 1 : 2; return priorityA !== priorityB ? priorityA - priorityB : a.parsedDate - b.parsedDate; }); }
+        else { filtered.sort(sortByOrder); }
         
         currentViewData = filtered; renderView();
     }
