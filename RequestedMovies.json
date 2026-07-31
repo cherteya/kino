@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "30.07.2026 11:13"
+    "lastUpdated": "31.07.2026 11:27"
   },
   "MadMan1408": [
     {
@@ -1910,6 +1910,54 @@
       "collection": "Трансформеры (Коллекция)",
       "id": 44,
       "dateRequested": "30.07.2026 11:13",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Трансформеры 3: Тёмная сторона Луны",
+      "year": "2011",
+      "type": "Фильм",
+      "runtime": "2 ч 26 мин",
+      "genres": "боевик, фантастика, приключения",
+      "studios": "🟢 Paramount Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Ian Bryce Productions",
+      "budget": "195.000.000 $",
+      "revenue": "1.123.794.079 $",
+      "tmdbRating": "6.238",
+      "overview": "Для наших героев наступили печальные будни: Сэм потерял Микаэлу, правительство выпускает законодательный акт о выселении Автоботов с Земли, а пока Мегатрон скрывается после позорного поражения Фоллена, десептикон Шокуэйв, правитель Кибертрона, готовится нанести визит нашей планете с совсем недобрыми намерениями.",
+      "poster": "https://image.tmdb.org/t/p/w500/9wamNeMspa2wLWyZW1af6PMhfCa.jpg",
+      "tagline": "«Последний шанс цивилизации»",
+      "backdrop": "https://image.tmdb.org/t/p/original/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
+      "cast": [
+        {
+          "name": "Шайа ЛаБаф",
+          "photo": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+        },
+        {
+          "name": "Роузи Хантингтон-Уайтли",
+          "photo": "https://image.tmdb.org/t/p/w185/oq5iX2VoLGF41P5DmNDNJcczESR.jpg"
+        },
+        {
+          "name": "Питер Каллен",
+          "photo": "https://image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+        },
+        {
+          "name": "Леонард Нимой",
+          "photo": "https://image.tmdb.org/t/p/w185/eKhw3oK8ak5LDB29X9zQDLIqRhw.jpg"
+        }
+      ],
+      "director": {
+        "name": "Майкл Бэй",
+        "photo": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "chicago, illinois, spacecraft, moon, traitor, bodyguard",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51e15def-2f0e-4692-ae48-f922021be13f-profile_image-600x600.png",
+      "collection": "Трансформеры (Коллекция)",
+      "id": 45,
+      "dateRequested": "31.07.2026 11:27",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
