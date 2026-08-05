@@ -129,7 +129,7 @@
         }
         .view-toggle-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 15px rgba(92, 242, 138, 0.4); }
 
-        /* ================= ТАБЛИЧНЫЙ ВИД (СПИСОК) ================= */
+        
         table { width: 100%; border-collapse: separate; border-spacing: 0; text-align: left; table-layout: fixed; }
         th { text-align: center; color: var(--mint-main); font-weight: 700; font-size: 13px; text-transform: uppercase; padding: 25px 12px 15px; border-bottom: 1px solid rgba(92, 242, 138, 0.2); font-family: var(--font-title); letter-spacing: 1px; }
         td { padding: 20px 15px; vertical-align: top; border-bottom: 1px dashed rgba(92, 242, 138, 0.15); }
@@ -189,7 +189,7 @@
         tr.movie-row:hover .avatar { box-shadow: 0 3px 8px rgba(92, 242, 138, 0.3); z-index: 10; border-color: var(--mint-main); }
         tr.movie-row:hover .director-avatar { border-color: #ffb3c1; box-shadow: 0 6px 15px rgba(255, 143, 163, 0.3); }
 
-        /* ================= КАРТОЧНЫЙ ВИД (СЕТКА 6 В РЯД) ================= */
+        
         .movies-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 15px; padding: 20px; }
         
         .card-view-item {
@@ -273,7 +273,7 @@
         .card-user-avatar { width: 22px; height: 22px; border-radius: 50%; border: 1.5px solid var(--mint-main); object-fit: cover; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 11px; font-family: var(--font-title); font-weight: 900; background: var(--bg-deep); color: var(--mint-main); }
         .card-queue-name { font-size: 13px; font-weight: 700; color: var(--mint-light); white-space: nowrap; display: block; max-width: calc(100% - 28px); overflow: hidden; }
 
-        /* ================= НОВЫЕ СТИЛИ ДЛЯ ПЛИТОК ================= */
+        
         .banned-dot {
             position: absolute; right: 13px; bottom: 10px; width: 14px; height: 14px;
             background-color: #ff4757; border-radius: 50%; z-index: 15;
@@ -290,7 +290,7 @@
         .card-copy-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 10px rgba(92, 242, 138, 0.5); }
         .card-copy-btn.shifted { bottom: 32px; }
         
-        /* КНОПКА СМОТРЕТЬ ОНЛАЙН (ДЛЯ МОДАЛКИ) */
+        
         .watch-online-btn {
             background: #ff4757;
             color: #ffffff;
@@ -317,7 +317,7 @@
             text-decoration: none;
         }
 
-        /* ================= МОДАЛЬНОЕ ОКНО ================= */
+        
         .modal-overlay {
             display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
             background: radial-gradient(circle at center, rgba(34, 24, 54, 0.9) 0%, rgba(19, 15, 28, 0.95) 100%);
@@ -537,7 +537,7 @@
     let currentViewData = []; 
     let currentModalMovie = null; 
     let viewMode = localStorage.getItem('siteViewMode') || 'list'; 
-    let isOnlineBtnVisible = true; // СДЕЛАЛ: Добавлена переменная, разрешающая показ кнопки онлайн
+    let isOnlineBtnVisible = true; 
 
     const fallbackImage = "data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='185' height='278' viewBox='0 0 185 278'%3E%3Crect width='185' height='278' fill='%23221836'/%3E%3Cpath d='M92.5 130c19.3 0 35-15.7 35-35s-15.7-35-35-35-35 15.7-35 35 15.7 35 35 35zm0 15c-23.3 0-70 11.7-70 35v25h140v-25c0-23.3-46.7-35-70-35z' fill='%2338255c'/%3E%3C/svg%3E";
     const fallbackPoster = "data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='750' viewBox='0 0 500 750'%3E%3Cdefs%3E%3ClinearGradient id='bg' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%23221836'/%3E%3Cstop offset='100%25' stop-color='%23130f1c'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='500' height='750' fill='url(%23bg)'/%3E%3Cg transform='translate(0, -20)'%3E%3Crect x='160' y='270' width='180' height='250' rx='15' fill='%2338255c' stroke='%235cf28a' stroke-width='6'/%3E%3Crect x='195' y='270' width='110' height='250' fill='%23221836'/%3E%3Crect x='172' y='290' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='172' y='330' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='172' y='370' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='172' y='410' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='172' y='450' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='172' y='490' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='316' y='290' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='316' y='330' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='316' y='370' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='316' y='410' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='316' y='450' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Crect x='316' y='490' width='12' height='16' rx='3' fill='%235cf28a'/%3E%3Cpolygon points='230,365 230,425 275,395' fill='%23ff8fa3'/%3E%3Ccircle cx='345' cy='250' r='14' fill='%23ff8fa3'/%3E%3Ccircle cx='375' cy='280' r='10' fill='%23fce8a1'/%3E%3Ccircle cx='145' cy='520' r='12' fill='%23fce8a1'/%3E%3C/g%3E%3C/svg%3E";
@@ -617,7 +617,7 @@
             const response = await fetch('RequestedMovies.json?t=' + new Date().getTime()); if (!response.ok) throw new Error();
             const data = await response.json(); rawMoviesData = [];
             
-            // СДЕЛАЛ: Проверяем, есть ли флаг в _metadata_
+            
             if (data && data["_metadata_"] && typeof data["_metadata_"]["isOnlineBtnVisible"] !== 'undefined') {
                 isOnlineBtnVisible = data["_metadata_"]["isOnlineBtnVisible"];
             }
