@@ -1,7 +1,7 @@
 {
   "_metadata_": {
-    "streamer": "",
-    "lastUpdated": "05.08.2026 03:04",
+    "streamer": "cherteya",
+    "lastUpdated": "06.08.2026 12:38",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -14,7 +14,7 @@
       "studios": "🟢 Amblin Entertainment, 🟢 Reliance Entertainment, 🟢 Walden Media, 🟢 Alibaba Pictures Group, 🟢 Pariah",
       "budget": "16.000.000 $",
       "revenue": "78.871.079 $",
-      "tmdbRating": "8.055",
+      "tmdbRating": "8.051",
       "overview": "Старый пес Бадди прожил несколько жизней, прежде чем воссоединиться со своим первым хозяином. Но на этом цепь его перерождений не оборвалась. Он возвращается в теле щенка, получает кличку Молли и выполняет новую миссию – принести счастье проблемной девочке-подростку СиДжей.",
       "poster": "https://image.tmdb.org/t/p/w500/nTIYb1c3JcqFRo9V1RIzflsJTmj.jpg",
       "tagline": "«Настоящей дружбе одной жизни мало»",
@@ -51,9 +51,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "1122114",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1122114/"
+      "isAuction": false
     },
     {
       "title": "Лучше не бывает",
@@ -64,7 +62,7 @@
       "studios": "🟢 TriStar Pictures, 🟢 Gracie Films",
       "budget": "50.000.000 $",
       "revenue": "314.178.011 $",
-      "tmdbRating": "7.405",
+      "tmdbRating": "7.403",
       "overview": "Мелвин Адал, психически неуравновешенный эксцентричный писатель, ненавидит буквально всех вокруг. Из-за своего странного поведения он одинок и часто попадает в комичные ситуации. Но неожиданно его уединение нарушается. Мелвину приходится ухаживать за соседской собакой, и незаметно для себя он учится у нее доброте и преданности. За стеной собственного равнодушия ему открывается прекрасный мир человеческих чувств…",
       "poster": "https://image.tmdb.org/t/p/w500/76GO7Wwsnq2RSuFl2FQRhtaIbSv.jpg",
       "tagline": "",
@@ -72,7 +70,7 @@
       "cast": [
         {
           "name": "Джек Николсон",
-          "photo": "https://image.tmdb.org/t/p/w185/aeCqQiVzohWwwmk8VKCXOxsjobS.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
         },
         {
           "name": "Хелен Хант",
@@ -89,7 +87,7 @@
       ],
       "director": {
         "name": "Джеймс Брукс",
-        "photo": "https://image.tmdb.org/t/p/w185/9mKjOFabm3yDRe5EIGsgSgNir9l.jpg"
+        "photo": "https://image.tmdb.org/t/p/w185/mZBy39mFACFHMCqfbsN4Kc2qb2k.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=Y_jxpxIMwzw",
       "ageRating": "PG-13",
@@ -102,9 +100,7 @@
       "ourRating": "Без оценки",
       "cried": true,
       "isAuction": false,
-      "dateWatched": "02.06.2026 16:48",
-      "kinopoiskId": "4199",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4199/"
+      "dateWatched": "02.06.2026 16:48"
     }
   ],
   "bazar_gure": [
@@ -117,7 +113,7 @@
       "studios": "🟢 3000 Pictures, 🟢 Hello Sunshine, 🟢 HarperCollins Publishers",
       "budget": "24.000.000 $",
       "revenue": "144.353.965 $",
-      "tmdbRating": "7.522",
+      "tmdbRating": "7.523",
       "overview": "Годами жители тихого городка Баркли-Коув, затерянного в глуши Северной Каролины, делились друг с другом легендой о «болотной девочке» — девушке по имени Киа Кларк, с юных лет живущей отшельницей. Знакомство с двумя местными юношами открывает перед Кией новый мир. Но когда одного из них находят мёртвым, молва тут же назначает её виновной.",
       "poster": "https://image.tmdb.org/t/p/w500/jYyD6dvdkrp2lWFFXhnr7ulE1Xt.jpg",
       "tagline": "«Секреты скрыты под поверхностью»",
@@ -125,7 +121,7 @@
       "cast": [
         {
           "name": "Дейзи Эдгар-Джонс",
-          "photo": "https://image.tmdb.org/t/p/w185/4Fdc3VSoVhkkEZNx5Zpz3AU6DYz.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/2WqBq58zRBD5HW4qAyPrMzpcR34.jpg"
         },
         {
           "name": "Тейлор Джон Смит",
@@ -154,12 +150,10 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "1396525",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1396525/"
+      "isAuction": false
     }
   ],
-  "susgirl1": [
+  "SusGirl1": [
     {
       "title": "Мальчишник в Вегасе",
       "year": "2009",
@@ -169,7 +163,7 @@
       "studios": "🔴 Warner Bros. Pictures | 🟢 Legendary Pictures, 🟢 Green Hat Films",
       "budget": "35.000.000 $",
       "revenue": "469.310.836 $",
-      "tmdbRating": "7.337",
+      "tmdbRating": "7.336",
       "overview": "Мальчишник в Лас-Вегасе выходит из-под контроля: жених исчезает, а трое его друзей совершенно не помнят события прошлой ночи.",
       "poster": "https://image.tmdb.org/t/p/w500/eqfuqXcv0MlbnzihcfsTaTGMbd.jpg",
       "tagline": "",
@@ -206,9 +200,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "426004",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/426004/"
+      "isAuction": false
     },
     {
       "title": "Собачья жизнь",
@@ -219,7 +211,7 @@
       "studios": "🟢 Amblin Entertainment, 🟢 Walden Media, 🟢 Reliance Entertainment, 🟢 Pariah",
       "budget": "22.000.000 $",
       "revenue": "205.000.000 $",
-      "tmdbRating": "7.645",
+      "tmdbRating": "7.641",
       "overview": "Собаки бывают разных пород, мастей и размеров. Они — наши самые верные и преданные друзья, а мы учим их хорошим манерам. Собаки всегда думают о нас, правда, иногда и о беконе. Все они каждый день провожают и встречают нас у порога в уверенности, что пока им есть, кого облизывать и любить, в их жизни есть смысл.",
       "poster": "https://image.tmdb.org/t/p/w500/iTSNCcbjehovQf26YcW2uTRKBhH.jpg",
       "tagline": "",
@@ -238,8 +230,8 @@
           "photo": "https://image.tmdb.org/t/p/w185/q71fwT1kdjqQma6aQo2yzTBSJ7Q.jpg"
         },
         {
-          "name": "Juliet Rylance",
-          "photo": "https://image.tmdb.org/t/p/w185/bN0cZI8DTETIBlYn0bPG3og8u7f.jpg"
+          "name": "Деннис Куэйд",
+          "photo": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
         }
       ],
       "director": {
@@ -257,9 +249,7 @@
       "ourRating": "Без оценки",
       "cried": true,
       "isAuction": false,
-      "dateWatched": "20.06.2026 16:46",
-      "kinopoiskId": "571896",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/571896/"
+      "dateWatched": "20.06.2026 16:46"
     }
   ],
   "DworfiQ": [
@@ -272,7 +262,7 @@
       "studios": "🟢 Lightstorm Entertainment, 🟢 20th Century Fox",
       "budget": "115.000.000 $",
       "revenue": "378.900.000 $",
-      "tmdbRating": "7.099",
+      "tmdbRating": "7.098",
       "overview": "Для своей семьи Гарри Таскер - любящий муж и отец, человек скромный и рассеянный, обыкновенный продавец компьютеров, «не вылезающий» с работы ни днем, ни ночью. Но лишь немногие знают, что на самом деле Гарри - специальный агент тайной правительственной службы, специализирующийся на особо опасных заданиях, владеющий кучей языков, всеми видами оружия и всеми возможными способами «отправки» злодеев на тот свет. Агент Таскер и дальше продолжал бы вести двойную жизнь, если бы зловещие арабские террористы не похитили Гарри, а вместе с ним и его ничего не подозревающую жену Хэлен. Но бандиты, к своему несчастью, даже не подозревали, с кем связались. И Хэлен узнала, что муж ее совсем не компьютерщик, и что она пятнадцать лет прожила с человеком, рядом с которым мускулистый Рэмбо выглядит ребенком…",
       "poster": "https://image.tmdb.org/t/p/w500/ef1W30VcCkN94UIzMfJNts0spE.jpg",
       "tagline": "«Когда он сказал \"люблю\", он не сказал что именно»",
@@ -309,9 +299,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "2219",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2219/"
+      "isAuction": false
     },
     {
       "title": "Оскар",
@@ -322,7 +310,7 @@
       "studios": "🟢 Joseph S. Vecchio Entertainment, 🟢 Touchstone Pictures, 🟢 Silver Screen Partners IV",
       "budget": "35.000.000 $",
       "revenue": "23.562.716 $",
-      "tmdbRating": "6.355",
+      "tmdbRating": "6.357",
       "overview": "У постели умирающего отца гангстер обещает прекратить преступную жизнь и стать легальным бизнесменом. Но невыносимая путаница и хаос в его доме приводят к тому, что «завязать» оказывается самой сложной работенкой из всех, что ему удавалось провернуть…",
       "poster": "https://image.tmdb.org/t/p/w500/5b9jhvY0Bj5gbKO08LqbgQHcmmH.jpg",
       "tagline": "",
@@ -360,9 +348,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "05.05.2026 16:49",
-      "kinopoiskId": "4256",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4256/"
+      "dateWatched": "05.05.2026 16:49"
     },
     {
       "title": "Мистер и миссис Смит",
@@ -385,7 +371,7 @@
         },
         {
           "name": "Брэд Питт",
-          "photo": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
         },
         {
           "name": "Винс Вон",
@@ -411,9 +397,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "13.07.2026 16:51",
-      "kinopoiskId": "12090",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/12090/"
+      "dateWatched": "13.07.2026 16:51"
     },
     {
       "title": "Лара Крофт: Расхитительница гробниц",
@@ -424,7 +408,7 @@
       "studios": "🟢 Paramount Pictures, 🟢 Mutual Film Company, 🟢 Lawrence Gordon Productions, 🟢 Eidos Films",
       "budget": "115.000.000 $",
       "revenue": "274.703.340 $",
-      "tmdbRating": "5.9",
+      "tmdbRating": "5.917",
       "overview": "Она владеет всеми видами рукопашного боя, стреляет из любых видов оружия и способна выжить в самых экстремальных условиях. Эта девушка - дочь лорда, леди Лара Крофт. Однажды под лестницей она обнаруживает вход в секретную комнату, где находятся старинные часы с удивительным устройством внутри.",
       "poster": "https://image.tmdb.org/t/p/w500/56AAEb7VfGrE2WAiOWVTLYR2SLd.jpg",
       "tagline": "«Самое большое приключение начинается в 2001 году»",
@@ -462,12 +446,10 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "17.07.2026 16:52",
-      "kinopoiskId": "3950",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/3950/"
+      "dateWatched": "17.07.2026 16:52"
     }
   ],
-  "SeRRRg0": [
+  "serrrg0": [
     {
       "title": "Трансформеры",
       "year": "2007",
@@ -477,7 +459,7 @@
       "studios": "🟢 DreamWorks Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Paramount Pictures",
       "budget": "150.000.000 $",
       "revenue": "709.709.780 $",
-      "tmdbRating": "6.843",
+      "tmdbRating": "6.84",
       "overview": "В течение многих столетий две расы роботов-инопланетян, Автоботы и Десептиконы, вели войну, ставкой в которой была судьба Bселенной. И вот война докатилась до Земли. В то время, когда силы зла ищут ключ к верховной власти, наш последний шанс на спасение находится в руках юного землянина. Единственное, что стоит между несущими зло Десептиконами и высшей властью — это ключ, находящийся в руках простого парнишки.",
       "poster": "https://image.tmdb.org/t/p/w500/eYFRGx7qk4JGOqUvjSWIpgToHLi.jpg",
       "tagline": "«Наш мир. Их война»",
@@ -514,9 +496,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "81288",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/81288/"
+      "isAuction": false
     },
     {
       "title": "Суперсемейка",
@@ -565,9 +545,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "18.05.2026 16:46",
-      "kinopoiskId": "38903",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/38903/"
+      "dateWatched": "18.05.2026 16:46"
     },
     {
       "title": "Лесная братва",
@@ -578,7 +556,7 @@
       "studios": "🟢 DreamWorks Animation",
       "budget": "80.000.000 $",
       "revenue": "343.397.247 $",
-      "tmdbRating": "6.599",
+      "tmdbRating": "6.601",
       "overview": "После долгой зимней спячки черепаха Верн просыпается и обнаруживает, что прямо у леса вырос огромный жилой квартал, а привычные запасы еды исчезли. В это же время появляется хитрый енот ЭрДжей, который убеждает зверей отправиться к людям за лёгкой добычей — горой вкусной, но незнакомой пищи. Для обитателей леса это шанс быстро запастись провизией, хотя Верн чувствует, что соседство с людьми опасно. Пока звери осваивают мусорные баки, печенье и газировку, между осторожностью и соблазном разгорается конфликт. Постепенно они понимают, что настоящая ценность — не в украденной еде, а в дружбе, доме и умении держаться вместе перед лицом опасности.",
       "poster": "https://image.tmdb.org/t/p/w500/5nKlGj40vB0GufKvnD687blTN0d.jpg",
       "tagline": "«Ребята, надо поделиться!»",
@@ -616,109 +594,57 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "27.05.2026 16:48",
-      "kinopoiskId": "6036",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6036/"
+      "dateWatched": "27.05.2026 16:48"
     },
     {
-      "title": "Трансформеры 2: Месть Падших",
-      "year": "2009",
+      "title": "1408",
+      "year": "2007",
       "type": "Фильм",
-      "runtime": "2 ч 27 мин",
-      "genres": "фантастика, боевик, приключения",
-      "studios": "🟢 DreamWorks Pictures, 🟢 Paramount Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Ian Bryce Productions",
-      "budget": "200.000.000 $",
-      "revenue": "836.304.167 $",
-      "tmdbRating": "6.224",
-      "overview": "Прошло 2 года с тех пор, как юный Сэм Уитвикки спас Вселенную, предотвратив глобальную битву между враждующими воинственными расами инопланетных роботов. Несмотря на свои героические подвиги, Сэм остаётся обычным подростком с обычными проблемами — поступление в колледж и родителями. Разумеется, отъезд будет тяжело воспринят лучшим другом, роботом — телохранителем Бамблби.",
-      "poster": "https://image.tmdb.org/t/p/w500/faLkNsOPqiw2ijqDOfEy2GUscw2.jpg",
-      "tagline": "«Месть неминуема»",
-      "backdrop": "https://image.tmdb.org/t/p/original/bH1bhjn37uA1zOPvyHbzJSvza7v.jpg",
+      "kinopoiskId": "195563",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/195563/",
+      "runtime": "1 ч 44 мин",
+      "genres": "ужасы, детектив",
+      "studios": "🟢 Dimension Films, 🟢 di Bonaventura Pictures",
+      "budget": "25.000.000 $",
+      "revenue": "133.000.000 $",
+      "tmdbRating": "6.692",
+      "overview": "Известный писатель Майк Энслин, сочиняющий свои романы в жанре «ужасы», пишет очередную книгу о необычных явлениях и полтергейсте в отелях. Не верящий в существование загробной жизни, Энслин решает поселиться в печально известном номере 1408 гостиницы «Дельфин», который пустует многие годы: по слухам, там обитают привидения. Невзирая на предупреждения старшего менеджера мистера Джеральда Олина о грозящей опасности, упрямец настаивает на своем, даже не предполагая, каким кошмаром обернется предстоящая ночь…",
+      "poster": "https://image.tmdb.org/t/p/w500/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg",
+      "tagline": "«Единственные демоны в комнате 1408 - это те, кто внутри вас»",
+      "backdrop": "https://image.tmdb.org/t/p/original/a4ZupLMg23auAw8e1j1K39PCO6z.jpg",
       "cast": [
         {
-          "name": "Шайа ЛаБаф",
-          "photo": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+          "name": "Джон Кьюсак",
+          "photo": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
         },
         {
-          "name": "Меган Фокс",
-          "photo": "https://image.tmdb.org/t/p/w185/zQp2YM0zbC27Ws97LNbyicysk8p.jpg"
+          "name": "Сэмюэл Л. Джексон",
+          "photo": "https://image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
         },
         {
-          "name": "Питер Каллен",
-          "photo": "https://image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+          "name": "Мэри МакКормак",
+          "photo": "https://image.tmdb.org/t/p/w185/e2brLtFCfgLdOp356bcEyRzQkoJ.jpg"
         },
         {
-          "name": "Хьюго Уивинг",
-          "photo": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+          "name": "Жасмин Джессика Энтони",
+          "photo": "https://image.tmdb.org/t/p/w185/7dx1ee9dRaSI1zT0DVxVw5fli5Y.jpg"
         }
       ],
       "director": {
-        "name": "Майкл Бэй",
-        "photo": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=CBSIrwp9Iu4",
-      "ageRating": "PG-13",
-      "keywords": "egypt, chaos, sun, tank, symbol",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51e15def-2f0e-4692-ae48-f922021be13f-profile_image-600x600.png",
-      "collection": "Трансформеры (Коллекция)",
-      "id": 44,
-      "dateRequested": "30.07.2026 11:13",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "373391",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/373391/"
-    },
-    {
-      "title": "Трансформеры 3: Тёмная сторона Луны",
-      "year": "2011",
-      "type": "Фильм",
-      "runtime": "2 ч 26 мин",
-      "genres": "боевик, фантастика, приключения",
-      "studios": "🟢 Paramount Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Ian Bryce Productions",
-      "budget": "195.000.000 $",
-      "revenue": "1.123.794.079 $",
-      "tmdbRating": "6.238",
-      "overview": "Для наших героев наступили печальные будни: Сэм потерял Микаэлу, правительство выпускает законодательный акт о выселении Автоботов с Земли, а пока Мегатрон скрывается после позорного поражения Фоллена, десептикон Шокуэйв, правитель Кибертрона, готовится нанести визит нашей планете с совсем недобрыми намерениями.",
-      "poster": "https://image.tmdb.org/t/p/w500/9wamNeMspa2wLWyZW1af6PMhfCa.jpg",
-      "tagline": "«Последний шанс цивилизации»",
-      "backdrop": "https://image.tmdb.org/t/p/original/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
-      "cast": [
-        {
-          "name": "Шайа ЛаБаф",
-          "photo": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
-        },
-        {
-          "name": "Роузи Хантингтон-Уайтли",
-          "photo": "https://image.tmdb.org/t/p/w185/oq5iX2VoLGF41P5DmNDNJcczESR.jpg"
-        },
-        {
-          "name": "Питер Каллен",
-          "photo": "https://image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
-        },
-        {
-          "name": "Леонард Нимой",
-          "photo": "https://image.tmdb.org/t/p/w185/eKhw3oK8ak5LDB29X9zQDLIqRhw.jpg"
-        }
-      ],
-      "director": {
-        "name": "Майкл Бэй",
-        "photo": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+        "name": "Микаэль Хофстрём",
+        "photo": "https://image.tmdb.org/t/p/w185/7zOeNtAlm2aSz1ku5fcsuBFG46j.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
-      "keywords": "chicago, illinois, spacecraft, moon, traitor, bodyguard",
+      "keywords": "hotel, hotel room, new york city, research, fire",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51e15def-2f0e-4692-ae48-f922021be13f-profile_image-600x600.png",
-      "collection": "Трансформеры (Коллекция)",
-      "id": 45,
-      "dateRequested": "31.07.2026 11:27",
+      "collection": "",
+      "id": 46,
+      "dateRequested": "06.08.2026 12:38",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "452899",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/452899/"
+      "isAuction": true
     }
   ],
   "Mira_Noire": [
@@ -731,7 +657,7 @@
       "studios": "🟢 Sunswept Entertainment, 🟢 Dune Entertainment III",
       "budget": "60.000.000 $",
       "revenue": "255.700.000 $",
-      "tmdbRating": "7.177",
+      "tmdbRating": "7.178",
       "overview": "Молодой журналист со своей женой переезжает в другой город на новое место работы. У них грандиозные планы: покупка дома, дети… Но сначала они заводят собаку. Кто бы мог подумать, что именно она станет главным испытанием в их жизни.",
       "poster": "https://image.tmdb.org/t/p/w500/xb7GQZ1ttzYCKmHAAXfsr7C3Me2.jpg",
       "tagline": "",
@@ -768,9 +694,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "279850",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/279850/"
+      "isAuction": false
     }
   ],
   "cherteya": [
@@ -783,19 +707,19 @@
       "studios": "🟢 A24, 🟢 Square Peg, 🟢 Dilemma Films",
       "budget": "28.000.000 $",
       "revenue": "132.227.793 $",
-      "tmdbRating": "6.896",
+      "tmdbRating": "6.924",
       "overview": "Чарли и Эмма познакомились в кафе два года назад, а через неделю должны пожениться. Они активно готовятся к торжеству: репетируют свадебный танец, общаются с диджеем и фотографом и выбирают напитки на праздничный стол. Однажды за ужином с друзьями Эмма раскрывает неожиданный секрет своего прошлого, и это откровение вынуждает Чарли задуматься, знает ли он её на самом деле.",
       "poster": "https://image.tmdb.org/t/p/w500/mayjUmmXGM1n5E5AJnOfylig10W.jpg",
       "tagline": "«Свадьба года»",
-      "backdrop": "https://image.tmdb.org/t/p/original/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/gQxnJoswBzsENExzygVnFiemvK7.jpg",
       "cast": [
         {
           "name": "Зендея",
-          "photo": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
         },
         {
           "name": "Роберт Паттинсон",
-          "photo": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
         },
         {
           "name": "Алана Хаим",
@@ -803,7 +727,7 @@
         },
         {
           "name": "Мамуду Ати",
-          "photo": "https://image.tmdb.org/t/p/w185/dUsJ41XjNUEHGQjQcGjBsytrGqo.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
         }
       ],
       "director": {
@@ -820,9 +744,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "6530127",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6530127/"
+      "isAuction": false
     },
     {
       "title": "8 миля",
@@ -833,7 +755,7 @@
       "studios": "🟢 Mikona Productions, 🟢 Imagine Entertainment",
       "budget": "41.000.000 $",
       "revenue": "242.875.078 $",
-      "tmdbRating": "7.1",
+      "tmdbRating": "7.147",
       "overview": "Детройт, 90-ые. Джимми Смит-младший — молодой парень, работающий на фабрике. Он живёт на севере неблагополучного района 8 миля вместе со своей матерью-алкоголичкой, её жестоким бойфрендом и младшей сестрой. Единственная мечта Джимми — найти собственное звучание и стать популярным рэп-исполнителем. Выступления на музыкальных сценах Детройта приводят к падениям и взлётам, обостряя сильнейшую внутреннюю борьбу.",
       "poster": "https://image.tmdb.org/t/p/w500/1016JRRJNu6QlOmcnEycOdBREQP.jpg",
       "tagline": "«Каждый Миг - это Шанс»",
@@ -870,20 +792,18 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "581",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/581/"
+      "isAuction": false
     },
     {
       "title": "Красавица и дракон",
       "year": "2021",
       "type": "Аниме",
       "runtime": "2 ч 1 мин",
-      "genres": "мультфильм, фантастика, драма, музыка",
+      "genres": "мультфильм, фантастика, фэнтези",
       "studios": "🟢 Studio Chizu, 🟢 Nippon Television Network Corporation, 🟢 dentsu, 🟢 TOHO, 🟢 KADOKAWA, 🟢 Hakuhodo DY Media Partners, 🟢 Yomiuri Telecasting Corporation, 🟢 BookWalker, 🟢 NTT Docomo, 🟢 Lawson Entertainment, 🟢 Yomiuri Shimbun Company, 🟢 movic",
       "budget": "Нет данных",
       "revenue": "63.501.160 $",
-      "tmdbRating": "7.611",
+      "tmdbRating": "7.61",
       "overview": "17-летняя старшеклассница Судзу воспитывается отцом и никак не может смириться с ранней смертью матери. Так как вдвоём с мамой они очень любили петь, с тех пор Судзу забросила пение, но стала писать песни. Девушка решает, что в виртуальном пространстве U, где обитает 5 миллиардов пользователей, она станет другой личностью, и создаёт полную свою противоположность — красавицу-певицу по имени Белль. В этой новой реальности девушка быстро становится популярной и обретает миллионы поклонников. Однажды её виртуальный концерт срывает загадочный пользователь в виде дракона, и Судзу решает узнать, кто же он на самом деле.",
       "poster": "https://image.tmdb.org/t/p/w500/s0Tx3CjieqroyN0mHcuMuCoHnCc.jpg",
       "tagline": "«Открой мир, где ты можешь любить, где ты можешь быть собой»",
@@ -920,9 +840,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "2043233",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2043233/"
+      "isAuction": false
     },
     {
       "title": "Девочка, покорившая время",
@@ -970,9 +888,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "273209",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/273209/"
+      "isAuction": false
     },
     {
       "title": "Сплит",
@@ -983,7 +899,7 @@
       "studios": "🟢 Blinding Edge Pictures, 🟢 Blumhouse Productions",
       "budget": "9.000.000 $",
       "revenue": "278.454.358 $",
-      "tmdbRating": "7.341",
+      "tmdbRating": "7.342",
       "overview": "Кевин, человек, в котором живет не менее двадцати трех личностей, вынужден похитить трех девочек подросткового возраста. Тем временем, пока они находятся в заточении, самая главная личность Кевина — Чудовище — материализуется.",
       "poster": "https://image.tmdb.org/t/p/w500/xrVZF8DJNTPiILFygj8sg4tmauV.jpg",
       "tagline": "Внутри Кевина живут 23 личности. Вскоре еще одна явит себя миру",
@@ -1014,15 +930,13 @@
       "ageRating": "16+",
       "keywords": "child abuse, philadelphia, pennsylvania, kidnapping, gore, sequel",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
-      "collection": "",
+      "collection": "Eastrail 177 Collection",
       "id": 36,
       "dateRequested": "26.07.2026 12:48",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "930534",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/930534/"
+      "isAuction": false
     },
     {
       "title": "Облачно, возможны осадки в виде фрикаделек",
@@ -1033,7 +947,7 @@
       "studios": "🟢 Sony Pictures Animation, 🟢 Columbia Pictures",
       "budget": "100.000.000 $",
       "revenue": "242.988.466 $",
-      "tmdbRating": "6.663",
+      "tmdbRating": "6.662",
       "overview": "Главный герой мультфильма — странный ученый Флинт Локвуд, который всегда хотел изобрести что-то такое, что сделает его родной городок счастливым. И вот, у него получилось! Еды теперь хватает всем, и она просто падает с неба, создавая новые пейзажи вокруг: можно любоваться закатом с живописных холмов из фруктового желе. Но иногда вкусные осадки в виде фрикаделек могут превратиться в настоящий торнадо из аппетитных, но уже опасных спагетти! Гениальному ученому и его друзьям предстоит исправить положение дел в сытом городке.",
       "poster": "https://image.tmdb.org/t/p/w500/ePnI73UEGY8nE9ZGIWQKLj0qBPN.jpg",
       "tagline": "«Приготовьтесь к подаче!»",
@@ -1070,9 +984,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "276363",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/276363/"
+      "isAuction": false
     },
     {
       "title": "Эта дурацкая любовь",
@@ -1083,7 +995,7 @@
       "studios": "🔴 Warner Bros. Pictures",
       "budget": "50.000.000 $",
       "revenue": "145.079.584 $",
-      "tmdbRating": "7.277",
+      "tmdbRating": "7.275",
       "overview": "У Кола Уивера, пуританских взглядов семьянина в возрасте «чуть-чуть за сорок», не жизнь, а мечта — хорошая работа, прекрасный дом, замечательные дети и брак со школьной возлюбленной. Но когда Кол узнает, что его жена Эмили изменила ему и хочет развода, его «идеальная» жизнь быстро рушится. Хуже того, говоря современным языком, Кол, который уже пару десятилетий не ходил на свидания, являет собой настоящего «лоха».И вот, проводя все свое свободное время в баре в дурном расположении духа, несчастный Кол становится протеже обаятельного («чуть-чуть за тридцать») игрока Джейкоба Палмера. Пытаясь помочь Колу забыть жену и начать собственную жизнь, Джейкоб открывает ему глаза на многочисленные возможности, открывающиеся перед ним: кокетливые женщины, крепкие напитки и чувство стиля, которое нельзя найти в дешевой парикмахерской или магазине распродаж.",
       "poster": "https://image.tmdb.org/t/p/w500/ho2mxV5t3ZxsgSNP1JMHfxdxpkW.jpg",
       "tagline": "Это - сумашествие",
@@ -1103,7 +1015,7 @@
         },
         {
           "name": "Эмма Стоун",
-          "photo": "https://image.tmdb.org/t/p/w185/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
         }
       ],
       "director": {
@@ -1120,9 +1032,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "493992",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/493992/"
+      "isAuction": false
     },
     {
       "title": "Отель «Гранд Будапешт»",
@@ -1170,9 +1080,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "683999",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/683999/"
+      "isAuction": false
     },
     {
       "title": "Король Англии",
@@ -1183,7 +1091,7 @@
       "studios": "🟢 Plan B Entertainment, 🟢 Porchlight Films, 🟢 Blue-Tongue Films, 🟢 Yoki",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "7.158",
+      "tmdbRating": "7.157",
       "overview": "Англия, начало XV века, разгар Столетней войны. Принц Уэльский Хел ведёт распутный образ жизни со своим приятелем Фальстафом и не помышляет о притязаниях на трон. Но когда от болезни умирает его отец, король Генрих IV, а младший брат погибает на поле боя, Хелу приходится принять корону. Став Генрихом V, молодой правитель ловко разбирается с заговорами и восстаниями, а также решает, что французские монархи не проявляют к нему должного уважения.",
       "poster": "https://image.tmdb.org/t/p/w500/9a4NYjNifcgNWonUsKJTW7i91LC.jpg",
       "tagline": "",
@@ -1220,9 +1128,7 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "1114570",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1114570/"
+      "isAuction": false
     },
     {
       "title": "Лило и Стич 2: Большая Проблема Стича",
@@ -1233,7 +1139,7 @@
       "studios": "🟢 Disney Television Animation, 🟢 DisneyToon Studios",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "6.702",
+      "tmdbRating": "6.701",
       "overview": "Стич помогает Лило пойти по стопам ее матери в подготовке к большому танцевальному конкурсу на острове. Жизнь кажется идеальной, пока Стич не попадает в затруднительное положение, и тогда все идет наперекосяк. И вот пришла пора Лило, Нани, Джамба и их всей большой семье последовать законам «Оханы» и прийти на помощь маленькому веселому другу.",
       "poster": "https://image.tmdb.org/t/p/w500/iXI3yci0L32ItDicRH3AUyuKsGp.jpg",
       "tagline": "«Самый опасный инопланетянин в мире вернулся»",
@@ -1271,9 +1177,7 @@
       "ourRating": "Без оценки",
       "cried": true,
       "isAuction": false,
-      "dateWatched": "15.06.2025 16:36",
-      "kinopoiskId": "160921",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/160921/"
+      "dateWatched": "15.06.2025 16:36"
     },
     {
       "title": "Я Краснею",
@@ -1284,7 +1188,7 @@
       "studios": "🟢 Pixar",
       "budget": "175.000.000 $",
       "revenue": "21.813.358 $",
-      "tmdbRating": "7.332",
+      "tmdbRating": "7.334",
       "overview": "Торонто, 2002 год. Активная и неунывающая 13-летняя Мэйлинь всеми силами пытается быть первой во всём, чтобы угодить строгой гиперопекающей матери. Семья девочки живёт при храме и поклоняется Богине-прародительнице. Одним прекрасным утром Мэйлинь просыпается и вместо привычного отражения в зеркале видит красную панду — теперь, когда она волнуется, злится или испытывает другие сильные эмоции, превращается в большого зверя.",
       "poster": "https://image.tmdb.org/t/p/w500/ft3eKr1ah85out6t6nAsZ1EAdUM.jpg",
       "tagline": "«Не Буди во мне Зверя»",
@@ -1322,9 +1226,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "07.07.2025 16:39",
-      "kinopoiskId": "1238292",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1238292/"
+      "dateWatched": "07.07.2025 16:39"
     },
     {
       "title": "Похождения императора",
@@ -1335,7 +1237,7 @@
       "studios": "🟢 Walt Disney Feature Animation, 🟢 Walt Disney Pictures",
       "budget": "100.000.000 $",
       "revenue": "169.327.687 $",
-      "tmdbRating": "7.565",
+      "tmdbRating": "7.564",
       "overview": "Как и положено царственной особе, император Куско — очень занятой человек. Но последнее его занятие грозит обернуться большими неприятностями: правитель решил построить для себя водный парк, предварительно снеся одну из деревень королевства.  Этот план непременно бы воплотился в жизнь, если бы неприятность не произошла уже с самим императором: недруги превратили его в ламу! Но напасти на этом не закончились: единственным человеком, который мог помочь императору вернуться на трон и в собственное тело, оказывается житель деревни, обреченной на снос. Дорога домой для Куско обещает быть очень долгой.",
       "poster": "https://image.tmdb.org/t/p/w500/xeDg6fbmjjj5H7CsKEWpOEK9n2m.jpg",
       "tagline": "",
@@ -1343,7 +1245,7 @@
       "cast": [
         {
           "name": "Дэвид Спейд",
-          "photo": "https://image.tmdb.org/t/p/w185/jt01hSaSyHgaJtnCTFkfQGHyywV.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/8tv638lAMLmYh8bSLICqPzbW3tv.jpg"
         },
         {
           "name": "Джон Гудман",
@@ -1373,9 +1275,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "19.08.2025 16:39",
-      "kinopoiskId": "658",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/658/"
+      "dateWatched": "19.08.2025 16:39"
     },
     {
       "title": "Горбун из Нотр Дама",
@@ -1386,7 +1286,7 @@
       "studios": "🟢 Walt Disney Pictures, 🟢 Walt Disney Feature Animation",
       "budget": "100.000.000 $",
       "revenue": "325.300.000 $",
-      "tmdbRating": "7.134",
+      "tmdbRating": "7.131",
       "overview": "Юная цыганка Эсмеральда зарабатывает на жизнь танцами. У нее есть друзья, но недоброжелатели столь могущественны, что Эсмеральда попадает в тюрьму. Звонарь Квазимодо устраивает девушке побег. А потом спасает ее, когда ослепленный ненавистью епископ Фролло пытается сам расправиться с ней. Этот мультфильм, в отличии от известного романа В. Гюго, кончается счастливо для главных героев.",
       "poster": "https://image.tmdb.org/t/p/w500/c2grvHRrQmnHfCs4mg4w5OMDpQb.jpg",
       "tagline": "Присоединяйтесь к вечеринке!",
@@ -1424,9 +1324,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "20.08.2025 16:40",
-      "kinopoiskId": "2421",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2421/"
+      "dateWatched": "20.08.2025 16:40"
     },
     {
       "title": "Карлик Нос",
@@ -1475,9 +1373,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "27.08.2025 16:40",
-      "kinopoiskId": "50946",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/50946/"
+      "dateWatched": "27.08.2025 16:40"
     },
     {
       "title": "Роботы",
@@ -1488,7 +1384,7 @@
       "studios": "🟢 Blue Sky Studios, 🟢 20th Century Fox Animation",
       "budget": "75.000.000 $",
       "revenue": "262.511.490 $",
-      "tmdbRating": "6.491",
+      "tmdbRating": "6.489",
       "overview": "Действие фильма разворачивается в мире, населённом исключительно роботами. Как и в мире людей у них есть своя социальная лестница, свои герои и изгои. Молодой гений Родни мечтает сделать мир роботов лучше. А ещё ему очень нравится одна молоденькая сексапильная роботша Каппи. Но на пути всех его планов стоит ведущий дизайнер роботов Биг Велд, принадлежащий к тому же сословию, что и Каппи...",
       "poster": "https://image.tmdb.org/t/p/w500/cxQWos3VQvYysu2bMF9nwa0lUG5.jpg",
       "tagline": "",
@@ -1519,16 +1415,14 @@
       "ageRating": "6+",
       "keywords": "inventor, businessman, villain, steampunk, robot",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
-      "collection": "",
+      "collection": "Robots Collection",
       "id": 6,
       "dateRequested": "28.08.2025 11:26",
       "status": "Смотрели",
       "ourRating": "Без оценки",
       "cried": true,
       "isAuction": false,
-      "dateWatched": "29.08.2025 16:41",
-      "kinopoiskId": "40666",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/40666/"
+      "dateWatched": "29.08.2025 16:41"
     },
     {
       "title": "Джентльмены",
@@ -1539,7 +1433,7 @@
       "studios": "🟢 Miramax, 🟢 Toff Guy Films, 🟢 Coach Films",
       "budget": "22.000.000 $",
       "revenue": "115.171.795 $",
-      "tmdbRating": "7.659",
+      "tmdbRating": "7.661",
       "overview": "Один ушлый американец ещё со студенческих лет приторговывал наркотиками, а теперь придумал схему нелегального обогащения с использованием поместий обедневшей английской аристократии и очень неплохо на этом разбогател. Другой пронырливый журналист приходит к Рэю, правой руке американца, и предлагает тому купить киносценарий, в котором подробно описаны преступления его босса при участии других представителей лондонского криминального мира — партнёра-еврея, китайской диаспоры, чернокожих спортсменов и даже русского олигарха.",
       "poster": "https://image.tmdb.org/t/p/w500/vWxVVECgYDPSg5o0Rhw5u7KFa7X.jpg",
       "tagline": "«Криминал. Класс»",
@@ -1577,9 +1471,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "11.09.2025 16:41",
-      "kinopoiskId": "1143242",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1143242/"
+      "dateWatched": "11.09.2025 16:41"
     },
     {
       "title": "Аладдин",
@@ -1590,7 +1482,7 @@
       "studios": "🟢 Walt Disney Feature Animation",
       "budget": "28.000.000 $",
       "revenue": "504.050.219 $",
-      "tmdbRating": "7.657",
+      "tmdbRating": "7.7",
       "overview": "В славном городе Аграба живёт Аладдин, весёлый воришка с золотым сердцем. Живёт и не знает, что вскоре его ждет величайшее приключение в жизни. Ведь только с его помощью чёрный маг Джафар может овладеть невероятным сокровищем — лампой, в которой заключён исполняющий желания могущественный Джинн. И только хитроумие, смекалка и доброта Аладдина способны помешать Джафару завладеть лампой и захватить власть над миром.",
       "poster": "https://image.tmdb.org/t/p/w500/92GjkHUHMn9HIZqihuradZNZNLb.jpg",
       "tagline": "«Желание Исполнено»",
@@ -1614,8 +1506,8 @@
         }
       ],
       "director": {
-        "name": "Рон Клементс",
-        "photo": "https://image.tmdb.org/t/p/w185/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg"
+        "name": "Джон Маскер",
+        "photo": "https://image.tmdb.org/t/p/w185/vSn1d9JpEpECu9cQbRGTFWZdLhA.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=DVFKbJ30flA",
       "ageRating": "Нет данных",
@@ -1628,9 +1520,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "03.03.2025 16:42",
-      "kinopoiskId": "2361",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2361/"
+      "dateWatched": "03.03.2025 16:42"
     },
     {
       "title": "Моана",
@@ -1641,7 +1531,7 @@
       "studios": "🟢 Walt Disney Animation Studios",
       "budget": "150.000.000 $",
       "revenue": "690.860.472 $",
-      "tmdbRating": "7.565",
+      "tmdbRating": "7.566",
       "overview": "Действие происходит 2000 лет назад, в островах Тихого океана. Дочка вождя, 14-летняя мечтательница Моана Ваялики, чтобы найти свою семью, отправляется в путешествие по океану в поисках сказочного острова с её героем полубогом-трикстером Мауи, и вместе им предстоит переплыть океан, встречая по пути огромных морских существ.",
       "poster": "https://image.tmdb.org/t/p/w500/drbVlDdeqRLoxylGpym4dECh5ai.jpg",
       "tagline": "«Океан Зовёт»",
@@ -1679,9 +1569,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "05.04.2026 16:42",
-      "kinopoiskId": "837530",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/837530/"
+      "dateWatched": "05.04.2026 16:42"
     },
     {
       "title": "Энканто",
@@ -1692,7 +1580,7 @@
       "studios": "🟢 Walt Disney Animation Studios",
       "budget": "150.000.000 $",
       "revenue": "261.292.688 $",
-      "tmdbRating": "7.565",
+      "tmdbRating": "7.566",
       "overview": "Удивительная семья Мадригалов живёт в спрятанном в горах Колумбии волшебном доме, расположенном в чудесном и очаровательном уголке под названием Энканто. Каждого ребёнка в семье Мадригалов магия этого места благословила уникальным даром — от суперсилы до способности исцелять. Увы, магия обошла стороной одну лишь юную Мирабель. Обнаружив, что магия Энканто находится в опасности, Мирабель решает, что именно она может быть последней надеждой на спасение своей особенной семьи.",
       "poster": "https://image.tmdb.org/t/p/w500/yAw00ke7CzSLe4mMuCGkAzma69K.jpg",
       "tagline": "«В Этой Семье Все Уникальные... Кроме Мирабэль»",
@@ -1730,9 +1618,7 @@
       "ourRating": "Без оценки",
       "cried": true,
       "isAuction": false,
-      "dateWatched": "12.04.2026 16:44",
-      "kinopoiskId": "775278",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/775278/"
+      "dateWatched": "12.04.2026 16:44"
     },
     {
       "title": "Тайна Коко",
@@ -1781,9 +1667,7 @@
       "ourRating": "Без оценки",
       "cried": true,
       "isAuction": false,
-      "dateWatched": "19.04.2026 16:44",
-      "kinopoiskId": "679486",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/679486/"
+      "dateWatched": "19.04.2026 16:44"
     },
     {
       "title": "Аисты",
@@ -1794,7 +1678,7 @@
       "studios": "🔴 Warner Bros. Pictures | 🟢 RatPac Entertainment, 🟢 Warner Animation Group, 🟢 Stoller Global Solutions",
       "budget": "70.000.000 $",
       "revenue": "182.379.278 $",
-      "tmdbRating": "6.681",
+      "tmdbRating": "6.68",
       "overview": "Аисты приносят детей... или, во всяком случае, раньше приносили. Теперь же они занимаются доставкой посылок для огромного сайта интернет-продаж. Джуниор, лучший аист в курьерской компании, должен пойти на повышение, но он случайно активирует машину для создания детей и получает очаровательную, но совершенно незапланированную девочку.",
       "poster": "https://image.tmdb.org/t/p/w500/ujSKynpeLqSVM8VZ5pSccQQrEyW.jpg",
       "tagline": "Дети — наша работа",
@@ -1832,9 +1716,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "13.05.2026 16:45",
-      "kinopoiskId": "894045",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/894045/"
+      "dateWatched": "13.05.2026 16:45"
     },
     {
       "title": "Прыгуны",
@@ -1844,12 +1726,12 @@
       "genres": "приключения, мультфильм, комедия, семейный, фантастика",
       "studios": "🟢 Pixar",
       "budget": "150.000.000 $",
-      "revenue": "389.685.783 $",
-      "tmdbRating": "8.185",
+      "revenue": "389.547.783 $",
+      "tmdbRating": "8.192",
       "overview": "Любительница животных Мейбл использует умную новуютехнологию, предназначенную для «перескакивания» человеческого сознанияв реалистичных роботизированных животных, чтобы общаться с бобрами, раскрывая тайны животного мира, которые она даже не могла себе представить.",
       "poster": "https://image.tmdb.org/t/p/w500/4eqr5LZH122BiU9hboXHZxX8bBl.jpg",
       "tagline": "«Будь собой»",
-      "backdrop": "https://image.tmdb.org/t/p/original/3Jj0A10NVu2dWnoEL5t5oT79L1Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "cast": [
         {
           "name": "Пайпер Курда",
@@ -1883,9 +1765,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "10.06.2026 16:51",
-      "kinopoiskId": "6111021",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6111021/"
+      "dateWatched": "10.06.2026 16:51"
     },
     {
       "title": "Goat: Мечтай по-крупному",
@@ -1896,7 +1776,7 @@
       "studios": "🟢 Sony Pictures Animation, 🟢 Unanimous Media, 🟢 Modern Magic, 🟢 Columbia Pictures, 🟢 MACRO, 🟢 TSG Entertainment",
       "budget": "90.000.000 $",
       "revenue": "193.566.330 $",
-      "tmdbRating": "8.105",
+      "tmdbRating": "8.12",
       "overview": "Козёл Уилл Харрис получает уникальный шанс стать профессионалом в звероболе, контактном виде спорта, где доминируют самые большие и сильные животные. Его новые партнёры по команде не в восторге от того, что в их составе оказалась такая мелочь, но Уилл намерен изменить спорт раз и навсегда.",
       "poster": "https://image.tmdb.org/t/p/w500/4WQ56hzt2M0coLGVMPwsoLzZZUE.jpg",
       "tagline": "«Он играет по-крупному»",
@@ -1934,9 +1814,7 @@
       "ourRating": "Без оценки",
       "cried": true,
       "isAuction": false,
-      "dateWatched": "23.07.2026 16:52",
-      "kinopoiskId": "8613385",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/8613385/"
+      "dateWatched": "23.07.2026 16:52"
     },
     {
       "title": "Проект «Конец света»",
@@ -1946,12 +1824,12 @@
       "genres": "фантастика, приключения",
       "studios": "🟢 Lord Miller, 🟢 Amazon MGM Studios, 🟢 Pascal Pictures, 🟢 Open Invite Entertainment, 🟢 Waypoint Entertainment",
       "budget": "200.000.000 $",
-      "revenue": "684.234.722 $",
-      "tmdbRating": "8.658",
+      "revenue": "683.979.467 $",
+      "tmdbRating": "8.657",
       "overview": "Астронавт Райленд Грейс просыпается на космическом корабле, не помня ни себя, ни свою миссию. Постепенно мужчина приходит к выводу, что он — единственный выживший из экипажа, отправленного в звёздную систему Тау Кита в поисках спасения от катастрофы на Земле. Райленду предстоит положиться на свои обширные научные знания, изобретательность и силу воли, но, возможно, ему не придётся искать в одиночку.",
       "poster": "https://image.tmdb.org/t/p/w500/lGNWODvZnfiocvegYSw1bYnm6pt.jpg",
       "tagline": "«Последняя надежда двух миров»",
-      "backdrop": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
       "cast": [
         {
           "name": "Райан Гослинг",
@@ -1985,9 +1863,7 @@
       "ourRating": "Без оценки",
       "cried": true,
       "isAuction": false,
-      "dateWatched": "21.07.2026 16:53",
-      "kinopoiskId": "1382256",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1382256/"
+      "dateWatched": "21.07.2026 16:53"
     },
     {
       "title": "Молодой Шерлок",
@@ -1998,7 +1874,7 @@
       "studios": "🟢 Motive Pictures, 🟢 Amazon MGM Studios, 🟢 Inspirational Entertainment, 🟢 Jack Tar Pictures",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "7.843",
+      "tmdbRating": "7.848",
       "overview": "События разворачиваются в Лондоне и Оксфорде, около 1870-х годов. 19-летний Шерлок Холмс освобождён из тюрьмы по протекции старшего брата Майкрофта и становится уборщиком в кампусе Оксфорда. Здесь он знакомится со студентом Джеймсом Мориарти и между молодыми людьми возникает дружба. Мама Шерлока и Майкрофта Корделия Холмс помещена мужем в психиатрическую клинику из-за отклонений в поведении. Много лет назад она потеряла в результате несчастного случая дочь Беатрис и с тех пор не может прийти в себя. Шерлок тоже считает себя виновным в смерти сестры.",
       "poster": "https://image.tmdb.org/t/p/w500/52UzDGe5rdaswTT9pa0masj25Z8.jpg",
       "tagline": "Думай быстро. Действуй ещё быстрее.",
@@ -2030,19 +1906,117 @@
       "keywords": "based on novel or book, conspiracy, oxford, england, globetrotting, oxford university",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
       "collection": "",
+      "seasons": "1",
+      "episodes": "8",
+      "tvStatus": "Returning Series",
       "id": 43,
       "dateRequested": "28.07.2026 10:52",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "5591410",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/5591410/",
-      "seasons": "2",
-      "episodes": "11",
-      "tvStatus": "Returning Series"
+      "isAuction": false
     }
   ],
+  "SeRRRg0": [
+    {
+      "title": "Трансформеры 2: Месть Падших",
+      "year": "2009",
+      "type": "Фильм",
+      "runtime": "2 ч 27 мин",
+      "genres": "фантастика, боевик, приключения",
+      "studios": "🟢 DreamWorks Pictures, 🟢 Paramount Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Ian Bryce Productions",
+      "budget": "200.000.000 $",
+      "revenue": "836.304.167 $",
+      "tmdbRating": "6.223",
+      "overview": "Прошло 2 года с тех пор, как юный Сэм Уитвикки спас Вселенную, предотвратив глобальную битву между враждующими воинственными расами инопланетных роботов. Несмотря на свои героические подвиги, Сэм остаётся обычным подростком с обычными проблемами — поступление в колледж и родителями. Разумеется, отъезд будет тяжело воспринят лучшим другом, роботом — телохранителем Бамблби.",
+      "poster": "https://image.tmdb.org/t/p/w500/faLkNsOPqiw2ijqDOfEy2GUscw2.jpg",
+      "tagline": "«Месть неминуема»",
+      "backdrop": "https://image.tmdb.org/t/p/original/bH1bhjn37uA1zOPvyHbzJSvza7v.jpg",
+      "cast": [
+        {
+          "name": "Шайа ЛаБаф",
+          "photo": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+        },
+        {
+          "name": "Меган Фокс",
+          "photo": "https://image.tmdb.org/t/p/w185/zQp2YM0zbC27Ws97LNbyicysk8p.jpg"
+        },
+        {
+          "name": "Питер Каллен",
+          "photo": "https://image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+        },
+        {
+          "name": "Хьюго Уивинг",
+          "photo": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+        }
+      ],
+      "director": {
+        "name": "Майкл Бэй",
+        "photo": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=CBSIrwp9Iu4",
+      "ageRating": "PG-13",
+      "keywords": "egypt, chaos, sun, tank, symbol",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51e15def-2f0e-4692-ae48-f922021be13f-profile_image-600x600.png",
+      "collection": "Трансформеры (Коллекция)",
+      "id": 44,
+      "dateRequested": "30.07.2026 11:13",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Трансформеры 3: Тёмная сторона Луны",
+      "year": "2011",
+      "type": "Фильм",
+      "runtime": "2 ч 26 мин",
+      "genres": "боевик, фантастика, приключения",
+      "studios": "🟢 Paramount Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Ian Bryce Productions",
+      "budget": "195.000.000 $",
+      "revenue": "1.123.794.079 $",
+      "tmdbRating": "6.238",
+      "overview": "Для наших героев наступили печальные будни: Сэм потерял Микаэлу, правительство выпускает законодательный акт о выселении Автоботов с Земли, а пока Мегатрон скрывается после позорного поражения Фоллена, десептикон Шокуэйв, правитель Кибертрона, готовится нанести визит нашей планете с совсем недобрыми намерениями.",
+      "poster": "https://image.tmdb.org/t/p/w500/9wamNeMspa2wLWyZW1af6PMhfCa.jpg",
+      "tagline": "«Последний шанс цивилизации»",
+      "backdrop": "https://image.tmdb.org/t/p/original/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
+      "cast": [
+        {
+          "name": "Шайа ЛаБаф",
+          "photo": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+        },
+        {
+          "name": "Роузи Хантингтон-Уайтли",
+          "photo": "https://image.tmdb.org/t/p/w185/oq5iX2VoLGF41P5DmNDNJcczESR.jpg"
+        },
+        {
+          "name": "Питер Каллен",
+          "photo": "https://image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+        },
+        {
+          "name": "Леонард Нимой",
+          "photo": "https://image.tmdb.org/t/p/w185/eKhw3oK8ak5LDB29X9zQDLIqRhw.jpg"
+        }
+      ],
+      "director": {
+        "name": "Майкл Бэй",
+        "photo": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "chicago, illinois, spacecraft, moon, traitor, bodyguard",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51e15def-2f0e-4692-ae48-f922021be13f-profile_image-600x600.png",
+      "collection": "Трансформеры (Коллекция)",
+      "id": 45,
+      "dateRequested": "31.07.2026 11:27",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    }
+  ],
+  "cross_loss": [],
+  "Cross_loss": [],
   "chipotl_s": [
     {
       "title": "Опасная игра Слоун",
@@ -2053,7 +2027,7 @@
       "studios": "🟢 FilmNation Entertainment, 🟢 Transfilm, 🟢 Archery Pictures, 🟢 Ciné+, 🟢 France 2 Cinéma, 🟢 Canal+, 🟢 France Télévisions Distribution",
       "budget": "13.000.000 $",
       "revenue": "9.101.546 $",
-      "tmdbRating": "7.402",
+      "tmdbRating": "7.405",
       "overview": "История о блестящем и беспощадном лоббисте, которая прославилась беспрецедентным талантом и желанием победить любой ценой, даже тогда, когда это ставит ее карьеру под угрозу.",
       "poster": "https://image.tmdb.org/t/p/w500/fU47nr8ttPvlL3lDDe0lcnTUFkP.jpg",
       "tagline": "Неудержимая, азартная, беспринципная",
@@ -2091,9 +2065,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "16.07.2026 16:50",
-      "kinopoiskId": "933307",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/933307/"
+      "dateWatched": "16.07.2026 16:50"
     }
   ],
   "pepusha_": [
@@ -2144,9 +2116,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "25.05.2026 16:47",
-      "kinopoiskId": "839650",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/839650/"
+      "dateWatched": "25.05.2026 16:47"
     },
     {
       "title": "Лоракс",
@@ -2157,7 +2127,7 @@
       "studios": "🟢 Illumination, 🟢 dentsu",
       "budget": "70.000.000 $",
       "revenue": "349.305.397 $",
-      "tmdbRating": "6.536",
+      "tmdbRating": "6.538",
       "overview": "Недалекое будущее. Стоит нажать на кнопку — и мир изменится по твоему желанию: прямо под окном вырастут горы, во дворе зашумит океан. Единственная неприятность — все вокруг сделано из пластика. Но для влюбленного нет преград. Одно желание прекрасной девушки — увидеть последнее живое дерево — и он пускается в путь.",
       "poster": "https://image.tmdb.org/t/p/w500/pCq2zMcfyC0METerLKJahBmlR0v.jpg",
       "tagline": "",
@@ -2195,9 +2165,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "11.06.2026 16:49",
-      "kinopoiskId": "470036",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/470036/"
+      "dateWatched": "11.06.2026 16:49"
     },
     {
       "title": "Стой! Или моя мама будет стрелять",
@@ -2208,11 +2176,11 @@
       "studios": "🟢 Universal Pictures, 🟢 Northern Lights Entertainment",
       "budget": "Нет данных",
       "revenue": "70.611.210 $",
-      "tmdbRating": "5.345",
+      "tmdbRating": "5.342",
       "overview": "У сержанта полиции Лос-Анджелеса Джо Борновски жизнь перевернулась вверх дном после того, как его милая мамаша Тутти решила навестить любимого сыночка. К огромной радости подружки и непосредственного начальника Джо, лейтенанта Гвен Харпер, Тутти сразу приводит в порядок его холостяцкую берлогу и начинает налаживать «хозяйство».  Как вы прекрасно понимаете, бравый сержант не в восторге от всех этих нововведений. А тут еще, в дополнение ко всем проблемам, неугомонная Тутти оказывается свидетельницей убийства и требует… чтобы сын позволил ей участвовать в расследовании!  В итоге Джо получает нового напарника — собственную мамулю, которая решает задать преступникам солидную трепку!",
       "poster": "https://image.tmdb.org/t/p/w500/9BcMEkVnQIPvdeTF73T0Mxl2cxl.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/dICmmT2dIC5DSYhzS861jSl23ii.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/nKJz9OZNZYk8JcUx6oDEgxcDfos.jpg",
       "cast": [
         {
           "name": "Сильвестр Сталлоне",
@@ -2246,9 +2214,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "09.07.2026 16:49",
-      "kinopoiskId": "9556",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/9556/"
+      "dateWatched": "09.07.2026 16:49"
     }
   ],
   "tiltnessa": [
@@ -2261,7 +2227,7 @@
       "studios": "🟢 ImageMovers, 🟢 Amblin Entertainment",
       "budget": "75.000.000 $",
       "revenue": "140.175.006 $",
-      "tmdbRating": "6.707",
+      "tmdbRating": "6.706",
       "overview": "Хорошо быть мальчишкой. Каждый день, как вся жизнь! Столько всего вокруг: девчонки, мороженое, драки, учебники, футбол. Насыщенный день, короче, получается. А вот если ты однажды обнаружил, что дом, который стоит по соседству с домом твоей семьи — вовсе не дом… А попросту говоря — монстр. Чудовище, в общем. Такие дела.Ну вот, история эта про то, как три приятеля — ДиДжей, Чёдер и Дженни — обнаружили, что дом, находящийся неподалеку, самый настоящий монстр. Только никто им не верил. Мало ли, чего навыдумывают дети… Только зря они так. Ребята их предупреждали…При создании фильма использовалась технология технологии motion capture. Актеры, одетые в костюмы, снимались вживую, а затем их движения оцифровывались и переносились на 3D-модели персонажей. На съемки ушло 42 дня. Для записи стонов и скрипов, которые издавал дом-монстр, не был задействован ни один синтезатор. Был найден очень старый сарай и были записаны звуки, которые издавала эта развалюха.",
       "poster": "https://image.tmdb.org/t/p/w500/pMc6kgawZybpnHuvPsrbgLWIGCW.jpg",
       "tagline": "Там по соседству...",
@@ -2299,9 +2265,7 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "15.05.2026 16:46",
-      "kinopoiskId": "77601",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77601/"
+      "dateWatched": "15.05.2026 16:46"
     }
   ]
 }
