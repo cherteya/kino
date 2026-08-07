@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "07.08.2026 15:42",
+    "lastUpdated": "07.08.2026 15:43",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -105,6 +105,56 @@
       "dateWatched": "02.06.2026 16:48",
       "kinopoiskId": "4199",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/4199/"
+    },
+    {
+      "title": "Целитель Адамс",
+      "year": "1998",
+      "type": "Фильм",
+      "kinopoiskId": "6123",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6123/",
+      "runtime": "1 ч 55 мин",
+      "genres": "комедия, драма",
+      "studios": "🟢 Universal Pictures, 🟢 Bungalow 78 Productions, 🟢 Blue Wolf, 🟢 Farrell/Minoff",
+      "budget": "50.000.000 $",
+      "revenue": "202.292.902 $",
+      "tmdbRating": "7.315",
+      "overview": "Познакомьтесь с Целителем Адамсом — доктором, который резко отличается от своих чопорных и важных коллег. Адамс совершил невероятное открытие в современной медицине. Оказывается, лучшим лекарством от любых болезней является смех. И доктор Адамс готов сделать все возможное, чтобы заставить своих пациентов, как, впрочем, и зрителей этой прекрасной картины, смеяться без перерыва!..",
+      "poster": "https://image.tmdb.org/t/p/w500/tMAz20MjVOgUsBDb3CfNqN2JxYC.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+      "cast": [
+        {
+          "name": "Робин Уильямс",
+          "photo": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+        },
+        {
+          "name": "Моника Поттер",
+          "photo": "https://image.tmdb.org/t/p/w185/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
+        },
+        {
+          "name": "Филип Сеймур Хоффман",
+          "photo": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+        },
+        {
+          "name": "Дэниэл Лондон",
+          "photo": "https://image.tmdb.org/t/p/w185/feRkUWfs2LpVzULMdkpBHN5JYdM.jpg"
+        }
+      ],
+      "director": {
+        "name": "Том Шедьяк",
+        "photo": "https://image.tmdb.org/t/p/w185/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "based on novel or book, nurse, 1970s, based on true story, psychiatric hospital",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 50,
+      "dateRequested": "07.08.2026 15:43",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
     }
   ],
   "bazar_gure": [
