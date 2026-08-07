@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "07.08.2026 15:40",
+    "lastUpdated": "07.08.2026 15:41",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -2343,6 +2343,56 @@
       "collection": "",
       "id": 48,
       "dateRequested": "07.08.2026 15:40",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Семья по-быстрому",
+      "year": "2018",
+      "type": "Фильм",
+      "kinopoiskId": "1108494",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1108494/",
+      "runtime": "1 ч 58 мин",
+      "genres": "комедия, драма",
+      "studios": "🟢 Closest to the Hole Productions, 🟢 Paramount Pictures, 🟢 Leverage Entertainment",
+      "budget": "48.000.000 $",
+      "revenue": "121.000.000 $",
+      "tmdbRating": "7.491",
+      "overview": "Бездетные супруги Пит и Элли решают усыновить ребёнка, но так уж получается, что в их семье появляется сразу 3-ое детей - 2 сестры и брат. Теперь Пит и Элли оказываются перед настоящим испытанием.",
+      "poster": "https://image.tmdb.org/t/p/w500/2jXgy1QEKJFMz33vREr0pjYIqPs.jpg",
+      "tagline": "«Хаос, смех, неловкость, ошибки, и любовь»",
+      "backdrop": "https://image.tmdb.org/t/p/original/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+      "cast": [
+        {
+          "name": "Марк Уолберг",
+          "photo": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+        },
+        {
+          "name": "Роуз Бирн",
+          "photo": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+        },
+        {
+          "name": "Аллин Рэйчел",
+          "photo": "https://image.tmdb.org/t/p/w185/1OndNkWkw1Jefq85isKKBLopWgK.jpg"
+        },
+        {
+          "name": "Изабела Мерсед",
+          "photo": "https://image.tmdb.org/t/p/w185/4SolFI9dwyPm6BXcb3PDcOYzSEl.jpg"
+        }
+      ],
+      "director": {
+        "name": "Sean Anders",
+        "photo": "https://image.tmdb.org/t/p/w185/vWO1FiGZPOL4FdhbxeykOXRfcXJ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=pXDPObblROQ",
+      "ageRating": "16+",
+      "keywords": "court case, social worker, adoption, based on true story, parenting",
+      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
+      "collection": "",
+      "id": 49,
+      "dateRequested": "07.08.2026 15:41",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
