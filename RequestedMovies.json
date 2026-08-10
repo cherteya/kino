@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "07.08.2026 15:43",
+    "lastUpdated": "10.08.2026 14:50",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -151,6 +151,56 @@
       "collection": "",
       "id": 50,
       "dateRequested": "07.08.2026 15:43",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Игры разума",
+      "year": "2001",
+      "type": "Фильм",
+      "kinopoiskId": "530",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/530/",
+      "runtime": "2 ч 15 мин",
+      "genres": "драма, мелодрама",
+      "studios": "🟢 Universal Pictures, 🟢 DreamWorks Pictures, 🟢 Imagine Entertainment",
+      "budget": "58.000.000 $",
+      "revenue": "316.791.257 $",
+      "tmdbRating": "7.853",
+      "overview": "От всемирной известности до греховных глубин — все это познал на своей шкуре Джон Форбс Нэш-младший. Математический гений, он на заре своей карьеры сделал титаническую работу в области теории игр, которая перевернула этот раздел математики и практически принесла ему международную известность. Однако буквально в то же время заносчивый и пользующийся успехом у женщин Нэш получает удар судьбы, который переворачивает уже его собственную жизнь.",
+      "poster": "https://image.tmdb.org/t/p/w500/7EX8TTBKCJR3x7xziOSp6M0bQdF.jpg",
+      "tagline": "«Если реальность ополчилась против тебя, ничто больше не безопасно...»",
+      "backdrop": "https://image.tmdb.org/t/p/original/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+      "cast": [
+        {
+          "name": "Рассел Кроу",
+          "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+        },
+        {
+          "name": "Дженнифер Коннелли",
+          "photo": "https://image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+        },
+        {
+          "name": "Эд Харрис",
+          "photo": "https://image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+        },
+        {
+          "name": "Пол Беттани",
+          "photo": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+        }
+      ],
+      "director": {
+        "name": "Рон Ховард",
+        "photo": "https://image.tmdb.org/t/p/w185/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=LH_UFaCZVTY",
+      "ageRating": "Нет данных",
+      "keywords": "schizophrenia, based on novel or book, love of one's life, self-discovery, professor",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 51,
+      "dateRequested": "10.08.2026 14:50",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
