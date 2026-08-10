@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "10.08.2026 14:50",
+    "lastUpdated": "10.08.2026 16:23",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -1993,56 +1993,6 @@
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/6036/"
     },
     {
-      "title": "Трансформеры 2: Месть Падших",
-      "year": "2009",
-      "type": "Фильм",
-      "runtime": "2 ч 27 мин",
-      "genres": "фантастика, боевик, приключения",
-      "studios": "🟢 DreamWorks Pictures, 🟢 Paramount Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Ian Bryce Productions",
-      "budget": "200.000.000 $",
-      "revenue": "836.304.167 $",
-      "tmdbRating": "6.224",
-      "overview": "Прошло 2 года с тех пор, как юный Сэм Уитвикки спас Вселенную, предотвратив глобальную битву между враждующими воинственными расами инопланетных роботов. Несмотря на свои героические подвиги, Сэм остаётся обычным подростком с обычными проблемами — поступление в колледж и родителями. Разумеется, отъезд будет тяжело воспринят лучшим другом, роботом — телохранителем Бамблби.",
-      "poster": "https://image.tmdb.org/t/p/w500/faLkNsOPqiw2ijqDOfEy2GUscw2.jpg",
-      "tagline": "«Месть неминуема»",
-      "backdrop": "https://image.tmdb.org/t/p/original/bH1bhjn37uA1zOPvyHbzJSvza7v.jpg",
-      "cast": [
-        {
-          "name": "Шайа ЛаБаф",
-          "photo": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
-        },
-        {
-          "name": "Меган Фокс",
-          "photo": "https://image.tmdb.org/t/p/w185/zQp2YM0zbC27Ws97LNbyicysk8p.jpg"
-        },
-        {
-          "name": "Питер Каллен",
-          "photo": "https://image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
-        },
-        {
-          "name": "Хьюго Уивинг",
-          "photo": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
-        }
-      ],
-      "director": {
-        "name": "Майкл Бэй",
-        "photo": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=CBSIrwp9Iu4",
-      "ageRating": "PG-13",
-      "keywords": "egypt, chaos, sun, tank, symbol",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51e15def-2f0e-4692-ae48-f922021be13f-profile_image-600x600.png",
-      "collection": "Трансформеры (Коллекция)",
-      "id": 44,
-      "dateRequested": "30.07.2026 11:13",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "373391",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/373391/"
-    },
-    {
       "title": "Трансформеры 3: Тёмная сторона Луны",
       "year": "2011",
       "type": "Фильм",
@@ -2193,6 +2143,57 @@
       "kinopoiskId": "81288",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/81288/",
       "dateWatched": "07.08.2026 15:42"
+    },
+    {
+      "title": "Трансформеры 2: Месть Падших",
+      "year": "2009",
+      "type": "Фильм",
+      "runtime": "2 ч 27 мин",
+      "genres": "фантастика, боевик, приключения",
+      "studios": "🟢 DreamWorks Pictures, 🟢 Paramount Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Ian Bryce Productions",
+      "budget": "200.000.000 $",
+      "revenue": "836.304.167 $",
+      "tmdbRating": "6.224",
+      "overview": "Прошло 2 года с тех пор, как юный Сэм Уитвикки спас Вселенную, предотвратив глобальную битву между враждующими воинственными расами инопланетных роботов. Несмотря на свои героические подвиги, Сэм остаётся обычным подростком с обычными проблемами — поступление в колледж и родителями. Разумеется, отъезд будет тяжело воспринят лучшим другом, роботом — телохранителем Бамблби.",
+      "poster": "https://image.tmdb.org/t/p/w500/faLkNsOPqiw2ijqDOfEy2GUscw2.jpg",
+      "tagline": "«Месть неминуема»",
+      "backdrop": "https://image.tmdb.org/t/p/original/bH1bhjn37uA1zOPvyHbzJSvza7v.jpg",
+      "cast": [
+        {
+          "name": "Шайа ЛаБаф",
+          "photo": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+        },
+        {
+          "name": "Меган Фокс",
+          "photo": "https://image.tmdb.org/t/p/w185/zQp2YM0zbC27Ws97LNbyicysk8p.jpg"
+        },
+        {
+          "name": "Питер Каллен",
+          "photo": "https://image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+        },
+        {
+          "name": "Хьюго Уивинг",
+          "photo": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+        }
+      ],
+      "director": {
+        "name": "Майкл Бэй",
+        "photo": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=CBSIrwp9Iu4",
+      "ageRating": "PG-13",
+      "keywords": "egypt, chaos, sun, tank, symbol",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51e15def-2f0e-4692-ae48-f922021be13f-profile_image-600x600.png",
+      "collection": "Трансформеры (Коллекция)",
+      "id": 44,
+      "dateRequested": "30.07.2026 11:13",
+      "status": "Смотрели",
+      "ourRating": "8",
+      "cried": false,
+      "isAuction": false,
+      "kinopoiskId": "373391",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/373391/",
+      "dateWatched": "10.08.2026 16:23"
     }
   ],
   "pepusha_": [
