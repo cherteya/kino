@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "12.08.2026 11:15",
+    "lastUpdated": "12.08.2026 15:18",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -615,58 +615,6 @@
       "dateWatched": "17.07.2026 16:52",
       "kinopoiskId": "3950",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/3950/"
-    }
-  ],
-  "Mira_Noire": [
-    {
-      "title": "Марли и я",
-      "year": "2008",
-      "type": "Фильм",
-      "runtime": "1 ч 55 мин",
-      "genres": "комедия, семейный",
-      "studios": "🟢 Sunswept Entertainment, 🟢 Dune Entertainment III",
-      "budget": "60.000.000 $",
-      "revenue": "255.700.000 $",
-      "tmdbRating": "7.177",
-      "overview": "Молодой журналист со своей женой переезжает в другой город на новое место работы. У них грандиозные планы: покупка дома, дети… Но сначала они заводят собаку. Кто бы мог подумать, что именно она станет главным испытанием в их жизни.",
-      "poster": "https://image.tmdb.org/t/p/w500/xb7GQZ1ttzYCKmHAAXfsr7C3Me2.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/tVoWbAAfTDIhTeo78SbA2V6mv8E.jpg",
-      "cast": [
-        {
-          "name": "Оуэн Уилсон",
-          "photo": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
-        },
-        {
-          "name": "Дженнифер Энистон",
-          "photo": "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
-        },
-        {
-          "name": "Эрик Дэйн",
-          "photo": "https://image.tmdb.org/t/p/w185/4PsLKBKN4e0zRT2oS4BjE8Xu1un.jpg"
-        },
-        {
-          "name": "Кэтлин Тёрнер",
-          "photo": "https://image.tmdb.org/t/p/w185/hvmMGjWKy1CGmaJzPtOtbb3fD57.jpg"
-        }
-      ],
-      "director": {
-        "name": "Дэвид Фрэнкел",
-        "photo": "https://image.tmdb.org/t/p/w185/hfIjLMo8Upl6MXhn1YcoDoXeeZn.jpg"
-      },
-      "trailer": "",
-      "ageRating": "PG",
-      "keywords": "journalist, based on novel or book, melancholy, puppy, love",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9288628b-de93-4a60-988c-c6a2c29386e6-profile_image-600x600.png",
-      "collection": "Марли и я (Коллекция)",
-      "id": 31,
-      "dateRequested": "26.07.2026 12:45",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "279850",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/279850/"
     }
   ],
   "cherteya": [
@@ -2549,6 +2497,59 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
+    }
+  ],
+  "Mira_Noire": [
+    {
+      "title": "Марли и я",
+      "year": "2008",
+      "type": "Фильм",
+      "runtime": "1 ч 55 мин",
+      "genres": "комедия, семейный",
+      "studios": "🟢 Sunswept Entertainment, 🟢 Dune Entertainment III",
+      "budget": "60.000.000 $",
+      "revenue": "255.700.000 $",
+      "tmdbRating": "7.177",
+      "overview": "Молодой журналист со своей женой переезжает в другой город на новое место работы. У них грандиозные планы: покупка дома, дети… Но сначала они заводят собаку. Кто бы мог подумать, что именно она станет главным испытанием в их жизни.",
+      "poster": "https://image.tmdb.org/t/p/w500/xb7GQZ1ttzYCKmHAAXfsr7C3Me2.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/tVoWbAAfTDIhTeo78SbA2V6mv8E.jpg",
+      "cast": [
+        {
+          "name": "Оуэн Уилсон",
+          "photo": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+        },
+        {
+          "name": "Дженнифер Энистон",
+          "photo": "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
+        },
+        {
+          "name": "Эрик Дэйн",
+          "photo": "https://image.tmdb.org/t/p/w185/4PsLKBKN4e0zRT2oS4BjE8Xu1un.jpg"
+        },
+        {
+          "name": "Кэтлин Тёрнер",
+          "photo": "https://image.tmdb.org/t/p/w185/hvmMGjWKy1CGmaJzPtOtbb3fD57.jpg"
+        }
+      ],
+      "director": {
+        "name": "Дэвид Фрэнкел",
+        "photo": "https://image.tmdb.org/t/p/w185/hfIjLMo8Upl6MXhn1YcoDoXeeZn.jpg"
+      },
+      "trailer": "",
+      "ageRating": "PG",
+      "keywords": "journalist, based on novel or book, melancholy, puppy, love",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9288628b-de93-4a60-988c-c6a2c29386e6-profile_image-600x600.png",
+      "collection": "Марли и я (Коллекция)",
+      "id": 31,
+      "dateRequested": "26.07.2026 12:45",
+      "status": "Смотрели",
+      "ourRating": "7",
+      "cried": true,
+      "isAuction": false,
+      "kinopoiskId": "279850",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/279850/",
+      "dateWatched": "12.08.2026 15:18"
     }
   ],
   "chipotl_s": [
