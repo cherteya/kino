@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "10.08.2026 16:23",
+    "lastUpdated": "12.08.2026 11:15",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -201,6 +201,56 @@
       "collection": "",
       "id": 51,
       "dateRequested": "10.08.2026 14:50",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Мумия",
+      "year": "1999",
+      "type": "Фильм",
+      "kinopoiskId": "4484",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4484/",
+      "runtime": "2 ч 4 мин",
+      "genres": "приключения, боевик, фэнтези",
+      "studios": "🟢 Alphaville Films",
+      "budget": "80.000.000 $",
+      "revenue": "415.885.488 $",
+      "tmdbRating": "6.989",
+      "overview": "На бескрайних просторах египетской пустыни компания сорвиголов рыщет в поисках несметных сокровищ фараона, над которыми тяготеет жуткое древнее проклятие. Рядом с кладом покоится мумия коварного жреца, жестоко казнённого за ужасное убийство могущественного правителя Египта.",
+      "poster": "https://image.tmdb.org/t/p/w500/jzwDpKRBi1gbqIcHLV2LdFqP2rb.jpg",
+      "tagline": "«Пески поднимутся. Небеса разверзнутся. Сила вырвется на свободу»",
+      "backdrop": "https://image.tmdb.org/t/p/original/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+      "cast": [
+        {
+          "name": "Брендан Фрейзер",
+          "photo": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+        },
+        {
+          "name": "Рэйчел Вайс",
+          "photo": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+        },
+        {
+          "name": "Джон Ханна",
+          "photo": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+        },
+        {
+          "name": "Арнольд Вослу",
+          "photo": "https://image.tmdb.org/t/p/w185/o23Z1EvWEYR7PArq2w5UpreVipV.jpg"
+        }
+      ],
+      "director": {
+        "name": "Стивен Соммерс",
+        "photo": "https://image.tmdb.org/t/p/w185/wGhd7IF1Buf7qPXuC4y1t02hams.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=V9T4-OzDA9k",
+      "ageRating": "Нет данных",
+      "keywords": "egypt, cairo, library, secret passage, pastor",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "Мумия (Коллекция)",
+      "id": 52,
+      "dateRequested": "12.08.2026 11:15",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
