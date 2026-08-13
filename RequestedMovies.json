@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "12.08.2026 15:18",
+    "lastUpdated": "13.08.2026 11:24",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -251,6 +251,56 @@
       "collection": "Мумия (Коллекция)",
       "id": 52,
       "dateRequested": "12.08.2026 11:15",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Граф Монте-Кристо",
+      "year": "2024",
+      "type": "Фильм",
+      "kinopoiskId": "5452393",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/5452393/",
+      "runtime": "2 ч 58 мин",
+      "genres": "приключения, боевик, драма",
+      "studios": "🟢 Chapter 2, 🟢 Pathé, 🟢 M6 Films, 🟢 Fargo Films, 🟢 Logical Content Ventures, 🟢 uMedia, 🟢 uFund",
+      "budget": "46.000.000 $",
+      "revenue": "75.360.860 $",
+      "tmdbRating": "7.9",
+      "overview": "Став жертвой коварного заговора, молодой Эдмон Дантес был арестован в день своей свадьбы за преступление, которое он не совершал. После 14 лет в тюрьме Замка Иф ему наконец-то удается бежать. На таинственном острове, о котором ему поведал в заключении его друг аббат Фариа, Эдмон находит легендарное сокровище и становится графом Монте- Кристо. Теперь его единственная цель — месть.",
+      "poster": "https://image.tmdb.org/t/p/w500/bv7XaMz155UTyQSOy2CHllMrAf9.jpg",
+      "tagline": "Эдмон Дантес мстит врагам, укравшим его молодость и возлюбленную. Зрелищная экранизация романа Александра Дюма",
+      "backdrop": "https://image.tmdb.org/t/p/original/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
+      "cast": [
+        {
+          "name": "Пьер Нине",
+          "photo": "https://image.tmdb.org/t/p/w185/ahICOyV41nhJ2q9LaVaHOridn2m.jpg"
+        },
+        {
+          "name": "Bastien Bouillon",
+          "photo": "https://image.tmdb.org/t/p/w185/8ksm25v40MS2p2y0EyyNrxdt7it.jpg"
+        },
+        {
+          "name": "Анаис Демустье",
+          "photo": "https://image.tmdb.org/t/p/w185/ecxoK2ja9h1bmUlLo9pxlMK1reA.jpg"
+        },
+        {
+          "name": "Лоран Лафит",
+          "photo": "https://image.tmdb.org/t/p/w185/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+        }
+      ],
+      "director": {
+        "name": "Александр де Ла Пательер",
+        "photo": "https://image.tmdb.org/t/p/w185/er7ZbU5inozZfFmvpwswjujxBos.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=JHmFykml2EI",
+      "ageRating": "12+",
+      "keywords": "based on novel or book, count, revenge, wrongful conviction, hidden fortune",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 53,
+      "dateRequested": "13.08.2026 11:24",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
