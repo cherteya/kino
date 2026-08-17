@@ -1,7 +1,7 @@
 {
   "_metadata_": {
-    "streamer": "",
-    "lastUpdated": "17.08.2026 15:18",
+    "streamer": "cherteya",
+    "lastUpdated": "17.08.2026 15:50",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -668,7 +668,6 @@
     },
     {
       "title": "Управление гневом",
-      "requestedSeason": 0,
       "year": "2003",
       "type": "Фильм",
       "kinopoiskId": "303",
@@ -680,30 +679,30 @@
       "revenue": "195.745.823 $",
       "tmdbRating": "6.156",
       "overview": "У вас все в порядке с нервами? Дэйв Базник тоже думал, что он - абсолютно нормальный человек. Ну, подумаешь, разок нагрубил стюардессе - бывает, не сдержался. И чтобы за такую малость человека определяли на курсы «управления гневом»?!",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/jU29iFzxFPxBi8ry6of8L0CdsQ7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jU29iFzxFPxBi8ry6of8L0CdsQ7.jpg",
       "tagline": "",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/jDQcNjo5SM8YxlcSn06cFzlLH6L.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/jDQcNjo5SM8YxlcSn06cFzlLH6L.jpg",
       "cast": [
         {
           "name": "Адам Сэндлер",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
         },
         {
           "name": "Джек Николсон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
         },
         {
           "name": "Мариса Томей",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
         },
         {
           "name": "Луис Гусман",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+          "photo": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
         }
       ],
       "director": {
         "name": "Питер Сигал",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/x0nAuktiPai0OovveeegPAi0dRF.jpg"
+        "photo": "https://image.tmdb.org/t/p/w185/x0nAuktiPai0OovveeegPAi0dRF.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
@@ -711,15 +710,11 @@
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bdfab78-2ce3-4c92-886e-7437896bf7c0-profile_image-600x600.png",
       "collection": "",
       "id": 55,
-      "dateRequested": "17.08.2026 15:18",
+      "dateRequested": "17.08.2026 14:09",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
+      "isAuction": false
     }
   ],
   "cherteya": [
@@ -2454,56 +2449,6 @@
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/9556/"
     },
     {
-      "title": "Боб Тревино поставил лайк",
-      "year": "2025",
-      "type": "Фильм",
-      "kinopoiskId": "7144323",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/7144323/",
-      "runtime": "1 ч 41 мин",
-      "genres": "комедия, драма",
-      "studios": "🟢 Laymon's Terms, 🟢 Five By Eight Productions, 🟢 Purple Suit Factory, 🟢 Off Media, 🟢 Myriad Pictures, 🟢 BondIt Media Capital, 🟢 ArtImage Entertainment, 🟢 Daydream Studios, 🟢 Seasick Studios",
-      "budget": "Нет данных",
-      "revenue": "237.416 $",
-      "tmdbRating": "7.443",
-      "overview": "Одинокая девушка Лили Тревино, пытаясь найти в социальных сетях отца, который оборвал с ней все связи, натыкается на его полного тёзку — добродушного строителя Боба Тревино, переживающего собственный кризис. Их случайное знакомство постепенно перерастает в дружбу, помогающую обоим по-новому взглянуть на жизнь и найти в себе силы изменить её к лучшему.",
-      "poster": "https://image.tmdb.org/t/p/w500/rCVO3B8VIrPwFRLi8Aj6Xkc0TbG.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
-      "cast": [
-        {
-          "name": "Барби Феррейра",
-          "photo": "https://image.tmdb.org/t/p/w185/kl59GoAbazPffmmZtSLZmUQCK6S.jpg"
-        },
-        {
-          "name": "Джон Легуизамо",
-          "photo": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
-        },
-        {
-          "name": "Френч Стюарт",
-          "photo": "https://image.tmdb.org/t/p/w185/5c1YaxSkFmwsqEnL7ARyQw2FQ3D.jpg"
-        },
-        {
-          "name": "Lauren 'Lolo' Spencer",
-          "photo": "https://image.tmdb.org/t/p/w185/5Dot27yaI6m4HYhkYDZGQpTA77f.jpg"
-        }
-      ],
-      "director": {
-        "name": "Трейси Лэймон",
-        "photo": "https://image.tmdb.org/t/p/w185/iR5vVudmCVtb9zJPwXarrROEN0s.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=qd3o32-1Tys",
-      "ageRating": "16+",
-      "keywords": "friendship, melancholy, based on true story, coming of age, heartbreak",
-      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
-      "collection": "",
-      "id": 47,
-      "dateRequested": "07.08.2026 12:59",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
-    },
-    {
       "title": "Эдди «Орёл»",
       "year": "2016",
       "type": "Фильм",
@@ -2602,6 +2547,57 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
+    },
+    {
+      "title": "Боб Тревино поставил лайк",
+      "year": "2025",
+      "type": "Фильм",
+      "kinopoiskId": "",
+      "kinopoiskUrl": "",
+      "runtime": "1 ч 41 мин",
+      "genres": "комедия, драма",
+      "studios": "🟢 Laymon's Terms, 🟢 Five By Eight Productions, 🟢 Purple Suit Factory, 🟢 Off Media, 🟢 Myriad Pictures, 🟢 BondIt Media Capital, 🟢 ArtImage Entertainment, 🟢 Daydream Studios, 🟢 Seasick Studios",
+      "budget": "Нет данных",
+      "revenue": "237.416 $",
+      "tmdbRating": "7.443",
+      "overview": "Одинокая девушка Лили Тревино, пытаясь найти в социальных сетях отца, который оборвал с ней все связи, натыкается на его полного тёзку — добродушного строителя Боба Тревино, переживающего собственный кризис. Их случайное знакомство постепенно перерастает в дружбу, помогающую обоим по-новому взглянуть на жизнь и найти в себе силы изменить её к лучшему.",
+      "poster": "https://image.tmdb.org/t/p/w500/rCVO3B8VIrPwFRLi8Aj6Xkc0TbG.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
+      "cast": [
+        {
+          "name": "Барби Феррейра",
+          "photo": "https://image.tmdb.org/t/p/w185/kl59GoAbazPffmmZtSLZmUQCK6S.jpg"
+        },
+        {
+          "name": "Джон Легуизамо",
+          "photo": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+        },
+        {
+          "name": "Френч Стюарт",
+          "photo": "https://image.tmdb.org/t/p/w185/5c1YaxSkFmwsqEnL7ARyQw2FQ3D.jpg"
+        },
+        {
+          "name": "Lauren 'Lolo' Spencer",
+          "photo": "https://image.tmdb.org/t/p/w185/5Dot27yaI6m4HYhkYDZGQpTA77f.jpg"
+        }
+      ],
+      "director": {
+        "name": "Трейси Лэймон",
+        "photo": "https://image.tmdb.org/t/p/w185/iR5vVudmCVtb9zJPwXarrROEN0s.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=qd3o32-1Tys",
+      "ageRating": "16+",
+      "keywords": "friendship, melancholy, based on true story, coming of age, heartbreak",
+      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
+      "collection": "",
+      "id": 47,
+      "dateRequested": "07.08.2026 12:59",
+      "status": "Смотрели",
+      "ourRating": "10",
+      "cried": true,
+      "isAuction": false,
+      "dateWatched": "17.08.2026 15:50"
     }
   ],
   "nikisnej192": [
