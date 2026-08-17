@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "17.08.2026 14:06",
+    "lastUpdated": "17.08.2026 14:09",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -665,6 +665,56 @@
       "dateWatched": "17.07.2026 16:52",
       "kinopoiskId": "3950",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/3950/"
+    },
+    {
+      "title": "Управление гневом",
+      "year": "2003",
+      "type": "Фильм",
+      "kinopoiskId": "303",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/303/",
+      "runtime": "1 ч 46 мин",
+      "genres": "комедия",
+      "studios": "🟢 Columbia Pictures, 🟢 Revolution Studios, 🟢 Happy Madison Productions",
+      "budget": "75.000.000 $",
+      "revenue": "195.745.823 $",
+      "tmdbRating": "6.156",
+      "overview": "У вас все в порядке с нервами? Дэйв Базник тоже думал, что он - абсолютно нормальный человек. Ну, подумаешь, разок нагрубил стюардессе - бывает, не сдержался. И чтобы за такую малость человека определяли на курсы «управления гневом»?!",
+      "poster": "https://image.tmdb.org/t/p/w500/jU29iFzxFPxBi8ry6of8L0CdsQ7.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/jDQcNjo5SM8YxlcSn06cFzlLH6L.jpg",
+      "cast": [
+        {
+          "name": "Адам Сэндлер",
+          "photo": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+        },
+        {
+          "name": "Джек Николсон",
+          "photo": "https://image.tmdb.org/t/p/w185/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+        },
+        {
+          "name": "Мариса Томей",
+          "photo": "https://image.tmdb.org/t/p/w185/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
+        },
+        {
+          "name": "Луис Гусман",
+          "photo": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+        }
+      ],
+      "director": {
+        "name": "Питер Сигал",
+        "photo": "https://image.tmdb.org/t/p/w185/x0nAuktiPai0OovveeegPAi0dRF.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "penalty, therapist, psychology, aggression, rage",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bdfab78-2ce3-4c92-886e-7437896bf7c0-profile_image-600x600.png",
+      "collection": "",
+      "id": 55,
+      "dateRequested": "17.08.2026 14:09",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
     }
   ],
   "cherteya": [
