@@ -453,7 +453,7 @@
     
         .legendary-badge {
             box-shadow: 0 4px 10px rgba(0,0,0,0.8), inset 0 0 15px #ffd700, 0 0 25px rgba(255, 215, 0, 0.6) !important;
-            border-color: #ffd700 !important; color: #fff !important; text-shadow: 0 0 10px #ffd700, 0 0 15px #fff !important; font-weight: 900 !important;
+            border-color: #ffd700 !important; color: #fff !important; text-shadow: 0 0 10px #ffd700, 0 0 15px #fff !important; font-weight: 900 !important; background: #ffd700 !important;
         }
     </style>
 </head>
@@ -582,7 +582,7 @@
                             
                             <div class="grid-item full-width" style="border-bottom: none;">
                                 <div class="grid-label">Студии</div>
-                                <div class="grid-value" id="modalStudios" style="color: var(--text-muted); font-weight: normal; margin-top: 4px;">Архив скрыт</div>
+                                <div class="grid-value" id="modalStudios" style="color: var(--text-muted); font-weight: normal; margin-top: 4px; font-family: var(--font-text); font-style: italic;">Архив скрыт</div>
                             </div>
 
                         </div>
@@ -637,14 +637,21 @@
         renderView();
     }
 
-    function getSafePhoto(url) { return (!url || url.includes('via.placeholder.com')) ? fallbackImage : url; }
-    function getSafePoster(url) { return (!url || url.includes('via.placeholder.com')) ? fallbackPoster : url; }
+    function getSafePhoto(url) { 
+        if (!url || url.includes('via.placeholder.com')) return fallbackImage;
+        return url.includes('image.tmdb.org') ? url.replace('https://image.tmdb.org', 'https://wsrv.nl/?url=image.tmdb.org') : url; 
+    }
+    
+    function getSafePoster(url) { 
+        if (!url || url.includes('via.placeholder.com')) return fallbackPoster;
+        return url.includes('image.tmdb.org') ? url.replace('https://image.tmdb.org', 'https://wsrv.nl/?url=image.tmdb.org') : url; 
+    }
 
     function copyTextToClipboard(text, btnElement) {
         navigator.clipboard.writeText(text).then(() => {
             if (btnElement) {
                 const originalHTML = btnElement.innerHTML;
-                btnElement.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;
+                btnElement.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>`;
                 btnElement.classList.add('copied');
                 setTimeout(() => { btnElement.innerHTML = originalHTML; btnElement.classList.remove('copied'); }, 1500);
             }
@@ -800,7 +807,7 @@
         
         const sortMode = document.getElementById('sortSelect').value;
         const activeCount = currentViewData.filter(m => m.status === 'Не смотрели' || m.isWatching === true).length;
-        const showDivider = activeCount > 0;
+        const showDivider = activeCount >= 4;
 
         currentViewData.forEach((movie, index) => {
             
@@ -887,99 +894,7 @@
             runtimeDisplay += `</div>`;
 
             const userColor = stringToColor(cleanNick);
-            let avatarMarkup = movie.userAvatar && movie.userAvatar.startsWith('http') ? `<img src="${movie.userAvatar}" class="req-avatar" alt="">` : `<div class="req-avatar" style="background-color: ${userColor}; border-color: ${userColor};">${getInitials(cleanNick)}</div>`;
-            
-            const auctionHTML = movie.isAuction ? `<div class="date-badge" style="margin-top: 8px; color: var(--warm-star); border-color: var(--warm-star); background: rgba(34, 24, 54, 0.9); font-size: 11px; text-transform: uppercase; letter-spacing: 1px; font-weight: 800;">✦ Аукцион ✦</div>` : '';
-            const seasonHTML = movie.requestedSeason > 0 ? `<div class="date-badge" style="margin-top: 8px; color: #fff; border-color: var(--mint-main); font-size: 13px;">${movie.requestedSeason} сезон</div>` : '';
-
-            tr.innerHTML = `
-                <td><div class="poster-wrapper"><img src="${posterUrl}" onerror="handlePosterError(this)" alt=""></div></td>
-                <td>
-                    <div class="movie-info">
-                        <div class="movie-header"><span class="movie-title">${cleanTitle}</span><div class="movie-meta-box"><span class="movie-year">${movie.year || '----'}</span><button class="copy-btn" onclick="copyMovieNameFromTable(event, '${safeTitleForCopy}', '${movie.year || ''}', this)" title="Скопировать"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg></button></div></div>
-                        <div class="badges-container">${typeLabel} ${tmdbBadge} ${ageRating} <span class="outline-badge">ID №${movie.id || 0}</span></div>
-                        <div class="movie-genres">${escapeHTML(movie.genres || '')}</div>
-                        ${movie.tagline ? `<div class="movie-tagline">«${escapeHTML(movie.tagline)}»</div>` : ''}
-                        ${movie.studios && movie.studios !== "Нет данных" ? `<div class="movie-studios-list">${escapeHTML(movie.studios)}</div>` : ''}
-                        <div class="movie-overview-wrapper"><div class="movie-overview-text">${escapeHTML(movie.overview || '')}</div></div>
-                        <div class="crew-section">${directorHtml}${castHtml}</div>
-                    </div>
-                </td>
-                <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center;"><div class="requester-badge" onclick="window.open('https://twitch.tv/${cleanNick}', '_blank'); event.stopPropagation();">${avatarMarkup}<span class="req-name">${cleanNick}</span></div>${movie.dateRequested ? `<div class="date-badge">${movie.dateRequested.split(' ')[0]}</div>` : ''}${auctionHTML}${seasonHTML}</div></td>
-                <td style="vertical-align: top;">${runtimeDisplay}</td>
-                <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center;">${statusText}${watchedDateHTML}</div></td>
-            `;
-            tbody.appendChild(tr);
-        });
-        autoResizeTitles();
-    }
-
-    function renderGridMode(renderArea) {
-        const gridContainer = document.createElement('div');
-        gridContainer.className = 'movies-grid';
-        
-        const sortMode = document.getElementById('sortSelect').value;
-        const activeCount = currentViewData.filter(m => m.status === 'Не смотрели' || m.isWatching === true).length;
-        const showDivider = activeCount > 0;
-
-        currentViewData.forEach((movie, index) => {
-            
-            if (sortMode === 'order' && index > 0 && showDivider) {
-                const prevMovie = currentViewData[index - 1];
-                if ((prevMovie.status === 'Не смотрели' || prevMovie.isWatching === true) && movie.status === 'Смотрели') {
-                    const dividerDiv = document.createElement('div');
-                    dividerDiv.style.gridColumn = '1 / -1';
-                    dividerDiv.innerHTML = `
-                        <div style="width: 100%; border-top: 2px dashed rgba(92, 242, 138, 0.4); margin: 15px 0;"></div>
-                        <div style="display: flex; align-items: center; justify-content: center; margin: 10px 0;">
-                            <div style="flex-grow: 1; height: 2px; background: linear-gradient(to right, transparent, var(--mint-main)); opacity: 0.4;"></div>
-                            <span style="padding: 0 20px; font-family: var(--font-title); font-size: 20px; font-weight: 900; color: var(--mint-main); text-shadow: 0 0 15px rgba(92, 242, 138, 0.6); text-transform: uppercase; letter-spacing: 2px;">✨ Просмотрено ✨</span>
-                            <div style="flex-grow: 1; height: 2px; background: linear-gradient(to left, transparent, var(--mint-main)); opacity: 0.4;"></div>
-                        </div>
-                        <div style="width: 100%; border-bottom: 2px dashed rgba(92, 242, 138, 0.4); margin: 15px 0 25px 0;"></div>
-                    `;
-                    gridContainer.appendChild(dividerDiv);
-                }
-            }
-
-            const cleanNick = movie.requestedBy.replace('@', '').trim();
-            const posterUrl = getSafePoster(movie.poster);
-            const isWatched = movie.status === "Смотрели";
-            
-            const baseTitle = movie.title || 'Безымянный';
-            const displayTitleText = movie.requestedSeason > 0 ? `${baseTitle} (${movie.requestedSeason} сезон)` : baseTitle;
-            const cleanTitle = escapeHTML(displayTitleText);
-            const safeTitleForCopy = baseTitle.replace(/'/g, "\\'").replace(/"/g, '&quot;'); 
-            
-            const userColor = stringToColor(cleanNick);
-            
-            let statusMarkup = '';
-            if (movie.isWatching) {
-                statusMarkup = `<div class="card-status" style="background: #ffd700; color: #130f1c;">Смотрим</div>`;
-            } else if (isWatched) {
-                statusMarkup = `<div class="card-status">Смотрели</div>`;
-            } else {
-                statusMarkup = `<div class="card-status" style="background: rgba(41, 128, 185, 0.9); color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.3);">В очереди</div>`;
-            }
-            
-            let bottomBadges = '';
-            
-            if (isWatched && movie.ourRating && movie.ourRating !== "Без оценки") {
-                const rColor = getRatingColor(movie.ourRating);
-                if (parseFloat(movie.ourRating) === 1000) {
-                    bottomBadges += `<div class="card-mini-badge rating legendary-badge">Оценка: 1000</div>`;
-                } else {
-                    bottomBadges += `<div class="card-mini-badge rating" style="color: ${rColor}; border-color: ${rColor};">Оценка: ${movie.ourRating}</div>`;
-                }
-            }
-            if (movie.isAuction) bottomBadges += `<div class="card-mini-badge auction">✦ АУК ✦</div>`;
-            if (movie.isTheme) bottomBadges += `<div class="card-mini-badge" style="color: #fff; background: rgba(155, 89, 182, 0.85); border-color: #9b59b6;">🎨 Тем.Нед.</div>`;
-            if (movie.isMarvel) bottomBadges += `<div class="card-mini-badge" style="color: #fff; background: rgba(230, 36, 41, 0.85); border-color: #e62429;">🦸‍♂️ MARVEL</div>`;
-            if (isWatched && movie.cried) bottomBadges += `<div class="card-mini-badge cried"><svg width="14" height="14" viewBox="0 0 24 24" fill="#a0c4ff" stroke="#a0c4ff" stroke-width="1"><path d="M12 2.69l5.66 5.66a8 8 0 1 1-11.31 0z"></path></svg> Слёзы</div>`;
-            if (movie.isBanned) bottomBadges += `<div class="card-mini-badge" style="color: #fff; background: rgba(231, 76, 60, 0.85); border-color: #e74c3c;">🚫 БАН</div>`;
-            if (movie.requestedSeason && movie.requestedSeason > 0) bottomBadges += `<div class="card-mini-badge" style="color: #fff; border-color: var(--mint-main);">СЕЗОН ${movie.requestedSeason}</div>`;
-
-            let avatarMarkup = movie.userAvatar && movie.userAvatar.startsWith('http') ? `<img src="${movie.userAvatar}" class="card-user-avatar" alt="">` : `<div class="card-user-avatar" style="background-color: ${userColor}; border-color: ${userColor}; color: var(--bg-deep); font-weight: 900;">${getInitials(cleanNick)}</div>`;
+            let avatarMarkup = movie.userAvatar && movie.userAvatar.startsWith('http') ? `<img src="${movie.userAvatar}" class="req-avatar" alt="">` : `<div class="req-avatar" style="background-color: ${userColor}; border-color: ${userColor}; color: var(--bg-deep); font-weight: 900;">${getInitials(cleanNick)}</div>`;
 
             const hasBannedStudios = movie.studios && movie.studios.includes('🔴');
             const bannedDotMarkup = hasBannedStudios ? `<div class="banned-dot" title="Запрещенная студия!"></div>` : '';
@@ -1098,6 +1013,15 @@
                     nameEl.style.fontSize = currentSize + "px";
                 }
             });
+
+            document.querySelectorAll('.resize-list-username').forEach(nameEl => {
+                let currentSize = 16;
+                nameEl.style.fontSize = currentSize + "px";
+                while (nameEl.scrollWidth > 115 && currentSize > 8) {
+                    currentSize -= 0.5;
+                    nameEl.style.fontSize = currentSize + "px";
+                }
+            });
         }, 10); 
     }
 
@@ -1135,7 +1059,8 @@
         let badgesHtml = '';
         let displayType = escapeHTML(movie.type || 'Фильм');
         if (displayType.toLowerCase().includes('мульт')) displayType = 'Мульт';
-        badgesHtml += `<span class="outline-badge">${displayType}</span>`;
+        
+        badgesHtml += `<span class="content-type-badge">${displayType}</span>`;
 
         if (movie.runtime && movie.runtime !== "Неизвестно" && movie.runtime !== "Нет данных") {
             badgesHtml += `<span class="outline-badge">${escapeHTML(movie.runtime)}</span>`;
