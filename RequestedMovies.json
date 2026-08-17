@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "13.08.2026 11:24",
+    "lastUpdated": "17.08.2026 14:06",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -2543,6 +2543,58 @@
       "collection": "",
       "id": 49,
       "dateRequested": "07.08.2026 15:41",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    }
+  ],
+  "nikisnej192": [
+    {
+      "title": "Сингам",
+      "year": "2011",
+      "type": "Фильм",
+      "kinopoiskId": "592201",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/592201/",
+      "runtime": "2 ч 23 мин",
+      "genres": "драма, боевик, криминал",
+      "studios": "🟢 Reliance Entertainment",
+      "budget": "4.800.000 $",
+      "revenue": "30.000.000 $",
+      "tmdbRating": "6.503",
+      "overview": "Действие фильма разворачивается на фоне маленькой деревушки на границе штатов Махараштра и Гоа, где честный, старательный и благородный инспектор Баджи Рао Сингхам, борется против несправедливости и предрассудков, используя свою собственную этику и принципы.  Внезапный поворот судьбы приводит к конфликту с чрезвычайно могущественным и связанным с преступным миром политиком, проверяя на прочность честь и совесть Сингхама. Властный и сильный хозяин города не оставляет в нём камня на камне, чтобы превратить жизнь Сингхама в ночной кошмар. Поддержка подруги и встреча с давними друзьями помогают Сингхаму осознать важность непримиримой борьбы с системой, но не идя против закона силы, а будучи её мощной частью.",
+      "poster": "https://image.tmdb.org/t/p/w500/pggLRaurdWwjqX2vkhKIVQSBjXV.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/rCtRb7KqvYj1GCtFMgcPSpkHZIz.jpg",
+      "cast": [
+        {
+          "name": "Ajay Devgan",
+          "photo": "https://image.tmdb.org/t/p/w185/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+        },
+        {
+          "name": "Kajal Agarwal",
+          "photo": "https://image.tmdb.org/t/p/w185/hIV5HeHM9xUxhbDdhtM8q56AuXE.jpg"
+        },
+        {
+          "name": "ప్రకాష్ రాజ్",
+          "photo": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+        },
+        {
+          "name": "सचिन खेड़ेकर",
+          "photo": "https://image.tmdb.org/t/p/w185/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+        }
+      ],
+      "director": {
+        "name": "Rohit Shetty",
+        "photo": "https://image.tmdb.org/t/p/w185/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "fight, remake, one man army, job transfer, love interest",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3d683b1-ee11-4faa-a7f3-626dbbd4258b-profile_image-600x600.png",
+      "collection": "",
+      "id": 54,
+      "dateRequested": "17.08.2026 14:06",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
