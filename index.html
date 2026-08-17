@@ -800,7 +800,7 @@
         
         const sortMode = document.getElementById('sortSelect').value;
         const activeCount = currentViewData.filter(m => m.status === 'Не смотрели' || m.isWatching === true).length;
-        const showDivider = activeCount > 0;
+        const showDivider = activeCount >= 4;
 
         currentViewData.forEach((movie, index) => {
             
@@ -920,7 +920,7 @@
         
         const sortMode = document.getElementById('sortSelect').value;
         const activeCount = currentViewData.filter(m => m.status === 'Не смотрели' || m.isWatching === true).length;
-        const showDivider = activeCount > 0;
+        const showDivider = activeCount >= 4;
 
         currentViewData.forEach((movie, index) => {
             
