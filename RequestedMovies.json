@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "17.08.2026 15:50",
+    "lastUpdated": "19.08.2026 14:08",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -2598,6 +2598,56 @@
       "cried": true,
       "isAuction": false,
       "dateWatched": "17.08.2026 15:50"
+    },
+    {
+      "title": "Попробуй подкати",
+      "year": "2018",
+      "type": "Фильм",
+      "kinopoiskId": "1064121",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1064121/",
+      "runtime": "1 ч 47 мин",
+      "genres": "комедия, мелодрама",
+      "studios": "🟢 Gaumont, 🟢 Pour Toi Public Productions, 🟢 TF1 Films Production, 🟢 Nexus Factory, 🟢 uMedia, 🟢 La Boétie Films",
+      "budget": "7.000.000 $",
+      "revenue": "Нет данных",
+      "tmdbRating": "6.511",
+      "overview": "Успешный бизнесмен и эгоистичный мачо пускает в ход все свои уловки, чтобы соблазнять девушек. Но однажды он сам оказывается в крайне щекотливой ситуации.",
+      "poster": "https://image.tmdb.org/t/p/w500/iYkrVfB7twml5aNRVoICB44qkLJ.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/f5GsxbAgEDl0kHUkxrl0da7QVta.jpg",
+      "cast": [
+        {
+          "name": "Франк Дюбоск",
+          "photo": "https://image.tmdb.org/t/p/w185/2sCXXZYrWSO1nGxuyVBGETj2wdE.jpg"
+        },
+        {
+          "name": "Александра Лэми",
+          "photo": "https://image.tmdb.org/t/p/w185/m52fdEhVo6sBjEhgyM6bqFwC1HA.jpg"
+        },
+        {
+          "name": "Elsa Zylberstein",
+          "photo": "https://image.tmdb.org/t/p/w185/bw1bIuyfyOyxRlx2qIKk4AwQLTU.jpg"
+        },
+        {
+          "name": "Жерар Дармон",
+          "photo": "https://image.tmdb.org/t/p/w185/nYup2VXH5zZunl0WoQFy1dTlu1s.jpg"
+        }
+      ],
+      "director": {
+        "name": "Франк Дюбоск",
+        "photo": "https://image.tmdb.org/t/p/w185/2sCXXZYrWSO1nGxuyVBGETj2wdE.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=14iI4yMKlto",
+      "ageRating": "16+",
+      "keywords": "handicapped",
+      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
+      "collection": "",
+      "id": 56,
+      "dateRequested": "19.08.2026 14:08",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
     }
   ],
   "nikisnej192": [
