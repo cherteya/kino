@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "19.08.2026 14:08",
+    "lastUpdated": "19.08.2026 15:15",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -301,6 +301,56 @@
       "collection": "",
       "id": 53,
       "dateRequested": "13.08.2026 11:24",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Заплати другому",
+      "year": "2000",
+      "type": "Фильм",
+      "kinopoiskId": "782",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/782/",
+      "runtime": "2 ч 3 мин",
+      "genres": "драма",
+      "studios": "🔴 Warner Bros. Pictures | 🟢 Bel Air Entertainment, 🟢 Tapestry Films",
+      "budget": "40.000.000 $",
+      "revenue": "55.707.411 $",
+      "tmdbRating": "7.387",
+      "overview": "Представьте себе. Вы оказываете кому-либо существенную услугу и просите этого человека отблагодарить не вас, а трех других людей, которые, в свою очередь, отблагодарят еще троих, и так далее, в мировом масштабе, распространяя доброту и тепло. Насколько действенной может оказаться подобная сердечная идея? Ученик седьмого класса Тревор МакКинни решил это проверить, начав цепочку добра.",
+      "poster": "https://image.tmdb.org/t/p/w500/e5ZEv6YfAoSPzezP7grG2ix8D1H.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/xoFolYFMGVzIOjYhEhyBiYbBpqK.jpg",
+      "cast": [
+        {
+          "name": "Кевин Спейси",
+          "photo": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+        },
+        {
+          "name": "Хелен Хант",
+          "photo": "https://image.tmdb.org/t/p/w185/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
+        },
+        {
+          "name": "Энджи Дикинсон",
+          "photo": "https://image.tmdb.org/t/p/w185/5OmGKBhCTz7nobyMOPfaxs2F9n3.jpg"
+        },
+        {
+          "name": "Хейли Джоэл Осмент",
+          "photo": "https://image.tmdb.org/t/p/w185/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+        }
+      ],
+      "director": {
+        "name": "Мими Ледер",
+        "photo": "https://image.tmdb.org/t/p/w185/A7bFqiiPtsBScQssuNucMgPpU2Y.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=srNHEbV3LaQ",
+      "ageRating": "Нет данных",
+      "keywords": "child's point of view, candlelight vigil, good deed, exotic dancer, schoolteacher",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 57,
+      "dateRequested": "19.08.2026 15:15",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
