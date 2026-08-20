@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "19.08.2026 15:50",
+    "lastUpdated": "20.08.2026 21:07",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -1780,6 +1780,59 @@
       "seasons": "2",
       "episodes": "11",
       "tvStatus": "Returning Series"
+    },
+    {
+      "title": "Переполненная комната",
+      "year": "2023",
+      "type": "Сериал",
+      "kinopoiskId": "4424478",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4424478/",
+      "runtime": "Неизвестно",
+      "genres": "драма, криминал, детектив",
+      "studios": "🟢 Weed Road Pictures, 🟢 EMJAG Productions, 🟢 Apple Studios, 🟢 New Regency Pictures",
+      "budget": "Нет данных",
+      "revenue": "Нет данных",
+      "tmdbRating": "7.627",
+      "overview": "Психологический триллер, действие которого разворачивается на Манхэттене летом 1979 года, когда молодого человека арестовывают за шокирующее преступление, и необычный следователь должен разгадать тайну, стоящую за ним.",
+      "poster": "https://image.tmdb.org/t/p/w500/bPEIzSjVdNECCkcpeORLAJp6nnT.jpg",
+      "tagline": "Факты никогда не отражают всей истории.",
+      "backdrop": "https://image.tmdb.org/t/p/original/kv9KH67hsVJ8RLplUBoc1kZlAtY.jpg",
+      "cast": [
+        {
+          "name": "Том Холланд",
+          "photo": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+        },
+        {
+          "name": "Аманда Сайфред",
+          "photo": "https://image.tmdb.org/t/p/w185/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+        },
+        {
+          "name": "Саша Лейн",
+          "photo": "https://image.tmdb.org/t/p/w185/iALlJMFPAH5xwfAzWHrZDNmHOSi.jpg"
+        },
+        {
+          "name": "Уилл Чейз",
+          "photo": "https://image.tmdb.org/t/p/w185/2HqBRqcSKiG7Szq8mTjtNuAuYBR.jpg"
+        }
+      ],
+      "director": {
+        "name": "Акива Голдсман",
+        "photo": "https://image.tmdb.org/t/p/w185/7dWsuEUrC7AmAzZAeNstZ2zg1M8.jpg"
+      },
+      "trailer": "",
+      "ageRating": "TV-MA",
+      "keywords": "based on novel or book, miniseries, lgbt, mental health, reflective",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
+      "collection": "",
+      "seasons": "1",
+      "episodes": "10",
+      "tvStatus": "Ended",
+      "id": 58,
+      "dateRequested": "20.08.2026 21:07",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
     }
   ],
   "SeRRRg0": [
