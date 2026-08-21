@@ -301,10 +301,11 @@
       "collection": "",
       "id": 53,
       "dateRequested": "13.08.2026 11:24",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
+      "status": "Смотрели",
+      "ourRating": "9",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "dateWatched": "21.08.2026 15:46"
     },
     {
       "title": "Заплати другому",
