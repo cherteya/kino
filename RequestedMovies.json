@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "20.08.2026 21:07",
+    "lastUpdated": "22.08.2026 20:28",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -2398,57 +2398,6 @@
       "isAuction": false
     },
     {
-      "title": "Боб Тревино поставил лайк",
-      "year": "2025",
-      "type": "Фильм",
-      "kinopoiskId": "",
-      "kinopoiskUrl": "",
-      "runtime": "1 ч 41 мин",
-      "genres": "комедия, драма",
-      "studios": "🟢 Laymon's Terms, 🟢 Five By Eight Productions, 🟢 Purple Suit Factory, 🟢 Off Media, 🟢 Myriad Pictures, 🟢 BondIt Media Capital, 🟢 ArtImage Entertainment, 🟢 Daydream Studios, 🟢 Seasick Studios",
-      "budget": "Нет данных",
-      "revenue": "237.416 $",
-      "tmdbRating": "7.443",
-      "overview": "Одинокая девушка Лили Тревино, пытаясь найти в социальных сетях отца, который оборвал с ней все связи, натыкается на его полного тёзку — добродушного строителя Боба Тревино, переживающего собственный кризис. Их случайное знакомство постепенно перерастает в дружбу, помогающую обоим по-новому взглянуть на жизнь и найти в себе силы изменить её к лучшему.",
-      "poster": "https://image.tmdb.org/t/p/w500/rCVO3B8VIrPwFRLi8Aj6Xkc0TbG.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
-      "cast": [
-        {
-          "name": "Барби Феррейра",
-          "photo": "https://image.tmdb.org/t/p/w185/kl59GoAbazPffmmZtSLZmUQCK6S.jpg"
-        },
-        {
-          "name": "Джон Легуизамо",
-          "photo": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
-        },
-        {
-          "name": "Френч Стюарт",
-          "photo": "https://image.tmdb.org/t/p/w185/5c1YaxSkFmwsqEnL7ARyQw2FQ3D.jpg"
-        },
-        {
-          "name": "Lauren 'Lolo' Spencer",
-          "photo": "https://image.tmdb.org/t/p/w185/5Dot27yaI6m4HYhkYDZGQpTA77f.jpg"
-        }
-      ],
-      "director": {
-        "name": "Трейси Лэймон",
-        "photo": "https://image.tmdb.org/t/p/w185/iR5vVudmCVtb9zJPwXarrROEN0s.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=qd3o32-1Tys",
-      "ageRating": "16+",
-      "keywords": "friendship, melancholy, based on true story, coming of age, heartbreak",
-      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
-      "collection": "",
-      "id": 47,
-      "dateRequested": "07.08.2026 12:59",
-      "status": "Смотрели",
-      "ourRating": "10",
-      "cried": true,
-      "isAuction": false,
-      "dateWatched": "17.08.2026 15:50"
-    },
-    {
       "title": "Попробуй подкати",
       "year": "2018",
       "type": "Фильм",
@@ -2497,6 +2446,64 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
+    },
+    {
+      "title": "Боб Тревино поставил лайк",
+      "year": "2025",
+      "type": "Фильм",
+      "kinopoiskId": "7144323",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/7144323/",
+      "runtime": "1 ч 41 мин",
+      "genres": "комедия, драма",
+      "studios": "🟢 Laymon's Terms, 🟢 Five By Eight Productions, 🟢 Purple Suit Factory, 🟢 Off Media, 🟢 Myriad Pictures, 🟢 BondIt Media Capital, 🟢 ArtImage Entertainment, 🟢 Daydream Studios, 🟢 Seasick Studios",
+      "budget": "Нет данных",
+      "revenue": "237.416 $",
+      "tmdbRating": "7.432",
+      "overview": "Одинокая девушка Лили Тревино, пытаясь найти в социальных сетях отца, который оборвал с ней все связи, натыкается на его полного тёзку — добродушного строителя Боба Тревино, переживающего собственный кризис. Их случайное знакомство постепенно перерастает в дружбу, помогающую обоим по-новому взглянуть на жизнь и найти в себе силы изменить её к лучшему.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/rCVO3B8VIrPwFRLi8Aj6Xkc0TbG.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
+      "cast": [
+        {
+          "name": "Барби Феррейра",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kl59GoAbazPffmmZtSLZmUQCK6S.jpg"
+        },
+        {
+          "name": "Джон Легуизамо",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+        },
+        {
+          "name": "Френч Стюарт",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5c1YaxSkFmwsqEnL7ARyQw2FQ3D.jpg"
+        },
+        {
+          "name": "Lauren 'Lolo' Spencer",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5Dot27yaI6m4HYhkYDZGQpTA77f.jpg"
+        }
+      ],
+      "director": {
+        "name": "Трейси Лэймон",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iR5vVudmCVtb9zJPwXarrROEN0s.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=qd3o32-1Tys",
+      "ageRating": "16+",
+      "keywords": "friendship, melancholy, based on true story, coming of age, heartbreak",
+      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
+      "collection": "",
+      "id": 47,
+      "dateRequested": "07.08.2026 12:59",
+      "status": "Смотрели",
+      "ourRating": "10",
+      "cried": true,
+      "isAuction": false,
+      "dateWatched": "17.08.2026 15:50",
+      "requestedSeason": 0,
+      "altPoster": "",
+      "postUrl": "",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
     }
   ],
   "nikisnej192": [
