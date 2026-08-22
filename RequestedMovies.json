@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "22.08.2026 20:33",
+    "lastUpdated": "22.08.2026 20:35",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -1834,63 +1834,6 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
-    },
-    {
-      "title": "Одиссея",
-      "requestedSeason": 0,
-      "year": "2026",
-      "type": "Фильм",
-      "kinopoiskId": "6385370",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6385370/",
-      "altPoster": "",
-      "postUrl": "",
-      "runtime": "2 ч 53 мин",
-      "genres": "приключения, боевик, фэнтези",
-      "studios": "🟢 Universal Pictures, 🟢 Syncopy",
-      "budget": "250.000.000 $",
-      "revenue": "1.534.009.551 $",
-      "tmdbRating": "8.0",
-      "overview": "После Троянской войны Одиссей, царь Итаки, во главе небольшого войска возвращается домой к своей жене Пенелопе. На своём пути Одиссей сталкивается со множеством испытаний, встречает циклопов, сирен и великанов-людоедов.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/n7NR7SH7CyiiF70yN96r3d1jWr0.jpg",
-      "tagline": "«Бросьте вызов богам»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "cast": [
-        {
-          "name": "Мэтт Деймон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
-        },
-        {
-          "name": "Том Холланд",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
-        },
-        {
-          "name": "Энн Хэтэуэй",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
-        },
-        {
-          "name": "Роберт Паттинсон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
-        }
-      ],
-      "director": {
-        "name": "Кристофер Нолан",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=xjLLXdYldzA",
-      "ageRating": "R",
-      "keywords": "ship, trojan war, greek mythology, historical fiction, ancient world",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
-      "collection": "",
-      "id": 59,
-      "dateRequested": "22.08.2026 20:33",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
     }
   ],
   "SeRRRg0": [
