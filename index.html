@@ -299,7 +299,7 @@
             font-weight: 800;
             text-transform: uppercase;
             letter-spacing: 1px;
-            line-height: normal; /* Добавил для аккуратности */
+            line-height: normal; 
             font-family: var(--font-text);
             border-radius: 12px;
             box-shadow: 0 2px 8px rgba(255, 71, 87, 0.4);
@@ -429,7 +429,7 @@
         ::-webkit-scrollbar-thumb { background: var(--mint-dark); border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: var(--mint-main); }
 
-        /* ---- НОВЫЕ КНОПКИ ТЕЛЕГРАМ ---- */
+        
         .tg-link-btn {
             display: inline-flex; align-items: center; justify-content: center; gap: 6px;
             background: rgba(56, 189, 248, 0.1); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.3);
@@ -881,20 +881,20 @@
                 statusText = `<span class="badge-status" style="background: rgba(41, 128, 185, 0.9); color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.3); box-shadow: 0 4px 10px rgba(0,0,0,0.4);">В ОЧЕРЕДИ</span>`;
             }
             
-            // НОВАЯ ЛОГИКА ФОРМИРОВАНИЯ КОЛОНКИ СТАТУСА (ВМЕСТЕ С КНОПКОЙ ТГ)
+            
             let watchedDetails = '';
             
-            // 1. Сначала дата просмотра (если есть)
+            
             if (isWatched && movie.dateWatched) {
                 watchedDetails += `<div class="date-badge" style="margin-top: 0; width: fit-content;">${movie.dateWatched.split(' ')[0]}</div>`;
             }
             
-            // 2. Затем кнопка ТГ (будет выведена строго под датой, либо под статусом "в очереди")
+            
             if (movie.postUrl) {
                 watchedDetails += `<a href="${movie.postUrl}" target="_blank" class="tg-link-btn" style="margin-top: 0; width: fit-content; padding: 4px 12px; font-size: 11px; text-transform: uppercase; letter-spacing: 1px;" onclick="event.stopPropagation();"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg> ТГ ПОСТ</a>`;
             }
             
-            // 3. А потом уже остальные метки (Оценка, слёзы и тд)
+            
             if (isWatched && movie.dateWatched) {
                 if (movie.ourRating && movie.ourRating !== "Без оценки") {
                     const parsedRating = parseFloat(movie.ourRating);
@@ -1203,7 +1203,7 @@
         
         document.getElementById('modalYear').textContent = movie.year || '----';
         
-        // НОВАЯ ЛОГИКА ДЛЯ МОДАЛЬНОГО ОКНА (КНОПКА ТГ НА НОВОЙ СТРОКЕ)
+        
         let badgesTopRow = '';
         let displayType = escapeHTML(movie.type || 'Фильм');
         if (displayType.toLowerCase().includes('мульт')) displayType = 'Мульт';
@@ -1220,7 +1220,7 @@
 				
 		
 		
-		// Нижний ряд бейджиков (кнопки)
+		
         let badgesBottomRow = '';
         if (movie.kinopoiskId && isOnlineBtnVisible) {
             badgesBottomRow += `<a href="https://kinomix.web.app/movie/${movie.kinopoiskId}" target="_blank" class="watch-online-btn" style="margin-left: 0;" onclick="event.stopPropagation();">Смотреть Онлайн</a>`;
