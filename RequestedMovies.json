@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "01.09.2026 12:38",
+    "lastUpdated": "01.09.2026 14:41",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -2298,56 +2298,6 @@
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/9556/"
     },
     {
-      "title": "Эдди «Орёл»",
-      "year": "2016",
-      "type": "Фильм",
-      "kinopoiskId": "394619",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/394619/",
-      "runtime": "1 ч 45 мин",
-      "genres": "комедия, драма, история, приключения",
-      "studios": "🟢 Marv, 🟢 Saville Productions",
-      "budget": "23.000.000 $",
-      "revenue": "46.152.411 $",
-      "tmdbRating": "7.162",
-      "overview": "Фильм повествует о трамплинисте Эдди, по прозвищу «Орёл». Он прославился благодаря своим неудачам, ибо на всех соревнованиях он занимал последние места.",
-      "poster": "https://image.tmdb.org/t/p/w500/ahizSH0Odiy1znM5AJywqqDmBgZ.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
-      "cast": [
-        {
-          "name": "Тэрон Эджертон",
-          "photo": "https://image.tmdb.org/t/p/w185/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg"
-        },
-        {
-          "name": "Хью Джекман",
-          "photo": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
-        },
-        {
-          "name": "Кристофер Уокен",
-          "photo": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
-        },
-        {
-          "name": "Ania Sowinski",
-          "photo": "https://image.tmdb.org/t/p/w185/bxsEQUMCwJJNdXL7vyAJaLAl8PM.jpg"
-        }
-      ],
-      "director": {
-        "name": "Декстер Флетчер",
-        "photo": "https://image.tmdb.org/t/p/w185/gCmb47jus3aKjylqAIi3yEZA9jd.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=_zV_YqwRNDI",
-      "ageRating": "Нет данных",
-      "keywords": "underdog, sports, olympic games, mountain, ski jump",
-      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
-      "collection": "",
-      "id": 48,
-      "dateRequested": "07.08.2026 15:40",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
-    },
-    {
       "title": "Семья по-быстрому",
       "year": "2018",
       "type": "Фильм",
@@ -2500,6 +2450,61 @@
       "requestedSeason": 0,
       "altPoster": "",
       "postUrl": "",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    },
+    {
+      "title": "Эдди «Орёл»",
+      "year": "2016",
+      "type": "Фильм",
+      "kinopoiskId": "394619",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/394619/",
+      "runtime": "1 ч 45 мин",
+      "genres": "комедия, драма, история, приключения",
+      "studios": "🟢 Marv, 🟢 Saville Productions",
+      "budget": "23.000.000 $",
+      "revenue": "46.152.411 $",
+      "tmdbRating": "7.162",
+      "overview": "Фильм повествует о трамплинисте Эдди, по прозвищу «Орёл». Он прославился благодаря своим неудачам, ибо на всех соревнованиях он занимал последние места.",
+      "poster": "https://image.tmdb.org/t/p/w500/ahizSH0Odiy1znM5AJywqqDmBgZ.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+      "cast": [
+        {
+          "name": "Тэрон Эджертон",
+          "photo": "https://image.tmdb.org/t/p/w185/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg"
+        },
+        {
+          "name": "Хью Джекман",
+          "photo": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+        },
+        {
+          "name": "Кристофер Уокен",
+          "photo": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        },
+        {
+          "name": "Ania Sowinski",
+          "photo": "https://image.tmdb.org/t/p/w185/bxsEQUMCwJJNdXL7vyAJaLAl8PM.jpg"
+        }
+      ],
+      "director": {
+        "name": "Декстер Флетчер",
+        "photo": "https://image.tmdb.org/t/p/w185/gCmb47jus3aKjylqAIi3yEZA9jd.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=_zV_YqwRNDI",
+      "ageRating": "Нет данных",
+      "keywords": "underdog, sports, olympic games, mountain, ski jump",
+      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
+      "collection": "",
+      "id": 48,
+      "dateRequested": "07.08.2026 15:40",
+      "status": "Смотрели",
+      "ourRating": "8",
+      "cried": false,
+      "isAuction": false,
+      "dateWatched": "01.09.2026 14:41",
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
