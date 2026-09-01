@@ -1,51 +1,51 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "01.09.2026 14:45",
+    "lastUpdated": "01.09.2026 14:47",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
     {
-      "title": "Собачья жизнь 2",
-      "year": "2019",
+      "title": "Взрыв из прошлого",
+      "year": "1999",
       "type": "Фильм",
-      "runtime": "1 ч 49 мин",
-      "genres": "семейный, приключения, драма",
-      "studios": "🟢 Amblin Entertainment, 🟢 Reliance Entertainment, 🟢 Walden Media, 🟢 Alibaba Pictures Group, 🟢 Pariah",
-      "budget": "16.000.000 $",
-      "revenue": "78.871.079 $",
-      "tmdbRating": "8.055",
-      "overview": "Старый пес Бадди прожил несколько жизней, прежде чем воссоединиться со своим первым хозяином. Но на этом цепь его перерождений не оборвалась. Он возвращается в теле щенка, получает кличку Молли и выполняет новую миссию – принести счастье проблемной девочке-подростку СиДжей.",
-      "poster": "https://image.tmdb.org/t/p/w500/nTIYb1c3JcqFRo9V1RIzflsJTmj.jpg",
-      "tagline": "«Настоящей дружбе одной жизни мало»",
-      "backdrop": "https://image.tmdb.org/t/p/original/i109vzdCkG7W3H9FxHmfpZjgh61.jpg",
+      "runtime": "1 ч 52 мин",
+      "genres": "драма, мелодрама, комедия",
+      "studios": "🔴 New Line Cinema | 🟢 Midnight Sun Pictures, 🟢 Forge",
+      "budget": "35.000.000 $",
+      "revenue": "40.263.020 $",
+      "tmdbRating": "6.8",
+      "overview": "Адам Уэббер родился нормальным ребенком, но, по глупому недоразумению, провел 35 лет в бомбоубежище вместе со своими родителями. Наивный и искренний, он впервые оказывается среди людей в бушующем Лос-Анджелесе 90-х! И кто знает — может, он еще успеет наверстать упущенное?!",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/1h4N7xdKCZYDgNww5fgnG4hn3o4.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/qr3yKVRrPmPCpxqtEeFkdisGE4n.jpg",
       "cast": [
         {
-          "name": "Марж Хелгенбергер",
-          "photo": "https://image.tmdb.org/t/p/w185/wPfXSAsk1l9Ry2sqN1Ei8GwjI9E.jpg"
+          "name": "Брендан Фрейзер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
         },
         {
-          "name": "Бетти Гилпин",
-          "photo": "https://image.tmdb.org/t/p/w185/6GvlDnnKM0WxBt0jUipBJw5VgD5.jpg"
+          "name": "Алисия Сильверстоун",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
         },
         {
-          "name": "헨리",
-          "photo": "https://image.tmdb.org/t/p/w185/apbaSap49dGzaE6TcmUshTWN25q.jpg"
+          "name": "Кристофер Уокен",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
         },
         {
-          "name": "Кэтрин Прескотт",
-          "photo": "https://image.tmdb.org/t/p/w185/h4K970PqPapI69OBd84aP0GYIiF.jpg"
+          "name": "Сисси Спейсек",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
         }
       ],
       "director": {
-        "name": "Гейл Манкусо",
-        "photo": "https://image.tmdb.org/t/p/w185/yacqdjB95BaD28ZW1zhy3yeBujm.jpg"
+        "name": "Хью Уилсон",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/h4P3b9XgclNpRr4TDCyBzdAe9C5.jpg"
       },
-      "trailer": "https://www.youtube.com/watch?v=snPqBDbvpE0",
-      "ageRating": "12+",
-      "keywords": "reincarnation, sequel, growing up, dog, animal shelter",
+      "trailer": "",
+      "ageRating": "PG-13",
+      "keywords": "isolation, atomic bomb, bunker, shelter, lighthearted",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "Собачья жизнь (Коллекция)",
+      "collection": "",
       "id": 26,
       "dateRequested": "26.07.2026 11:58",
       "status": "Не смотрели",
@@ -53,7 +53,15 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "1122114",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1122114/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1122114/",
+      "requestedSeason": 0,
+      "tmdbId": 11622,
+      "altPoster": "",
+      "postUrl": "",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
     },
     {
       "title": "Лучше не бывает",
