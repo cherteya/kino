@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "01.09.2026 14:41",
+    "lastUpdated": "01.09.2026 14:45",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -2718,46 +2718,46 @@
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/3950/"
     },
     {
-      "title": "Управление гневом",
-      "year": "2003",
+      "title": "Давайте потанцуем",
+      "year": "2004",
       "type": "Фильм",
       "kinopoiskId": "303",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/303/",
       "runtime": "1 ч 46 мин",
-      "genres": "комедия",
-      "studios": "🟢 Columbia Pictures, 🟢 Revolution Studios, 🟢 Happy Madison Productions",
-      "budget": "75.000.000 $",
-      "revenue": "195.745.823 $",
-      "tmdbRating": "6.156",
-      "overview": "У вас все в порядке с нервами? Дэйв Базник тоже думал, что он - абсолютно нормальный человек. Ну, подумаешь, разок нагрубил стюардессе - бывает, не сдержался. И чтобы за такую малость человека определяли на курсы «управления гневом»?!",
-      "poster": "https://image.tmdb.org/t/p/w500/jU29iFzxFPxBi8ry6of8L0CdsQ7.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/jDQcNjo5SM8YxlcSn06cFzlLH6L.jpg",
+      "genres": "драма, мелодрама, комедия",
+      "studios": "🟢 Miramax, 🟢 Simon Fields Productions",
+      "budget": "50.000.000 $",
+      "revenue": "170.128.460 $",
+      "tmdbRating": "6.4",
+      "overview": "Благоустроенная жизнь, преданная жена и восхитительная дочь. Все в жизни хорошо, но чего-то все-таки не хватает… Каждый вечер, возвращаясь на поезде с работы, он видел прекрасную женщину в окне одного из зданий. И однажды он вышел на этой станции…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/rP58ZY4lHuRTc3uuxIDbi6C4Af6.jpg",
+      "tagline": "«A new comedy about following your own lead.»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/dbk1GH7eRmUrs8y9WFQP1corti2.jpg",
       "cast": [
         {
-          "name": "Адам Сэндлер",
-          "photo": "https://image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+          "name": "Ричард Гир",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
         },
         {
-          "name": "Джек Николсон",
-          "photo": "https://image.tmdb.org/t/p/w185/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg"
+          "name": "Дженнифер Лопес",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/go2wwj8NGLYqKr7MdqbG3nLWICX.jpg"
         },
         {
-          "name": "Мариса Томей",
-          "photo": "https://image.tmdb.org/t/p/w185/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
+          "name": "Сьюзан Сарандон",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
         },
         {
-          "name": "Луис Гусман",
-          "photo": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+          "name": "Стэнли Туччи",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
         }
       ],
       "director": {
-        "name": "Питер Сигал",
-        "photo": "https://image.tmdb.org/t/p/w185/x0nAuktiPai0OovveeegPAi0dRF.jpg"
+        "name": "Peter Chelsom",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/afuVtGcuVC157yar0xt1W15zmoD.jpg"
       },
       "trailer": "",
-      "ageRating": "Нет данных",
-      "keywords": "penalty, therapist, psychology, aggression, rage",
+      "ageRating": "PG-13",
+      "keywords": "dance, jealousy, husband wife relationship, dancer, dancing master",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bdfab78-2ce3-4c92-886e-7437896bf7c0-profile_image-600x600.png",
       "collection": "",
       "id": 55,
@@ -2765,7 +2765,15 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "requestedSeason": 0,
+      "tmdbId": 4380,
+      "altPoster": "",
+      "postUrl": "",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
     },
     {
       "title": "Правдивая ложь",
