@@ -3016,6 +3016,64 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false
+    },
+    {
+      "title": "Донни Дарко",
+      "requestedSeason": 0,
+      "year": "2001",
+      "type": "Фильм",
+      "tmdbId": 141,
+      "kinopoiskId": "410",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/410/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 53 мин",
+      "genres": "фэнтези, драма, детектив",
+      "studios": "🟢 Flower Films, 🟢 Pandora Cinema, 🟢 Newmarket Films",
+      "budget": "4.500.000 $",
+      "revenue": "7.500.000 $",
+      "tmdbRating": "7.8",
+      "overview": "Донни Дарко — обычный старшеклассник, живет с родителями и двумя сестрами. Однажды он встречает человека в костюме кролика, который сообщает парню, что через 28 дней, 6 часов, 42 минуты и 12 секунд наступит конец света.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/ggoyl7bYk3JIZdKt9zzcVBsF5jk.jpg",
+      "tagline": "«Бойся темноты»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "cast": [
+        {
+          "name": "Джейк Джилленхол",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+        },
+        {
+          "name": "Джена Мэлоун",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kGwV9iLmfUxJ6a73ehr0QvAnc8C.jpg"
+        },
+        {
+          "name": "Джеймс Дювал",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vvasxKKPnxv2qOoXTnaXW3ecGLO.jpg"
+        },
+        {
+          "name": "Дрю Бэрримор",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+        }
+      ],
+      "director": {
+        "name": "Richard Kelly",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/1HV7bONfsn9DKvCutb1U9BXE2HB.jpg"
+      },
+      "trailer": "",
+      "ageRating": "18+",
+      "keywords": "high school, airplane, parent child relationship, presidential election, therapist",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a9fcfa2-6bc6-4648-bb4a-c085135b87e5-profile_image-600x600.png",
+      "collection": "Дарко (Коллекция)",
+      "id": 63,
+      "dateRequested": "03.09.2026 15:39",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
     }
   ],
   "Paparazzi_1337": [
