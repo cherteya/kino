@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "03.09.2026 15:39",
+    "lastUpdated": "03.09.2026 15:40",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -2948,6 +2948,64 @@
       "collection": "Трансформеры (Коллекция)",
       "id": 61,
       "dateRequested": "03.09.2026 15:23",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    },
+    {
+      "title": "Трансформеры: Начало",
+      "requestedSeason": 0,
+      "year": "2024",
+      "type": "Мультфильм",
+      "tmdbId": 698687,
+      "kinopoiskId": "",
+      "kinopoiskUrl": "",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 44 мин",
+      "genres": "мультфильм, фантастика, приключения, семейный",
+      "studios": "🟢 Paramount Animation, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Bay Films, 🟢 New Republic Pictures, 🟢 Hasbro Entertainment",
+      "budget": "75.000.000 $",
+      "revenue": "129.408.392 $",
+      "tmdbRating": "8.0",
+      "overview": "Действие разворачивается за три миллиарда лет до основных событий фильмов о трансформерах. Орион Пакс — простой рабочий на Кибертроне. Он трудится на благо общества роботов вместе со своим лучшим другом D-16. Однако все в жизни парней меняется, когда Кибертрон сталкивается с новой угрозой. Прайм Альфа Трион наделяет Ориона, D-16, а также их товарищей Бамблби и Элиту способностью трансформироваться. Орион берёт имя Оптимус Прайм и, как лидер команды автоботов, дает мощный отпор врагам. D-16 же решает на фоне конфликта возглавить армию десептиконов и захватить власть на Кибертроне. Он становится Мегатроном — будущим заклятым врагом Оптимуса Прайма.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/lcfOnii9C1Qd01BiEb5hhHh9u6e.jpg",
+      "tagline": "«Станьте Свидетелем Происхождения»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+      "cast": [
+        {
+          "name": "Крис Хемсворт",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "name": "Брайан Тайри Генри",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+        },
+        {
+          "name": "Скарлетт Йоханссон",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+        },
+        {
+          "name": "Киган-Майкл Кей",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+        }
+      ],
+      "director": {
+        "name": "Джош Кули",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/eGN0vaFmKtqHu1nFi3Lv4roQ6P2.jpg"
+      },
+      "trailer": "",
+      "ageRating": "PG",
+      "keywords": "based on toy, giant robot, aftercreditsstinger, duringcreditsstinger, buddy movie",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/51e15def-2f0e-4692-ae48-f922021be13f-profile_image-600x600.png",
+      "collection": "",
+      "id": 64,
+      "dateRequested": "03.09.2026 15:40",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
