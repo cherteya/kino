@@ -1905,6 +1905,64 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false
+    },
+    {
+      "title": "Стекло",
+      "requestedSeason": 0,
+      "year": "2019",
+      "type": "Фильм",
+      "tmdbId": 450465,
+      "kinopoiskId": "1044601",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1044601/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "2 ч 9 мин",
+      "genres": "триллер, драма, фантастика",
+      "studios": "🟢 Blinding Edge Pictures, 🟢 Blumhouse Productions, 🟢 Perfect World Pictures",
+      "budget": "20.000.000 $",
+      "revenue": "246.999.039 $",
+      "tmdbRating": "6.7",
+      "overview": "Похититель с множественным расстройством личности и террорист-инвалид «Мистер Стекло» выходят на своих давних противников — травмированную девочку-подростка Кейси и стареющего супергероя Дэвида Данна.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/vICN2wjUMQrrpChnPCzJ1W2LPa1.jpg",
+      "tagline": "«Дай волю своим демонам»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
+      "cast": [
+        {
+          "name": "Джеймс МакЭвой",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+        },
+        {
+          "name": "Брюс Уиллис",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Сэмюэл Л. Джексон",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+        },
+        {
+          "name": "Сара Полсон",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tJnhBV516yrekR3hTDUw15UMbxS.jpg"
+        }
+      ],
+      "director": {
+        "name": "М. Найт Шьямалан",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=--QTrDj1XtI",
+      "ageRating": "16+",
+      "keywords": "philadelphia, pennsylvania, superhero, villain, sequel, psychiatric hospital",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/11f87f17-1439-4079-af5d-d3d778a76800-profile_image-600x600.jpeg",
+      "collection": "",
+      "id": 66,
+      "dateRequested": "08.09.2026 14:07",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
     }
   ],
   "pepusha_": [
