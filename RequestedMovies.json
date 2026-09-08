@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "03.09.2026 15:40",
+    "lastUpdated": "08.09.2026 14:05",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -721,56 +721,6 @@
       "isAuction": false,
       "kinopoiskId": "273209",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/273209/"
-    },
-    {
-      "title": "Сплит",
-      "year": "2017",
-      "type": "Фильм",
-      "runtime": "1 ч 57 мин",
-      "genres": "ужасы, триллер",
-      "studios": "🟢 Blinding Edge Pictures, 🟢 Blumhouse Productions",
-      "budget": "9.000.000 $",
-      "revenue": "278.454.358 $",
-      "tmdbRating": "7.341",
-      "overview": "Кевин, человек, в котором живет не менее двадцати трех личностей, вынужден похитить трех девочек подросткового возраста. Тем временем, пока они находятся в заточении, самая главная личность Кевина — Чудовище — материализуется.",
-      "poster": "https://image.tmdb.org/t/p/w500/xrVZF8DJNTPiILFygj8sg4tmauV.jpg",
-      "tagline": "Внутри Кевина живут 23 личности. Вскоре еще одна явит себя миру",
-      "backdrop": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
-      "cast": [
-        {
-          "name": "Джеймс МакЭвой",
-          "photo": "https://image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
-        },
-        {
-          "name": "Аня Тейлор-Джой",
-          "photo": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
-        },
-        {
-          "name": "Хейли Лу Ричардсон",
-          "photo": "https://image.tmdb.org/t/p/w185/iTNWzU5FlKT8s0CBZQyMIvebBPh.jpg"
-        },
-        {
-          "name": "Джессика Сула",
-          "photo": "https://image.tmdb.org/t/p/w185/2lLET7EhRy98ad5Mgc9jMk4Sb0S.jpg"
-        }
-      ],
-      "director": {
-        "name": "М. Найт Шьямалан",
-        "photo": "https://image.tmdb.org/t/p/w185/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=V2NjbzlCIr0",
-      "ageRating": "16+",
-      "keywords": "child abuse, philadelphia, pennsylvania, kidnapping, gore, sequel",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
-      "collection": "",
-      "id": 36,
-      "dateRequested": "26.07.2026 12:48",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "930534",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/930534/"
     },
     {
       "title": "Облачно, возможны осадки в виде фрикаделек",
@@ -1842,6 +1792,61 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
+    },
+    {
+      "title": "Сплит",
+      "year": "2017",
+      "type": "Фильм",
+      "runtime": "1 ч 57 мин",
+      "genres": "ужасы, триллер",
+      "studios": "🟢 Blinding Edge Pictures, 🟢 Blumhouse Productions",
+      "budget": "9.000.000 $",
+      "revenue": "278.454.358 $",
+      "tmdbRating": "7.341",
+      "overview": "Кевин, человек, в котором живет не менее двадцати трех личностей, вынужден похитить трех девочек подросткового возраста. Тем временем, пока они находятся в заточении, самая главная личность Кевина — Чудовище — материализуется.",
+      "poster": "https://image.tmdb.org/t/p/w500/xrVZF8DJNTPiILFygj8sg4tmauV.jpg",
+      "tagline": "Внутри Кевина живут 23 личности. Вскоре еще одна явит себя миру",
+      "backdrop": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+      "cast": [
+        {
+          "name": "Джеймс МакЭвой",
+          "photo": "https://image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+        },
+        {
+          "name": "Аня Тейлор-Джой",
+          "photo": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+        },
+        {
+          "name": "Хейли Лу Ричардсон",
+          "photo": "https://image.tmdb.org/t/p/w185/iTNWzU5FlKT8s0CBZQyMIvebBPh.jpg"
+        },
+        {
+          "name": "Джессика Сула",
+          "photo": "https://image.tmdb.org/t/p/w185/2lLET7EhRy98ad5Mgc9jMk4Sb0S.jpg"
+        }
+      ],
+      "director": {
+        "name": "М. Найт Шьямалан",
+        "photo": "https://image.tmdb.org/t/p/w185/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=V2NjbzlCIr0",
+      "ageRating": "16+",
+      "keywords": "child abuse, philadelphia, pennsylvania, kidnapping, gore, sequel",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
+      "collection": "",
+      "id": 36,
+      "dateRequested": "26.07.2026 12:48",
+      "status": "Смотрели",
+      "ourRating": "9",
+      "cried": false,
+      "isAuction": false,
+      "kinopoiskId": "930534",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/930534/",
+      "dateWatched": "08.09.2026 14:05",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
     }
   ],
   "pepusha_": [
