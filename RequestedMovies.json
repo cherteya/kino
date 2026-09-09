@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "08.09.2026 14:07",
+    "lastUpdated": "09.09.2026 15:09",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -1849,64 +1849,6 @@
       "isMarvel": false
     },
     {
-      "title": "Неуязвимый",
-      "requestedSeason": 0,
-      "year": "2000",
-      "type": "Фильм",
-      "tmdbId": 9741,
-      "kinopoiskId": "866",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/866/",
-      "altPoster": "",
-      "postUrl": "",
-      "runtime": "1 ч 46 мин",
-      "genres": "триллер, драма, детектив",
-      "studios": "🟢 Barry Mendel Productions, 🟢 Blinding Edge Pictures, 🟢 Touchstone Pictures",
-      "budget": "75.000.000 $",
-      "revenue": "248.118.121 $",
-      "tmdbRating": "7.1",
-      "overview": "В 3:15 пополудни происходит страшная железнодорожная катастрофа. Из 132 пассажиров в живых остается только один. Дэйвид Данн не просто уцелел посреди мгновенного ада из железа и огня — он не получил ни одной царапины. И лишь один человек на земле знает причину этого чуда — Элайджа Прайс по прозвищу «Мистер Стекло», чьи кости могут сломаться даже от незначительного внешнего усилия…",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/jz968bMurZtNJr1kGNdnqVgqmrJ.jpg",
-      "tagline": "Два полюса одной тайны",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
-      "cast": [
-        {
-          "name": "Брюс Уиллис",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
-        },
-        {
-          "name": "Сэмюэл Л. Джексон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
-        },
-        {
-          "name": "Робин Райт",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
-        },
-        {
-          "name": "Спенсер Трит Кларк",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
-        }
-      ],
-      "director": {
-        "name": "М. Найт Шьямалан",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=X7oI6jqHdUI",
-      "ageRating": "12+",
-      "keywords": "philadelphia, pennsylvania, parent child relationship, marriage crisis, superhero, train accident",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/11f87f17-1439-4079-af5d-d3d778a76800-profile_image-600x600.jpeg",
-      "collection": "",
-      "id": 65,
-      "dateRequested": "08.09.2026 14:07",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
-    },
-    {
       "title": "Стекло",
       "requestedSeason": 0,
       "year": "2019",
@@ -1963,6 +1905,65 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false
+    },
+    {
+      "title": "Неуязвимый",
+      "requestedSeason": 0,
+      "year": "2000",
+      "type": "Фильм",
+      "tmdbId": 9741,
+      "kinopoiskId": "866",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/866/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 46 мин",
+      "genres": "триллер, драма, детектив",
+      "studios": "🟢 Barry Mendel Productions, 🟢 Blinding Edge Pictures, 🟢 Touchstone Pictures",
+      "budget": "75.000.000 $",
+      "revenue": "248.118.121 $",
+      "tmdbRating": "7.1",
+      "overview": "В 3:15 пополудни происходит страшная железнодорожная катастрофа. Из 132 пассажиров в живых остается только один. Дэйвид Данн не просто уцелел посреди мгновенного ада из железа и огня — он не получил ни одной царапины. И лишь один человек на земле знает причину этого чуда — Элайджа Прайс по прозвищу «Мистер Стекло», чьи кости могут сломаться даже от незначительного внешнего усилия…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/jz968bMurZtNJr1kGNdnqVgqmrJ.jpg",
+      "tagline": "Два полюса одной тайны",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+      "cast": [
+        {
+          "name": "Брюс Уиллис",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Сэмюэл Л. Джексон",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+        },
+        {
+          "name": "Робин Райт",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+        },
+        {
+          "name": "Спенсер Трит Кларк",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
+        }
+      ],
+      "director": {
+        "name": "М. Найт Шьямалан",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=X7oI6jqHdUI",
+      "ageRating": "12+",
+      "keywords": "philadelphia, pennsylvania, parent child relationship, marriage crisis, superhero, train accident",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/11f87f17-1439-4079-af5d-d3d778a76800-profile_image-600x600.jpeg",
+      "collection": "",
+      "id": 65,
+      "dateRequested": "08.09.2026 14:07",
+      "status": "Смотрели",
+      "ourRating": "8",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "dateWatched": "09.09.2026 15:09"
     }
   ],
   "pepusha_": [
