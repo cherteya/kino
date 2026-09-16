@@ -1387,11 +1387,17 @@
             const epsCount = movie.requestedEpisodes || 0;
             const episodesHTML = epsCount > 0 ? `<div class="date-badge" style="margin-top: 8px; color: #fff; border-color: var(--mint-main); font-size: 13px;">${getEpisodeWord(epsCount)}</div>` : '';
 
-            
+
+
             const playIcon = `<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>`;
             let tgRecButtonHTML = getMediaButtonHtml(movie, 'tgRecordUrl', 'ТГ ЗАПИСЬ', 'tg-rec', playIcon, 'table');
             let boostyButtonHTML = getMediaButtonHtml(movie, 'boostyUrl', 'BOOSTY', 'boosty', playIcon, 'table');
             let ytButtonHTML = getMediaButtonHtml(movie, 'youtubeUrl', 'YOUTUBE', 'yt', playIcon, 'table');
+
+            let allLinksHTML = tgButtonHTML + tgRecButtonHTML + boostyButtonHTML + ytButtonHTML;
+            if (!allLinksHTML) {
+                allLinksHTML = `<div style="font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; font-weight: 800; opacity: 0.5; margin-top: 10px;">Ссылок нет</div>`;
+            }
 
             tr.innerHTML = `
                 <td><div class="poster-wrapper"><img src="${posterUrl}" onerror="handlePosterError(this)" alt=""></div></td>
@@ -1434,21 +1440,14 @@
                 <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center;"><div class="requester-badge" onclick="window.open('https://twitch.tv/${cleanNick}', '_blank'); event.stopPropagation();">${avatarMarkup}<span class="req-name">${cleanNick}</span></div>${movie.dateRequested ? `<div class="date-badge">${movie.dateRequested.split(' ')[0]}</div>` : ''}${auctionHTML}${seasonHTML}${episodesHTML}</div></td>
                 <td style="vertical-align: top;">${runtimeDisplay}</td>
                 <td style="vertical-align: top;">
-                    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; height: 100%;">
-                        ${tgButtonHTML}${tgRecButtonHTML}${boostyButtonHTML}${ytButtonHTML}
+                    <div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start; gap: 4px; height: 100%;">
+                        ${allLinksHTML}
                     </div>
                 </td>
                 <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center;">${statusText}${watchedDateHTML}</div></td>
             `;
             tbody.appendChild(tr);
-			
-			
-			
-			
-			
-			
-			
-			
+
 			
 			
         });
