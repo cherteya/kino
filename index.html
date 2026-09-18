@@ -586,6 +586,8 @@
         .card-play-btn.tg { border: 1px solid rgba(56, 189, 248, 0.4); color: #38bdf8; }
         .card-play-btn.tg:hover { background: #38bdf8; color: var(--bg-deep); box-shadow: 0 0 10px rgba(56, 189, 248, 0.5); }
 
+        #starsCanvas { display: none !important; }
+
         @media (min-width: 1920px) {
             .container { max-width: 1450px; }
             .movies-grid { grid-template-columns: repeat(7, 1fr); gap: 20px; }
@@ -600,6 +602,8 @@
             .movies-grid { grid-template-columns: repeat(9, 1fr); }
             .modal-content { max-width: 1500px; }
             .modal-poster { width: 300px; }
+            
+            #starsCanvas { display: block !important; }
             
             body::before {
                 content: ''; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
@@ -1978,5 +1982,73 @@
     }
     loadMovies();
 </script>
+
+<script>
+    const canvas = document.createElement('canvas');
+    canvas.id = 'starsCanvas';
+    canvas.style.position = 'fixed';
+    canvas.style.top = '0';
+    canvas.style.left = '0';
+    canvas.style.width = '100%';
+    canvas.style.height = '100%';
+    canvas.style.zIndex = '-1'; 
+    canvas.style.pointerEvents = 'none';
+    document.body.appendChild(canvas);
+
+    const ctx = canvas.getContext('2d');
+    let width, height, stars = [];
+
+    function initStars() {
+        width = canvas.width = window.innerWidth;
+        height = canvas.height = window.innerHeight;
+        stars = [];
+        
+        const numStars = Math.floor((width * height) / 4000); 
+        for (let i = 0; i < numStars; i++) {
+            stars.push({
+                x: Math.random() * width,
+                y: Math.random() * height,
+                radius: Math.random() * 1.5 + 0.3, 
+                velocity: Math.random() * 0.4 + 0.1, 
+                alpha: Math.random(), 
+                twinkleSpeed: (Math.random() * 0.02) + 0.005, 
+                fadeDir: Math.random() > 0.5 ? 1 : -1 
+            });
+        }
+    }
+
+    function drawStars() {
+        ctx.clearRect(0, 0, width, height);
+        
+        stars.forEach(star => {
+            ctx.beginPath();
+            ctx.arc(star.x, star.y, star.radius, 0, Math.PI * 2);
+            ctx.fillStyle = `rgba(255, 255, 255, ${star.alpha})`;
+            ctx.fill();
+            
+            star.y -= star.velocity;
+            
+            if (star.y < 0) {
+                star.y = height;
+                star.x = Math.random() * width;
+            }
+
+            star.alpha += star.twinkleSpeed * star.fadeDir;
+            if (star.alpha <= 0.1) {
+                star.alpha = 0.1;
+                star.fadeDir = 1;
+            } else if (star.alpha >= 1) {
+                star.alpha = 1;
+                star.fadeDir = -1;
+            }
+        });
+        requestAnimationFrame(drawStars);
+    }
+    
+    initStars();
+    drawStars();
+    window.addEventListener('resize', initStars);
+</script>
+
 </body>
 </html>
