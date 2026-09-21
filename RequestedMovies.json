@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "21.09.2026 16:12",
+    "lastUpdated": "21.09.2026 16:29",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -365,6 +365,64 @@
       "cried": false,
       "isAuction": false,
       "dateWatched": "21.09.2026 16:12",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    },
+    {
+      "title": "История рыцаря",
+      "requestedSeason": 0,
+      "year": "2001",
+      "type": "Фильм",
+      "tmdbId": 9476,
+      "kinopoiskId": "729",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/729/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "2 ч 12 мин",
+      "genres": "приключения, драма, мелодрама, боевик",
+      "studios": "🔴 Columbia Pictures | 🟢 Escape Artists, 🟢 Finestkind, 🟢 Black and Blu Entertainment",
+      "budget": "65.000.000 $",
+      "revenue": "117.487.473 $",
+      "tmdbRating": "6.9",
+      "overview": "Он не подчинялся ни одному правилу, ибо был создан для того, чтобы их нарушать. После гибели своего господина слуга Уильям решается на отчаянную авантюру. Юноше удается изменить свою родословную и, присвоив себе доспехи и оружие ушедшего хозяина, предстать перед публикой молодым и родовитым рыцарем Ульрихом фон Лихтенштейном. Теперь в новом качестве ему предстоит доказывать свое благородное происхождение на рыцарских турнирах копьем и мечом. Отвага и решимость сэра Уильяма закалилась в бесчисленных схватках. Но в качестве последнего испытания пылкому сердцу великого самозванца послана страстная любовь, которой под силу выбить из седла самого неустрашимого воина.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/btSZdQCtzFNh8GXa8xKhLA5i43F.jpg",
+      "tagline": "«От крестьянина до рыцаря; один человек может изменить судьбу»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/gkT737kgnmI6jZyXbUBJRwVbGkW.jpg",
+      "cast": [
+        {
+          "name": "Хит Леджер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+        },
+        {
+          "name": "Руфус Сьюэлл",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
+        },
+        {
+          "name": "Shannyn Sossamon",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/h7oiKMaoq0J5DM3PBZxffF9uJo4.jpg"
+        },
+        {
+          "name": "Пол Беттани",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+        }
+      ],
+      "director": {
+        "name": "Брайан Хелгеленд",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/3nva1KGfPZMhqxBnr5PymluTOxf.jpg"
+      },
+      "trailer": "",
+      "ageRating": "12+",
+      "keywords": "london, england, poetry, rivalry, sword fight, knight",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 67,
+      "dateRequested": "21.09.2026 16:29",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
