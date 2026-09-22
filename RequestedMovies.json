@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "21.09.2026 16:31",
+    "lastUpdated": "22.09.2026 12:41",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -2712,6 +2712,64 @@
       "kinopoiskId": "2219",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/2219/",
       "dateWatched": "19.08.2026 15:50"
+    },
+    {
+      "title": "Дикие истории",
+      "requestedSeason": 0,
+      "year": "2014",
+      "type": "Фильм",
+      "tmdbId": 265195,
+      "kinopoiskId": "775727",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/775727/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 56 мин",
+      "genres": "драма, триллер, комедия",
+      "studios": "🟢 El Deseo, 🟢 K & S Films, 🟢 Telefe, 🟢 Corner Producciones",
+      "budget": "4.000.000 $",
+      "revenue": "31.478.893 $",
+      "tmdbRating": "7.9",
+      "overview": "Гэбриела Пастернака обижали многие, с кем сводила его жизнь — девушка, учитель музыки, профессор в консерватории, дантист. И вот все они, на свою беду, оказались вместе с ним в одном самолете… Ночью в придорожной закусочной официантка узнает в посетителе ростовщика, который много лет назад довел до самоубийства ее отца. А у поварихи, в прошлом отсидевшей срок, для мести такому гаду сразу нашлось средство — крысиный яд… Городской красавчик ехал на своей мощной Audi по пустынной дороге и решил обогнать старый Peugeot, но сидевший за рулем провинциальный упырь решил не уступать. И вот уже кровавый итог бессмысленного соперничества не за горами…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/3nNB3PD7JDpm3XFPzNddlpz1Wqt.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
+      "cast": [
+        {
+          "name": "Рикардо Дарин",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2laJXyYQkL9YdLL1PRdD3hLZ6Uy.jpg"
+        },
+        {
+          "name": "Леонардо Сбаралья",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jGYgJqNEWVvp92ZPre1PEKfci5H.jpg"
+        },
+        {
+          "name": "Érica Rivas",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8WqQnJJ30fJkFZAnmndjfhsT41k.jpg"
+        },
+        {
+          "name": "Oscar Martínez",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/t8d1BEV3OEasLnIULbL1oYVIvxa.jpg"
+        }
+      ],
+      "director": {
+        "name": "Damián Szifron",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zCC1SUcjoDuJui9qgFjJIgr6kDq.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=_Kz_RXeeQIc",
+      "ageRating": "R",
+      "keywords": "dark comedy, anthology, revenge, wedding party, road rage",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bdfab78-2ce3-4c92-886e-7437896bf7c0-profile_image-600x600.png",
+      "collection": "",
+      "id": 69,
+      "dateRequested": "22.09.2026 12:41",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
     }
   ],
   "bblove": [
