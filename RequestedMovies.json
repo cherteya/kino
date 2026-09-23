@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "22.09.2026 16:02",
+    "lastUpdated": "23.09.2026 13:50",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -3499,6 +3499,117 @@
       "isMarvel": false
     }
   ],
+  "tiltnessa": [
+    {
+      "title": "Дом-монстр",
+      "year": "2006",
+      "type": "Мультфильм",
+      "runtime": "1 ч 31 мин",
+      "genres": "мультфильм, комедия, семейный, фэнтези",
+      "studios": "🟢 ImageMovers, 🟢 Amblin Entertainment",
+      "budget": "75.000.000 $",
+      "revenue": "140.175.006 $",
+      "tmdbRating": "6.707",
+      "overview": "Хорошо быть мальчишкой. Каждый день, как вся жизнь! Столько всего вокруг: девчонки, мороженое, драки, учебники, футбол. Насыщенный день, короче, получается. А вот если ты однажды обнаружил, что дом, который стоит по соседству с домом твоей семьи — вовсе не дом… А попросту говоря — монстр. Чудовище, в общем. Такие дела.Ну вот, история эта про то, как три приятеля — ДиДжей, Чёдер и Дженни — обнаружили, что дом, находящийся неподалеку, самый настоящий монстр. Только никто им не верил. Мало ли, чего навыдумывают дети… Только зря они так. Ребята их предупреждали…При создании фильма использовалась технология технологии motion capture. Актеры, одетые в костюмы, снимались вживую, а затем их движения оцифровывались и переносились на 3D-модели персонажей. На съемки ушло 42 дня. Для записи стонов и скрипов, которые издавал дом-монстр, не был задействован ни один синтезатор. Был найден очень старый сарай и были записаны звуки, которые издавала эта развалюха.",
+      "poster": "https://image.tmdb.org/t/p/w500/pMc6kgawZybpnHuvPsrbgLWIGCW.jpg",
+      "tagline": "Там по соседству...",
+      "backdrop": "https://image.tmdb.org/t/p/original/3otAGduCHdqdEIVC1HOOLb5Qnp2.jpg",
+      "cast": [
+        {
+          "name": "Mitchel Musso",
+          "photo": "https://image.tmdb.org/t/p/w185/ofaAVYn61scqEMtXmK9G7TIFNhA.jpg"
+        },
+        {
+          "name": "Sam Lerner",
+          "photo": "https://image.tmdb.org/t/p/w185/tHTUqTxciQIEdQYdaKWPorWyRbm.jpg"
+        },
+        {
+          "name": "Спенсер Локк",
+          "photo": "https://image.tmdb.org/t/p/w185/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg"
+        },
+        {
+          "name": "Стив Бушеми",
+          "photo": "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+        }
+      ],
+      "director": {
+        "name": "Гил Кинан",
+        "photo": "https://image.tmdb.org/t/p/w185/7XhXrhh8KNTf28IwJGpPPCNZFpr.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=3UaPgWC6scQ",
+      "ageRating": "PG",
+      "keywords": "mission, monster, halloween, haunted house, neighbor",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1dbf6029-67b7-4508-a0d3-f6f833c3ff3f-profile_image-600x600.png",
+      "collection": "",
+      "id": 13,
+      "dateRequested": "14.05.2026 11:39",
+      "status": "Смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "dateWatched": "15.05.2026 16:46",
+      "kinopoiskId": "77601",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77601/"
+    },
+    {
+      "title": "Лысый Нянька: Спецзадание",
+      "requestedSeason": 0,
+      "year": "2005",
+      "type": "Фильм",
+      "tmdbId": 10022,
+      "kinopoiskId": "77450",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77450/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 35 мин",
+      "genres": "комедия, семейный, боевик",
+      "studios": "🟢 Walt Disney Pictures, 🟢 Spyglass Entertainment",
+      "budget": "56.000.000 $",
+      "revenue": "198.636.868 $",
+      "tmdbRating": "6.1",
+      "overview": "История о бывшем морском пехотинце, охраняющем работающего на правительство учёного и пятерых его детей. Как показывает практика, детей нужно охранять не только от злоумышленников, но и от них самих. Причём не следует забывать и о собственной безопасности. Их ведь пятеро, и все они чрезвычайно коварны…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/wRRvwuOlhL9DhrFGeqxFhtqUW2K.jpg",
+      "tagline": "«Добро Пожаловать в Пехоту»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/p0HdiQZVYylWy5JG8iuwzT1Ssdl.jpg",
+      "cast": [
+        {
+          "name": "Вин Дизель",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg"
+        },
+        {
+          "name": "Лорен Грэм",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/3leQVZnthAZwngH7HAD6T7qfsVu.jpg"
+        },
+        {
+          "name": "Фейт Форд",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8FMAHz9LD7xCnmeX8rkkNknXqhy.jpg"
+        },
+        {
+          "name": "Бриттани Сноу",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/uSQW2E7caOaXHBbvL2jdzGbwDwH.jpg"
+        }
+      ],
+      "director": {
+        "name": "Adam Shankman",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6Eu0BNd8rMuXaIXkF7nPD7qYYW2.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=M7ICQgjdzCU",
+      "ageRating": "PG",
+      "keywords": "mission, bodybuilder, body guard, scientist, family",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1dbf6029-67b7-4508-a0d3-f6f833c3ff3f-profile_image-600x600.png",
+      "collection": "",
+      "id": 71,
+      "dateRequested": "23.09.2026 13:50",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    }
+  ],
   "Paparazzi_1337": [
     {
       "title": "Не грози южному централу, попивая сок у себя в квартале",
@@ -3664,59 +3775,6 @@
       "dateWatched": "16.07.2026 16:50",
       "kinopoiskId": "933307",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/933307/"
-    }
-  ],
-  "tiltnessa": [
-    {
-      "title": "Дом-монстр",
-      "year": "2006",
-      "type": "Мультфильм",
-      "runtime": "1 ч 31 мин",
-      "genres": "мультфильм, комедия, семейный, фэнтези",
-      "studios": "🟢 ImageMovers, 🟢 Amblin Entertainment",
-      "budget": "75.000.000 $",
-      "revenue": "140.175.006 $",
-      "tmdbRating": "6.707",
-      "overview": "Хорошо быть мальчишкой. Каждый день, как вся жизнь! Столько всего вокруг: девчонки, мороженое, драки, учебники, футбол. Насыщенный день, короче, получается. А вот если ты однажды обнаружил, что дом, который стоит по соседству с домом твоей семьи — вовсе не дом… А попросту говоря — монстр. Чудовище, в общем. Такие дела.Ну вот, история эта про то, как три приятеля — ДиДжей, Чёдер и Дженни — обнаружили, что дом, находящийся неподалеку, самый настоящий монстр. Только никто им не верил. Мало ли, чего навыдумывают дети… Только зря они так. Ребята их предупреждали…При создании фильма использовалась технология технологии motion capture. Актеры, одетые в костюмы, снимались вживую, а затем их движения оцифровывались и переносились на 3D-модели персонажей. На съемки ушло 42 дня. Для записи стонов и скрипов, которые издавал дом-монстр, не был задействован ни один синтезатор. Был найден очень старый сарай и были записаны звуки, которые издавала эта развалюха.",
-      "poster": "https://image.tmdb.org/t/p/w500/pMc6kgawZybpnHuvPsrbgLWIGCW.jpg",
-      "tagline": "Там по соседству...",
-      "backdrop": "https://image.tmdb.org/t/p/original/3otAGduCHdqdEIVC1HOOLb5Qnp2.jpg",
-      "cast": [
-        {
-          "name": "Mitchel Musso",
-          "photo": "https://image.tmdb.org/t/p/w185/ofaAVYn61scqEMtXmK9G7TIFNhA.jpg"
-        },
-        {
-          "name": "Sam Lerner",
-          "photo": "https://image.tmdb.org/t/p/w185/tHTUqTxciQIEdQYdaKWPorWyRbm.jpg"
-        },
-        {
-          "name": "Спенсер Локк",
-          "photo": "https://image.tmdb.org/t/p/w185/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg"
-        },
-        {
-          "name": "Стив Бушеми",
-          "photo": "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
-        }
-      ],
-      "director": {
-        "name": "Гил Кинан",
-        "photo": "https://image.tmdb.org/t/p/w185/7XhXrhh8KNTf28IwJGpPPCNZFpr.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=3UaPgWC6scQ",
-      "ageRating": "PG",
-      "keywords": "mission, monster, halloween, haunted house, neighbor",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1dbf6029-67b7-4508-a0d3-f6f833c3ff3f-profile_image-600x600.png",
-      "collection": "",
-      "id": 13,
-      "dateRequested": "14.05.2026 11:39",
-      "status": "Смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "dateWatched": "15.05.2026 16:46",
-      "kinopoiskId": "77601",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77601/"
     }
   ]
 }
