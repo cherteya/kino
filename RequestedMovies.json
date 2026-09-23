@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "23.09.2026 13:50",
+    "lastUpdated": "23.09.2026 13:55",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -419,6 +419,64 @@
       "collection": "",
       "id": 67,
       "dateRequested": "21.09.2026 16:29",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    },
+    {
+      "title": "Клик: С пультом по жизни",
+      "requestedSeason": 0,
+      "year": "2006",
+      "type": "Фильм",
+      "tmdbId": 9339,
+      "kinopoiskId": "77576",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77576/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 47 мин",
+      "genres": "комедия, драма, фэнтези",
+      "studios": "🔴 Columbia Pictures | 🟢 Original Film, 🟢 Revolution Studios, 🟢 Happy Madison Productions",
+      "budget": "82.500.000 $",
+      "revenue": "240.685.326 $",
+      "tmdbRating": "6.3",
+      "overview": "Архитектору-трудоголику Майклу попадает в руки пульт дистанционного управления, с помощью которого можно перематывать или ставить на паузу жизненные ситуации. Но техника есть техника - у нее всегда сюрприз в запасе. Запомнив ускоренные моменты, пульт начинает самовольно перематывать Майклу жизнь.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/yUt5heuYmrFiNGqElJrBnn3vw75.jpg",
+      "tagline": "«Представьте, что у вас появился уникальный пульт... Которым можно изменить всю вашу жизнь?»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/1nfymSGiadOvi6uOLskL2jAOmvh.jpg",
+      "cast": [
+        {
+          "name": "Адам Сэндлер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+        },
+        {
+          "name": "Кейт Бекинсейл",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lveqQgmEzW6ak5unOQi4md677kM.jpg"
+        },
+        {
+          "name": "Кристофер Уокен",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        },
+        {
+          "name": "Дэвид Хассельхофф",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gRcqYNBUQWFxRoAVRNY7xHzOONP.jpg"
+        }
+      ],
+      "director": {
+        "name": "Frank Coraci",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z280cWJmhWgPmR9HrTXUn4BK06o.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=86-NHBlFPPw",
+      "ageRating": "PG-13",
+      "keywords": "dying and death, regret, workaholic, heart attack, architect",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 72,
+      "dateRequested": "23.09.2026 13:55",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
