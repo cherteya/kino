@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "23.09.2026 14:04",
+    "lastUpdated": "23.09.2026 15:14",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -3122,66 +3122,6 @@
       "isMarvel": false
     }
   ],
-  "finiba0": [
-    {
-      "title": "Шпион по соседству",
-      "requestedSeason": 0,
-      "year": "2010",
-      "type": "Фильм",
-      "tmdbId": 23172,
-      "kinopoiskId": "431539",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/431539/",
-      "altPoster": "",
-      "postUrl": "",
-      "runtime": "1 ч 34 мин",
-      "genres": "боевик, комедия, семейный",
-      "studios": "🟢 Spy Next Door, 🟢 Relativity Media, 🟢 Robert Simonds Productions, 🟢 Lionsgate, 🟢 Mandate International",
-      "budget": "28.000.000 $",
-      "revenue": "66.166.000 $",
-      "tmdbRating": "5.9",
-      "overview": "Агент Боб Хо обезвреживал террористов, ниспровергал диктаторов и крушил целые империи зла, но теперь его ждет самое сложное задание за всю карьеру — на один вечер он должен стать нянькой. Здесь он снова использует профессиональную подготовку и уникальные навыки, однако скоро Боба ждут большие неприятности.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/pNZsnetmPF5zWANch75NTVjrwQt.jpg",
-      "tagline": "",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/w7TUrUUo9pKcgY7PCdm2LK6XbZB.jpg",
-      "cast": [
-        {
-          "name": "Джеки Чан",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
-        },
-        {
-          "name": "Эмбер Валлетта",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6KSsLN9XFucycN5yw4FGeByHrVx.jpg"
-        },
-        {
-          "name": "Мадлен Кэрролл",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/rUXWRKgyf9vLoC4zSHlu5fHdtxR.jpg"
-        },
-        {
-          "name": "Уилл Шэдли",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/h0GqVuMi1VvnmfYbRyzzT7HwSM3.jpg"
-        }
-      ],
-      "director": {
-        "name": "Brian Levant",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/w5i30CI5PekRZry3AgME1ntEQSP.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=HDd7A9dBJ9c",
-      "ageRating": "PG",
-      "keywords": "spy, babysitter, duringcreditsstinger, american spy, babysitting",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/64a86f83-3546-463c-b385-a605da145b35-profile_image-600x600.jpeg",
-      "collection": "",
-      "id": 68,
-      "dateRequested": "21.09.2026 16:31",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
-    }
-  ],
   "DworfiQ": [
     {
       "title": "Оскар",
@@ -3674,6 +3614,67 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false
+    }
+  ],
+  "finiba0": [
+    {
+      "title": "Шпион по соседству",
+      "requestedSeason": 0,
+      "year": "2010",
+      "type": "Фильм",
+      "tmdbId": 23172,
+      "kinopoiskId": "431539",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/431539/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 34 мин",
+      "genres": "боевик, комедия, семейный",
+      "studios": "🟢 Spy Next Door, 🟢 Relativity Media, 🟢 Robert Simonds Productions, 🟢 Lionsgate, 🟢 Mandate International",
+      "budget": "28.000.000 $",
+      "revenue": "66.166.000 $",
+      "tmdbRating": "5.9",
+      "overview": "Агент Боб Хо обезвреживал террористов, ниспровергал диктаторов и крушил целые империи зла, но теперь его ждет самое сложное задание за всю карьеру — на один вечер он должен стать нянькой. Здесь он снова использует профессиональную подготовку и уникальные навыки, однако скоро Боба ждут большие неприятности.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/pNZsnetmPF5zWANch75NTVjrwQt.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/w7TUrUUo9pKcgY7PCdm2LK6XbZB.jpg",
+      "cast": [
+        {
+          "name": "Джеки Чан",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+        },
+        {
+          "name": "Эмбер Валлетта",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6KSsLN9XFucycN5yw4FGeByHrVx.jpg"
+        },
+        {
+          "name": "Мадлен Кэрролл",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/rUXWRKgyf9vLoC4zSHlu5fHdtxR.jpg"
+        },
+        {
+          "name": "Уилл Шэдли",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/h0GqVuMi1VvnmfYbRyzzT7HwSM3.jpg"
+        }
+      ],
+      "director": {
+        "name": "Brian Levant",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/w5i30CI5PekRZry3AgME1ntEQSP.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=HDd7A9dBJ9c",
+      "ageRating": "PG",
+      "keywords": "spy, babysitter, duringcreditsstinger, american spy, babysitting",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/64a86f83-3546-463c-b385-a605da145b35-profile_image-600x600.jpeg",
+      "collection": "",
+      "id": 68,
+      "dateRequested": "21.09.2026 16:31",
+      "status": "Смотрели",
+      "ourRating": "7",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "dateWatched": "23.09.2026 15:14"
     }
   ],
   "Paparazzi_1337": [
