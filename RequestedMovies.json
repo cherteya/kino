@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "23.09.2026 14:02",
+    "lastUpdated": "23.09.2026 14:04",
     "isOnlineBtnVisible": true
   },
   "MadMan1408": [
@@ -163,64 +163,6 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false
-    },
-    {
-      "title": "С любовью, Рози",
-      "year": "2014",
-      "type": "Фильм",
-      "kinopoiskId": "4484",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4484/",
-      "runtime": "1 ч 42 мин",
-      "genres": "мелодрама, драма, комедия",
-      "studios": "🟢 Constantin Film, 🟢 Canyon Creek Films",
-      "budget": "Нет данных",
-      "revenue": "4.439.431 $",
-      "tmdbRating": "7.8",
-      "overview": "Рози и Алекс — лучшие друзья. Но вот семья Алекса переезжает в Бостон и они вынуждены расстаться. Вскоре герои понимают, что жить друг без друга не могут и решают — первую ночь Рози и Алекс проведут вместе. Но Алекс опаздывает на свой рейс, а Рози с горя напивается и ее первым мужчиной становится Брайан, она беременеет в 18 лет. И вскоре Алекс решает жениться на другой. Несмотря на изменения в жизнях обоих, Рози и ее друг детства не теряют своей привязанности даже спустя двенадцать лет…",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/DqwYuYKJMckuuMXMhqRKcZs3Vt.jpg",
-      "tagline": "",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/rpsHpJj7FgnNBXhaO2KFthPwqH6.jpg",
-      "cast": [
-        {
-          "name": "Лили Коллинз",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5bhcp0CyTdHgfW8x45ZKewDnjMc.jpg"
-        },
-        {
-          "name": "Сэм Клафлин",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
-        },
-        {
-          "name": "Christian Cooke",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pqIqDP4HuRLc60KR8QMTHWhIJNq.jpg"
-        },
-        {
-          "name": "Tamsin Egerton",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/n7iso71As9F3H5LtESDjiqJ6e7s.jpg"
-        }
-      ],
-      "director": {
-        "name": "Кристиан Диттер",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/o8waU0Go2YEgq6YFcDQf5dph5zP.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=QRX6ZewDpWU",
-      "ageRating": "Нет данных",
-      "keywords": "friendship, based on novel or book, love, best friend, valentine's day",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 52,
-      "dateRequested": "12.08.2026 11:15",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "requestedSeason": 0,
-      "tmdbId": 200727,
-      "altPoster": "",
-      "postUrl": "",
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
     },
     {
       "title": "Граф Монте-Кристо",
@@ -489,6 +431,64 @@
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    },
+    {
+      "title": "С любовью, Рози",
+      "year": "2014",
+      "type": "Фильм",
+      "kinopoiskId": "512784",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/512784/",
+      "runtime": "1 ч 42 мин",
+      "genres": "мелодрама, драма, комедия",
+      "studios": "🟢 Constantin Film, 🟢 Canyon Creek Films",
+      "budget": "Нет данных",
+      "revenue": "4.439.431 $",
+      "tmdbRating": "7.8",
+      "overview": "Рози и Алекс — лучшие друзья. Но вот семья Алекса переезжает в Бостон и они вынуждены расстаться. Вскоре герои понимают, что жить друг без друга не могут и решают — первую ночь Рози и Алекс проведут вместе. Но Алекс опаздывает на свой рейс, а Рози с горя напивается и ее первым мужчиной становится Брайан, она беременеет в 18 лет. И вскоре Алекс решает жениться на другой. Несмотря на изменения в жизнях обоих, Рози и ее друг детства не теряют своей привязанности даже спустя двенадцать лет…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/DqwYuYKJMckuuMXMhqRKcZs3Vt.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/rpsHpJj7FgnNBXhaO2KFthPwqH6.jpg",
+      "cast": [
+        {
+          "name": "Лили Коллинз",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5bhcp0CyTdHgfW8x45ZKewDnjMc.jpg"
+        },
+        {
+          "name": "Сэм Клафлин",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+        },
+        {
+          "name": "Christian Cooke",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pqIqDP4HuRLc60KR8QMTHWhIJNq.jpg"
+        },
+        {
+          "name": "Tamsin Egerton",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/n7iso71As9F3H5LtESDjiqJ6e7s.jpg"
+        }
+      ],
+      "director": {
+        "name": "Кристиан Диттер",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/o8waU0Go2YEgq6YFcDQf5dph5zP.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=QRX6ZewDpWU",
+      "ageRating": "Нет данных",
+      "keywords": "friendship, based on novel or book, love, best friend, valentine's day",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 52,
+      "dateRequested": "12.08.2026 11:15",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "requestedSeason": 0,
+      "tmdbId": 200727,
+      "altPoster": "",
+      "postUrl": "",
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
