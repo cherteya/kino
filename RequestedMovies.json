@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "24.09.2026 19:32",
+    "lastUpdated": "24.09.2026 19:33",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -3336,7 +3336,6 @@
       "kinopoiskId": "775727",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/775727/",
       "altPoster": "",
-      "postUrl": "",
       "runtime": "2 ч 4 мин",
       "genres": "приключения, боевик, фэнтези",
       "studios": "🟢 Alphaville Films",
@@ -3384,7 +3383,40 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false,
-      "tmdbId": 564
+      "tmdbId": 564,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pwOVw2PEHwqypHbhBJFQe158Ljb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wyIhlSbqBS7ZsDbCQwGhuNIDYyq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dyCBpTtmWxyN1mQtQnM8DyhDBo1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3qmFGAWoIF6YAMhc8nl09QUpZw3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rol1kxGFhIXg0HH64aGZUNCzWle.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/87aASi6JV3dlX8AuHZDKc1bgOI6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/81PhNT890sAM7GDQelV6bfmOHEB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ivmwGxORu10rcC7ZX78r1wKNatM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gmHaeFsDrsi4xj2nPsPrI23eaPt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eq2oUvhDAr6JTZs8iAZATMHKSu6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/srD2jFNyJwCnKeFTfePrh561auH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1hdH0ch9nuDtdXeD7JjLeAIIT3X.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/HEoR98F2kRA59xf38FK0K8mlse.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eAay8WWAkK9vSoLJIsA42C6V8Ur.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cM3iPbIt76Ww0VfTCvrt3dDCEcW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ygTSl89OtmXY4ESMpEF7qZcpGR8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5tJDvuYZNzZFiTuUlI4ynuyTvAP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k6UGKIF7EWHUGvXRVWjlp4YzKUB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nCd8G7C5mbiABQuATgos1OeAshu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/az7Sa8gJo768mv3Rz2gERDtAVBF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/f7SKInXZS89j8mNs6vEdQknEbhT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xbgzPINakUlas2rUMhuDp1AHFdi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ftUk4JzWA7UEsLmjRRfB3THyW4M.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1TYgNRDG0hlP97LAcYy2NAlfEnX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lB4Ew4WNOyTf2Plu8zvCKjcPf2F.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9TtNnxJ5kzHLx1BzBqTmJeVoPr8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yzdqA9MfRnIqDFUiwDU5rtXtlSs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/12SBJQbfdTfhznlav6JPyCpJuzw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bDPC8PX9h0poKKP08cpZQtybSZs.jpg"
+      ]
     },
     {
       "title": "Давайте потанцуем",
