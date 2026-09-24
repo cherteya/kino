@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "24.09.2026 19:30",
+    "lastUpdated": "24.09.2026 19:32",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -1603,92 +1603,6 @@
       "isWatching": false,
       "isMarvel": false,
       "dateWatched": "14.09.2026 14:03"
-    },
-    {
-      "title": "Эммануэль",
-      "requestedSeason": 0,
-      "requestedEpisodes": 0,
-      "year": "1974",
-      "type": "Фильм",
-      "tmdbId": 24402,
-      "kinopoiskId": "63774",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/63774/",
-      "altPoster": "",
-      "runtime": "1 ч 45 мин",
-      "genres": "драма, мелодрама",
-      "studios": "🟢 Orphée Productions, 🟢 Trinacra Films",
-      "budget": "500.000 $",
-      "revenue": "20.200.000 $",
-      "tmdbRating": "6.0",
-      "overview": "Первый фильм о жрице любви Эммануэль. Сюжет служит канвой для описания сексуальных похождений героини в Юго-Восточной Азии.Муж Эммануэль, работающий в посольстве, поощряет в ней стремление к раскрепощенности в сексе, благо весь дипломатический корпус, особенно женщины, изнывают от скуки. За её воспитание берется уже пожилой специалист. Эммануэль делает большие успехи в искусстве любви.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/aUYDbpjBtn7BaRokrzSJZbByJtl.jpg",
-      "tagline": "«X was never like this.»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/yKsMX3Ril4FVNHJKZukuDe7JemW.jpg",
-      "cast": [
-        {
-          "name": "Сильвия Кристель",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9z9iLNRAHBa11oeLTLUg00AA0eJ.jpg"
-        },
-        {
-          "name": "Alain Cuny",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xNz8yFCEADTk4Kz4YIqzpDF0vSG.jpg"
-        },
-        {
-          "name": "Marika Green",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/u1KMdWcSHCHCmflZeYtQjdp5Sez.jpg"
-        },
-        {
-          "name": "Daniel Sarky",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bTNunjdPV35bpFC3HtkqMaueRlY.jpg"
-        }
-      ],
-      "frames": [
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yKsMX3Ril4FVNHJKZukuDe7JemW.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k5qXRqhCkzETnH0ktCtyBGR7pWz.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vLS1asZSNAULDpzQEHGOrXwqibE.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zIgum89LN0TUdRq6j7WmijN8PQ0.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kObzilm3MrK9ZRa9ZkJD24Ud5An.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2Qch1AxVC57zlGGuqBKNxD3DKzt.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2ckJ92IJyIksTQvetPBQsNu2Jct.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bvNRi37YM5eiPnk541ahTh2Lz5s.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wKMad4e0zGTJQwdVaUakJvGp9xH.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yMfDOTalkc4W41DDek1tC3Dh4oT.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gcpEb5RJH56aWLn1z4UD3haJRm6.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kxpGp7LY5GKAfCJfY02XfoNIKxL.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bKsKka5hNPTdgXJstG1fZQWcP4E.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6vZPy6p1LYyWJChg9ttlpdIS4XF.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xnnqMBKhkpws5LvAcPDpPvgAOJa.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/onMfgc1EqFf3OQEDZFghwAGGtW4.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2sufzIg57m4vgg0FRUbeq7T9Sg9.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sy3LFnKWonvTBWfpDgcJ8UA77ua.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zVYLVP8g0m54AOGzdeoU04ISYOl.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hJQ9fMb2bkptBATMkY9tSDrpuoM.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7cvryhdV21aqwrEJzzkhakBgmLN.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o88EPow1irns3rlZS3W2WB2wbvO.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3TdCOqx83tQFJX1aXY3wqhrRcJP.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3UYh5D12rYCImZXriRsPLyKMkOo.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/u1fnliX80mC3EddrATg2CdmID07.jpg"
-      ],
-      "director": {
-        "name": "Just Jaeckin",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/1v6PDE0DyaXbyltb0IJatnvmXQH.jpg"
-      },
-      "trailer": "",
-      "ageRating": "NR",
-      "keywords": "infidelity, airplane, eroticism, bangkok, thailand, sexual fantasy",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/11f87f17-1439-4079-af5d-d3d778a76800-profile_image-600x600.jpeg",
-      "collection": "Эммануэль (Коллекция)",
-      "id": 73,
-      "dateRequested": "24.09.2026 19:30",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false,
-      "reviewUrl": ""
     }
   ],
   "pepusha_": [
