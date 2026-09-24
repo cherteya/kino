@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "24.09.2026 15:43",
+    "lastUpdated": "24.09.2026 15:45",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -3329,52 +3329,51 @@
       "dateWatched": "19.08.2026 15:50"
     },
     {
-      "title": "Дикие истории",
+      "title": "Мумия",
       "requestedSeason": 0,
-      "year": "2014",
+      "year": "1999",
       "type": "Фильм",
-      "tmdbId": 265195,
       "kinopoiskId": "775727",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/775727/",
       "altPoster": "",
       "postUrl": "",
-      "runtime": "1 ч 56 мин",
-      "genres": "драма, триллер, комедия",
-      "studios": "🟢 El Deseo, 🟢 K & S Films, 🟢 Telefe, 🟢 Corner Producciones",
-      "budget": "4.000.000 $",
-      "revenue": "31.478.893 $",
-      "tmdbRating": "7.9",
-      "overview": "Гэбриела Пастернака обижали многие, с кем сводила его жизнь — девушка, учитель музыки, профессор в консерватории, дантист. И вот все они, на свою беду, оказались вместе с ним в одном самолете… Ночью в придорожной закусочной официантка узнает в посетителе ростовщика, который много лет назад довел до самоубийства ее отца. А у поварихи, в прошлом отсидевшей срок, для мести такому гаду сразу нашлось средство — крысиный яд… Городской красавчик ехал на своей мощной Audi по пустынной дороге и решил обогнать старый Peugeot, но сидевший за рулем провинциальный упырь решил не уступать. И вот уже кровавый итог бессмысленного соперничества не за горами…",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/3nNB3PD7JDpm3XFPzNddlpz1Wqt.jpg",
-      "tagline": "",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
+      "runtime": "2 ч 4 мин",
+      "genres": "приключения, боевик, фэнтези",
+      "studios": "🟢 Alphaville Films",
+      "budget": "80.000.000 $",
+      "revenue": "415.885.488 $",
+      "tmdbRating": "7.0",
+      "overview": "Авантюрист Рик вместе с библиотекаршей Эвелин отправляется в древний египетский город Хамунаптра на поиски сокровищ и потерянных знаний. Во время раскопок они случайно пробуждают Имхотепа — могущественного жреца, проклятого за запретную любовь и погребённого заживо тысячи лет назад. Теперь ожившая мумия стремится вернуть себе силу и возлюбленную, а Рику, Эвелин и её брату Джонатану предстоит остановить древнее зло, пока оно не уничтожило весь мир.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/jzwDpKRBi1gbqIcHLV2LdFqP2rb.jpg",
+      "tagline": "«Пески поднимутся. Небеса разверзнутся. Сила вырвется на свободу»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
       "cast": [
         {
-          "name": "Рикардо Дарин",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2laJXyYQkL9YdLL1PRdD3hLZ6Uy.jpg"
+          "name": "Брендан Фрейзер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
         },
         {
-          "name": "Леонардо Сбаралья",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jGYgJqNEWVvp92ZPre1PEKfci5H.jpg"
+          "name": "Рэйчел Вайс",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
         },
         {
-          "name": "Érica Rivas",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8WqQnJJ30fJkFZAnmndjfhsT41k.jpg"
+          "name": "Джон Ханна",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
         },
         {
-          "name": "Oscar Martínez",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/t8d1BEV3OEasLnIULbL1oYVIvxa.jpg"
+          "name": "Арнольд Вослу",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/o23Z1EvWEYR7PArq2w5UpreVipV.jpg"
         }
       ],
       "director": {
-        "name": "Damián Szifron",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zCC1SUcjoDuJui9qgFjJIgr6kDq.jpg"
+        "name": "Стивен Соммерс",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/wGhd7IF1Buf7qPXuC4y1t02hams.jpg"
       },
-      "trailer": "https://www.youtube.com/watch?v=_Kz_RXeeQIc",
-      "ageRating": "R",
-      "keywords": "dark comedy, anthology, revenge, wedding party, road rage",
+      "trailer": "https://www.youtube.com/watch?v=V9T4-OzDA9k",
+      "ageRating": "12+",
+      "keywords": "egypt, cairo, library, secret passage, pastor",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bdfab78-2ce3-4c92-886e-7437896bf7c0-profile_image-600x600.png",
-      "collection": "",
+      "collection": "Мумия (Коллекция)",
       "id": 69,
       "dateRequested": "22.09.2026 12:41",
       "status": "Не смотрели",
@@ -3384,7 +3383,8 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "tmdbId": 564
     },
     {
       "title": "Давайте потанцуем",
