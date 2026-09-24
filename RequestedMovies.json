@@ -1,500 +1,9 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "23.09.2026 15:14",
+    "lastUpdated": "24.09.2026 15:43",
     "isOnlineBtnVisible": true
   },
-  "MadMan1408": [
-    {
-      "title": "Взрыв из прошлого",
-      "year": "1999",
-      "type": "Фильм",
-      "runtime": "1 ч 52 мин",
-      "genres": "драма, мелодрама, комедия",
-      "studios": "🔴 New Line Cinema | 🟢 Midnight Sun Pictures, 🟢 Forge",
-      "budget": "35.000.000 $",
-      "revenue": "40.263.020 $",
-      "tmdbRating": "6.8",
-      "overview": "Адам Уэббер родился нормальным ребенком, но, по глупому недоразумению, провел 35 лет в бомбоубежище вместе со своими родителями. Наивный и искренний, он впервые оказывается среди людей в бушующем Лос-Анджелесе 90-х! И кто знает — может, он еще успеет наверстать упущенное?!",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/1h4N7xdKCZYDgNww5fgnG4hn3o4.jpg",
-      "tagline": "",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/qr3yKVRrPmPCpxqtEeFkdisGE4n.jpg",
-      "cast": [
-        {
-          "name": "Брендан Фрейзер",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
-        },
-        {
-          "name": "Алисия Сильверстоун",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
-        },
-        {
-          "name": "Кристофер Уокен",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
-        },
-        {
-          "name": "Сисси Спейсек",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
-        }
-      ],
-      "director": {
-        "name": "Хью Уилсон",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/h4P3b9XgclNpRr4TDCyBzdAe9C5.jpg"
-      },
-      "trailer": "",
-      "ageRating": "PG-13",
-      "keywords": "isolation, atomic bomb, bunker, shelter, lighthearted",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 26,
-      "dateRequested": "26.07.2026 11:58",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "kinopoiskId": "1122114",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1122114/",
-      "requestedSeason": 0,
-      "tmdbId": 11622,
-      "altPoster": "",
-      "postUrl": "",
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
-    },
-    {
-      "title": "Лучше не бывает",
-      "year": "1997",
-      "type": "Фильм",
-      "runtime": "2 ч 19 мин",
-      "genres": "драма, комедия, мелодрама",
-      "studios": "🟢 TriStar Pictures, 🟢 Gracie Films",
-      "budget": "50.000.000 $",
-      "revenue": "314.178.011 $",
-      "tmdbRating": "7.405",
-      "overview": "Мелвин Адал, психически неуравновешенный эксцентричный писатель, ненавидит буквально всех вокруг. Из-за своего странного поведения он одинок и часто попадает в комичные ситуации. Но неожиданно его уединение нарушается. Мелвину приходится ухаживать за соседской собакой, и незаметно для себя он учится у нее доброте и преданности. За стеной собственного равнодушия ему открывается прекрасный мир человеческих чувств…",
-      "poster": "https://image.tmdb.org/t/p/w500/76GO7Wwsnq2RSuFl2FQRhtaIbSv.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
-      "cast": [
-        {
-          "name": "Джек Николсон",
-          "photo": "https://image.tmdb.org/t/p/w185/aeCqQiVzohWwwmk8VKCXOxsjobS.jpg"
-        },
-        {
-          "name": "Хелен Хант",
-          "photo": "https://image.tmdb.org/t/p/w185/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
-        },
-        {
-          "name": "Грег Киннир",
-          "photo": "https://image.tmdb.org/t/p/w185/iJezGc9XjY0DFPs00SypkuKImFK.jpg"
-        },
-        {
-          "name": "Кьюба Гудинг мл.",
-          "photo": "https://image.tmdb.org/t/p/w185/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
-        }
-      ],
-      "director": {
-        "name": "Джеймс Брукс",
-        "photo": "https://image.tmdb.org/t/p/w185/9mKjOFabm3yDRe5EIGsgSgNir9l.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=Y_jxpxIMwzw",
-      "ageRating": "PG-13",
-      "keywords": "new york city, friendship, waitress, single parent, restaurant",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 18,
-      "dateRequested": "01.06.2026 11:43",
-      "status": "Смотрели",
-      "ourRating": "Без оценки",
-      "cried": true,
-      "isAuction": false,
-      "dateWatched": "02.06.2026 16:48",
-      "kinopoiskId": "4199",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4199/"
-    },
-    {
-      "title": "Целитель Адамс",
-      "year": "1998",
-      "type": "Фильм",
-      "kinopoiskId": "6123",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6123/",
-      "runtime": "1 ч 55 мин",
-      "genres": "комедия, драма",
-      "studios": "🟢 Universal Pictures, 🟢 Bungalow 78 Productions, 🟢 Blue Wolf, 🟢 Farrell/Minoff",
-      "budget": "50.000.000 $",
-      "revenue": "202.292.902 $",
-      "tmdbRating": "7.315",
-      "overview": "Познакомьтесь с Целителем Адамсом — доктором, который резко отличается от своих чопорных и важных коллег. Адамс совершил невероятное открытие в современной медицине. Оказывается, лучшим лекарством от любых болезней является смех. И доктор Адамс готов сделать все возможное, чтобы заставить своих пациентов, как, впрочем, и зрителей этой прекрасной картины, смеяться без перерыва!..",
-      "poster": "https://image.tmdb.org/t/p/w500/tMAz20MjVOgUsBDb3CfNqN2JxYC.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
-      "cast": [
-        {
-          "name": "Робин Уильямс",
-          "photo": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
-        },
-        {
-          "name": "Моника Поттер",
-          "photo": "https://image.tmdb.org/t/p/w185/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
-        },
-        {
-          "name": "Филип Сеймур Хоффман",
-          "photo": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
-        },
-        {
-          "name": "Дэниэл Лондон",
-          "photo": "https://image.tmdb.org/t/p/w185/feRkUWfs2LpVzULMdkpBHN5JYdM.jpg"
-        }
-      ],
-      "director": {
-        "name": "Том Шедьяк",
-        "photo": "https://image.tmdb.org/t/p/w185/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
-      },
-      "trailer": "",
-      "ageRating": "Нет данных",
-      "keywords": "based on novel or book, nurse, 1970s, based on true story, psychiatric hospital",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 50,
-      "dateRequested": "07.08.2026 15:43",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
-    },
-    {
-      "title": "Граф Монте-Кристо",
-      "year": "2024",
-      "type": "Фильм",
-      "kinopoiskId": "5452393",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/5452393/",
-      "runtime": "2 ч 58 мин",
-      "genres": "приключения, боевик, драма",
-      "studios": "🟢 Chapter 2, 🟢 Pathé, 🟢 M6 Films, 🟢 Fargo Films, 🟢 Logical Content Ventures, 🟢 uMedia, 🟢 uFund",
-      "budget": "46.000.000 $",
-      "revenue": "75.360.860 $",
-      "tmdbRating": "7.9",
-      "overview": "Став жертвой коварного заговора, молодой Эдмон Дантес был арестован в день своей свадьбы за преступление, которое он не совершал. После 14 лет в тюрьме Замка Иф ему наконец-то удается бежать. На таинственном острове, о котором ему поведал в заключении его друг аббат Фариа, Эдмон находит легендарное сокровище и становится графом Монте- Кристо. Теперь его единственная цель — месть.",
-      "poster": "https://image.tmdb.org/t/p/w500/bv7XaMz155UTyQSOy2CHllMrAf9.jpg",
-      "tagline": "Эдмон Дантес мстит врагам, укравшим его молодость и возлюбленную. Зрелищная экранизация романа Александра Дюма",
-      "backdrop": "https://image.tmdb.org/t/p/original/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
-      "cast": [
-        {
-          "name": "Пьер Нине",
-          "photo": "https://image.tmdb.org/t/p/w185/ahICOyV41nhJ2q9LaVaHOridn2m.jpg"
-        },
-        {
-          "name": "Bastien Bouillon",
-          "photo": "https://image.tmdb.org/t/p/w185/8ksm25v40MS2p2y0EyyNrxdt7it.jpg"
-        },
-        {
-          "name": "Анаис Демустье",
-          "photo": "https://image.tmdb.org/t/p/w185/ecxoK2ja9h1bmUlLo9pxlMK1reA.jpg"
-        },
-        {
-          "name": "Лоран Лафит",
-          "photo": "https://image.tmdb.org/t/p/w185/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
-        }
-      ],
-      "director": {
-        "name": "Александр де Ла Пательер",
-        "photo": "https://image.tmdb.org/t/p/w185/er7ZbU5inozZfFmvpwswjujxBos.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=JHmFykml2EI",
-      "ageRating": "12+",
-      "keywords": "based on novel or book, count, revenge, wrongful conviction, hidden fortune",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 53,
-      "dateRequested": "13.08.2026 11:24",
-      "status": "Смотрели",
-      "ourRating": "9",
-      "cried": false,
-      "isAuction": false,
-      "dateWatched": "21.08.2026 15:46"
-    },
-    {
-      "title": "Заплати другому",
-      "year": "2000",
-      "type": "Фильм",
-      "kinopoiskId": "782",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/782/",
-      "runtime": "2 ч 3 мин",
-      "genres": "драма",
-      "studios": "🔴 Warner Bros. Pictures | 🟢 Bel Air Entertainment, 🟢 Tapestry Films",
-      "budget": "40.000.000 $",
-      "revenue": "55.707.411 $",
-      "tmdbRating": "7.387",
-      "overview": "Представьте себе. Вы оказываете кому-либо существенную услугу и просите этого человека отблагодарить не вас, а трех других людей, которые, в свою очередь, отблагодарят еще троих, и так далее, в мировом масштабе, распространяя доброту и тепло. Насколько действенной может оказаться подобная сердечная идея? Ученик седьмого класса Тревор МакКинни решил это проверить, начав цепочку добра.",
-      "poster": "https://image.tmdb.org/t/p/w500/e5ZEv6YfAoSPzezP7grG2ix8D1H.jpg",
-      "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/xoFolYFMGVzIOjYhEhyBiYbBpqK.jpg",
-      "cast": [
-        {
-          "name": "Кевин Спейси",
-          "photo": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
-        },
-        {
-          "name": "Хелен Хант",
-          "photo": "https://image.tmdb.org/t/p/w185/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
-        },
-        {
-          "name": "Энджи Дикинсон",
-          "photo": "https://image.tmdb.org/t/p/w185/5OmGKBhCTz7nobyMOPfaxs2F9n3.jpg"
-        },
-        {
-          "name": "Хейли Джоэл Осмент",
-          "photo": "https://image.tmdb.org/t/p/w185/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
-        }
-      ],
-      "director": {
-        "name": "Мими Ледер",
-        "photo": "https://image.tmdb.org/t/p/w185/A7bFqiiPtsBScQssuNucMgPpU2Y.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=srNHEbV3LaQ",
-      "ageRating": "Нет данных",
-      "keywords": "child's point of view, candlelight vigil, good deed, exotic dancer, schoolteacher",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 57,
-      "dateRequested": "19.08.2026 15:15",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false
-    },
-    {
-      "title": "Игры разума",
-      "year": "2001",
-      "type": "Фильм",
-      "kinopoiskId": "530",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/530/",
-      "runtime": "2 ч 15 мин",
-      "genres": "драма, мелодрама",
-      "studios": "🟢 Universal Pictures, 🟢 DreamWorks Pictures, 🟢 Imagine Entertainment",
-      "budget": "58.000.000 $",
-      "revenue": "316.791.257 $",
-      "tmdbRating": "7.853",
-      "overview": "От всемирной известности до греховных глубин — все это познал на своей шкуре Джон Форбс Нэш-младший. Математический гений, он на заре своей карьеры сделал титаническую работу в области теории игр, которая перевернула этот раздел математики и практически принесла ему международную известность. Однако буквально в то же время заносчивый и пользующийся успехом у женщин Нэш получает удар судьбы, который переворачивает уже его собственную жизнь.",
-      "poster": "https://image.tmdb.org/t/p/w500/7EX8TTBKCJR3x7xziOSp6M0bQdF.jpg",
-      "tagline": "«Если реальность ополчилась против тебя, ничто больше не безопасно...»",
-      "backdrop": "https://image.tmdb.org/t/p/original/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
-      "cast": [
-        {
-          "name": "Рассел Кроу",
-          "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
-        },
-        {
-          "name": "Дженнифер Коннелли",
-          "photo": "https://image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
-        },
-        {
-          "name": "Эд Харрис",
-          "photo": "https://image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
-        },
-        {
-          "name": "Пол Беттани",
-          "photo": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
-        }
-      ],
-      "director": {
-        "name": "Рон Ховард",
-        "photo": "https://image.tmdb.org/t/p/w185/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=LH_UFaCZVTY",
-      "ageRating": "Нет данных",
-      "keywords": "schizophrenia, based on novel or book, love of one's life, self-discovery, professor",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 51,
-      "dateRequested": "10.08.2026 14:50",
-      "status": "Смотрели",
-      "ourRating": "6",
-      "cried": false,
-      "isAuction": false,
-      "dateWatched": "21.09.2026 16:12",
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
-    },
-    {
-      "title": "История рыцаря",
-      "requestedSeason": 0,
-      "year": "2001",
-      "type": "Фильм",
-      "tmdbId": 9476,
-      "kinopoiskId": "729",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/729/",
-      "altPoster": "",
-      "postUrl": "",
-      "runtime": "2 ч 12 мин",
-      "genres": "приключения, драма, мелодрама, боевик",
-      "studios": "🔴 Columbia Pictures | 🟢 Escape Artists, 🟢 Finestkind, 🟢 Black and Blu Entertainment",
-      "budget": "65.000.000 $",
-      "revenue": "117.487.473 $",
-      "tmdbRating": "6.9",
-      "overview": "Он не подчинялся ни одному правилу, ибо был создан для того, чтобы их нарушать. После гибели своего господина слуга Уильям решается на отчаянную авантюру. Юноше удается изменить свою родословную и, присвоив себе доспехи и оружие ушедшего хозяина, предстать перед публикой молодым и родовитым рыцарем Ульрихом фон Лихтенштейном. Теперь в новом качестве ему предстоит доказывать свое благородное происхождение на рыцарских турнирах копьем и мечом. Отвага и решимость сэра Уильяма закалилась в бесчисленных схватках. Но в качестве последнего испытания пылкому сердцу великого самозванца послана страстная любовь, которой под силу выбить из седла самого неустрашимого воина.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/btSZdQCtzFNh8GXa8xKhLA5i43F.jpg",
-      "tagline": "«От крестьянина до рыцаря; один человек может изменить судьбу»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/gkT737kgnmI6jZyXbUBJRwVbGkW.jpg",
-      "cast": [
-        {
-          "name": "Хит Леджер",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
-        },
-        {
-          "name": "Руфус Сьюэлл",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
-        },
-        {
-          "name": "Shannyn Sossamon",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/h7oiKMaoq0J5DM3PBZxffF9uJo4.jpg"
-        },
-        {
-          "name": "Пол Беттани",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
-        }
-      ],
-      "director": {
-        "name": "Брайан Хелгеленд",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/3nva1KGfPZMhqxBnr5PymluTOxf.jpg"
-      },
-      "trailer": "",
-      "ageRating": "12+",
-      "keywords": "london, england, poetry, rivalry, sword fight, knight",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 67,
-      "dateRequested": "21.09.2026 16:29",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
-    },
-    {
-      "title": "Клик: С пультом по жизни",
-      "requestedSeason": 0,
-      "year": "2006",
-      "type": "Фильм",
-      "tmdbId": 9339,
-      "kinopoiskId": "77576",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77576/",
-      "altPoster": "",
-      "postUrl": "",
-      "runtime": "1 ч 47 мин",
-      "genres": "комедия, драма, фэнтези",
-      "studios": "🔴 Columbia Pictures | 🟢 Original Film, 🟢 Revolution Studios, 🟢 Happy Madison Productions",
-      "budget": "82.500.000 $",
-      "revenue": "240.685.326 $",
-      "tmdbRating": "6.3",
-      "overview": "Архитектору-трудоголику Майклу попадает в руки пульт дистанционного управления, с помощью которого можно перематывать или ставить на паузу жизненные ситуации. Но техника есть техника - у нее всегда сюрприз в запасе. Запомнив ускоренные моменты, пульт начинает самовольно перематывать Майклу жизнь.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/yUt5heuYmrFiNGqElJrBnn3vw75.jpg",
-      "tagline": "«Представьте, что у вас появился уникальный пульт... Которым можно изменить всю вашу жизнь?»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/1nfymSGiadOvi6uOLskL2jAOmvh.jpg",
-      "cast": [
-        {
-          "name": "Адам Сэндлер",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
-        },
-        {
-          "name": "Кейт Бекинсейл",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lveqQgmEzW6ak5unOQi4md677kM.jpg"
-        },
-        {
-          "name": "Кристофер Уокен",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
-        },
-        {
-          "name": "Дэвид Хассельхофф",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gRcqYNBUQWFxRoAVRNY7xHzOONP.jpg"
-        }
-      ],
-      "director": {
-        "name": "Frank Coraci",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z280cWJmhWgPmR9HrTXUn4BK06o.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=86-NHBlFPPw",
-      "ageRating": "PG-13",
-      "keywords": "dying and death, regret, workaholic, heart attack, architect",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 72,
-      "dateRequested": "23.09.2026 13:55",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
-    },
-    {
-      "title": "С любовью, Рози",
-      "year": "2014",
-      "type": "Фильм",
-      "kinopoiskId": "512784",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/512784/",
-      "runtime": "1 ч 42 мин",
-      "genres": "мелодрама, драма, комедия",
-      "studios": "🟢 Constantin Film, 🟢 Canyon Creek Films",
-      "budget": "Нет данных",
-      "revenue": "4.439.431 $",
-      "tmdbRating": "7.8",
-      "overview": "Рози и Алекс — лучшие друзья. Но вот семья Алекса переезжает в Бостон и они вынуждены расстаться. Вскоре герои понимают, что жить друг без друга не могут и решают — первую ночь Рози и Алекс проведут вместе. Но Алекс опаздывает на свой рейс, а Рози с горя напивается и ее первым мужчиной становится Брайан, она беременеет в 18 лет. И вскоре Алекс решает жениться на другой. Несмотря на изменения в жизнях обоих, Рози и ее друг детства не теряют своей привязанности даже спустя двенадцать лет…",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/DqwYuYKJMckuuMXMhqRKcZs3Vt.jpg",
-      "tagline": "",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/rpsHpJj7FgnNBXhaO2KFthPwqH6.jpg",
-      "cast": [
-        {
-          "name": "Лили Коллинз",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5bhcp0CyTdHgfW8x45ZKewDnjMc.jpg"
-        },
-        {
-          "name": "Сэм Клафлин",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
-        },
-        {
-          "name": "Christian Cooke",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pqIqDP4HuRLc60KR8QMTHWhIJNq.jpg"
-        },
-        {
-          "name": "Tamsin Egerton",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/n7iso71As9F3H5LtESDjiqJ6e7s.jpg"
-        }
-      ],
-      "director": {
-        "name": "Кристиан Диттер",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/o8waU0Go2YEgq6YFcDQf5dph5zP.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=QRX6ZewDpWU",
-      "ageRating": "Нет данных",
-      "keywords": "friendship, based on novel or book, love, best friend, valentine's day",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 52,
-      "dateRequested": "12.08.2026 11:15",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "requestedSeason": 0,
-      "tmdbId": 200727,
-      "altPoster": "",
-      "postUrl": "",
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
-    }
-  ],
   "bazar_gure": [
     {
       "title": "Там, где раки поют",
@@ -2462,6 +1971,498 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false
+    }
+  ],
+  "MadMan1408": [
+    {
+      "title": "Лучше не бывает",
+      "year": "1997",
+      "type": "Фильм",
+      "runtime": "2 ч 19 мин",
+      "genres": "драма, комедия, мелодрама",
+      "studios": "🟢 TriStar Pictures, 🟢 Gracie Films",
+      "budget": "50.000.000 $",
+      "revenue": "314.178.011 $",
+      "tmdbRating": "7.405",
+      "overview": "Мелвин Адал, психически неуравновешенный эксцентричный писатель, ненавидит буквально всех вокруг. Из-за своего странного поведения он одинок и часто попадает в комичные ситуации. Но неожиданно его уединение нарушается. Мелвину приходится ухаживать за соседской собакой, и незаметно для себя он учится у нее доброте и преданности. За стеной собственного равнодушия ему открывается прекрасный мир человеческих чувств…",
+      "poster": "https://image.tmdb.org/t/p/w500/76GO7Wwsnq2RSuFl2FQRhtaIbSv.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
+      "cast": [
+        {
+          "name": "Джек Николсон",
+          "photo": "https://image.tmdb.org/t/p/w185/aeCqQiVzohWwwmk8VKCXOxsjobS.jpg"
+        },
+        {
+          "name": "Хелен Хант",
+          "photo": "https://image.tmdb.org/t/p/w185/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
+        },
+        {
+          "name": "Грег Киннир",
+          "photo": "https://image.tmdb.org/t/p/w185/iJezGc9XjY0DFPs00SypkuKImFK.jpg"
+        },
+        {
+          "name": "Кьюба Гудинг мл.",
+          "photo": "https://image.tmdb.org/t/p/w185/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+        }
+      ],
+      "director": {
+        "name": "Джеймс Брукс",
+        "photo": "https://image.tmdb.org/t/p/w185/9mKjOFabm3yDRe5EIGsgSgNir9l.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=Y_jxpxIMwzw",
+      "ageRating": "PG-13",
+      "keywords": "new york city, friendship, waitress, single parent, restaurant",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 18,
+      "dateRequested": "01.06.2026 11:43",
+      "status": "Смотрели",
+      "ourRating": "Без оценки",
+      "cried": true,
+      "isAuction": false,
+      "dateWatched": "02.06.2026 16:48",
+      "kinopoiskId": "4199",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4199/"
+    },
+    {
+      "title": "Целитель Адамс",
+      "year": "1998",
+      "type": "Фильм",
+      "kinopoiskId": "6123",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6123/",
+      "runtime": "1 ч 55 мин",
+      "genres": "комедия, драма",
+      "studios": "🟢 Universal Pictures, 🟢 Bungalow 78 Productions, 🟢 Blue Wolf, 🟢 Farrell/Minoff",
+      "budget": "50.000.000 $",
+      "revenue": "202.292.902 $",
+      "tmdbRating": "7.315",
+      "overview": "Познакомьтесь с Целителем Адамсом — доктором, который резко отличается от своих чопорных и важных коллег. Адамс совершил невероятное открытие в современной медицине. Оказывается, лучшим лекарством от любых болезней является смех. И доктор Адамс готов сделать все возможное, чтобы заставить своих пациентов, как, впрочем, и зрителей этой прекрасной картины, смеяться без перерыва!..",
+      "poster": "https://image.tmdb.org/t/p/w500/tMAz20MjVOgUsBDb3CfNqN2JxYC.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+      "cast": [
+        {
+          "name": "Робин Уильямс",
+          "photo": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+        },
+        {
+          "name": "Моника Поттер",
+          "photo": "https://image.tmdb.org/t/p/w185/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
+        },
+        {
+          "name": "Филип Сеймур Хоффман",
+          "photo": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+        },
+        {
+          "name": "Дэниэл Лондон",
+          "photo": "https://image.tmdb.org/t/p/w185/feRkUWfs2LpVzULMdkpBHN5JYdM.jpg"
+        }
+      ],
+      "director": {
+        "name": "Том Шедьяк",
+        "photo": "https://image.tmdb.org/t/p/w185/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "based on novel or book, nurse, 1970s, based on true story, psychiatric hospital",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 50,
+      "dateRequested": "07.08.2026 15:43",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Граф Монте-Кристо",
+      "year": "2024",
+      "type": "Фильм",
+      "kinopoiskId": "5452393",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/5452393/",
+      "runtime": "2 ч 58 мин",
+      "genres": "приключения, боевик, драма",
+      "studios": "🟢 Chapter 2, 🟢 Pathé, 🟢 M6 Films, 🟢 Fargo Films, 🟢 Logical Content Ventures, 🟢 uMedia, 🟢 uFund",
+      "budget": "46.000.000 $",
+      "revenue": "75.360.860 $",
+      "tmdbRating": "7.9",
+      "overview": "Став жертвой коварного заговора, молодой Эдмон Дантес был арестован в день своей свадьбы за преступление, которое он не совершал. После 14 лет в тюрьме Замка Иф ему наконец-то удается бежать. На таинственном острове, о котором ему поведал в заключении его друг аббат Фариа, Эдмон находит легендарное сокровище и становится графом Монте- Кристо. Теперь его единственная цель — месть.",
+      "poster": "https://image.tmdb.org/t/p/w500/bv7XaMz155UTyQSOy2CHllMrAf9.jpg",
+      "tagline": "Эдмон Дантес мстит врагам, укравшим его молодость и возлюбленную. Зрелищная экранизация романа Александра Дюма",
+      "backdrop": "https://image.tmdb.org/t/p/original/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
+      "cast": [
+        {
+          "name": "Пьер Нине",
+          "photo": "https://image.tmdb.org/t/p/w185/ahICOyV41nhJ2q9LaVaHOridn2m.jpg"
+        },
+        {
+          "name": "Bastien Bouillon",
+          "photo": "https://image.tmdb.org/t/p/w185/8ksm25v40MS2p2y0EyyNrxdt7it.jpg"
+        },
+        {
+          "name": "Анаис Демустье",
+          "photo": "https://image.tmdb.org/t/p/w185/ecxoK2ja9h1bmUlLo9pxlMK1reA.jpg"
+        },
+        {
+          "name": "Лоран Лафит",
+          "photo": "https://image.tmdb.org/t/p/w185/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+        }
+      ],
+      "director": {
+        "name": "Александр де Ла Пательер",
+        "photo": "https://image.tmdb.org/t/p/w185/er7ZbU5inozZfFmvpwswjujxBos.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=JHmFykml2EI",
+      "ageRating": "12+",
+      "keywords": "based on novel or book, count, revenge, wrongful conviction, hidden fortune",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 53,
+      "dateRequested": "13.08.2026 11:24",
+      "status": "Смотрели",
+      "ourRating": "9",
+      "cried": false,
+      "isAuction": false,
+      "dateWatched": "21.08.2026 15:46"
+    },
+    {
+      "title": "Заплати другому",
+      "year": "2000",
+      "type": "Фильм",
+      "kinopoiskId": "782",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/782/",
+      "runtime": "2 ч 3 мин",
+      "genres": "драма",
+      "studios": "🔴 Warner Bros. Pictures | 🟢 Bel Air Entertainment, 🟢 Tapestry Films",
+      "budget": "40.000.000 $",
+      "revenue": "55.707.411 $",
+      "tmdbRating": "7.387",
+      "overview": "Представьте себе. Вы оказываете кому-либо существенную услугу и просите этого человека отблагодарить не вас, а трех других людей, которые, в свою очередь, отблагодарят еще троих, и так далее, в мировом масштабе, распространяя доброту и тепло. Насколько действенной может оказаться подобная сердечная идея? Ученик седьмого класса Тревор МакКинни решил это проверить, начав цепочку добра.",
+      "poster": "https://image.tmdb.org/t/p/w500/e5ZEv6YfAoSPzezP7grG2ix8D1H.jpg",
+      "tagline": "",
+      "backdrop": "https://image.tmdb.org/t/p/original/xoFolYFMGVzIOjYhEhyBiYbBpqK.jpg",
+      "cast": [
+        {
+          "name": "Кевин Спейси",
+          "photo": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+        },
+        {
+          "name": "Хелен Хант",
+          "photo": "https://image.tmdb.org/t/p/w185/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
+        },
+        {
+          "name": "Энджи Дикинсон",
+          "photo": "https://image.tmdb.org/t/p/w185/5OmGKBhCTz7nobyMOPfaxs2F9n3.jpg"
+        },
+        {
+          "name": "Хейли Джоэл Осмент",
+          "photo": "https://image.tmdb.org/t/p/w185/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+        }
+      ],
+      "director": {
+        "name": "Мими Ледер",
+        "photo": "https://image.tmdb.org/t/p/w185/A7bFqiiPtsBScQssuNucMgPpU2Y.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=srNHEbV3LaQ",
+      "ageRating": "Нет данных",
+      "keywords": "child's point of view, candlelight vigil, good deed, exotic dancer, schoolteacher",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 57,
+      "dateRequested": "19.08.2026 15:15",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false
+    },
+    {
+      "title": "Игры разума",
+      "year": "2001",
+      "type": "Фильм",
+      "kinopoiskId": "530",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/530/",
+      "runtime": "2 ч 15 мин",
+      "genres": "драма, мелодрама",
+      "studios": "🟢 Universal Pictures, 🟢 DreamWorks Pictures, 🟢 Imagine Entertainment",
+      "budget": "58.000.000 $",
+      "revenue": "316.791.257 $",
+      "tmdbRating": "7.853",
+      "overview": "От всемирной известности до греховных глубин — все это познал на своей шкуре Джон Форбс Нэш-младший. Математический гений, он на заре своей карьеры сделал титаническую работу в области теории игр, которая перевернула этот раздел математики и практически принесла ему международную известность. Однако буквально в то же время заносчивый и пользующийся успехом у женщин Нэш получает удар судьбы, который переворачивает уже его собственную жизнь.",
+      "poster": "https://image.tmdb.org/t/p/w500/7EX8TTBKCJR3x7xziOSp6M0bQdF.jpg",
+      "tagline": "«Если реальность ополчилась против тебя, ничто больше не безопасно...»",
+      "backdrop": "https://image.tmdb.org/t/p/original/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+      "cast": [
+        {
+          "name": "Рассел Кроу",
+          "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+        },
+        {
+          "name": "Дженнифер Коннелли",
+          "photo": "https://image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+        },
+        {
+          "name": "Эд Харрис",
+          "photo": "https://image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+        },
+        {
+          "name": "Пол Беттани",
+          "photo": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+        }
+      ],
+      "director": {
+        "name": "Рон Ховард",
+        "photo": "https://image.tmdb.org/t/p/w185/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=LH_UFaCZVTY",
+      "ageRating": "Нет данных",
+      "keywords": "schizophrenia, based on novel or book, love of one's life, self-discovery, professor",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 51,
+      "dateRequested": "10.08.2026 14:50",
+      "status": "Смотрели",
+      "ourRating": "6",
+      "cried": false,
+      "isAuction": false,
+      "dateWatched": "21.09.2026 16:12",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    },
+    {
+      "title": "История рыцаря",
+      "requestedSeason": 0,
+      "year": "2001",
+      "type": "Фильм",
+      "tmdbId": 9476,
+      "kinopoiskId": "729",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/729/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "2 ч 12 мин",
+      "genres": "приключения, драма, мелодрама, боевик",
+      "studios": "🔴 Columbia Pictures | 🟢 Escape Artists, 🟢 Finestkind, 🟢 Black and Blu Entertainment",
+      "budget": "65.000.000 $",
+      "revenue": "117.487.473 $",
+      "tmdbRating": "6.9",
+      "overview": "Он не подчинялся ни одному правилу, ибо был создан для того, чтобы их нарушать. После гибели своего господина слуга Уильям решается на отчаянную авантюру. Юноше удается изменить свою родословную и, присвоив себе доспехи и оружие ушедшего хозяина, предстать перед публикой молодым и родовитым рыцарем Ульрихом фон Лихтенштейном. Теперь в новом качестве ему предстоит доказывать свое благородное происхождение на рыцарских турнирах копьем и мечом. Отвага и решимость сэра Уильяма закалилась в бесчисленных схватках. Но в качестве последнего испытания пылкому сердцу великого самозванца послана страстная любовь, которой под силу выбить из седла самого неустрашимого воина.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/btSZdQCtzFNh8GXa8xKhLA5i43F.jpg",
+      "tagline": "«От крестьянина до рыцаря; один человек может изменить судьбу»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/gkT737kgnmI6jZyXbUBJRwVbGkW.jpg",
+      "cast": [
+        {
+          "name": "Хит Леджер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+        },
+        {
+          "name": "Руфус Сьюэлл",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
+        },
+        {
+          "name": "Shannyn Sossamon",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/h7oiKMaoq0J5DM3PBZxffF9uJo4.jpg"
+        },
+        {
+          "name": "Пол Беттани",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+        }
+      ],
+      "director": {
+        "name": "Брайан Хелгеленд",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/3nva1KGfPZMhqxBnr5PymluTOxf.jpg"
+      },
+      "trailer": "",
+      "ageRating": "12+",
+      "keywords": "london, england, poetry, rivalry, sword fight, knight",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 67,
+      "dateRequested": "21.09.2026 16:29",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    },
+    {
+      "title": "Клик: С пультом по жизни",
+      "requestedSeason": 0,
+      "year": "2006",
+      "type": "Фильм",
+      "tmdbId": 9339,
+      "kinopoiskId": "77576",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77576/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 47 мин",
+      "genres": "комедия, драма, фэнтези",
+      "studios": "🔴 Columbia Pictures | 🟢 Original Film, 🟢 Revolution Studios, 🟢 Happy Madison Productions",
+      "budget": "82.500.000 $",
+      "revenue": "240.685.326 $",
+      "tmdbRating": "6.3",
+      "overview": "Архитектору-трудоголику Майклу попадает в руки пульт дистанционного управления, с помощью которого можно перематывать или ставить на паузу жизненные ситуации. Но техника есть техника - у нее всегда сюрприз в запасе. Запомнив ускоренные моменты, пульт начинает самовольно перематывать Майклу жизнь.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/yUt5heuYmrFiNGqElJrBnn3vw75.jpg",
+      "tagline": "«Представьте, что у вас появился уникальный пульт... Которым можно изменить всю вашу жизнь?»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/1nfymSGiadOvi6uOLskL2jAOmvh.jpg",
+      "cast": [
+        {
+          "name": "Адам Сэндлер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+        },
+        {
+          "name": "Кейт Бекинсейл",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lveqQgmEzW6ak5unOQi4md677kM.jpg"
+        },
+        {
+          "name": "Кристофер Уокен",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        },
+        {
+          "name": "Дэвид Хассельхофф",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gRcqYNBUQWFxRoAVRNY7xHzOONP.jpg"
+        }
+      ],
+      "director": {
+        "name": "Frank Coraci",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z280cWJmhWgPmR9HrTXUn4BK06o.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=86-NHBlFPPw",
+      "ageRating": "PG-13",
+      "keywords": "dying and death, regret, workaholic, heart attack, architect",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 72,
+      "dateRequested": "23.09.2026 13:55",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    },
+    {
+      "title": "С любовью, Рози",
+      "year": "2014",
+      "type": "Фильм",
+      "kinopoiskId": "512784",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/512784/",
+      "runtime": "1 ч 42 мин",
+      "genres": "мелодрама, драма, комедия",
+      "studios": "🟢 Constantin Film, 🟢 Canyon Creek Films",
+      "budget": "Нет данных",
+      "revenue": "4.439.431 $",
+      "tmdbRating": "7.8",
+      "overview": "Рози и Алекс — лучшие друзья. Но вот семья Алекса переезжает в Бостон и они вынуждены расстаться. Вскоре герои понимают, что жить друг без друга не могут и решают — первую ночь Рози и Алекс проведут вместе. Но Алекс опаздывает на свой рейс, а Рози с горя напивается и ее первым мужчиной становится Брайан, она беременеет в 18 лет. И вскоре Алекс решает жениться на другой. Несмотря на изменения в жизнях обоих, Рози и ее друг детства не теряют своей привязанности даже спустя двенадцать лет…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/DqwYuYKJMckuuMXMhqRKcZs3Vt.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/rpsHpJj7FgnNBXhaO2KFthPwqH6.jpg",
+      "cast": [
+        {
+          "name": "Лили Коллинз",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5bhcp0CyTdHgfW8x45ZKewDnjMc.jpg"
+        },
+        {
+          "name": "Сэм Клафлин",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+        },
+        {
+          "name": "Christian Cooke",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pqIqDP4HuRLc60KR8QMTHWhIJNq.jpg"
+        },
+        {
+          "name": "Tamsin Egerton",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/n7iso71As9F3H5LtESDjiqJ6e7s.jpg"
+        }
+      ],
+      "director": {
+        "name": "Кристиан Диттер",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/o8waU0Go2YEgq6YFcDQf5dph5zP.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=QRX6ZewDpWU",
+      "ageRating": "Нет данных",
+      "keywords": "friendship, based on novel or book, love, best friend, valentine's day",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 52,
+      "dateRequested": "12.08.2026 11:15",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "requestedSeason": 0,
+      "tmdbId": 200727,
+      "altPoster": "",
+      "postUrl": "",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
+    },
+    {
+      "title": "Взрыв из прошлого",
+      "year": "1999",
+      "type": "Фильм",
+      "runtime": "1 ч 52 мин",
+      "genres": "драма, мелодрама, комедия",
+      "studios": "🔴 New Line Cinema | 🟢 Midnight Sun Pictures, 🟢 Forge",
+      "budget": "35.000.000 $",
+      "revenue": "40.263.020 $",
+      "tmdbRating": "6.8",
+      "overview": "Адам Уэббер родился нормальным ребенком, но, по глупому недоразумению, провел 35 лет в бомбоубежище вместе со своими родителями. Наивный и искренний, он впервые оказывается среди людей в бушующем Лос-Анджелесе 90-х! И кто знает — может, он еще успеет наверстать упущенное?!",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/1h4N7xdKCZYDgNww5fgnG4hn3o4.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/qr3yKVRrPmPCpxqtEeFkdisGE4n.jpg",
+      "cast": [
+        {
+          "name": "Брендан Фрейзер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+        },
+        {
+          "name": "Алисия Сильверстоун",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+        },
+        {
+          "name": "Кристофер Уокен",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        },
+        {
+          "name": "Сисси Спейсек",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+        }
+      ],
+      "director": {
+        "name": "Хью Уилсон",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/h4P3b9XgclNpRr4TDCyBzdAe9C5.jpg"
+      },
+      "trailer": "",
+      "ageRating": "PG-13",
+      "keywords": "isolation, atomic bomb, bunker, shelter, lighthearted",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 26,
+      "dateRequested": "26.07.2026 11:58",
+      "status": "Смотрели",
+      "ourRating": "7",
+      "cried": false,
+      "isAuction": false,
+      "kinopoiskId": "1122114",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1122114/",
+      "requestedSeason": 0,
+      "tmdbId": 11622,
+      "altPoster": "",
+      "postUrl": "",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "dateWatched": "24.09.2026 15:43"
     }
   ],
   "nikisnej192": [
