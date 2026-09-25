@@ -2518,7 +2518,32 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rpsHpJj7FgnNBXhaO2KFthPwqH6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8dvQmzgtMnMHsnf3k4b9pnXGGqU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/txDX7lBx8bBhF7dRCEfDYmAmdnk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6w4VzUk9dzbLJWAHlV9sJNWwF5n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pB1585GIRZpZIuVJDfM71YpW3o8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1NqH58OiJYKtLX6ysH09B86JYY2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7lG1yBfcrZI1hJD9asGt18lRxne.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kOzqYFZxtmInkFv0J9tMyDa2mXr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/unJJDP1dE1cfLJojUKVOHJ7zKJe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hBpa6fnSXppm9aEOZ9gFDUmK5I8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yI7Y6vgMZz1Phd8UorHMjixfiwf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mDZYPPTsldZG8PGRonMkPeZyatt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pF94yBF4XWNLT5CDecLIensicpi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dR4SlWQ9ltbgKE2t99Vl8wrMpa2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o28MumaQm5CNsEugLIEdoDHRWj6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6pmSPlAlqjMmAYhVo2pE2dp9638.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mBZr9nVFydlWOixqZlZzPFWTZ1e.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9UjGtlZpgvP4yzat46oy2tKBkyF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vtJTvKn7Euj62kixO4m2HzZXWzA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6uLkL6MWfijuv7QmSsEkZJgc0tj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4ESmKIMFqMvnkx7331EcAy25GoZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/faf0wW905BHW5G45sSOlOn42f4I.jpg"
+      ]
     },
     {
       "title": "Взрыв из прошлого",
