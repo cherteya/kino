@@ -2710,35 +2710,35 @@
       "type": "Фильм",
       "runtime": "2 ч 19 мин",
       "genres": "драма, комедия, мелодрама",
-      "studios": "🟢 TriStar Pictures, 🟢 Gracie Films",
+      "studios": "🔴 TriStar Pictures | 🟢 Gracie Films",
       "budget": "50.000.000 $",
       "revenue": "314.178.011 $",
-      "tmdbRating": "7.405",
+      "tmdbRating": "7.4",
       "overview": "Мелвин Адал, психически неуравновешенный эксцентричный писатель, ненавидит буквально всех вокруг. Из-за своего странного поведения он одинок и часто попадает в комичные ситуации. Но неожиданно его уединение нарушается. Мелвину приходится ухаживать за соседской собакой, и незаметно для себя он учится у нее доброте и преданности. За стеной собственного равнодушия ему открывается прекрасный мир человеческих чувств…",
-      "poster": "https://image.tmdb.org/t/p/w500/76GO7Wwsnq2RSuFl2FQRhtaIbSv.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/76GO7Wwsnq2RSuFl2FQRhtaIbSv.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
       "cast": [
         {
           "name": "Джек Николсон",
-          "photo": "https://image.tmdb.org/t/p/w185/aeCqQiVzohWwwmk8VKCXOxsjobS.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
         },
         {
           "name": "Хелен Хант",
-          "photo": "https://image.tmdb.org/t/p/w185/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
         },
         {
           "name": "Грег Киннир",
-          "photo": "https://image.tmdb.org/t/p/w185/iJezGc9XjY0DFPs00SypkuKImFK.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iJezGc9XjY0DFPs00SypkuKImFK.jpg"
         },
         {
           "name": "Кьюба Гудинг мл.",
-          "photo": "https://image.tmdb.org/t/p/w185/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
         }
       ],
       "director": {
         "name": "Джеймс Брукс",
-        "photo": "https://image.tmdb.org/t/p/w185/9mKjOFabm3yDRe5EIGsgSgNir9l.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/mZBy39mFACFHMCqfbsN4Kc2qb2k.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=Y_jxpxIMwzw",
       "ageRating": "PG-13",
@@ -2753,7 +2753,43 @@
       "isAuction": false,
       "dateWatched": "02.06.2026 16:48",
       "kinopoiskId": "4199",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4199/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/4199/",
+      "tmdbId": 2898,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/x7y8ezKtU1vRInk0dmbvDoKgJ8u.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b65fJ6mlbkqYwsj9X7U8eSsuPOx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y48bVH82Fkunl0mprXfdOlERUIb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aYwBPp4IKECRDdNpcZp6DNQvR1P.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/onCtdF3oXDBczVQAzzQBJNrBwnw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fHd6SDQcZSDX2Q7fSfx48MPlLOu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4EJaQQregCjwS0OPHnkSi5rXEWV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6HE8M6K5e3oKkaEZLabJGBo4Jon.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8I9gZ4obBEnABUUwd4B4392w4it.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uA72Qm0rgCSpyXzrc5yPCr4CUvR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vj5PrTrnHVNPDSfd3vXXJpNUT0N.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2beCCFftpOIRGVT1T3vgGJtWwyu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g2cTKorsfwuw79YvaY4bvuG4Y6Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gbefjsb4fLIh7UTJKqM1a1qmCyn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ylQx9hZc7BoD8yxlLvzePKBXaBV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uzpp5fANS4iNvNlMJy8Qmi2i0ng.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ng8w9oF1jRY0ZvGahpbJESAm3MB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AnI5hHjV5QGjLF4UF4jKzKt3cbG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fUkJl3mztQDuhQpxCbzi6OHcxvd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dQbdu92aBdN8GG1jxdfhwG86Ot0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w6w4O9uCiGUgKm8zg3plMVrrGWU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yUiKk0BNP5uv04OkSu4XvcYSjD1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vnUMjZSQ6eOgh0pCzyX9CfMyIUW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kCq3c9Lpb6XTQ8GQ9uhzTjvtnWN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3eQoAyhv94lioaIJLWu2VqrmEdX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iDbP5vJ5VTYp1nVBmVWj99u4EW6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pehBwwPqAdBRkyrVOgRLJKsHJhc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gclTCLVff38rSLstinyteEk28W1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Ab3j4bloDYT0EXdtOKwtc2Uuw7f.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2AOHGvcopn944vKOJn6YcKNJTjo.jpg"
+      ]
     },
     {
       "title": "Целитель Адамс",
