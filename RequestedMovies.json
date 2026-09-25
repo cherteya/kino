@@ -2617,30 +2617,30 @@
       "revenue": "75.360.860 $",
       "tmdbRating": "7.9",
       "overview": "Став жертвой коварного заговора, молодой Эдмон Дантес был арестован в день своей свадьбы за преступление, которое он не совершал. После 14 лет в тюрьме Замка Иф ему наконец-то удается бежать. На таинственном острове, о котором ему поведал в заключении его друг аббат Фариа, Эдмон находит легендарное сокровище и становится графом Монте- Кристо. Теперь его единственная цель — месть.",
-      "poster": "https://image.tmdb.org/t/p/w500/bv7XaMz155UTyQSOy2CHllMrAf9.jpg",
-      "tagline": "Эдмон Дантес мстит врагам, укравшим его молодость и возлюбленную. Зрелищная экранизация романа Александра Дюма",
-      "backdrop": "https://image.tmdb.org/t/p/original/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/bv7XaMz155UTyQSOy2CHllMrAf9.jpg",
+      "tagline": "«Эдмон Дантес мстит врагам, укравшим его молодость и возлюбленную»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
       "cast": [
         {
           "name": "Пьер Нине",
-          "photo": "https://image.tmdb.org/t/p/w185/ahICOyV41nhJ2q9LaVaHOridn2m.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jxOOaWYodZT5kO15Uih1pLjaX3e.jpg"
         },
         {
           "name": "Bastien Bouillon",
-          "photo": "https://image.tmdb.org/t/p/w185/8ksm25v40MS2p2y0EyyNrxdt7it.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8ksm25v40MS2p2y0EyyNrxdt7it.jpg"
         },
         {
           "name": "Анаис Демустье",
-          "photo": "https://image.tmdb.org/t/p/w185/ecxoK2ja9h1bmUlLo9pxlMK1reA.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ecxoK2ja9h1bmUlLo9pxlMK1reA.jpg"
         },
         {
           "name": "Лоран Лафит",
-          "photo": "https://image.tmdb.org/t/p/w185/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
         }
       ],
       "director": {
         "name": "Александр де Ла Пательер",
-        "photo": "https://image.tmdb.org/t/p/w185/er7ZbU5inozZfFmvpwswjujxBos.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/er7ZbU5inozZfFmvpwswjujxBos.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=JHmFykml2EI",
       "ageRating": "12+",
@@ -2653,7 +2653,43 @@
       "ourRating": "9",
       "cried": false,
       "isAuction": false,
-      "dateWatched": "21.08.2026 15:46"
+      "dateWatched": "21.08.2026 15:46",
+      "tmdbId": 1084736,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8IYpYg6MdNBGiMnNAZptSxt1jGm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qGt7iDnTkMityds8qShb4gn02Bc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5lRGphR7EeH7LpPgi2FjlYtH43b.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8fcW4vo7VppnF4F7AnktT6XyvCu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tIcSX7Ah9jRjmCvcDjuEFZVjdJd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/39m2lMDWdIKQOERdlzvsolEm59H.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/r7vFSR2QzUt1vKT9V9IV2a5CugS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7GngpbOH8PxvrWNleUmICa5kTKd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5nO5eBs0Ey6fIYhk1YJp7FktZoM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uHOBK3Khf3sWElQ3b7ddjBlpHGa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iR6EpqTx9MLaTDaQYdovXQGxsxQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vVxp8YiEXuV7Y6B85eT9uvGjWqt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/llIXQAndg5kB6SWlp6ouUdO7Zxd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z8m1butRYsUEhkjmp2URoJkfnu1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uvriE8aOrFunTBj8hSFMtE5o9Aq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i9qxG4UVgfX4AdMGnfRzMYEowLQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xmGmAXQbpHPLX9V96ugJXwlkLOC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6Scs9gLzhpGia71eg4SjhH9dpl4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7QbSxMx5rWYd4a26Mt4qoW7jpRW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Ab8xf6aVwotMRAEd38XLWFFFRT0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AtgdB2fcIHPfXuuX6aQkhGuKIqu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vgNjwA4672iKwRDEGhtbmVKAToy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Vrpmz0YdE72eEVZiH6b4yeOOti.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/328ob1xL634WsPU9hCfNgzvkUyC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Ag1dYPxiz0nwI8BE5LUPpve4Fyt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/esRQa1fSaWCsu5xYGxMloamjk5m.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jXZIGNCSNGAZrxzNkWkQC2IZGP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/u19Sm2LZDDm7X7xwUDig27UfiY7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oMAflNvZXokVuOaSQAqw0HnKI24.jpg"
+      ]
     },
     {
       "title": "Заплати другому",
