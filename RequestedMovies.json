@@ -1412,32 +1412,32 @@
       "studios": "🟢 Pixar",
       "budget": "175.000.000 $",
       "revenue": "814.641.172 $",
-      "tmdbRating": "8.198",
+      "tmdbRating": "8.2",
       "overview": "12-летний Мигель живёт в мексиканской деревушке в семье сапожников и тайно мечтает стать музыкантом. Тайно, потому что в его семье музыка считается проклятием. Когда-то его прапрадед оставил жену, прапрабабку Мигеля, ради мечты, которая теперь не даёт спокойно жить и его праправнуку. С тех пор музыкальная тема в семье стала табу. Мигель обнаруживает, что между ним и его любимым певцом Эрнесто де ла Крусом, ныне покойным, существует некая связь. Паренёк отправляется к своему кумиру в Страну Мёртвых, где встречает души предков. Мигель знакомится там с духом-скелетом по имени Гектор, который становится его проводником. Вдвоём они отправляются на поиски де ла Круса.",
-      "poster": "https://image.tmdb.org/t/p/w500/jvYsGaUqN8ymH696kRfVJjJ3GIl.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/jvYsGaUqN8ymH696kRfVJjJ3GIl.jpg",
       "tagline": "«Праздник всей жизни»",
-      "backdrop": "https://image.tmdb.org/t/p/original/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
       "cast": [
         {
           "name": "Anthony Gonzalez",
-          "photo": "https://image.tmdb.org/t/p/w185/WF7bn6t0LkxwBWyDMWvomVujn7.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/WF7bn6t0LkxwBWyDMWvomVujn7.jpg"
         },
         {
           "name": "Гаэль Гарсиа Берналь",
-          "photo": "https://image.tmdb.org/t/p/w185/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg"
         },
         {
           "name": "Бенджамин Брэтт",
-          "photo": "https://image.tmdb.org/t/p/w185/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
         },
         {
           "name": "Аланна Юбак",
-          "photo": "https://image.tmdb.org/t/p/w185/p2sIpgftEIkhPrrpgu8wW8XEpDg.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ffyBAEoW3bDgVJQV3GaHsZ9x29W.jpg"
         }
       ],
       "director": {
         "name": "Lee Unkrich",
-        "photo": "https://image.tmdb.org/t/p/w185/crb297utC6W4HSstOe5djDPTwEN.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/crb297utC6W4HSstOe5djDPTwEN.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=83o2WuuFPs8",
       "ageRating": "12+",
@@ -1452,7 +1452,40 @@
       "isAuction": false,
       "dateWatched": "19.04.2026 16:44",
       "kinopoiskId": "679486",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/679486/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/679486/",
+      "tmdbId": 354912,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bnkf3C2ZMF6i7MLOemWqEHDMqfh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lxfCCC41yC4KEHBYtB7E0YsWA9c.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gKZAQ3b9yApxFunUBlS5Mp74QG4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gqk6fLXiJnuHRF3IC2sNAfnRJo6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pDUsu66LTidULuDQWlj3yOquNtL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/u018zss2PloCHqXgrvKMsDDuVDd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rYr391KuafR6Yql4hhpk5EPZFu7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hWGEEuYpT0KnjEVRUYmNijjQ6G8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lAbAlXWAoOQ9gOZ21P2TTwLhtS8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4AwT5SCq8Pww71Ai0FIpIDZFCMS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ekGnVD29gg7T4BMbTiBur6pO4Gz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/v1rUdgTXJ5Klx4WEfg3xhccUViY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/q3ZlHNis5RHOVvj4iztQlDwoCzN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vtDTPH57wwE72mrJoqDEm8iVkHj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kwttsq9j7j3t0mngjgMVKq8Otuf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hEn1BZCetp0f2HJBvYGFDLWM8pC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e3BJlTasjKsqYuWhrT3ib21z0JY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6lSWFAjHBeGQFfgI1vkl5T3wvWQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mtvonzhFvR7JRTVdvYwB2dbVcQ2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mvL8JXc8gq27Nn29eNNqTh3F9af.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9Fs9oONsUDi5Lr7sl8UgrzneLX4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6o2I1gWTMLo3onEv2FlsRTAE1Ex.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/llegXPBlXlKoodMXBu63FKpqUvX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6aZN7QlBg3eaRFTg4Tf3njLDIrz.jpg"
+      ]
     },
     {
       "title": "Аисты",
