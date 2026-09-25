@@ -182,32 +182,32 @@
       "studios": "🟢 Amblin Entertainment, 🟢 Walden Media, 🟢 Reliance Entertainment, 🟢 Pariah",
       "budget": "22.000.000 $",
       "revenue": "205.000.000 $",
-      "tmdbRating": "7.645",
+      "tmdbRating": "7.6",
       "overview": "Собаки бывают разных пород, мастей и размеров. Они — наши самые верные и преданные друзья, а мы учим их хорошим манерам. Собаки всегда думают о нас, правда, иногда и о беконе. Все они каждый день провожают и встречают нас у порога в уверенности, что пока им есть, кого облизывать и любить, в их жизни есть смысл.",
-      "poster": "https://image.tmdb.org/t/p/w500/iTSNCcbjehovQf26YcW2uTRKBhH.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/iTSNCcbjehovQf26YcW2uTRKBhH.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
       "cast": [
         {
           "name": "Джош Гэд",
-          "photo": "https://image.tmdb.org/t/p/w185/p9hWNRwrVEBpl8We2bxLMHkk5Mj.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg"
         },
         {
           "name": "Кей Джей Апа",
-          "photo": "https://image.tmdb.org/t/p/w185/e2mowKCKKkexzsKy0bTGk5S5Soa.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/idpwm8ZdFnndjeQ3mKleF20hvRo.jpg"
         },
         {
           "name": "Бритт Робертсон",
-          "photo": "https://image.tmdb.org/t/p/w185/q71fwT1kdjqQma6aQo2yzTBSJ7Q.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6lnipeQ6auGaxn4gQ8UX68xoxOy.jpg"
         },
         {
           "name": "Juliet Rylance",
-          "photo": "https://image.tmdb.org/t/p/w185/bN0cZI8DTETIBlYn0bPG3og8u7f.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bN0cZI8DTETIBlYn0bPG3og8u7f.jpg"
         }
       ],
       "director": {
         "name": "Lasse Hallström",
-        "photo": "https://image.tmdb.org/t/p/w185/zEz9LphkDBcGAAYGdjIU5QzjB9C.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zEz9LphkDBcGAAYGdjIU5QzjB9C.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=wVJzEqv5mYY",
       "ageRating": "6+",
@@ -222,7 +222,35 @@
       "isAuction": false,
       "dateWatched": "20.06.2026 16:46",
       "kinopoiskId": "571896",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/571896/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/571896/",
+      "tmdbId": 381289,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sLjeApi5odpyEoCzAnbr5DycL3z.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iJj0M1uKZ75KP19tYiDBshbV3ja.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/llcW2XXO4fO8Ns81uzgonM7hB05.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4dob55emCfHT6y5GxtAfEfmY1Za.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cjCnvgNegpUpcL3Ox8FW2GOGMZS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2ddVTlMyATZdvUHE7DPExA2X6xF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i8BPTA7yKUbUSqrVONzknfr6itk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l0aE8xmnwWvqX1RUAfiUaGk9pzQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qjV0OjUEYPE14KQY72U4n3Mathn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qFluYul6twlohamqQtDkPH3LJNM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ijzA1ZkmASdKRrtqxuWmj1ldeox.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bQXJqweyQVQCvDkMU5MAQRhzeyR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wJLkcSRzYa1HHsK4xoJmHMxxafZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lYd1rOIkx8lLweifJD0xZoClaip.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yfqtbQGr2pHv5Tpy8tRRB1TJ2Lm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9GlLjBld6U2SXDCgfaxKPW4uYnK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b3L1szP8vf20pe5q88N10DxKNU2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ze1S1OaB7k04XSwizfEE77wG3Sj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zVVUD7cazPRHqoTfJ3bOXenIbqs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2mGy7SdlgVfhoYCdQOQBdvEBRuH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gpZudZa849lhfEira46uSwpagVV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iz42v3RRSZlRC3SLE2clS5NQ0ab.jpg"
+      ]
     }
   ],
   "cherteya": [
