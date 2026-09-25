@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:23",
+    "lastUpdated": "25.09.2026 15:24",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -3972,7 +3972,37 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p0HdiQZVYylWy5JG8iuwzT1Ssdl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y8VZzekE0hY42IIDD5XrlKjvmoI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2OQkSOyC5HuCNpq0XO5EEPEdazX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yyd7gjAIpOpkjjvkBqna0jBYe0h.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fcnWodiHuDZUvlLRp9nXYUcP1SR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aDnov03ZTuk03uu1IxFuwTxJCJU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4P4sIkczJfOsX5QKDy5gf5RPqFQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3UDF02F3vQMjX9AcdHdrN0qIeGS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b2AtZmQTNS863R6EPARzyD9d02D.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7hg5cK5rgenFsk3xZ5h0DooaMOE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uheeDU1pGr7jnvX7D5U2bdNce4F.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y9Dr9EW0oQezLo3XBHrjN64Zvqp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yZGg2lPS9gxGBycbUCrurKgWzvx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yKTrYSC9LJLPSLIllsQJmv4lq50.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1d8DKEKVt4otmsBhnxTY29r75St.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gMSghZT7zktjRWCe5O73kMbp484.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5scYO2jGpKEqhzRmH2PGB4BlhfU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gHGfaDTD5sBSooUyyM268xusCUm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b396POT0jOAto1QercJ2jGLW67z.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t5IVONHfh0t3cxSe9bMjAF4HVJ7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5gUigAFOKnzJMnMbpVeZA7zydw4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aDyrt5J2lQmU85v1FCjLt9FwSgW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oBH28qrrvzgvU4oHDBZsKfQ29AD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l6LpzwEORHmP9fYKZRB2VdVallk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jB5RHGVC1t364FeMeZFbEis5Fok.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p2DA0KLWRW7GL4X9ROU0qlbRqis.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dXVJXXjDpoKIDF003V7DQwgelfH.jpg"
+      ]
     }
   ],
   "filimonia": [
