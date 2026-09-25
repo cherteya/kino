@@ -5141,32 +5141,32 @@
       "studios": "🟢 FilmNation Entertainment, 🟢 Transfilm, 🟢 Archery Pictures, 🟢 Ciné+, 🟢 France 2 Cinéma, 🟢 Canal+, 🟢 France Télévisions Distribution",
       "budget": "13.000.000 $",
       "revenue": "9.101.546 $",
-      "tmdbRating": "7.402",
+      "tmdbRating": "7.4",
       "overview": "История о блестящем и беспощадном лоббисте, которая прославилась беспрецедентным талантом и желанием победить любой ценой, даже тогда, когда это ставит ее карьеру под угрозу.",
-      "poster": "https://image.tmdb.org/t/p/w500/fU47nr8ttPvlL3lDDe0lcnTUFkP.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/fU47nr8ttPvlL3lDDe0lcnTUFkP.jpg",
       "tagline": "Неудержимая, азартная, беспринципная",
-      "backdrop": "https://image.tmdb.org/t/p/original/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
       "cast": [
         {
           "name": "Джессика Честейн",
-          "photo": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
         },
         {
           "name": "Марк Стронг",
-          "photo": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
         },
         {
           "name": "Гугу Эмбата-Ро",
-          "photo": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
         },
         {
           "name": "Элисон Пилл",
-          "photo": "https://image.tmdb.org/t/p/w185/ebcCkhqFtHvHx5dkBfVmlAknDxC.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ebcCkhqFtHvHx5dkBfVmlAknDxC.jpg"
         }
       ],
       "director": {
         "name": "John Madden",
-        "photo": "https://image.tmdb.org/t/p/w185/z0msDsLeFxfE70DkIKstymRlTKf.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z0msDsLeFxfE70DkIKstymRlTKf.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=lAr-_ab_qH4",
       "ageRating": "18+",
@@ -5180,8 +5180,41 @@
       "cried": false,
       "isAuction": false,
       "dateWatched": "16.07.2026 16:50",
-      "kinopoiskId": "933307",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/933307/"
+      "kinopoiskId": "",
+      "kinopoiskUrl": "",
+      "tmdbId": 376290,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hnWBg0qgYa7LxVnTdVYUbAPLctc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uxAkNamhGgYH5mtVe9BsI0UtsnR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cT2FVMu68U7CqWENUPRR8sUf3mj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3UrvMKfeAUrD6V7jyP3y2fMdJvn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s2tqvytmFrU4EvGJFbDzo5LGMV4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/miAKAIsQSZ5t3rdsvhDR1GBz8uj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fNTWqGKhB2CljUWgiYDAdQ7O887.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jKe3XBgWPDBlaYFoldY2DA4aOHL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vKrXSHbBGh1spMoK5BTi8zh1gqG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o06A06tCyEXDs5M3tICdqDFdFKD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mzWeJUniLWwclv3tfkxDFTra0dx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gDi7P3EspN4l9bjUQIWabUKAVkO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7v197Y77nqij8zWrOrYGXqBkJGy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wsTaaqJboibRPrUip8Ck0h1IXfo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xtPGwfIwarZWzcZLggH7Umed044.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nrI1YU1TbIOERpX37wYSXdvt21G.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/saoff1R2eD1WgF7XCgPXESSlCa7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AnArjmkU87QKTSq7c2glwcnoDvs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AmADs4yUzZevzjURJZkdA0QLaj9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5azRBEzxCj1aBnaXGu0b4dYwXE5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/j5r4don9GbRbqVAT4gOIqRWMF2I.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9h49Z1Nqz3KMgyWMG3ULkmfcnkq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/HZExIlMzgZvw81RRmNPd4ecsFH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yqU0EfQ5F01GmtykUmdkQTXUBio.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kgyE8XaTvr0jlS4HQ9bj0OF2H38.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n56RfnvpaIldwp4qgCDYP8Ffehx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qlxhXG6kToN4pxBTx7MyWcfxFC6.jpg"
+      ]
     }
   ]
 }
