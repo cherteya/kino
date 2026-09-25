@@ -1157,32 +1157,32 @@
       "studios": "🟢 Blue Sky Studios, 🟢 20th Century Fox Animation",
       "budget": "75.000.000 $",
       "revenue": "262.511.490 $",
-      "tmdbRating": "6.491",
+      "tmdbRating": "6.5",
       "overview": "Действие фильма разворачивается в мире, населённом исключительно роботами. Как и в мире людей у них есть своя социальная лестница, свои герои и изгои. Молодой гений Родни мечтает сделать мир роботов лучше. А ещё ему очень нравится одна молоденькая сексапильная роботша Каппи. Но на пути всех его планов стоит ведущий дизайнер роботов Биг Велд, принадлежащий к тому же сословию, что и Каппи...",
-      "poster": "https://image.tmdb.org/t/p/w500/cxQWos3VQvYysu2bMF9nwa0lUG5.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/cxQWos3VQvYysu2bMF9nwa0lUG5.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/8p4gCdDT55PMY3UMDvo6ybzMrai.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/8p4gCdDT55PMY3UMDvo6ybzMrai.jpg",
       "cast": [
         {
           "name": "Юэн Макгрегор",
-          "photo": "https://image.tmdb.org/t/p/w185/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
         },
         {
           "name": "Хэлли Берри",
-          "photo": "https://image.tmdb.org/t/p/w185/84HRDZodRCuBSpYGSc3ow8WucI4.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/84HRDZodRCuBSpYGSc3ow8WucI4.jpg"
         },
         {
           "name": "Грег Киннир",
-          "photo": "https://image.tmdb.org/t/p/w185/iJezGc9XjY0DFPs00SypkuKImFK.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iJezGc9XjY0DFPs00SypkuKImFK.jpg"
         },
         {
-          "name": "Mel Brooks",
-          "photo": "https://image.tmdb.org/t/p/w185/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+          "name": "Мел Брукс",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
         }
       ],
       "director": {
         "name": "Крис Уэдж",
-        "photo": "https://image.tmdb.org/t/p/w185/mB0lfkbJEQ6lNsGgIcCMszAZYbu.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jsROWtAPougLiYZeCelUpmSGFFX.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=Z-qzShJBJls",
       "ageRating": "6+",
@@ -1197,7 +1197,43 @@
       "isAuction": false,
       "dateWatched": "29.08.2025 16:41",
       "kinopoiskId": "40666",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/40666/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/40666/",
+      "tmdbId": 9928,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8p4gCdDT55PMY3UMDvo6ybzMrai.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4jgKGtOARAITsKbuNgPgZ9SSds7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wKrloVeaFgAqLg5omzCepsQHwmi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oTblELKRgpIKHrTD3okNPZ1q6fO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rFY4MTwsubTzv6fTaaXDHsJovOl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n8sjPjfXat1rcM0PWmCkLdDyCWH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iHaGXS7xI2H6RsrMt5Zr9e8FEGZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ttPdrJinRXmwXrBLuzklyOT0lR1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bfZbStnBD2bjtaGa1gLEnmNo2gH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xgx1RtHgUyTCAtBdtXgidPsnH0E.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fKOH5rql8RAjxKGmRrOO3lCKFLD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jnTI1jC6Ycwb6qvyx7Y53CKPMPX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jOfOOWgZRyVu8zbJd7oZYkwO8Fa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iBor1BjkO5rDthQeAFLlPzwEAgA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jO8RQlnBP6O272VoFQ4a0Js2UMG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fsFaOA8M6MDrs6swrLxf1T8H94j.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pCugsCAw6OyFDVBNr5aX5NSYwyQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4NqgIoZcHo8oShiOWN8O1QUGz2Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qeSg9xfikwWmSeRTzDtTeJNpb1n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/em0CP7PqboeaVUOm4fmD5pMD2vP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n47j3fQIxWDuM5ybxonFLMhlS82.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l9qaC1vRcqA1Hf9Kn0j52E3lo3o.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4iYdoayxAE9zVm7HHVRzC3fA3IC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3MfwXus2ZKlcfRIX1yTo81lYJCU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uyEo1I6kAKK0RB3byw5g2uJ6f5f.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mNRAnaXRgqc7crn7W3FYGok2oM6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/srVM3YWyqILopciqfi5HOYMoUtd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zFtEwQBYNgMR7np4Sd0T7pJvT2w.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xPDI8UgtBvs4OP7EX7H36ZHHfkB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4yiaR9xi5E7doJWIDZv62X2qGUW.jpg"
+      ]
     },
     {
       "title": "Джентльмены",
