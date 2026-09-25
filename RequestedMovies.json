@@ -2505,7 +2505,7 @@
       "overview": "Архитектору-трудоголику Майклу попадает в руки пульт дистанционного управления, с помощью которого можно перематывать или ставить на паузу жизненные ситуации. Но техника есть техника - у нее всегда сюрприз в запасе. Запомнив ускоренные моменты, пульт начинает самовольно перематывать Майклу жизнь.",
       "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/yUt5heuYmrFiNGqElJrBnn3vw75.jpg",
       "tagline": "«Представьте, что у вас появился уникальный пульт... Которым можно изменить всю вашу жизнь?»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/1nfymSGiadOvi6uOLskL2jAOmvh.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
       "cast": [
         {
           "name": "Адам Сэндлер",
@@ -2542,7 +2542,38 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fyiVTu5zaXtqdKFim8CXuIgrtw2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1nfymSGiadOvi6uOLskL2jAOmvh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w7OBGj9YEA4DcpUnPU9OM6NufJJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iX7Gc2eidasIIZLnX4tLMSKUVUS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zaxj7XVrlahFSNa4wImTqM1cv57.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p2NMrPT8rulweXADZXoSrKmWgjd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h30q7IXCmlgR1wKLnp9LttH6BCG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k7f8ktGnfxiLUpVNoVSm416iNFp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oXOyyivjQv660pMBfPvt06bMYhJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mXBDQ9n2osF0BqBjXY9JDyadyRb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g544yuUh4priiyhHTDeohbGqPaU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ak3TfLcEuG5WPGZzEqj1RXpxN7l.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e0zR3H15Gl32hLqrY5lB205RWbo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hvI1ew8tDPYBNN8hFBzj8E2KJs4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l4g9TrOOeIpjzPxYyjuj0iwq8g7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/XWjYWLJpGw08As1futgtx2An5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pXexIWRF60vW6Baa5ZgP2C9WrlT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2XlTHb2g7YbzqoxLvkFp53mNi7a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/buiYL95tb5ChHHi5vDkNfoipz8n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/spd37yDuHaNQl4k5IFh25jFELQP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ldBs2axBbfWRqqpZnDk3rt8c3aL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xD4F9Mqg3WhxMJCQZCqGWcvQuAT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/MXQlfbSwqn7eWaA2wdpg3xb2yK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bagjK2tl0pzs0FBLsye313zlqgZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ooxoBsWMbezSBUpTXlakQnsh6OF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6g9Ki9i39HgzuTqmvcLjpVLPn9S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eCiPojaIBZq2eaK8Tt1VD6YEJBc.jpg"
+      ]
     },
     {
       "title": "С любовью, Рози",
