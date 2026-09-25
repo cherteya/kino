@@ -738,32 +738,32 @@
       "studios": "🟢 Fox Searchlight Pictures, 🟢 Studio Babelsberg, 🟢 Indian Paintbrush, 🟢 TSG Entertainment, 🟢 American Empirical Pictures",
       "budget": "30.000.000 $",
       "revenue": "174.600.318 $",
-      "tmdbRating": "8.026",
+      "tmdbRating": "8.0",
       "overview": "Картина расскажет о легендарном консьерже популярного европейского отеля и проследит за его жизнью между двумя мировыми войнами, а также за его дружбой с юным сотрудником, который становится его протеже. Сюжет включает в себя кражу бесценной картины эпохи Возрождения, борьбу за огромное наследство и потрясения, постигшие Европу во время первой половины XX века.",
-      "poster": "https://image.tmdb.org/t/p/w500/5qFxj03eBrkI0bUiGIonb4e0AI4.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/5qFxj03eBrkI0bUiGIonb4e0AI4.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/jK65srQczOKTpW62wPxwwKztGgE.jpg",
       "cast": [
         {
           "name": "Рэйф Файнс",
-          "photo": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
         },
         {
           "name": "Ф. Мюррей Абрахам",
-          "photo": "https://image.tmdb.org/t/p/w185/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
         },
         {
-          "name": "Матьё Амальрик",
-          "photo": "https://image.tmdb.org/t/p/w185/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg"
+          "name": "Тони Револори",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
         },
         {
           "name": "Эдриен Броуди",
-          "photo": "https://image.tmdb.org/t/p/w185/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
         }
       ],
       "director": {
         "name": "Уэс Андерсон",
-        "photo": "https://image.tmdb.org/t/p/w185/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg"
       },
       "trailer": "",
       "ageRating": "18+",
@@ -777,7 +777,43 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "683999",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/683999/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/683999/",
+      "tmdbId": 120467,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jK65srQczOKTpW62wPxwwKztGgE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9udCLTxTFl28RxnK8Q05E154ZGa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wMQgG7pzfFoorL4JC0U9YKlkcSl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/meYW2rBDjfygCzso1C2hDCrHZaQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rgebWoup9cSigSd34pLhnF7cuFL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uO9sk1jFsOK04qKsAZCR1jVfAiC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/v7B27gNFf83NNOmbkOpmzrJ3xtG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/j4l7cOvR3WncFbI54i6H9u542Fz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/npnpRlnN3k1iMzrh0xqyzuez1ge.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dgyZPXYzShm49cDicMpsbaG5xxf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gcIRvOuqPhNPldvv7e19vlWyxZZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o4OuyVBY2uMP6SwlL5VYatgLVeK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cIH7Yhml7hTweIB0RwOziURMubR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/krNjxSwpMyQ4618t7qC7AwaeGGe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/grRQDKXUgxr8BZC4xu3r2QWyXQP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6qB2a6tdxRLMu6AFmvNmsNbrdU9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/86M0belD4wgM9SRpDcbkrkSGQUe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8AZNGm7ZoxT0SLNs5vssDe8CmD9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/on8gz9RKl24iLsWpoVx1XQmxJwm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k63AxABrX0blDWQQtaCHXCIXoCa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ko72tIgjpitcbovOHilQRAh3NVV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/74h48KPfPXcNFwmIGkGJTeMmwHq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i6aTG3793dosCLpM1lgvPXUe9aB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oZvyc6a7UCzn0NvYwDxwJA2gm3G.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z7xsUl85HXgAMG78aJdfcMT8qSB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mibHQ8C3cYZUBp39vC4JXkdiFlL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/szWUDYr9XdSzorkLF9tx7uPeCZC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jjuyEgY6nktCO8LdnHHqZgPJmiy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2VAFyzwQ3t47m9iP7ASZVd84XL5.jpg"
+      ]
     },
     {
       "title": "Король Англии",
