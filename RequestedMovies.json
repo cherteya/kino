@@ -1465,32 +1465,32 @@
       "studios": "🟢 Walt Disney Feature Animation",
       "budget": "28.000.000 $",
       "revenue": "504.050.219 $",
-      "tmdbRating": "7.657",
+      "tmdbRating": "7.7",
       "overview": "В славном городе Аграба живёт Аладдин, весёлый воришка с золотым сердцем. Живёт и не знает, что вскоре его ждет величайшее приключение в жизни. Ведь только с его помощью чёрный маг Джафар может овладеть невероятным сокровищем — лампой, в которой заключён исполняющий желания могущественный Джинн. И только хитроумие, смекалка и доброта Аладдина способны помешать Джафару завладеть лампой и захватить власть над миром.",
-      "poster": "https://image.tmdb.org/t/p/w500/92GjkHUHMn9HIZqihuradZNZNLb.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/92GjkHUHMn9HIZqihuradZNZNLb.jpg",
       "tagline": "«Желание Исполнено»",
-      "backdrop": "https://image.tmdb.org/t/p/original/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
       "cast": [
         {
           "name": "Скотт Уайнгер",
-          "photo": "https://image.tmdb.org/t/p/w185/5EvrWMz2xi3hOkrEMNGH2Rts2jz.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5EvrWMz2xi3hOkrEMNGH2Rts2jz.jpg"
         },
         {
           "name": "Робин Уильямс",
-          "photo": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
         },
         {
           "name": "Линда Ларкин",
-          "photo": "https://image.tmdb.org/t/p/w185/uN35v1Z374JvfdnDJBVmvnB2JNQ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/uN35v1Z374JvfdnDJBVmvnB2JNQ.jpg"
         },
         {
           "name": "Джонатан Фриман",
-          "photo": "https://image.tmdb.org/t/p/w185/ceyXr2JHuB32l74sFuzgMGGVLGQ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ceyXr2JHuB32l74sFuzgMGGVLGQ.jpg"
         }
       ],
       "director": {
         "name": "Рон Клементс",
-        "photo": "https://image.tmdb.org/t/p/w185/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/u9k9yg2EGlDsxYo3ehf35yRUfcD.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=DVFKbJ30flA",
       "ageRating": "Нет данных",
@@ -1505,7 +1505,43 @@
       "isAuction": false,
       "dateWatched": "03.03.2025 16:42",
       "kinopoiskId": "2361",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2361/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2361/",
+      "tmdbId": 812,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2yOcXmeYfRy63CcVmgPHqkg2usm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ogmeAedmBJjP9hcd14LPZFb592t.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pEr8BSbAnbthatrIu1vsdag4yxP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/r5UDiCeT07XragXT1FzBliDBzLJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/skijb2wnQEphDeepx34D3ThIB7X.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1Vtw6MJhqTHV6MWBLXKyniaXBcD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qy9uY8C1rwxvJ1MYYFqBhkJ1B17.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aO0NQWFbqEslD4Y1W5PeAMLxFGp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4KJJNjakn7D9xxPRLODniGUTRmz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pv2GF2W8VG0WzcVRzzn5N4p3ld9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4hs1vcNYoDIziRO2zIws4hy6uEA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4lJtOfxDE1brAlLk7bwQmzKawQq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3EaBCiDSiZY29m3Km0DbPhwlwO9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uS6Q9fO21UZVzuvh5Jw7sESTRzq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ZGe9cQ8gsHt5hSY8wTRoHkt3hm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m0iTdRNgKxRmfTHTMc6X46mkfjQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6zXzkO5FVpQvkL3RtLYuzSUGijO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1ixdbVEYxoYmTUzJpFAbH2lskyC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zQruLYlr1br5G9y8jy5QkmdarYK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nUXOixeOhtKjfcg7sdiNs8SVb2U.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8tzyZRyGXRANXXAfg6EBd4AyQiF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3qOohc7XPNz0NeSJ4hYdTzCfWoj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wpTs5gdAmTqftXvp2bfu9rB2ksD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6TsR7EaPS5mOEVpV3oZvPTP4of6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p5TBlPEcpZ9eYC3X7s0VXYp6IAl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hRHj08zXD2UQwfO946S5UTC94En.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ghzvyyC92vSwlhdIbifPNoqJXDK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/f55nj6RAeOEzp0McEsr1AlGozDC.jpg"
+      ]
     },
     {
       "title": "Моана",
