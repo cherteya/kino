@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:44",
+    "lastUpdated": "25.09.2026 15:45",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -1108,25 +1108,25 @@
       "revenue": "696.126 $",
       "tmdbRating": "6.9",
       "overview": "В основу сюжета положена волшебная сказка Вильгельма Гауфа. Для того чтобы осуществить свои коварные планы, злой колдунье нужен ребёнок с очень добрым сердцем. Обманом она заманивает к себе маленького Якоба — сына сапожника и зеленщицы. Когда Якоб отказывается участвовать в её сомнительных делах, ведьма превращает его в уродливого карлика. Но вечная сила любви и дружбы помогает героям сказки рассеять злые чары…",
-      "poster": "https://image.tmdb.org/t/p/w500/fQPe7ShSoSF2baJseQ73t7Q4DxS.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/fQPe7ShSoSF2baJseQ73t7Q4DxS.jpg",
       "tagline": "Шедевр российской мультипликации.",
-      "backdrop": "https://image.tmdb.org/t/p/original/zY90gUhF8xKDP63e2g2YW7WKnsS.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/zY90gUhF8xKDP63e2g2YW7WKnsS.jpg",
       "cast": [
         {
           "name": "Albert Asadullin",
-          "photo": "https://image.tmdb.org/t/p/w185/ek91ubhCwKujwbrqZ64tuJtSdJh.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ek91ubhCwKujwbrqZ64tuJtSdJh.jpg"
         },
         {
           "name": "Игорь Шибанов",
-          "photo": "https://image.tmdb.org/t/p/w185/lUg5y5hOxlUTxmezwhNvBlqNns7.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lUg5y5hOxlUTxmezwhNvBlqNns7.jpg"
         },
         {
           "name": "Евгения Игумнова",
-          "photo": "https://image.tmdb.org/t/p/w185/2vATpJumGLT0SPNG8iwZBGTLWS6.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2vATpJumGLT0SPNG8iwZBGTLWS6.jpg"
         },
         {
           "name": "Елена Шульман",
-          "photo": "https://image.tmdb.org/t/p/w185/v1p7nl5H0rsVKvsZnJbVrht4pLh.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/v1p7nl5H0rsVKvsZnJbVrht4pLh.jpg"
         }
       ],
       "director": {
@@ -1146,7 +1146,16 @@
       "isAuction": false,
       "dateWatched": "27.08.2025 16:40",
       "kinopoiskId": "50946",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/50946/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/50946/",
+      "tmdbId": 51349,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zY90gUhF8xKDP63e2g2YW7WKnsS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4naBg7RRTzTL1FVOU0Y8fm6TDNY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1h6B8CGLFQWWTKEjnMyUVAOaZZ8.jpg"
+      ]
     },
     {
       "title": "Роботы",
