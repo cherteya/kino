@@ -3368,7 +3368,7 @@
       "revenue": "7.500.000 $",
       "tmdbRating": "7.8",
       "overview": "Донни Дарко — обычный старшеклассник, живет с родителями и двумя сестрами. Однажды он встречает человека в костюме кролика, который сообщает парню, что через 28 дней, 6 часов, 42 минуты и 12 секунд наступит конец света.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/ggoyl7bYk3JIZdKt9zzcVBsF5jk.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/xIHM3COCyrDjWVoK1j7ELkuMfrh.jpg",
       "tagline": "«Бойся темноты»",
       "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
       "cast": [
@@ -3386,7 +3386,7 @@
         },
         {
           "name": "Дрю Бэрримор",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8qvMFslwrC3w1OwJYqE3mHPvffr.jpg"
         }
       ],
       "director": {
@@ -3407,7 +3407,40 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/npVlvuV5UkUGcnjErXJ9AiUfECR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8eLXy49T36e0e1YhYvUQOCXNRhm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jenoae2cuWTiFD8jUssJuPbsHA8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sqEpOJMxdjTg7eUhmpw7zlUQRIq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fkmsTwa95U4HHNRi9GtyP7zTv4W.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AercXMTThqrlHofEOWYrXj743WR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tKxFTAmjYjUGl7XIpklYYEwlKz3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2GAv2q2MQGvUIPSTCFdfPWOB3ur.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3kr5LCFNvJe4qkXNQpIBm3J7v8L.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yr72cOUWqXo2Ui8ht6I5AobbTE8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b28hvAO3aeu0yzXoy6JrV1XMWab.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z6m11QWUc0sELLbGRuidfE5Fchi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3Rn7WVTYy9YDHohN7ZpjCM6pT6q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/azrqApkKprxIWhILGglWaeNQ1WY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iFFbcxDpJVTDIL6iWogKPi10TfQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3qau6s5IDXqHPjT7X63hDIgqK3c.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mE8cFlsv1TumieK8q1x0y2GHoct.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7XOnwpLLrIDEv81M9mJP98UAptg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bhyURcwJVlW0nnlGrUPQwckVGyI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fULOsX1CoPQyGy4vGg4REsUbKSt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ibmZySSOOtsPffsew1vzDy60wtX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/siS5YXhdVnPIPKSuCICNhJ79rYe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7VmMkxSMLIpEOyopsKaqGF7wMYi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oLdvRD735qSd1QlwaOKTjrAQwPX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zMfUmePPYdwNHrGVGMZFhVE8jhT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vXK6eJEmYBInNRpwfedwPjiuT6y.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6jYTQiqcxpVn6hHuX9LTSwgRwkV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6aXXAEUokDWxKaawJlaN5mL3nEI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bdkBRXFMMm2TvoppTlO6kCbEz5x.jpg"
+      ]
     }
   ],
   "DworfiQ": [
