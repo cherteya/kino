@@ -2175,32 +2175,32 @@
       "studios": "🟢 Pixar",
       "budget": "200.000.000 $",
       "revenue": "1.243.225.667 $",
-      "tmdbRating": "7.454",
+      "tmdbRating": "7.5",
       "overview": "После событий первой части суперсемейка пользуется повышенным вниманием со стороны журналистов. Неожиданно оказалось, что обаятельная Миссис Исключительная гораздо лучше смотрится на экране телевизора, чем её муж. Мистеру Исключительному всё чаще приходится сидеть дома и приглядывать за детьми, у каждого из которых есть свои причины быть недовольным собственными суперспособностями. Однако семейным проблемам предстоит отступить на второй план, когда окажется, что спокойствию Суперсемейки угрожает новый могущественный враг.",
-      "poster": "https://image.tmdb.org/t/p/w500/vwer36JvbZxeZ6ZRBvzrsUm6tYt.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/vwer36JvbZxeZ6ZRBvzrsUm6tYt.jpg",
       "tagline": "Это было слишком давно, дорогие",
-      "backdrop": "https://image.tmdb.org/t/p/original/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
       "cast": [
         {
           "name": "Крэйг Т. Нельсон",
-          "photo": "https://image.tmdb.org/t/p/w185/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
         },
         {
           "name": "Холли Хантер",
-          "photo": "https://image.tmdb.org/t/p/w185/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
         },
         {
           "name": "Sarah Vowell",
-          "photo": "https://image.tmdb.org/t/p/w185/dP1hMYTk2q4voIUxtgmvD81nMty.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/dP1hMYTk2q4voIUxtgmvD81nMty.jpg"
         },
         {
           "name": "Huck Milner",
-          "photo": "https://image.tmdb.org/t/p/w185/OnucCCKkO0tmBDfH6uDEoeThAb.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/OnucCCKkO0tmBDfH6uDEoeThAb.jpg"
         }
       ],
       "director": {
         "name": "Брэд Бёрд",
-        "photo": "https://image.tmdb.org/t/p/w185/zB9Uz0Rs1K9uwHffXRFaBwwSYI.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zB9Uz0Rs1K9uwHffXRFaBwwSYI.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=zaN9kpNUHpo",
       "ageRating": "6+",
@@ -2215,7 +2215,43 @@
       "isAuction": false,
       "dateWatched": "25.05.2026 16:47",
       "kinopoiskId": "839650",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/839650/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/839650/",
+      "tmdbId": 260513,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kqoBtMmiycbbhGLXGkKhL8SdaWB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g1RA3pSKwjb3ZAvm3a3H7LxAwat.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7uLiBYGI56ULmkdPck5dQO7aPoW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nnUmBttnWchQsgRgDjHeoWkI2FJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zH0KmNSSU6w99hNiMrZoOAcXaoJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cYA94llTdnBG5LazDf3Ez4zU87H.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/icJMUsqMD2MPnePHinWdqYgkywt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/coYYp9v52nWxohWCP8IGxerDm65.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iMI1gFtMGSX7ffCIP1TbETLngYK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8Kai9tXI2fh1QvMNvukEScVVqbx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t2ro9DhNN83dH4y3cKpmpPFybqF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fWTZdK1hJnNklNWT0kzbYLiJgWv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yrALKf6ntKJPofImuIHFehGfwdJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vwBPz3XXJRj9iPVxWINibgg9S4F.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rOi9B6dsQOhXVvzolL2UVRhTFu3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tJd7Y5vMqkLceoEGqE8DeMOIRAj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h3XvUk7pgdztAZ990bojChJkjgL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3mjw3UCj642I855cz2uux2GytrN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hOUvuSHlTuf8LT2ID146DPq0zy5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6MvUF7u2qfKVOQc0rPTt4vbT6Z8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rWY7d39h90XnIRFez7r67ipcqeF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jFalZomLe9qT4M6zh5uRs51bfTq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bC5dJ3OcAFeDxOUJ3yMTfs337Ob.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iyTyIW5lvuHLv5ldyVUbTbvlcf4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eACy2o61jfLXqRLjd0QXliwAYsC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cd6zvzOsxyR3qRa0v0PgTIY8qqa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jRBOg6v3QzmGiJshtdVhcbsHGgL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o8OVgYBZQ4x7n6tKKjbs4KX9KyH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3rZWYZj4rsnuRv2jzNUYknoTNNg.jpg"
+      ]
     },
     {
       "title": "Лоракс",
