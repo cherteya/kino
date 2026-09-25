@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:39",
+    "lastUpdated": "25.09.2026 15:40",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -4361,30 +4361,30 @@
       "revenue": "274.703.340 $",
       "tmdbRating": "5.9",
       "overview": "Она владеет всеми видами рукопашного боя, стреляет из любых видов оружия и способна выжить в самых экстремальных условиях. Эта девушка - дочь лорда, леди Лара Крофт. Однажды под лестницей она обнаруживает вход в секретную комнату, где находятся старинные часы с удивительным устройством внутри.",
-      "poster": "https://image.tmdb.org/t/p/w500/56AAEb7VfGrE2WAiOWVTLYR2SLd.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/56AAEb7VfGrE2WAiOWVTLYR2SLd.jpg",
       "tagline": "«Самое большое приключение начинается в 2001 году»",
-      "backdrop": "https://image.tmdb.org/t/p/original/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
       "cast": [
         {
           "name": "Анджелина Джоли",
-          "photo": "https://image.tmdb.org/t/p/w185/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
         },
         {
           "name": "Иэн Глен",
-          "photo": "https://image.tmdb.org/t/p/w185/d9CKAAiV1HvSnzzmpDzD0mC0HlX.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/d9CKAAiV1HvSnzzmpDzD0mC0HlX.jpg"
         },
         {
           "name": "Дэниел Крейг",
-          "photo": "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
         },
         {
           "name": "Ноа Тейлор",
-          "photo": "https://image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
         }
       ],
       "director": {
         "name": "Саймон Уэст",
-        "photo": "https://image.tmdb.org/t/p/w185/yQpwEIsszmeVCmEAp8yrPP8LtvS.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yQpwEIsszmeVCmEAp8yrPP8LtvS.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=f2aLgaNZLo4",
       "ageRating": "12+",
@@ -4399,7 +4399,43 @@
       "isAuction": false,
       "dateWatched": "17.07.2026 16:52",
       "kinopoiskId": "3950",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/3950/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/3950/",
+      "tmdbId": 1995,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bL41GVWvp4YJDJ50PDcxaN4cds9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6a3tiuwoM0vyytHkQHNmMppijCe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3jGYh9Qyxf4qiaF4v94CvxEBrwt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/j0tkWQerDCI74W2pStcfCcHER93.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/658qzPSNB20Qh7GEiAzBFubVhg1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qa0R8LCis5t8WCURDOmxC75WWRh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7LBuclUvmdT5HjsJDQIp5dxMVMS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n1InWkZLUFBKg6cOpuBoIvpb1pk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t6MyP0vxAgPgxHY2Sqot8WZBL7Z.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xblEKUktxzE53NKAPtgzeG0SvbE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/onBMNwh7OZ77L2Dw9rJTmXzO5pt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ic50CVnRJY3yE9M8xzwlS7ikPga.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/boHKKRdKnv8huVxiakNPQGSmli2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ypOqTBIrz7XxSbP9B6W4lWqZe0T.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wYp4dbNdL4lZMwdVOq0Y5z2Hhv7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gSGQkNHxqCNJ8TD1TQs6nv84hdo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gn3Ku56eM6FTkFj1HkHNwxWcTu7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aBHsx7Bdf9bPEwvdYbvCH7PfXGV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vWeiNgSqOSVxMMku8Tt7bnOeRcz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/c8RuSq7A28hGqo7g5muA5AdaedP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ezPCks78EdLQoTQM9ylviLsHE0a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zF3W8YvxW9vNZxvs9hhbAh4fdT4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vWtYvwR2QmIxMjE8hzBW7ykp6jv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g0YqjP8NL0NkYhBA0Epgz2Gz3dS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b45MktXKPZCZjzIlbNc3iIh96jP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7Kx6oooVW6wP0T30whZkgbEgXpY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wgfsG0n7NYVnDcOxkFq2x7ihj3I.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eUivzlexvfNLgKpnrjMbDyLno7x.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pXJc8RvLBT3Cw64U0iOVZ9FdBlc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xZYi9V2K1ZkTR6nIJCJRKc4lZjD.jpg"
+      ]
     },
     {
       "title": "Правдивая ложь",
