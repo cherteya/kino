@@ -4166,7 +4166,7 @@
         },
         {
           "name": "Дженнифер Лопес",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/go2wwj8NGLYqKr7MdqbG3nLWICX.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iDiicDZ6CMib20QSCQYB55iynEk.jpg"
         },
         {
           "name": "Сьюзан Сарандон",
@@ -4200,7 +4200,26 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false,
-      "dateWatched": "22.09.2026 16:02"
+      "dateWatched": "22.09.2026 16:02",
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dbk1GH7eRmUrs8y9WFQP1corti2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AdoMlWz43fVDdi3C43xNwrYFiP5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5Onau7CHT5Cr1a0tBex3Nh1SX1l.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6J5C5gbm3QV7I0DcQ9T9dvX0wkF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m2ISObfd1g1GRnSzWo0VBWuykFu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/srtoDBitaLcbWrjfjlO6R9WkPk7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/38qWTtLbgO5gxvYXVw1VGRukIfI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a8LfZu0li310QLmG0cXMVT1WK14.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l3s90vxTQuw1oDtShYJC2az0xXm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o5KmeromVXZPGc5TfIIqaNWVH0W.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kCLRyfHsqgLZB88eyvBX1KrvlwC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fLliBHLDERGhUWcKBFTfhilDrLW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uQMnQKKPKb5kJGkVg4AHLiNPyrp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wjSTATn0puEb1bt6GJmZV4h6gML.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9eoYDcByqMsZSoWR7865Tx30WJo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/buWXFjWx1xx2OUGlM6BxdumiHUa.jpg"
+      ]
     }
   ],
   "tiltnessa": [
