@@ -3482,32 +3482,32 @@
       "studios": "🟢 Dimension Films, 🟢 di Bonaventura Pictures",
       "budget": "25.000.000 $",
       "revenue": "133.000.000 $",
-      "tmdbRating": "6.692",
+      "tmdbRating": "6.7",
       "overview": "Известный писатель Майк Энслин, сочиняющий свои романы в жанре «ужасы», пишет очередную книгу о необычных явлениях и полтергейсте в отелях. Не верящий в существование загробной жизни, Энслин решает поселиться в печально известном номере 1408 гостиницы «Дельфин», который пустует многие годы: по слухам, там обитают привидения. Невзирая на предупреждения старшего менеджера мистера Джеральда Олина о грозящей опасности, упрямец настаивает на своем, даже не предполагая, каким кошмаром обернется предстоящая ночь…",
-      "poster": "https://image.tmdb.org/t/p/w500/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg",
       "tagline": "«Единственные демоны в комнате 1408 - это те, кто внутри вас»",
-      "backdrop": "https://image.tmdb.org/t/p/original/a4ZupLMg23auAw8e1j1K39PCO6z.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/9CaNCElCXrjdJoUadfXHiNTMFcR.jpg",
       "cast": [
         {
           "name": "Джон Кьюсак",
-          "photo": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
         },
         {
           "name": "Сэмюэл Л. Джексон",
-          "photo": "https://image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
         },
         {
           "name": "Мэри МакКормак",
-          "photo": "https://image.tmdb.org/t/p/w185/e2brLtFCfgLdOp356bcEyRzQkoJ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/e2brLtFCfgLdOp356bcEyRzQkoJ.jpg"
         },
         {
           "name": "Жасмин Джессика Энтони",
-          "photo": "https://image.tmdb.org/t/p/w185/7dx1ee9dRaSI1zT0DVxVw5fli5Y.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7dx1ee9dRaSI1zT0DVxVw5fli5Y.jpg"
         }
       ],
       "director": {
         "name": "Микаэль Хофстрём",
-        "photo": "https://image.tmdb.org/t/p/w185/7zOeNtAlm2aSz1ku5fcsuBFG46j.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7zOeNtAlm2aSz1ku5fcsuBFG46j.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
@@ -3520,7 +3520,38 @@
       "ourRating": "5",
       "cried": false,
       "isAuction": true,
-      "dateWatched": "07.08.2026 00:22"
+      "dateWatched": "07.08.2026 00:22",
+      "tmdbId": 3021,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9CaNCElCXrjdJoUadfXHiNTMFcR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a4ZupLMg23auAw8e1j1K39PCO6z.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uhtspIyhp5aGkEBNgMu8lLxgQ5l.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yzltOpo9TzfgB7h7U7seIOYqcf5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uf3GcS09CmF8nQqIKyzqZ8ynZo5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e6GXJOyRSFsGOwGHnG1TmLuqN9N.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/99VeA07QhBunqO0WsPMpizgNeOV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nX4ZQkVlfZ6EQ3CNXpiVcdycXtJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/73WZjyAosaWOovRqhBWLrJ1FBPr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1dsH3AP4s8JESO0SqAHGPpxuWsm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8m0CnRLgJrKQjg3NliNwOD72Cwo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6IjjRriGR5GRS89zT4tb14COjes.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/962WW6SV0QPqWXKVrBJlY074zlj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fssRV0sJV9MMwCPg7uYEX5SBebo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/99jhq0dcohno8KujaM8mSpQDBNO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nh5vj6HqWH0Xjx5in1B1xgMFnRi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n3XkpfClvhxj5mI5VzNCaZZcpWc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8Pvz8N8qY2pQtn9JC85XmCLY9yJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1ed3R07O7BxUWlmnhf8no5LVGDj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sCsaTWPbQOk8MB51ysczpDAYtwm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nRrxcjujaqCJWzIOCZV0eV0hJXR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sdV8LeLbip6C711DdNnJOJhRftz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eE6CpM7eWjdlYSR72G0QXKqZMrr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kY1Jo7NsKb0rIVtTbcYyXLyJ5FM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5RMEIl8PUaWYlS7V3lp14k90TBo.jpg"
+      ]
     },
     {
       "title": "Трансформеры",
