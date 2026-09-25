@@ -4714,7 +4714,26 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false,
-      "dateWatched": "02.09.2026 13:20"
+      "dateWatched": "02.09.2026 13:20",
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dfkE2LppPbJ1qUzi3tdND5iuMFp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3Q8RLOraAukMbXtUHmi9Hr7f5J6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gqeN8vAnesymfl5tV5XtmpEzwEc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/heeW5dP98F7NBkM3jrVWXaIk42Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/d9a59OvPFHcqy0mbWqslFZ0O2NV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l6fvPVXisBatQzH2dpyU7wO6IOx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vAugpxSQ4udyLMoWJffGftdlZvE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6ka9z77Dr8LZwwrLpeZ8s6jYdB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vlon05OeeSO6bkc0eg8x2zurWI9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t2OHAPfqn1EI1KmhGwwfp2LOl99.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iUdUKR4TN0PtP7mhSD13bv8fIQo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8VtGP2e2q32qeW7izMkDESsGgzf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zanpS1q4sCPppOiWLeyANNIIvD6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3uJrBS0uObxsU5yHQmctoe9M64P.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lhfZBM2bTVwsFI1sWh4z5X4rBkc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pkV9nujBvcGV9WLK0AALV3HqVng.jpg"
+      ]
     }
   ],
   "Mira_Noire": [
