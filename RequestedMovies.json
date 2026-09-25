@@ -1534,35 +1534,35 @@
       "type": "Мультфильм",
       "runtime": "1 ч 40 мин",
       "genres": "мультфильм, комедия, семейный",
-      "studios": "🟢 Sony Pictures Animation, 🟢 Unanimous Media, 🟢 Modern Magic, 🟢 Columbia Pictures, 🟢 MACRO, 🟢 TSG Entertainment",
+      "studios": "🔴 Sony Pictures Animation, 🔴 Columbia Pictures | 🟢 Unanimous Media, 🟢 Modern Magic, 🟢 MACRO, 🟢 TSG Entertainment",
       "budget": "90.000.000 $",
       "revenue": "193.566.330 $",
-      "tmdbRating": "8.105",
+      "tmdbRating": "8.1",
       "overview": "Козёл Уилл Харрис получает уникальный шанс стать профессионалом в звероболе, контактном виде спорта, где доминируют самые большие и сильные животные. Его новые партнёры по команде не в восторге от того, что в их составе оказалась такая мелочь, но Уилл намерен изменить спорт раз и навсегда.",
-      "poster": "https://image.tmdb.org/t/p/w500/4WQ56hzt2M0coLGVMPwsoLzZZUE.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/4WQ56hzt2M0coLGVMPwsoLzZZUE.jpg",
       "tagline": "«Он играет по-крупному»",
-      "backdrop": "https://image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "cast": [
         {
           "name": "Калеб Маклафлин",
-          "photo": "https://image.tmdb.org/t/p/w185/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/wWy6kWlTiHc5HfOWsoKtwNFEsIR.jpg"
         },
         {
           "name": "Габриэль Юнион",
-          "photo": "https://image.tmdb.org/t/p/w185/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/toeSCybsYufRKfgz77AKy4C8axD.jpg"
         },
         {
           "name": "Стефен Карри",
-          "photo": "https://image.tmdb.org/t/p/w185/dmLZdGhZkCYktooIp8iqXhAvoWz.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/dmLZdGhZkCYktooIp8iqXhAvoWz.jpg"
         },
         {
           "name": "Аарон Пьер",
-          "photo": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/hNwZWdT2KxKj1YLbipvtUhNjfAp.jpg"
         }
       ],
       "director": {
         "name": "Тайри Диллихей",
-        "photo": "https://image.tmdb.org/t/p/w185/cA4rfx4HwDYmmxpJoBclTZTjcEN.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/cA4rfx4HwDYmmxpJoBclTZTjcEN.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
@@ -1577,7 +1577,43 @@
       "isAuction": false,
       "dateWatched": "23.07.2026 16:52",
       "kinopoiskId": "8613385",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/8613385/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/8613385/",
+      "tmdbId": 1297842,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ucDMmWAYOiBhd6cZCDWVK9DIIQ4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pg4mTA1YvXcg2nGVcun3US8qNkH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vcM0CWnMGdOo6ty1iyt7zE1jtd6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kEr4SY8y4ZS8drASBLzLGbQ0Zkm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6qMyijXWuDfrN8bXUJT1DErjQog.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/imkZLxabgZBdsWPnkPkFCHC9NCw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vY92Cs0YXjNJ4U4f12aVnPgE81T.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ttwY2grU0Oud0TVyPUoVGeGOeCF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vDQXh3Wghjr3VwUQH8bEGn0mE61.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/esl4coRfI3sHBqfxOfxKejuXxMf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zk9ioVlWulCjs2kzmFBpvNyK2QX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/trywedB3MRZlhMxQjuI5eUtWrub.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w5FychMVghHZhHv3bqTRZlNJ1Vf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tOQemxp2jteGo3PldZFVAALxk6x.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pu5pVKaBEjvGyn7M3k7Rka0uxPN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5MD2xQ34zztNi8dcBnRnKIWGDcR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rrJ0fMYMnrXyr6JbrUaP5mtqdfr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2ETobizlpNr3j7HK6jbGWeYs3TT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/72mFjD85iQmDjNK91bKJebSgikJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cx105lCrTrHKoFz49FYjSI2MzAp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/61l8eBB9DjWkEEcOAGdRC4vrVfL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3QDwCcvsdj3HXw5SHtNbW7DTORa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k1u09whHgksIplbIMk8jRzVnfSa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wVg66GzzJmEHtPc1qSOLhaOjZZP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pHKxne9lKa6aNbd2gX7nzJ5ffHj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3HRpDezeMxY5A593TIo0DHhOC6G.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k5XqRt33fnyQVDvxDIkt2MjUFX8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/isrzA8PhBpEIviPtdBowN5GwJt4.jpg"
+      ]
     },
     {
       "title": "Проект «Конец света»",
