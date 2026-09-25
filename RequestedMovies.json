@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:37",
+    "lastUpdated": "25.09.2026 15:38",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -4213,32 +4213,32 @@
       "studios": "🟢 Lightstorm Entertainment, 🟢 20th Century Fox",
       "budget": "115.000.000 $",
       "revenue": "378.900.000 $",
-      "tmdbRating": "7.099",
+      "tmdbRating": "7.1",
       "overview": "Для своей семьи Гарри Таскер - любящий муж и отец, человек скромный и рассеянный, обыкновенный продавец компьютеров, «не вылезающий» с работы ни днем, ни ночью. Но лишь немногие знают, что на самом деле Гарри - специальный агент тайной правительственной службы, специализирующийся на особо опасных заданиях, владеющий кучей языков, всеми видами оружия и всеми возможными способами «отправки» злодеев на тот свет. Агент Таскер и дальше продолжал бы вести двойную жизнь, если бы зловещие арабские террористы не похитили Гарри, а вместе с ним и его ничего не подозревающую жену Хэлен. Но бандиты, к своему несчастью, даже не подозревали, с кем связались. И Хэлен узнала, что муж ее совсем не компьютерщик, и что она пятнадцать лет прожила с человеком, рядом с которым мускулистый Рэмбо выглядит ребенком…",
-      "poster": "https://image.tmdb.org/t/p/w500/ef1W30VcCkN94UIzMfJNts0spE.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/ef1W30VcCkN94UIzMfJNts0spE.jpg",
       "tagline": "«Когда он сказал \"люблю\", он не сказал что именно»",
-      "backdrop": "https://image.tmdb.org/t/p/original/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
       "cast": [
         {
           "name": "Арнольд Шварценеггер",
-          "photo": "https://image.tmdb.org/t/p/w185/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
         },
         {
           "name": "Джейми Ли Кёртис",
-          "photo": "https://image.tmdb.org/t/p/w185/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
         },
         {
           "name": "Том Арнольд",
-          "photo": "https://image.tmdb.org/t/p/w185/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z2ajL1ozVCS4Ug04zOGCNH06OPP.jpg"
         },
         {
           "name": "Билл Пэкстон",
-          "photo": "https://image.tmdb.org/t/p/w185/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
         }
       ],
       "director": {
         "name": "Джеймс Кэмерон",
-        "photo": "https://image.tmdb.org/t/p/w185/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2Hh4Jos62luf90CCglP5K32qaWO.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
@@ -4253,7 +4253,42 @@
       "isAuction": false,
       "kinopoiskId": "2219",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/2219/",
-      "dateWatched": "19.08.2026 15:50"
+      "dateWatched": "19.08.2026 15:50",
+      "tmdbId": 36955,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pOIWM3ELTpnRsgy9hN9xOZ26VOR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8Qj5wkPabfJfRt3gc3T9yb07mta.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1JCwV6umtzGLkRdaZLIoGUP8anC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6WHOVRlw9qANOeQuDSdz5P3u3on.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wduREiwXsA5iEcU74zNeAOxbVwA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AFmi2NmDASrEzVYOYTJ2SYOxjV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/f1rLtbh72vzcHFzJJeCcHAUUXK8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pmsQRQ6EnFG8wA4Mja6UU7SEgPF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a762Jt52e4E7nl85hJrKxbNWfgU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cIIYf0twnkUsvAUa43CgYkMEgqE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3jXjQMjJtwCaFiIyfoDQsri9LsL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3UcujBZkDwUkcHfVrcwZhfMI5hj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sBvbNMp01e0D790xuIdHVj5zXfu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pbs6sdqS4P2tBFMVzeAu8nGWwNM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a6ZuhMbhR6x8MvBc1qndebNozL3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5XFW7JnfZUr6O9yR3o4StaJsTnP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9tIdJhPf1HjaVA6UAjLgr08LIxJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jaL2Q4y46yUgHWT80cwMUC9HEim.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/x4KsiF6X70WcN1iHWrwARhX8V6n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4FzbFYpRBWM46pd1VYdfSotwkaP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2S6LaD6W1CbxHOpYBzjJoQERgr0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cl9hfozFushP1tfZgRuFfS5NpXQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jwaolxDT8pLO2iiQo7XviFW9ZyA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dPFNcwYkggbQswyG1Km8qXwhqsb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8TLYPPWSZRoovK8ZbJqYOWdwRhe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qOg99N3cuZw3jvvgTvZpf6tI7NO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4zcFRk10uI2RrG2etRwgdAMGPfF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6z2fNZpnKl4YENBDAre01GKzXlA.jpg"
+      ]
     },
     {
       "title": "Мумия",
