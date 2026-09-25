@@ -1795,32 +1795,32 @@
       "studios": "🟢 Blinding Edge Pictures, 🟢 Blumhouse Productions",
       "budget": "9.000.000 $",
       "revenue": "278.454.358 $",
-      "tmdbRating": "7.341",
+      "tmdbRating": "7.3",
       "overview": "Кевин, человек, в котором живет не менее двадцати трех личностей, вынужден похитить трех девочек подросткового возраста. Тем временем, пока они находятся в заточении, самая главная личность Кевина — Чудовище — материализуется.",
-      "poster": "https://image.tmdb.org/t/p/w500/xrVZF8DJNTPiILFygj8sg4tmauV.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/xrVZF8DJNTPiILFygj8sg4tmauV.jpg",
       "tagline": "Внутри Кевина живут 23 личности. Вскоре еще одна явит себя миру",
-      "backdrop": "https://image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
       "cast": [
         {
           "name": "Джеймс МакЭвой",
-          "photo": "https://image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
         },
         {
           "name": "Аня Тейлор-Джой",
-          "photo": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
         },
         {
           "name": "Хейли Лу Ричардсон",
-          "photo": "https://image.tmdb.org/t/p/w185/iTNWzU5FlKT8s0CBZQyMIvebBPh.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iTNWzU5FlKT8s0CBZQyMIvebBPh.jpg"
         },
         {
           "name": "Джессика Сула",
-          "photo": "https://image.tmdb.org/t/p/w185/2lLET7EhRy98ad5Mgc9jMk4Sb0S.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2lLET7EhRy98ad5Mgc9jMk4Sb0S.jpg"
         }
       ],
       "director": {
         "name": "М. Найт Шьямалан",
-        "photo": "https://image.tmdb.org/t/p/w185/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=V2NjbzlCIr0",
       "ageRating": "16+",
@@ -1839,7 +1839,43 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "tmdbId": 381288,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kEfArFlXYSCftxthwjn91ih3vyW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cw7HFI2szsPJLXZ3NexgCYR4sJW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t5Vs3e4kDflQHJKDw3S2y3F8avI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gHZjFEc1Bqet7q41rBcxHn1k3qx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cqDoCG1WdjsIA99hehEJCzKKnzm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kl0fmmrJy6KrzGesWejIl5KiSpi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/r4aHeMeQ4LKjOMF97OJmspcjju7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g0zsneDElWrVMHVaiGvIL8uze5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7fgF90gGZq3JyfwEdodBBa8tsDL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s4vx70tgf8Lu5tNW3s7JVNZIop9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pLIl4BBb6F2Yb0wgQxBQJ47Qgmi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/44WbEJHaXkTw5OaxXKZYpijjzwb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eetVqVfzLvWOlL9N2b0k4CSILJu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wTVNWcy4gvoTQL5W2dTDJDZmPhg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lpEYbOuIYhMWlr3RhCe1Ltfx3BA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6HpeHv4uDQW8RlAl1b2B91szO8P.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nOGgIKYbS3AuVUIv8delJBgxgKb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tpxuvtD9a4v25Mcv0TW7onwfRqu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5Apa2zdG0H1KOxCZhfen16KJCaC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zpM7DGJFbkZpJ5vCkFJOgoGKfgN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s4xDPF7x3SrmEbs5AELJAbk9FCT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dMXU2ivI8fVwZOhK3gWqK4XzV7Z.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8QHHzfxUtl71TJjtrPm1MuD8kV1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2MeK4YI9I686hsUbOUxlISmBRRV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xPyyC5tpxUxbjCZmt7popi0cqBf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/otw01sm98BeRUNgb1V1X3hGb7IJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oFoCZcEvqrrdUVnPvaKe2NJwl5l.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fu9o4ch60wiV85yQSwhevnMA8aa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aWsYNz2Ri1gqaQECwaDeNROeosF.jpg"
+      ]
     },
     {
       "title": "Неуязвимый",
