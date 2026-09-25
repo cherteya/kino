@@ -1624,32 +1624,32 @@
       "studios": "🟢 Lord Miller, 🟢 Amazon MGM Studios, 🟢 Pascal Pictures, 🟢 Open Invite Entertainment, 🟢 Waypoint Entertainment",
       "budget": "200.000.000 $",
       "revenue": "684.234.722 $",
-      "tmdbRating": "8.658",
+      "tmdbRating": "8.6",
       "overview": "Астронавт Райленд Грейс просыпается на космическом корабле, не помня ни себя, ни свою миссию. Постепенно мужчина приходит к выводу, что он — единственный выживший из экипажа, отправленного в звёздную систему Тау Кита в поисках спасения от катастрофы на Земле. Райленду предстоит положиться на свои обширные научные знания, изобретательность и силу воли, но, возможно, ему не придётся искать в одиночку.",
-      "poster": "https://image.tmdb.org/t/p/w500/lGNWODvZnfiocvegYSw1bYnm6pt.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/lGNWODvZnfiocvegYSw1bYnm6pt.jpg",
       "tagline": "«Последняя надежда двух миров»",
-      "backdrop": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "cast": [
         {
           "name": "Райан Гослинг",
-          "photo": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
         },
         {
           "name": "Сандра Хюллер",
-          "photo": "https://image.tmdb.org/t/p/w185/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
         },
         {
           "name": "Джеймс Ортис",
-          "photo": "https://image.tmdb.org/t/p/w185/unzBwVsoq8rAH8BAYlPR1zsWQ4E.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/unzBwVsoq8rAH8BAYlPR1zsWQ4E.jpg"
         },
         {
           "name": "Лайонел Бойс",
-          "photo": "https://image.tmdb.org/t/p/w185/hpIxX5nkfA3pWCW8rYkEUCSBVyS.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/hpIxX5nkfA3pWCW8rYkEUCSBVyS.jpg"
         }
       ],
       "director": {
         "name": "Фил Лорд",
-        "photo": "https://image.tmdb.org/t/p/w185/2MagibFHZxky3FmMubyABUnf4lw.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2MagibFHZxky3FmMubyABUnf4lw.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=gF6_ZwY6u3I",
       "ageRating": "PG-13",
@@ -1664,7 +1664,43 @@
       "isAuction": false,
       "dateWatched": "21.07.2026 16:53",
       "kinopoiskId": "1382256",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1382256/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1382256/",
+      "tmdbId": 687163,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qL4dBGLkWOVP5vImN7EEoqJQYd8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/afHAM9qOTmrVDeaLIU7zfssotUY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o2xLxY1LdwBMsrGD9hjIaOrIQm6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ckgitpsGKUFVO8yHinQdKSSyrFC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fFyLcR22R4ynrecqjMniKXm0UTp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xQRNN12LePQqqIbhP6xP5X212HG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y8vQKqARUYPktoQTp1kLuHqBZkh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6BI8cpbzCjwZRoLxiFILrzMIxtZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o8d54pvtPMYQdR5uPSYaMzKZJdB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qjLiHYCzCfgqeyZlcKKNHk1eLHa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xWMqly63TSpt3iTgPxcPL0Dl3fu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uVMd5ZTnyLbXTne5qncZCi5wc9l.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xKCAcqpnoYB73WLpQRZTEYweeMS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4FYWzU6DD8Iom5AjU69GXTujWbk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yCXKNBE6fuLX8sc5uqXbXw1bAkK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iDC2OqlykAJQUTcWM5hMJvvF98a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/umtXaHDmICqfgoQGghx11Y3sSCW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wpI3O8kKthh5wV6nkvsI1RXLZkz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l9BolIyfUEgCzFLtZcijdqSrCDa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4O3eles2Wd5jjy60UXJpjpPF764.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oTVKcphHfE5MmQPx1pY79SLODJv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4pFmWMajKYinuIJ7aZjojg07WJl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/x8b8YeTtLk7uLgUQmxJzpwEU2Ux.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ignr9C0hv1iMLDUWrX90lM6Bkmk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nVZRInwP8xI7fc3ty87Vf4x7MGe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yEK3PNNc47Y5dKYwQ0XDwJV1ISH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xNJZ4LdQlKpkWFBaV4kEZhn9nJ6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t1v0zTDeWrzFmRdr2JqijtVcRUl.jpg"
+      ]
     },
     {
       "title": "Молодой Шерлок",
