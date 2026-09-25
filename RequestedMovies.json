@@ -4999,36 +4999,36 @@
       "year": "2006",
       "type": "Мультфильм",
       "runtime": "1 ч 31 мин",
-      "genres": "мультфильм, комедия, семейный, фэнтези",
+      "genres": "мультфильм, комедия, семейный, фэнтези, ужасы",
       "studios": "🟢 ImageMovers, 🟢 Amblin Entertainment",
       "budget": "75.000.000 $",
       "revenue": "140.175.006 $",
-      "tmdbRating": "6.707",
+      "tmdbRating": "6.7",
       "overview": "Хорошо быть мальчишкой. Каждый день, как вся жизнь! Столько всего вокруг: девчонки, мороженое, драки, учебники, футбол. Насыщенный день, короче, получается. А вот если ты однажды обнаружил, что дом, который стоит по соседству с домом твоей семьи — вовсе не дом… А попросту говоря — монстр. Чудовище, в общем. Такие дела.Ну вот, история эта про то, как три приятеля — ДиДжей, Чёдер и Дженни — обнаружили, что дом, находящийся неподалеку, самый настоящий монстр. Только никто им не верил. Мало ли, чего навыдумывают дети… Только зря они так. Ребята их предупреждали…При создании фильма использовалась технология технологии motion capture. Актеры, одетые в костюмы, снимались вживую, а затем их движения оцифровывались и переносились на 3D-модели персонажей. На съемки ушло 42 дня. Для записи стонов и скрипов, которые издавал дом-монстр, не был задействован ни один синтезатор. Был найден очень старый сарай и были записаны звуки, которые издавала эта развалюха.",
-      "poster": "https://image.tmdb.org/t/p/w500/pMc6kgawZybpnHuvPsrbgLWIGCW.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/pMc6kgawZybpnHuvPsrbgLWIGCW.jpg",
       "tagline": "Там по соседству...",
-      "backdrop": "https://image.tmdb.org/t/p/original/3otAGduCHdqdEIVC1HOOLb5Qnp2.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg",
       "cast": [
         {
           "name": "Mitchel Musso",
-          "photo": "https://image.tmdb.org/t/p/w185/ofaAVYn61scqEMtXmK9G7TIFNhA.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ofaAVYn61scqEMtXmK9G7TIFNhA.jpg"
         },
         {
           "name": "Sam Lerner",
-          "photo": "https://image.tmdb.org/t/p/w185/tHTUqTxciQIEdQYdaKWPorWyRbm.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tHTUqTxciQIEdQYdaKWPorWyRbm.jpg"
         },
         {
           "name": "Спенсер Локк",
-          "photo": "https://image.tmdb.org/t/p/w185/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2mHfjqDY8e3ZISkFmi1qjrMs7uN.jpg"
         },
         {
           "name": "Стив Бушеми",
-          "photo": "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
         }
       ],
       "director": {
         "name": "Гил Кинан",
-        "photo": "https://image.tmdb.org/t/p/w185/7XhXrhh8KNTf28IwJGpPPCNZFpr.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7XhXrhh8KNTf28IwJGpPPCNZFpr.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=3UaPgWC6scQ",
       "ageRating": "PG",
@@ -5043,7 +5043,40 @@
       "isAuction": false,
       "dateWatched": "15.05.2026 16:46",
       "kinopoiskId": "77601",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77601/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77601/",
+      "tmdbId": 9297,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aDnCTWpWMHcQxOeGWsITmoLuEGy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/c42Gue3b4noGbhcaoFfVii3Lr0I.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aiRESjcG3Vi3W9WAGgMJSjGX1HQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uYOlKkUicLvJK4IExGSBsv9iRZo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uFO6V6TESVt8uftxVryd7XBdhOo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/q0gbdw1W0S4J6bv0Knc40UKUzJz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/r3Nzh2EeRUXVB0WJi8z2QGzHhHT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iE3jZbGDSma4sIvKezP7ssP4GVk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7Cyouk1aJ60f5dYZ98i88Rtt0Dl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ot6ZzZyo8JXz1LiJHNbtE03mp2h.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/arDy4sd44LBVmtO4uw5Kve0vqcI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ePhjmkxI8Cm8N6LuhNsXpdeKrrB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mTJgnzOM7NHYWspR9aCHISiKxaw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5GZe5SLK65sh8HNegcZrd71uRPk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5CAFrszL8hy6loMnXx6MaiOgIJJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zhMqxlc04Ws6NvgmQCkyVNOQl6w.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yIKIXA7dUtIjhFx14saX2PS30uC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cNBOAX6RxZ2JuHYMgskSnnt1UTX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fjtkUStjjiNgRkFXPQf1OSGGQMD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m2S5rG47deJg7p0BlkBVSHdlqJz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xQunBft03tx578R4szocqd01zqd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/klxF9gEp6exg2u63DTG38bQMzf4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i77dIYsn1kHHGPnY9nd81k1O1yJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yhyuMKbfK3zJVGH5ZsbOCkNAJNp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gkz12gPWzrAOwEilXcRX0kN7QI4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5jauAxIkVjoIOstZoUvpPUunIVn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sV2o9knV5yKYsv7TQ0hIk409hv8.jpg"
+      ]
     },
     {
       "title": "Лысый Нянька: Спецзадание",
