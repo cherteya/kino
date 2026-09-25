@@ -566,35 +566,35 @@
       "type": "Мультфильм",
       "runtime": "1 ч 30 мин",
       "genres": "мультфильм, комедия, семейный",
-      "studios": "🟢 Sony Pictures Animation, 🟢 Columbia Pictures",
+      "studios": "🔴 Sony Pictures Animation",
       "budget": "100.000.000 $",
       "revenue": "242.988.466 $",
-      "tmdbRating": "6.663",
+      "tmdbRating": "6.7",
       "overview": "Главный герой мультфильма — странный ученый Флинт Локвуд, который всегда хотел изобрести что-то такое, что сделает его родной городок счастливым. И вот, у него получилось! Еды теперь хватает всем, и она просто падает с неба, создавая новые пейзажи вокруг: можно любоваться закатом с живописных холмов из фруктового желе. Но иногда вкусные осадки в виде фрикаделек могут превратиться в настоящий торнадо из аппетитных, но уже опасных спагетти! Гениальному ученому и его друзьям предстоит исправить положение дел в сытом городке.",
-      "poster": "https://image.tmdb.org/t/p/w500/ePnI73UEGY8nE9ZGIWQKLj0qBPN.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/ePnI73UEGY8nE9ZGIWQKLj0qBPN.jpg",
       "tagline": "«Приготовьтесь к подаче!»",
-      "backdrop": "https://image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
       "cast": [
         {
           "name": "Билл Хейдер",
-          "photo": "https://image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
         },
         {
           "name": "Анна Фэрис",
-          "photo": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
         },
         {
           "name": "Джеймс Каан",
-          "photo": "https://image.tmdb.org/t/p/w185/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg"
         },
         {
           "name": "Энди Сэмберг",
-          "photo": "https://image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
         }
       ],
       "director": {
-        "name": "Крис Миллер",
-        "photo": "https://image.tmdb.org/t/p/w185/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
+        "name": "Фил Лорд",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2MagibFHZxky3FmMubyABUnf4lw.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=VJdrQntPee4",
       "ageRating": "PG",
@@ -608,7 +608,43 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "276363",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/276363/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/276363/",
+      "tmdbId": 22794,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/doNIj6jX27hhfcbD6GEb22ydLSF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cslS1Er64IP0t5VKCqQh435NeFd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kJ8jPMb7XA4ow1GQTMMlUOWs4Vx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hX1hhnFz8J2fLYDCWlPNDVZ0Mtk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iIvtWOkRgzprh6PRPEdnEcwGyM0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qXXe1OynUfEf9GGLzRQrjxLrDwj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z8OJOBiOEQQSUKDQaa8ZvkrqHMG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sJ8syllC1J1yOqOjolpgoJmSEMe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uabJtYXJ7MrljGwLhwinolF115t.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nFulIahF35o7fBxcqiDiSWGboE0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mVKdaARGTnwfmS1yAgg6Dvr8WnI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qWZQ2hqjrYBiyJ26NJQo8g0kilm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7sUmc7KpQBsGldSg0xVBoGGllXD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sKm5jMx0n4A5brY9tiY8I1CWXah.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oM2aH8ra0zrbZ7n5CuJOo8NZC0U.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gPU4lFWhYW9VsgJSd1SkPfXDa1N.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e836rhKn20QLh0i382TV6675XHM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1T7PzvR94wjVeAIgv9DteoK3dwL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lsflIlmcrmadNUWAjWXBaJ656yE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rOB5sI4PCbh1ftpDFQVcOFukB0d.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5SdnMYYn29styCqQ3IIc48znHm3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tglLrXDY0pLk7YWL6elIeo79BA6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vq6wGhRsoTIvweX9UiHCbRvxkwp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ykXr3QRf9XpO2XZdMfpvOYmihQ8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tIetZBaDhSK6ugyblGW0f5cM4ho.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vHtIeEHZX3epvA69NiF7Xi3mtc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uUmG1kXFXG5wSqzbrPngsCEdHAo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ykaDT3pgq4ied0gUVqmuGKvrRQe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2ELuZJlnOAbZ2hZFVORe7dtRbZ6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uUFi4JlMtv4jRx2aK4uCF8CnSHJ.jpg"
+      ]
     },
     {
       "title": "Эта дурацкая любовь",
