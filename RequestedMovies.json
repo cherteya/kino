@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:34",
+    "lastUpdated": "25.09.2026 15:35",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -4482,7 +4482,18 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false,
-      "dateWatched": "23.09.2026 15:14"
+      "dateWatched": "23.09.2026 15:14",
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w7TUrUUo9pKcgY7PCdm2LK6XbZB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2TAVNmLWkBeJO8hLTVTEczBORGJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ym1qzpew5mlvU9h8fwvR3QglhHl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ahV92eXNm4WI5mUjghZWyvda07Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3jA8jYi6jx3k9wtpXUvmgRhTQIt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oQ786eBksaxe4CHdUY1atKX75fx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pOzeor1FeucaOxIy2dpvidiAKdz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h6teKFd1Nt7zEGUaHGYCcIH3QwX.jpg"
+      ]
     }
   ],
   "Paparazzi_1337": [
