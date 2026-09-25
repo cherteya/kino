@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:15",
+    "lastUpdated": "25.09.2026 15:20",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -11,35 +11,35 @@
       "type": "Фильм",
       "runtime": "2 ч 5 мин",
       "genres": "драма, детектив, мелодрама",
-      "studios": "🟢 3000 Pictures, 🟢 Hello Sunshine, 🟢 HarperCollins Publishers",
+      "studios": "🔴 3000 Pictures | 🟢 Hello Sunshine, 🟢 HarperCollins Publishers",
       "budget": "24.000.000 $",
       "revenue": "144.353.965 $",
-      "tmdbRating": "7.522",
+      "tmdbRating": "7.5",
       "overview": "Годами жители тихого городка Баркли-Коув, затерянного в глуши Северной Каролины, делились друг с другом легендой о «болотной девочке» — девушке по имени Киа Кларк, с юных лет живущей отшельницей. Знакомство с двумя местными юношами открывает перед Кией новый мир. Но когда одного из них находят мёртвым, молва тут же назначает её виновной.",
-      "poster": "https://image.tmdb.org/t/p/w500/jYyD6dvdkrp2lWFFXhnr7ulE1Xt.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/jYyD6dvdkrp2lWFFXhnr7ulE1Xt.jpg",
       "tagline": "«Секреты скрыты под поверхностью»",
-      "backdrop": "https://image.tmdb.org/t/p/original/fsHxHpREPdE299Bl7RvKb1HKk9U.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/fsHxHpREPdE299Bl7RvKb1HKk9U.jpg",
       "cast": [
         {
           "name": "Дейзи Эдгар-Джонс",
-          "photo": "https://image.tmdb.org/t/p/w185/4Fdc3VSoVhkkEZNx5Zpz3AU6DYz.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/4Fdc3VSoVhkkEZNx5Zpz3AU6DYz.jpg"
         },
         {
           "name": "Тейлор Джон Смит",
-          "photo": "https://image.tmdb.org/t/p/w185/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg"
         },
         {
           "name": "Гаррис Дикинсон",
-          "photo": "https://image.tmdb.org/t/p/w185/pqqnYWWHa3Va80EXofXrVlRqIDM.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pqqnYWWHa3Va80EXofXrVlRqIDM.jpg"
         },
         {
           "name": "Дэвид Стрэтэйрн",
-          "photo": "https://image.tmdb.org/t/p/w185/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
         }
       ],
       "director": {
         "name": "Оливия Ньюман",
-        "photo": "https://image.tmdb.org/t/p/w185/eFu1rsc2QWnBuWgvyTKiG2fPWI7.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/eFu1rsc2QWnBuWgvyTKiG2fPWI7.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=AE0RphfYYxo",
       "ageRating": "PG-13",
@@ -53,7 +53,41 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "1396525",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1396525/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1396525/",
+      "tmdbId": 682507,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fsHxHpREPdE299Bl7RvKb1HKk9U.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gg30WJhqLqLV2k7INYWJeXe3ILL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fbmG9kcqX0LHLE17qsHd46mla0h.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mS3qSGdeRdL7rqanWJY5LjfQBUY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4js6A53tpvUbCEcUsKwuetRnVGb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nPFOpGjBYYRCxSRCMQahr4kN5r6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/q7Y2CTAcOKGRxCDCaCGn4RlPi7n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cMy13qHs6S7R2pjXpMTsr8PlUpK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dpwCWw7eDdX0IQTJw30H1h9JfkS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g3pT8Nn3z4yFfhYg3mBPawcQRbl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bxWUNomfeGDKEc0K7icnEXZ3nIu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2fEMcAi7YVBEhTgJvgzGnzi0AJf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/adk0VuKEBEZ2vyeuqFB65QzScc1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dfDpu4TgkIirl35iOOvwhKEAI2S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xGC9uOooVtG8EzRCPuqzmFUZvtF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tyFsbJeQGKRu7iCrTJuCDHRJYsL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hgGiq1j48lix1fOQKX1JVWzeNba.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/75iNTfCdVIX4qPSwkwTE7fNRZID.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mDrcF1a29onVMsyweJN4rypiCmj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7r3RmnWpD5J4bRORrgv7WcTJ2rP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y80a9EIH31wO3v4yvN5DXz3ctP6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5XLMkLBX8CXjAgUhFI3fWH5A8vX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fyjxLWzPrHMUZUdHhXH3Lfnf9CO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bhftzZnOFmEPlkPxe2iTsc50pfw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8Dpsg0LVZEN9QmYHrnT84NLzV7m.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uZYJe9ojOTaJJhZwxJtyAfrZm0H.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1W7wehR8vX0UTbzDaTbyPD2VjBu.jpg"
+      ]
     }
   ],
   "susgirl1": [
