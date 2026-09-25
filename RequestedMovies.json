@@ -100,32 +100,32 @@
       "studios": "🔴 Warner Bros. Pictures | 🟢 Legendary Pictures, 🟢 Green Hat Films",
       "budget": "35.000.000 $",
       "revenue": "469.310.836 $",
-      "tmdbRating": "7.337",
+      "tmdbRating": "7.3",
       "overview": "Мальчишник в Лас-Вегасе выходит из-под контроля: жених исчезает, а трое его друзей совершенно не помнят события прошлой ночи.",
-      "poster": "https://image.tmdb.org/t/p/w500/eqfuqXcv0MlbnzihcfsTaTGMbd.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/eqfuqXcv0MlbnzihcfsTaTGMbd.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
       "cast": [
         {
           "name": "Брэдли Купер",
-          "photo": "https://image.tmdb.org/t/p/w185/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
         },
         {
           "name": "Эд Хелмс",
-          "photo": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
         },
         {
           "name": "Зак Галифианакис",
-          "photo": "https://image.tmdb.org/t/p/w185/ncBSLoNUufKpg7vzx1gCtjhst8i.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ncBSLoNUufKpg7vzx1gCtjhst8i.jpg"
         },
         {
           "name": "Джастин Барта",
-          "photo": "https://image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
         }
       ],
       "director": {
         "name": "Тодд Филлипс",
-        "photo": "https://image.tmdb.org/t/p/w185/A6FPht87DiqXzp456WjakLi2AtP.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/A6FPht87DiqXzp456WjakLi2AtP.jpg"
       },
       "trailer": "",
       "ageRating": "R",
@@ -139,7 +139,39 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "426004",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/426004/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/426004/",
+      "tmdbId": 18785,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ubiu5Y7nP187ZFWUzjPj7Hgw6Go.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e6ZyJ1BOk38frPkzICskIsYaztg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8RbtwAQu0Z4B8BTd3Bim2zv55Bk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Ap6u3M5W0Lg2yiMrmdOZpnIW1Zk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ihy1ivZ32SDMMg7DPhgDStz0avI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sV49hOlUky6AhVYl4K0d3rergTA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qaStvnv2VdNxITnHoN85fCM67el.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nug1RF3CgYtY21Hy326jiFEPt6U.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fJTDXdfFw6chsPXCluu6Elg0nMd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hSYhNEF7vZQQb804pnTuogxPgLQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ipabR6snXgxYxkwkNTgTskcHWid.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6AuJoTxkBatb6QfBTZApFzEsNu4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ou6L8fI0gP0yUAbOaPMoqecfzYk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kPb1IW4vlqT6nil82ZaYIeafkZR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wRNWkTQgypeUFcVFp8AFp7n6bQW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2kCaTDIiPCWlVypAqKFqY2MecnF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ryPoudiguEuC2eHjYCJxgVuQCWN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9Gdxhnd381xkp4reNOUhXNRhGTw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a7tdzj5ivg0wo6x9dNXLp4M53P7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hdOXWpQrStciiPlVwK4AWs2ibf7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tpjLaVtAP8zdtMa7oEYebl4UwE5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uKdyeNGDiIAjLG6OwKuZBljIqKU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cZ5Uhvwr2OTjszUSwR72opPGA7I.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g24jDb4NcXQNMUtvb8YGAYHmEJg.jpg"
+      ]
     },
     {
       "title": "Собачья жизнь",
