@@ -953,32 +953,32 @@
       "studios": "🟢 Pixar",
       "budget": "175.000.000 $",
       "revenue": "21.813.358 $",
-      "tmdbRating": "7.332",
+      "tmdbRating": "7.3",
       "overview": "Торонто, 2002 год. Активная и неунывающая 13-летняя Мэйлинь всеми силами пытается быть первой во всём, чтобы угодить строгой гиперопекающей матери. Семья девочки живёт при храме и поклоняется Богине-прародительнице. Одним прекрасным утром Мэйлинь просыпается и вместо привычного отражения в зеркале видит красную панду — теперь, когда она волнуется, злится или испытывает другие сильные эмоции, превращается в большого зверя.",
-      "poster": "https://image.tmdb.org/t/p/w500/ft3eKr1ah85out6t6nAsZ1EAdUM.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/ft3eKr1ah85out6t6nAsZ1EAdUM.jpg",
       "tagline": "«Не Буди во мне Зверя»",
-      "backdrop": "https://image.tmdb.org/t/p/original/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
       "cast": [
         {
           "name": "Розали Чианг",
-          "photo": "https://image.tmdb.org/t/p/w185/iVj6L5Mu5Esok2M3NIeTCdFBiW3.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iVj6L5Mu5Esok2M3NIeTCdFBiW3.jpg"
         },
         {
           "name": "Сандра О",
-          "photo": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
         },
         {
           "name": "Ава Морс",
-          "photo": "https://image.tmdb.org/t/p/w185/9Yv7Prxfs1SUNuyOyrSzlUsJ5lI.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9Yv7Prxfs1SUNuyOyrSzlUsJ5lI.jpg"
         },
         {
           "name": "Hyein Park",
-          "photo": "https://image.tmdb.org/t/p/w185/dDGYpMSGoo18k2xj0ydaN1JHIMR.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/dDGYpMSGoo18k2xj0ydaN1JHIMR.jpg"
         }
       ],
       "director": {
         "name": "Domee Shi",
-        "photo": "https://image.tmdb.org/t/p/w185/qswD23e2Hx91SiaxyiLZHz8glNu.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qswD23e2Hx91SiaxyiLZHz8glNu.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=GkLjQWlbHbQ",
       "ageRating": "PG",
@@ -993,7 +993,43 @@
       "isAuction": false,
       "dateWatched": "07.07.2025 16:39",
       "kinopoiskId": "1238292",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1238292/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1238292/",
+      "tmdbId": 508947,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b8Ma7TkasTDpMIkoIngzHVcgANa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iPhDToxFzREctUA0ZQiYZamXsMy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/azKhCD4IPFiQCMujMUgm8nuS5si.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wlp1NszWJoJMtFOz6CHCM23ybIT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zvZwmIvuiiI7fuA6KzS9fjGcrN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qReWPVbYWtbRkUvrwyAzzObAdJa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iMFDOpE52wbT9GXYTvv4Em6QDhl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mdviAeQNEAOSddeViLMPh3Ihiqb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/c9JBVe2uwa3lRQnlNHg18sdqBpf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qfv7fqxmo40arI7g9kADxvHdVwa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i7yoEjHeHAVP07w3GCXkjgIRICV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fwOIeF0M8Hk8Csa0uuQFgjhWOvv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vevGd4WMbYBCxfAWP27QXXErodV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wO7N44QT7hfW0rfm0x4w4L4wHad.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rGcVbKXRAeVLtceRMZAGiXQlon8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bCY29IAQREH6xYhxCk5eCk2cR3h.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yk7pPA2ndBLPqLv0XpqxsJIXBrx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bFNrlt5RL9RadnAQw5M34FevYZg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7PFRwHyyajZQwlKoIHzAGpqLdRS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qJ4xND5iitGUvJJWK7LKEtPcnvm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2bpJLhCKMwjLOQyT4yuEKeArg2M.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2f2YW9J47tgRcVMhnaJPNTzFfcS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sPXiVIEiyLniNTTKUPIps8pPOVf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4tc1G5z5MAHl3j4SOrwCZ68oXvF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xMyukHg9cXlf7f8vHysGBPcwz3c.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z3vP2kByNvj03DndqW2ehDBqfyE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iwbz0ddZHdS9TGCteXxostivzZD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tinN8JqvZvMAWXKfok3V4eAtcCV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z5GZIdSPAlfcsiPsNbrWpGazS4l.jpg"
+      ]
     },
     {
       "title": "Похождения императора",
