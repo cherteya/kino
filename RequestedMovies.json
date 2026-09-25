@@ -2283,32 +2283,32 @@
       "studios": "🔴 Warner Bros. Pictures | 🟢 Bel Air Entertainment, 🟢 Tapestry Films",
       "budget": "40.000.000 $",
       "revenue": "55.707.411 $",
-      "tmdbRating": "7.387",
+      "tmdbRating": "7.4",
       "overview": "Представьте себе. Вы оказываете кому-либо существенную услугу и просите этого человека отблагодарить не вас, а трех других людей, которые, в свою очередь, отблагодарят еще троих, и так далее, в мировом масштабе, распространяя доброту и тепло. Насколько действенной может оказаться подобная сердечная идея? Ученик седьмого класса Тревор МакКинни решил это проверить, начав цепочку добра.",
-      "poster": "https://image.tmdb.org/t/p/w500/e5ZEv6YfAoSPzezP7grG2ix8D1H.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/e5ZEv6YfAoSPzezP7grG2ix8D1H.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/xoFolYFMGVzIOjYhEhyBiYbBpqK.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/xoFolYFMGVzIOjYhEhyBiYbBpqK.jpg",
       "cast": [
         {
           "name": "Кевин Спейси",
-          "photo": "https://image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
         },
         {
           "name": "Хелен Хант",
-          "photo": "https://image.tmdb.org/t/p/w185/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bdhW2Ra84cJG3B5RDzUO6niUTO7.jpg"
         },
         {
           "name": "Энджи Дикинсон",
-          "photo": "https://image.tmdb.org/t/p/w185/5OmGKBhCTz7nobyMOPfaxs2F9n3.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5OmGKBhCTz7nobyMOPfaxs2F9n3.jpg"
         },
         {
           "name": "Хейли Джоэл Осмент",
-          "photo": "https://image.tmdb.org/t/p/w185/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
         }
       ],
       "director": {
         "name": "Мими Ледер",
-        "photo": "https://image.tmdb.org/t/p/w185/A7bFqiiPtsBScQssuNucMgPpU2Y.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/A7bFqiiPtsBScQssuNucMgPpU2Y.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=srNHEbV3LaQ",
       "ageRating": "Нет данных",
@@ -2320,7 +2320,25 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "tmdbId": 10647,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xoFolYFMGVzIOjYhEhyBiYbBpqK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rPJpE9sL2kD3jAxV9QrI4qGkiO8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7n4sPrnsSVuh1RgxL3axlOvdsm9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lFIZev3N95yw63g5y3YmPqdmz76.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tnEP8Mtb2QPDZTDJ2Q7ZaOGG2FO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pLJc3oCHDx6VjqTuOk5bJ8zQcBK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qFE2a6ASJqDAFebgAlCuSST4Aa5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bSkXAz66S4km7blRdwaXxNbBR1V.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jV9AvEeDAuDCrvkNyk8U3tUbABy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5GAbRBhBjQPsTXlagD3lTPBH3vz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1sSg9ti0szi5qUrxHEoeDlo1MiK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5YUtVAVoKcp0nnSS0AzASx3Hcyx.jpg"
+      ]
     },
     {
       "title": "Игры разума",
