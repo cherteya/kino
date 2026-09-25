@@ -1921,32 +1921,32 @@
       "studios": "🟢 Gaumont, 🟢 Pour Toi Public Productions, 🟢 TF1 Films Production, 🟢 Nexus Factory, 🟢 uMedia, 🟢 La Boétie Films",
       "budget": "7.000.000 $",
       "revenue": "Нет данных",
-      "tmdbRating": "6.511",
+      "tmdbRating": "6.5",
       "overview": "Успешный бизнесмен и эгоистичный мачо пускает в ход все свои уловки, чтобы соблазнять девушек. Но однажды он сам оказывается в крайне щекотливой ситуации.",
-      "poster": "https://image.tmdb.org/t/p/w500/iYkrVfB7twml5aNRVoICB44qkLJ.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/iYkrVfB7twml5aNRVoICB44qkLJ.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/f5GsxbAgEDl0kHUkxrl0da7QVta.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/f5GsxbAgEDl0kHUkxrl0da7QVta.jpg",
       "cast": [
         {
           "name": "Франк Дюбоск",
-          "photo": "https://image.tmdb.org/t/p/w185/2sCXXZYrWSO1nGxuyVBGETj2wdE.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2sCXXZYrWSO1nGxuyVBGETj2wdE.jpg"
         },
         {
           "name": "Александра Лэми",
-          "photo": "https://image.tmdb.org/t/p/w185/m52fdEhVo6sBjEhgyM6bqFwC1HA.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/m52fdEhVo6sBjEhgyM6bqFwC1HA.jpg"
         },
         {
           "name": "Elsa Zylberstein",
-          "photo": "https://image.tmdb.org/t/p/w185/bw1bIuyfyOyxRlx2qIKk4AwQLTU.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bw1bIuyfyOyxRlx2qIKk4AwQLTU.jpg"
         },
         {
           "name": "Жерар Дармон",
-          "photo": "https://image.tmdb.org/t/p/w185/nYup2VXH5zZunl0WoQFy1dTlu1s.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/nYup2VXH5zZunl0WoQFy1dTlu1s.jpg"
         }
       ],
       "director": {
         "name": "Франк Дюбоск",
-        "photo": "https://image.tmdb.org/t/p/w185/2sCXXZYrWSO1nGxuyVBGETj2wdE.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2sCXXZYrWSO1nGxuyVBGETj2wdE.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=14iI4yMKlto",
       "ageRating": "16+",
@@ -1958,7 +1958,38 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "tmdbId": 458534,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/f5GsxbAgEDl0kHUkxrl0da7QVta.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kq2Q91AUB6catLkjMdIyIfPha10.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8UVocYoyaCHnObvhzOjelfbshIQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/57GCH4hn2WUqrnd97NWSHDLVH2c.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eHsCqHoF7C53HMbi1ftaPSoDiFZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cvZDSIR8tNzdX1mxEvK3hqF9cw7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bWOy3TOC6n7PRBt6k2G5orpFcE3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l84OZ5mRj73RWObLlvFsBx6TNle.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qBr40ltaSjgEZ1JgAz1UA8SQZbt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xLAD6YuEOiEcHEXSxki31oTgBoT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6PkLlYW51GY4Np8Sef9jZc5Xlvd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dgy5tAnzx7BspzHgSiokn8SwxqQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/abgVgDWF9EidAdb6uOvzCEb14Qm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gghs24hdZhhGzCh6hbxZtiVfdOd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nCRbhAwJsz3Rt9K0IXMlQCxzqGH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/md6Rdz9znBYEzChSpqthDE61VXQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1ilfD82lrRKh1vBntRrGUacwfdM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lWKCcUQAj9hQOES51EPCoM8K3GJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h2UoonwDl1Ds0uY5tARCu1WyDH2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l45QB797OuIcnMMt4SJQ0vQrQrt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AegAEzJSaHxQMmLEv6xhyIrhrkC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w5rhcKl76FGjaGsMBSZnWqRhXk0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aJqyOpPqq2Z4omt297M1efhTe6Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lc0ZGvKMNQdR8Mlb2cWuSrDO5Kk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uQDRaajJIOpCRgzrpy19yTMVaCz.jpg"
+      ]
     },
     {
       "title": "Боб Тревино поставил лайк",
