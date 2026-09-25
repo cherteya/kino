@@ -852,34 +852,34 @@
       "studios": "🟢 Plan B Entertainment, 🟢 Porchlight Films, 🟢 Blue-Tongue Films, 🟢 Yoki",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "7.158",
+      "tmdbRating": "7.2",
       "overview": "Англия, начало XV века, разгар Столетней войны. Принц Уэльский Хел ведёт распутный образ жизни со своим приятелем Фальстафом и не помышляет о притязаниях на трон. Но когда от болезни умирает его отец, король Генрих IV, а младший брат погибает на поле боя, Хелу приходится принять корону. Став Генрихом V, молодой правитель ловко разбирается с заговорами и восстаниями, а также решает, что французские монархи не проявляют к нему должного уважения.",
-      "poster": "https://image.tmdb.org/t/p/w500/9a4NYjNifcgNWonUsKJTW7i91LC.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/9a4NYjNifcgNWonUsKJTW7i91LC.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/nOqsmE2tdTDhq4bYawNrtwnpB9a.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/nOqsmE2tdTDhq4bYawNrtwnpB9a.jpg",
       "cast": [
         {
           "name": "Тимоти Шаламе",
-          "photo": "https://image.tmdb.org/t/p/w185/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
         },
         {
           "name": "Джоэл Эдгертон",
-          "photo": "https://image.tmdb.org/t/p/w185/r2TTDZ8cG5wrZqx7Drz1M95S9z3.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/r2TTDZ8cG5wrZqx7Drz1M95S9z3.jpg"
         },
         {
           "name": "Шон Харрис",
-          "photo": "https://image.tmdb.org/t/p/w185/jouyaTu0UuZMNBrADRRkCQX1VX1.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jouyaTu0UuZMNBrADRRkCQX1VX1.jpg"
         },
         {
           "name": "Том Глинн-Карни",
-          "photo": "https://image.tmdb.org/t/p/w185/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
         }
       ],
       "director": {
         "name": "David Michôd",
-        "photo": "https://image.tmdb.org/t/p/w185/quitkLI98GpeMaqZI4ZSy8s9YWX.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/quitkLI98GpeMaqZI4ZSy8s9YWX.jpg"
       },
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=8b2u6PDR4C0",
       "ageRating": "Нет данных",
       "keywords": "biography, based on true story, hundred years' war, historical fiction, british history",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
@@ -891,7 +891,34 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "1114570",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1114570/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1114570/",
+      "tmdbId": 504949,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nOqsmE2tdTDhq4bYawNrtwnpB9a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pmwTANjISHvxOmO3iz5kRGAArso.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oMAhce30UvkgJwlzMwsuLaPJ5cG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/urwWVsciRiNSmhtMJcck0noWAXr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9ypFkc1C5LRG6v0tW15DtmA7XVJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/r0AWsZ9dBvC2No3kND9nxv3iRbb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6Su3nySWCoRzzQL0TivhlFsceVn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9MXFmHSW4xTLrfI5lna27O3b80W.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aK4zdhukInxEEBNdN5vcdQTe6bW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hNa4nQLujrjsTxbPe7gVzjEw3RN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kfJxQaBCuaJu8R43hiCMYJbrcgL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rENyM2YQGlOvToyt44lkfDDOm1J.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/23ZSLPqV48gRDJGQZ192bPEKZrB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b2tGDeJEIsOLxneg0ZIgxJxEgc7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kvIf4uR9njChnh5hm6wciWHNGMi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dHky1f4up7Ut76aVEttE8Hb0GZR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kREY0z8GFDbUj8CrmetHeTTKNl8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t0Aw4vb63viYwIigBpQfGkYZtLU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yWuyy97kr9sK3HexQR4apa3BjIv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wskoSBbo0HwEQ8sIdZv5zTvJYlS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7w3MI0mgBdmIlYzR5for2zeEDiq.jpg"
+      ]
     },
     {
       "title": "Лило и Стич 2: Большая Проблема Стича",
