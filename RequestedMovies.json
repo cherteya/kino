@@ -2617,32 +2617,32 @@
       "studios": "🟢 Reliance Entertainment",
       "budget": "4.800.000 $",
       "revenue": "30.000.000 $",
-      "tmdbRating": "6.503",
+      "tmdbRating": "6.5",
       "overview": "Действие фильма разворачивается на фоне маленькой деревушки на границе штатов Махараштра и Гоа, где честный, старательный и благородный инспектор Баджи Рао Сингхам, борется против несправедливости и предрассудков, используя свою собственную этику и принципы.  Внезапный поворот судьбы приводит к конфликту с чрезвычайно могущественным и связанным с преступным миром политиком, проверяя на прочность честь и совесть Сингхама. Властный и сильный хозяин города не оставляет в нём камня на камне, чтобы превратить жизнь Сингхама в ночной кошмар. Поддержка подруги и встреча с давними друзьями помогают Сингхаму осознать важность непримиримой борьбы с системой, но не идя против закона силы, а будучи её мощной частью.",
-      "poster": "https://image.tmdb.org/t/p/w500/pggLRaurdWwjqX2vkhKIVQSBjXV.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/pggLRaurdWwjqX2vkhKIVQSBjXV.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/rCtRb7KqvYj1GCtFMgcPSpkHZIz.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/hEwPNUPLim6XxelWKkH4zGXdenx.jpg",
       "cast": [
         {
           "name": "Ajay Devgan",
-          "photo": "https://image.tmdb.org/t/p/w185/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
         },
         {
           "name": "Kajal Agarwal",
-          "photo": "https://image.tmdb.org/t/p/w185/hIV5HeHM9xUxhbDdhtM8q56AuXE.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/wDzYjnDRNzyigCPBEwc9gf1hZ0Q.jpg"
         },
         {
           "name": "ప్రకాష్ రాజ్",
-          "photo": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
         },
         {
           "name": "सचिन खेड़ेकर",
-          "photo": "https://image.tmdb.org/t/p/w185/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
         }
       ],
       "director": {
         "name": "Rohit Shetty",
-        "photo": "https://image.tmdb.org/t/p/w185/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9ZRyKwijT7OAMjIEEPATeTZ2ZQn.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
@@ -2654,7 +2654,16 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "tmdbId": 70590,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hEwPNUPLim6XxelWKkH4zGXdenx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3HnYgndpXpZS0PInke1UYNOCe1r.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vyO5N1hHZGW2trIOwhrIjoaZrUw.jpg"
+      ]
     }
   ],
   "bblove": [
