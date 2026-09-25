@@ -1715,47 +1715,76 @@
       "studios": "🟢 Weed Road Pictures, 🟢 EMJAG Productions, 🟢 Apple Studios, 🟢 New Regency Pictures",
       "budget": "Нет данных",
       "revenue": "Нет данных",
-      "tmdbRating": "7.627",
+      "tmdbRating": "7.7",
       "overview": "Психологический триллер, действие которого разворачивается на Манхэттене летом 1979 года, когда молодого человека арестовывают за шокирующее преступление, и необычный следователь должен разгадать тайну, стоящую за ним.",
-      "poster": "https://image.tmdb.org/t/p/w500/bPEIzSjVdNECCkcpeORLAJp6nnT.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/bPEIzSjVdNECCkcpeORLAJp6nnT.jpg",
       "tagline": "Факты никогда не отражают всей истории.",
-      "backdrop": "https://image.tmdb.org/t/p/original/kv9KH67hsVJ8RLplUBoc1kZlAtY.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/kv9KH67hsVJ8RLplUBoc1kZlAtY.jpg",
       "cast": [
         {
           "name": "Том Холланд",
-          "photo": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
         },
         {
           "name": "Аманда Сайфред",
-          "photo": "https://image.tmdb.org/t/p/w185/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qvfwAfUfKfX4DraCgfn0YriiLO0.jpg"
         },
         {
           "name": "Саша Лейн",
-          "photo": "https://image.tmdb.org/t/p/w185/iALlJMFPAH5xwfAzWHrZDNmHOSi.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iALlJMFPAH5xwfAzWHrZDNmHOSi.jpg"
         },
         {
           "name": "Уилл Чейз",
-          "photo": "https://image.tmdb.org/t/p/w185/2HqBRqcSKiG7Szq8mTjtNuAuYBR.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2HqBRqcSKiG7Szq8mTjtNuAuYBR.jpg"
         }
       ],
       "director": {
         "name": "Акива Голдсман",
-        "photo": "https://image.tmdb.org/t/p/w185/7dWsuEUrC7AmAzZAeNstZ2zg1M8.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7dWsuEUrC7AmAzZAeNstZ2zg1M8.jpg"
       },
       "trailer": "",
       "ageRating": "TV-MA",
       "keywords": "based on novel or book, miniseries, lgbt, mental health, reflective",
       "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/9516543b-5c76-45bf-9c93-4dc2a25939c8-profile_image-600x600.png",
       "collection": "",
-      "seasons": "1",
-      "episodes": "10",
-      "tvStatus": "Ended",
       "id": 58,
       "dateRequested": "20.08.2026 21:07",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "tmdbId": 123192,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kv9KH67hsVJ8RLplUBoc1kZlAtY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vemSq7lIjs4X0GQBbb4pC833P3j.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7Xim8ja5oZd1SO1jLYdpQVVDVVe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lsmGTFG5joukxJGG7MsqcJ0oTT1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/62bXrOuMYmcn2Mt1T5lja91HlTy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bvvgnuFZk6NhFZrrA519hCSI6IS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gMbQdqI765nBH1mjS39rgzdKsYG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nEJBEMnwi4y4B9FfCV0ddbOSqoR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gTnJpbvfhLYPivE9gOJaxYtWKSV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7qFkEQhO5lZu9PUysx9HLx504mU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rBA2pUc1qfybrKzZ07RNTtDnOA4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/45HnwUnJz17G1cRq3F7pV4ZYJzY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aFdWZHcLSpbnIpXOy8a7Jc0PzTQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3wLjbf6cWvJtdH1frcbts50B2zS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9LfeIf99G3MgeHmJVHwmCKzNCY5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wgNYviUHz1FLSqtrWAhCo3Koq5q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dS2kXx5Ermn1G3m19tVcNgHWE0f.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3Zvroz5Xcrj9j2XyyZX7U4OPmT4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Af7S15X3bv78tcKl0LGP6PBUaJr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zPOGISaAHZWv7fA5rknrUIIj9Ht.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4eEPRrF8rdq7Ybh8PMribdcgzKa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tdDy3CIxSVFfS71Asu7de0KxO24.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kJcItJAm5MJnPPkxllEAJ13hYRh.jpg"
+      ],
+      "seasons": "1",
+      "episodes": "10",
+      "tvStatus": "Ended"
     },
     {
       "title": "Сплит",
