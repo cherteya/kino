@@ -2414,36 +2414,36 @@
       "kinopoiskId": "394619",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/394619/",
       "runtime": "1 ч 45 мин",
-      "genres": "комедия, драма, история, приключения",
+      "genres": "драма, история, приключения",
       "studios": "🟢 Marv, 🟢 Saville Productions",
       "budget": "23.000.000 $",
       "revenue": "46.152.411 $",
-      "tmdbRating": "7.162",
+      "tmdbRating": "7.2",
       "overview": "Фильм повествует о трамплинисте Эдди, по прозвищу «Орёл». Он прославился благодаря своим неудачам, ибо на всех соревнованиях он занимал последние места.",
-      "poster": "https://image.tmdb.org/t/p/w500/ahizSH0Odiy1znM5AJywqqDmBgZ.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/ahizSH0Odiy1znM5AJywqqDmBgZ.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
       "cast": [
         {
           "name": "Тэрон Эджертон",
-          "photo": "https://image.tmdb.org/t/p/w185/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg"
         },
         {
           "name": "Хью Джекман",
-          "photo": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
         },
         {
           "name": "Кристофер Уокен",
-          "photo": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
         },
         {
           "name": "Ania Sowinski",
-          "photo": "https://image.tmdb.org/t/p/w185/bxsEQUMCwJJNdXL7vyAJaLAl8PM.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bxsEQUMCwJJNdXL7vyAJaLAl8PM.jpg"
         }
       ],
       "director": {
         "name": "Декстер Флетчер",
-        "photo": "https://image.tmdb.org/t/p/w185/gCmb47jus3aKjylqAIi3yEZA9jd.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gCmb47jus3aKjylqAIi3yEZA9jd.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=_zV_YqwRNDI",
       "ageRating": "Нет данных",
@@ -2460,7 +2460,32 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "tmdbId": 319888,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jbcEWHYpnlZ1aiMCLcRyiIhwUwY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7A9bsL6AMRhwUoNKs1slHyHLwWg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5iteUF7TLhHnnI8zAVHciF65J2P.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hiIG9wpYgc3X1UT0DQilRKfswxP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9QBsvwIs1owFzAQaZWxsqmCLrCi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a8Gsjp2GZ8NVvSg0BmkBDOv7Kz1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ehFzHDzEF1yicRHi4TLtsp3JS9Y.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rBi4Rcoa7mfGvAl6YubFWwmjuLq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/21koqQPFaJxhn6PKRdIm9cmXzFe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1rbhHo44Y7BFIYi0s5dmoyKpxED.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/omvErmi1e9dz8xEZcIKHeQ7gTU9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mN6tZmej3td6qMOSRNS9Rgth9U3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6tocjQKvSxtjrRL7KMNHfG8QOwv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7wovOQJsKrxIe4mkM432zFITHM7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jQTMulDv45uetfoMs0DTPZxTN3f.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sBmMtoSVuT8h1AHF699Lup4fZl1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mPkjQrBJxeLucrlKLAVehyhfFYG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6AiZ9oP001Wajkw8c4cWj13Wx0Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nDAIPDpDjuM7zMzBRwn631YBvOW.jpg"
+      ]
     }
   ],
   "MadMan1408": [
