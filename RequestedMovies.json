@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "24.09.2026 19:33",
+    "lastUpdated": "25.09.2026 15:03",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -3478,66 +3478,6 @@
       "dateWatched": "22.09.2026 16:02"
     }
   ],
-  "filimonia": [
-    {
-      "title": "Бурлеск",
-      "requestedSeason": 0,
-      "year": "2010",
-      "type": "Фильм",
-      "tmdbId": 42297,
-      "kinopoiskId": "461904",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/461904/",
-      "altPoster": "",
-      "postUrl": "",
-      "runtime": "1 ч 59 мин",
-      "genres": "драма, мелодрама",
-      "studios": "🔴 Screen Gems | 🟢 Bedford Falls Productions",
-      "budget": "55.000.000 $",
-      "revenue": "89.500.000 $",
-      "tmdbRating": "7.2",
-      "overview": "Али — молодая амбициозная девушка из маленького городка с чудесным голосом, совсем недавно потеряла своих родителей. Теперь никому не нужная, она отправляется в большой город Лос-Анджелес, где устраивается на работу у Тесс, хозяйки ночного клуба «Бурлеск». За короткое время она находит друзей, поклонников и любовь всей своей жизни. Но может ли сказка длиться вечно? Ведь немало людей завидует этой прекрасной танцовщице…",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/vOQV6Aq2nGQOKRtNDFr5ul7bMIw.jpg",
-      "tagline": "«Чтобы стать звездой, нужна легенда»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/t5S0EaBud0lT4lbn4HvIFZ4EBU.jpg",
-      "cast": [
-        {
-          "name": "Шер",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yDglV70XMu2cBWZigp5Jxd4etfv.jpg"
-        },
-        {
-          "name": "Christina Aguilera",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/y36ML9yZNsIWnnLBBecNorsyzk0.jpg"
-        },
-        {
-          "name": "Кэм Жиганде",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
-        },
-        {
-          "name": "Кристен Белл",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
-        }
-      ],
-      "director": {
-        "name": "Steve Antin",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/id9xROmosHeF1W4HqDu8oi2zeF3.jpg"
-      },
-      "trailer": "",
-      "ageRating": "16+",
-      "keywords": "dancer, musical, los angeles, california, burlesque, cabaret dancer",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/309996de-dd8f-418d-91fb-0c76a5c0f930-profile_image-600x600.png",
-      "collection": "",
-      "id": 70,
-      "dateRequested": "22.09.2026 14:46",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false
-    }
-  ],
   "tiltnessa": [
     {
       "title": "Дом-монстр",
@@ -3647,6 +3587,67 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false
+    }
+  ],
+  "filimonia": [
+    {
+      "title": "Бурлеск",
+      "requestedSeason": 0,
+      "year": "2010",
+      "type": "Фильм",
+      "tmdbId": 42297,
+      "kinopoiskId": "461904",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/461904/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 59 мин",
+      "genres": "драма, мелодрама",
+      "studios": "🔴 Screen Gems | 🟢 Bedford Falls Productions",
+      "budget": "55.000.000 $",
+      "revenue": "89.500.000 $",
+      "tmdbRating": "7.2",
+      "overview": "Али — молодая амбициозная девушка из маленького городка с чудесным голосом, совсем недавно потеряла своих родителей. Теперь никому не нужная, она отправляется в большой город Лос-Анджелес, где устраивается на работу у Тесс, хозяйки ночного клуба «Бурлеск». За короткое время она находит друзей, поклонников и любовь всей своей жизни. Но может ли сказка длиться вечно? Ведь немало людей завидует этой прекрасной танцовщице…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/vOQV6Aq2nGQOKRtNDFr5ul7bMIw.jpg",
+      "tagline": "«Чтобы стать звездой, нужна легенда»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/t5S0EaBud0lT4lbn4HvIFZ4EBU.jpg",
+      "cast": [
+        {
+          "name": "Шер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yDglV70XMu2cBWZigp5Jxd4etfv.jpg"
+        },
+        {
+          "name": "Christina Aguilera",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/y36ML9yZNsIWnnLBBecNorsyzk0.jpg"
+        },
+        {
+          "name": "Кэм Жиганде",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+        },
+        {
+          "name": "Кристен Белл",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+        }
+      ],
+      "director": {
+        "name": "Steve Antin",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/id9xROmosHeF1W4HqDu8oi2zeF3.jpg"
+      },
+      "trailer": "",
+      "ageRating": "16+",
+      "keywords": "dancer, musical, los angeles, california, burlesque, cabaret dancer",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/309996de-dd8f-418d-91fb-0c76a5c0f930-profile_image-600x600.png",
+      "collection": "",
+      "id": 70,
+      "dateRequested": "22.09.2026 14:46",
+      "status": "Смотрели",
+      "ourRating": "8",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "dateWatched": "25.09.2026 15:03"
     }
   ],
   "finiba0": [
