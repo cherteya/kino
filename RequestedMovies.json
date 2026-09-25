@@ -1836,32 +1836,32 @@
       "studios": "🟢 Closest to the Hole Productions, 🟢 Paramount Pictures, 🟢 Leverage Entertainment",
       "budget": "48.000.000 $",
       "revenue": "121.000.000 $",
-      "tmdbRating": "7.491",
+      "tmdbRating": "7.5",
       "overview": "Бездетные супруги Пит и Элли решают усыновить ребёнка, но так уж получается, что в их семье появляется сразу 3-ое детей - 2 сестры и брат. Теперь Пит и Элли оказываются перед настоящим испытанием.",
-      "poster": "https://image.tmdb.org/t/p/w500/2jXgy1QEKJFMz33vREr0pjYIqPs.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/2jXgy1QEKJFMz33vREr0pjYIqPs.jpg",
       "tagline": "«Хаос, смех, неловкость, ошибки, и любовь»",
-      "backdrop": "https://image.tmdb.org/t/p/original/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/hgESQ2sK21j22Yode4w99jfwj44.jpg",
       "cast": [
         {
           "name": "Марк Уолберг",
-          "photo": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
         },
         {
           "name": "Роуз Бирн",
-          "photo": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
         },
         {
           "name": "Аллин Рэйчел",
-          "photo": "https://image.tmdb.org/t/p/w185/1OndNkWkw1Jefq85isKKBLopWgK.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/1OndNkWkw1Jefq85isKKBLopWgK.jpg"
         },
         {
           "name": "Изабела Мерсед",
-          "photo": "https://image.tmdb.org/t/p/w185/4SolFI9dwyPm6BXcb3PDcOYzSEl.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
         }
       ],
       "director": {
         "name": "Sean Anders",
-        "photo": "https://image.tmdb.org/t/p/w185/vWO1FiGZPOL4FdhbxeykOXRfcXJ.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vWO1FiGZPOL4FdhbxeykOXRfcXJ.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=pXDPObblROQ",
       "ageRating": "16+",
@@ -1873,7 +1873,42 @@
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
-      "isAuction": false
+      "isAuction": false,
+      "tmdbId": 491418,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hgESQ2sK21j22Yode4w99jfwj44.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mLHApYe5zuYb5UE0PWzkkgjMgmG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gRiDTkKENBdkIFr8PI6AKNhrCRS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/awHQWsFPtnkAMCvJ4d3IGJGP8on.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hlARBevNcF8lVyvMZ77sLqvWtZT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/c5Mj5mzl1fTdZRLw1HJ4abN2r8O.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kFxW0KTpoMxjf1xHeoPnYA3N9VU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sidJtUfM8cPJf64OeY0W0VJgmyB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wXKtcfK895rCGZFdiqi1gPvkXRm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ArHDFsGcEHr7MW4ktGoTtEOPBbs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/XXZ9dJGaIScNzysR3UOCWRoQw0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bYC3C9lxlp2VkVvHfca5qt33PjU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/x7t4jAJ52JM8L7YVRBirORaz8EJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/f49JnFJlIflcTnJ5jQlaMKxVHd8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mXowJ0usjsCgI9hM0BSIoTVnKRI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3BNBKd6VtRBhBY4JJYpH77Y9njO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pRSsgdJhXZuhBBO7m4P8ELJHRG4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6a1lHIV6IuhpioVv3KCu8yZivvV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h6DZR5hEYWKAgMR5xdwg6lzUUBM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8WsqMk52PBTyV0emzBWEUcTHwtz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7grlXTCCP743qNWBfcQBdcqQgTu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lwICpzZudw8BZ0bODaHgRWCdioB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e33P9ajdOTHR5en2tYPVKrCnYDE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4Xv6BBVdAEbijUwuYQYUQcG96fv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vxmooQwnr6tfa8jDgCwEEIZh5uI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yD2JJfjqcUqjwoi5vpYPsHNThxm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rSlsv0lOTBMPq51KG677f5u4svC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6CN0ibuwR3jD3hmohTt9WonxTB5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qGm2lupY1Tum15rVYcSvGAsON8A.jpg"
+      ]
     },
     {
       "title": "Попробуй подкати",
