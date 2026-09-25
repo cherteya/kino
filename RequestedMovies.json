@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:42",
+    "lastUpdated": "25.09.2026 15:43",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -3658,32 +3658,32 @@
       "studios": "🟢 DreamWorks Animation",
       "budget": "80.000.000 $",
       "revenue": "343.397.247 $",
-      "tmdbRating": "6.599",
+      "tmdbRating": "6.6",
       "overview": "После долгой зимней спячки черепаха Верн просыпается и обнаруживает, что прямо у леса вырос огромный жилой квартал, а привычные запасы еды исчезли. В это же время появляется хитрый енот ЭрДжей, который убеждает зверей отправиться к людям за лёгкой добычей — горой вкусной, но незнакомой пищи. Для обитателей леса это шанс быстро запастись провизией, хотя Верн чувствует, что соседство с людьми опасно. Пока звери осваивают мусорные баки, печенье и газировку, между осторожностью и соблазном разгорается конфликт. Постепенно они понимают, что настоящая ценность — не в украденной еде, а в дружбе, доме и умении держаться вместе перед лицом опасности.",
-      "poster": "https://image.tmdb.org/t/p/w500/5nKlGj40vB0GufKvnD687blTN0d.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/5nKlGj40vB0GufKvnD687blTN0d.jpg",
       "tagline": "«Ребята, надо поделиться!»",
-      "backdrop": "https://image.tmdb.org/t/p/original/reK7SgAFlyxg3s9R7neh6M970kh.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/reK7SgAFlyxg3s9R7neh6M970kh.jpg",
       "cast": [
         {
           "name": "Брюс Уиллис",
-          "photo": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
         },
         {
           "name": "Гарри Шендлинг",
-          "photo": "https://image.tmdb.org/t/p/w185/zGjPMqSqtZtP3npd5fhm7MYqxIU.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zGjPMqSqtZtP3npd5fhm7MYqxIU.jpg"
         },
         {
           "name": "Стив Карелл",
-          "photo": "https://image.tmdb.org/t/p/w185/cS7Cbyff6wFVfUGem497vy9LS7A.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sSxw69G0znJuettMYGDCAXfSwSY.jpg"
         },
         {
           "name": "Ванда Сайкс",
-          "photo": "https://image.tmdb.org/t/p/w185/xEOqT5G2Rjedgux1qH65oEQcqId.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/toPTeiRGN1Ha0DaXl8587i9aHUi.jpg"
         }
       ],
       "director": {
         "name": "Кэри Киркпатрик",
-        "photo": "https://image.tmdb.org/t/p/w185/utLqiULVNKOeLC0P3drJ6xMyj5C.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/utLqiULVNKOeLC0P3drJ6xMyj5C.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=TNJriR7c98c",
       "ageRating": "6+",
@@ -3698,7 +3698,43 @@
       "isAuction": false,
       "dateWatched": "27.05.2026 16:48",
       "kinopoiskId": "6036",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6036/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6036/",
+      "tmdbId": 7518,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/reK7SgAFlyxg3s9R7neh6M970kh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ohDtIpcfP2NXtvAANsQFsh76BO0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4BmZXt8Yty7F2He4KE05jqGidEz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nJkPu09Jac5N8CIwKLNf2A4qAuy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8OwzvY6IXuHTZcDkaf6uFKXhuoq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kmkmZIYAK1m2Q9ez03NJH6y7oNB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ptJSKl823FmuxH3vyceWTvGREpF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qVo0fkiqmWm6XGMMNxmfWlWzWfr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/akXl8aJ97JztDkTSWb9eiYwk7Jk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iqhhBmjTst3xi273amEcOl9a0yb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zx54cWoq6wY8A9D1UOuchKr4Vgp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y5CqBspyP6mWg0KyYaNtql4Tlg2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fbg1ivYfaSYtWqGynC5eAMO3JaF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t2I2KwOd1frY9iP14KAK2Zdfbh1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/knpZBw7tzZhlqemKYyOLCcFd3ae.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xINzWCvr29NPDF0SrT05X5FVKyJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8aAezIwzRPlBG0o64hdCAsuE4pt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oTsUzbxVol5yJ3sZ5Lpro96M4z0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jNYHgFKvKXpAYhXmYjOOc2jXM11.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ywVNFHjNCWPFHYZkQ77cyTkdsAb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2uaaFfwsnysNUbDRdbN0MmmNee5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h0cBHbwHsL3xoKazAfRly727ae9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7E3mWGG5pSTefVGsut3EQ6AKQ9d.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3sMUcPzxE40c0IFzwhLTYbXMnGn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pSNJ7b7OFHR9CGOS43dhhIA8dUy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ec0NkyG2t4V4LnUZl3eFGLtFYjm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8ADIWdoacGNxJnYfJ7vTL0IUP9d.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dzAtcPB5HAEIPKux2zOFOXWNiuy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i2sDlIUlSAszgcWhxiu8AElEfAL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uHKDdcvKuWHefIBdBT9xzBnJU10.jpg"
+      ]
     },
     {
       "title": "1408",
