@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:40",
+    "lastUpdated": "25.09.2026 15:41",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -2190,32 +2190,32 @@
       "studios": "🟢 Illumination, 🟢 dentsu",
       "budget": "70.000.000 $",
       "revenue": "349.305.397 $",
-      "tmdbRating": "6.536",
+      "tmdbRating": "6.5",
       "overview": "Недалекое будущее. Стоит нажать на кнопку — и мир изменится по твоему желанию: прямо под окном вырастут горы, во дворе зашумит океан. Единственная неприятность — все вокруг сделано из пластика. Но для влюбленного нет преград. Одно желание прекрасной девушки — увидеть последнее живое дерево — и он пускается в путь.",
-      "poster": "https://image.tmdb.org/t/p/w500/pCq2zMcfyC0METerLKJahBmlR0v.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/pCq2zMcfyC0METerLKJahBmlR0v.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
       "cast": [
         {
           "name": "Дэнни Де Вито",
-          "photo": "https://image.tmdb.org/t/p/w185/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg"
         },
         {
           "name": "Эд Хелмс",
-          "photo": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
         },
         {
           "name": "Зак Эфрон",
-          "photo": "https://image.tmdb.org/t/p/w185/pdWXP7XG6qqOoxoLid1DWYwmaMY.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pdWXP7XG6qqOoxoLid1DWYwmaMY.jpg"
         },
         {
           "name": "Роб Риггл",
-          "photo": "https://image.tmdb.org/t/p/w185/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
         }
       ],
       "director": {
         "name": "Крис Рено",
-        "photo": "https://image.tmdb.org/t/p/w185/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=A6ljSpt73dQ",
       "ageRating": "6+",
@@ -2230,7 +2230,28 @@
       "isAuction": false,
       "dateWatched": "11.06.2026 16:49",
       "kinopoiskId": "470036",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/470036/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/470036/",
+      "tmdbId": 73723,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tsku2v6q5fd5DOOF53Kmzetu322.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sWulI556AJZ1DAQnxyAvnAAY6nd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pWIQA3zFsHqKj5nq1jDUo66ubry.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dGMvIWcflgBLYBlcdQu7Vdnkz38.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/A4xMoBOJo2HghhI23UAT2eSzP4y.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1mBgrQLEvtJ6NjcaahMiLYcljEC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t1puVj6EjMoRlWlSbTOUlaX7Fxw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oKfbaZu7HPbRBqqAqvLS0TlfgX5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dONAlExIn365atOHMhzmlfOgqyB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eBd8lBCI6YNK9Uje19hNGpVhkgP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cRbZuwUKFxIIjvxzs8DuLooc6pX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gnqeq0JlB6JAkNfO2J6laDMRXPH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2kEunRAtz7BfoaqTevL4cJk988V.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y1cpMKTUpRDouvuPGLVvOX25kfH.jpg"
+      ]
     },
     {
       "title": "Стой! Или моя мама будет стрелять",
