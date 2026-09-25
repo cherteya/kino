@@ -3289,7 +3289,7 @@
       "overview": "Эван перенял от своего отца-психопата, ныне запертого в доме для умалишённых, странную болезнь - он не помнит некоторых эпизодов своей жизни, причем в эти моменты происходили довольно странные, а то и ужасные события. Поступив в колледж, Эван делает удивительное открытие. Читая дневники, которые писал в детстве по совету врача, он может возвращаться в детство и менять будущее.",
       "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/w6YONfckbFUksa6IITACN89JuHk.jpg",
       "tagline": "«Изменишь одно, изменится все»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/yriYPLqyFqPW0QXaegT1KmWXk9a.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/75UPGUm2Zm6M60szq1gQisDF4g.jpg",
       "cast": [
         {
           "name": "Эштон Кутчер",
@@ -3326,7 +3326,30 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/75UPGUm2Zm6M60szq1gQisDF4g.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yriYPLqyFqPW0QXaegT1KmWXk9a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1IRbaRMHoqjRCFKl7mfu4jUr6UY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9rMnbmxLt7nxGtLwJ3kdjeJNr0C.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Aj2gjpdDwJlAxuMB5tiOOXmCipr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8fQ0ewoyPPJWL9tK8pyQalw6UIQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qbrI2WvUa9np39K2FMeQc7VMPzk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p2JCnRT6x2i42lBbYIlbP9UlDOC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9aEVQvpa9yGh78SfybQEPYAxSLE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7n7WUnyqraEQVKt3eVUfYX3Nmn7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wXYfUvmu28ORT4pQcpSnFHJKRy6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vXV6N4pm4Qz20qS2DDBsryIGsA1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dbMWroKWRJ5OsfqTcNcZIpB9TGx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lfb0yLlwIBYa7N0jnvkULJCKrBZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qu62CF2eCp0kKJCcVixYIXpuUep.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6EZL8EaGE2ii7PULGeJRKOcocyU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ypkKp8ovkruyKBP5jg7SU7MNq3I.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2deo01M3qPVNdzCVJzNBmp6UVqD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9JsmCm3gPAcsfgjr0xIJtZHu5gk.jpg"
+      ]
     },
     {
       "title": "Донни Дарко",
