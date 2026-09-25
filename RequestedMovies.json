@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:46",
+    "lastUpdated": "25.09.2026 15:51",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -5923,8 +5923,8 @@
       "cried": false,
       "isAuction": false,
       "dateWatched": "16.07.2026 16:50",
-      "kinopoiskId": "",
-      "kinopoiskUrl": "",
+      "kinopoiskId": "933307",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/933307/",
       "tmdbId": 376290,
       "requestedSeason": 0,
       "requestedEpisodes": 0,
@@ -5957,7 +5957,11 @@
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kgyE8XaTvr0jlS4HQ9bj0OF2H38.jpg",
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n56RfnvpaIldwp4qgCDYP8Ffehx.jpg",
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qlxhXG6kToN4pxBTx7MyWcfxFC6.jpg"
-      ]
+      ],
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
     }
   ]
 }
