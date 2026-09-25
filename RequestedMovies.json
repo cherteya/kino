@@ -1361,32 +1361,32 @@
       "studios": "🟢 Walt Disney Animation Studios",
       "budget": "150.000.000 $",
       "revenue": "261.292.688 $",
-      "tmdbRating": "7.565",
+      "tmdbRating": "7.6",
       "overview": "Удивительная семья Мадригалов живёт в спрятанном в горах Колумбии волшебном доме, расположенном в чудесном и очаровательном уголке под названием Энканто. Каждого ребёнка в семье Мадригалов магия этого места благословила уникальным даром — от суперсилы до способности исцелять. Увы, магия обошла стороной одну лишь юную Мирабель. Обнаружив, что магия Энканто находится в опасности, Мирабель решает, что именно она может быть последней надеждой на спасение своей особенной семьи.",
-      "poster": "https://image.tmdb.org/t/p/w500/yAw00ke7CzSLe4mMuCGkAzma69K.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/yAw00ke7CzSLe4mMuCGkAzma69K.jpg",
       "tagline": "«В Этой Семье Все Уникальные... Кроме Мирабэль»",
-      "backdrop": "https://image.tmdb.org/t/p/original/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
       "cast": [
         {
-          "name": "Стефани Беатриз",
-          "photo": "https://image.tmdb.org/t/p/w185/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+          "name": "Стефани Беатрис",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
         },
         {
           "name": "Мария Сесилия Ботеро",
-          "photo": "https://image.tmdb.org/t/p/w185/nH6eBBgv1PI9J6Ftkn01ny1TMt1.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/nH6eBBgv1PI9J6Ftkn01ny1TMt1.jpg"
         },
         {
           "name": "Джон Легуизамо",
-          "photo": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
         },
         {
-          "name": "Дайан Герреро",
-          "photo": "https://image.tmdb.org/t/p/w185/suyRRuMIjBdAzTxdFM7U9zHMPTv.jpg"
+          "name": "Мауро Кастильо",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qGNGBRyy9LumdFw32M7elnHP4IJ.jpg"
         }
       ],
       "director": {
         "name": "Байрон Ховард",
-        "photo": "https://image.tmdb.org/t/p/w185/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=eY9ZZyEc0CQ",
       "ageRating": "6+",
@@ -1401,7 +1401,43 @@
       "isAuction": false,
       "dateWatched": "12.04.2026 16:44",
       "kinopoiskId": "775278",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/775278/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/775278/",
+      "tmdbId": 568124,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wMtVbJK6S56FZ3oeCiVoZO8R1yB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5RuR7GhOI5fElADXZb0X2sr9w5n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6OwUnNV0B74t2k6DU4cJBNmLJLy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1OTnFugt1UoezcqL3VwM606ETbL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o0VDSOtAiSV12ET7DYWoSdopiXi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wXFxYH14m3JdsCpoWDyqgDF7vVw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cwZT8GlyNbZa81NqCFtS5WJgo4d.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2Sm3asuwKVNTzgm2nF6hp5mwEfh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cFsiHk6W0bnY32fE4sMMtnVbwTG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fst9hM26nIJMF4FTkFLasUwmBC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5i3ghCXVLNhewrBjTesMgy4FHT7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xom1pPffxr3InwAJY26GZT1NnA6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g2djzUqA6mFplzC03gDk0WSyg99.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ik3sCC9fziS4SnagwRAQWPytBtj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1S71E8NX0hn7awlmpy2Vpy2EuWj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qUoOCmQjhC9Z6n5kwn5qifHMkqz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hAaz2KRCRZgd3oYBV7Qm2b50s83.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e3pZWjI5uiji0BE0GEO3prFhbOU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m7szqjYeicECmdjeyWhd4WVUtl4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/x8fHOhyVY5XIk8vz7bhHH8q1E9T.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jlDiSUOa8dMmIyONl62h9HpB0Wj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/djI1ZWlM8nOL2TR5uLrTHlIA6PO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ipsvW4oIunMRDueImboens9ZKJL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Xr9wJvkexA60guMwo2uc9axyrN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6Ng6QfaWcuwds7nMsA6uciXJiWt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6ONKdMeGtNnoAcieIlYaIgLDZzZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jqbLpExs8lmUlWFpVLGnov8wBG3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qBd6KZF533LYFmfQrn44Ailbz54.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wgjpGfoO4lc3Zx4tnNUdqQQ9ixN.jpg"
+      ]
     },
     {
       "title": "Тайна Коко",
