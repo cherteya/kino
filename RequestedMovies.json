@@ -2213,32 +2213,32 @@
       "studios": "🟢 Universal Pictures, 🟢 Northern Lights Entertainment",
       "budget": "Нет данных",
       "revenue": "70.611.210 $",
-      "tmdbRating": "5.345",
+      "tmdbRating": "5.4",
       "overview": "У сержанта полиции Лос-Анджелеса Джо Борновски жизнь перевернулась вверх дном после того, как его милая мамаша Тутти решила навестить любимого сыночка. К огромной радости подружки и непосредственного начальника Джо, лейтенанта Гвен Харпер, Тутти сразу приводит в порядок его холостяцкую берлогу и начинает налаживать «хозяйство».  Как вы прекрасно понимаете, бравый сержант не в восторге от всех этих нововведений. А тут еще, в дополнение ко всем проблемам, неугомонная Тутти оказывается свидетельницей убийства и требует… чтобы сын позволил ей участвовать в расследовании!  В итоге Джо получает нового напарника — собственную мамулю, которая решает задать преступникам солидную трепку!",
-      "poster": "https://image.tmdb.org/t/p/w500/9BcMEkVnQIPvdeTF73T0Mxl2cxl.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/9BcMEkVnQIPvdeTF73T0Mxl2cxl.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/dICmmT2dIC5DSYhzS861jSl23ii.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/dICmmT2dIC5DSYhzS861jSl23ii.jpg",
       "cast": [
         {
           "name": "Сильвестр Сталлоне",
-          "photo": "https://image.tmdb.org/t/p/w185/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gn3pDWthJqR0VDYGViGD3048og7.jpg"
         },
         {
           "name": "Estelle Getty",
-          "photo": "https://image.tmdb.org/t/p/w185/zaYz50QUVBABmFDSh5fy5y45Qi0.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zaYz50QUVBABmFDSh5fy5y45Qi0.jpg"
         },
         {
           "name": "Джобет Уильямс",
-          "photo": "https://image.tmdb.org/t/p/w185/nL9ZdnI50y1yRVvmz0P61TxjZsF.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/nL9ZdnI50y1yRVvmz0P61TxjZsF.jpg"
         },
         {
           "name": "Роджер Рис",
-          "photo": "https://image.tmdb.org/t/p/w185/pVZwILdpzTXECMUvLOSu12RbTHa.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pVZwILdpzTXECMUvLOSu12RbTHa.jpg"
         }
       ],
       "director": {
         "name": "Роджер Споттисвуд",
-        "photo": "https://image.tmdb.org/t/p/w185/ofSwHS4FtNtKO70LHqXdOgU67iP.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ofSwHS4FtNtKO70LHqXdOgU67iP.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=fiPH0-7dHT4",
       "ageRating": "PG-13",
@@ -2253,7 +2253,43 @@
       "isAuction": false,
       "dateWatched": "09.07.2026 16:49",
       "kinopoiskId": "9556",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/9556/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/9556/",
+      "tmdbId": 9876,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dICmmT2dIC5DSYhzS861jSl23ii.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nKJz9OZNZYk8JcUx6oDEgxcDfos.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qR4KkhkFXoYkLAFHtQesLFLTsN4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bq2awIrLZnPznz8PANPGAVLKS6t.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eErdeG939gZqps2WaK9RrOH00EC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1qvfKjfRUkUkXob8a2ZPu0qUjio.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qcfIkQphciRlwdu7CVyf6J5rIKA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hueq3G0L5XOTkcjbdDEQyx3h3nD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gEpF7z2flMCyour0a76gq5rmCaQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lccSYm75pBFI6Z5ZPuJxFby0KAJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1rY4tEshbyntdXiQu3OcBcppdAT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3opqev0xPZeWWlnx69rBfm8hQ25.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8PQpyQ5vcdzstndvhHDymY8gb1d.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/61FhE0T1kfTf4JbP6BuBMRg5O7b.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/57H6M7E4atGwed6dKjaffQoeku4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iN0tiHKnNYkM4IpRBce3IvKhgsj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rUpBocr2yacuxfaUYIjcX9VHJEv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vAGieU8HEwCqgwAplHzSkUzEpSN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eo7isuUZPaYOkyUAn95vIeE1cvs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wYWRfjUqQUj9qr98KiBzlEjUTrN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6914jDvCSKxmw4qkJtYjtvGUWe3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iHAwDwVRV29bHc4tIIQ0SpmqVJL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hBJsVwdmOrh6rXK6LluJjmjEKPf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fjjc1zg2M6JxfYmC97JayXx9Oi9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t8ddNMoUCGPzijO3qK95ROwStAl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jBv0gbwc6d5CmySUBfXF9OifNgD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/msgjh0wAVSwWcNXAjossLLXTSgW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/enKXy2rt062E1gP01FCbQ9ml1lU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ymWwILUen0ViBqgt9xMYNF7hMnK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3POqLF6tom7uUNy5fpZzhkbbHkD.jpg"
+      ]
     },
     {
       "title": "Семья по-быстрому",
