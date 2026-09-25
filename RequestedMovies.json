@@ -234,33 +234,33 @@
       "genres": "мелодрама, комедия, драма",
       "studios": "🟢 A24, 🟢 Square Peg, 🟢 Dilemma Films",
       "budget": "28.000.000 $",
-      "revenue": "132.227.793 $",
-      "tmdbRating": "6.896",
+      "revenue": "132.588.401 $",
+      "tmdbRating": "6.9",
       "overview": "Чарли и Эмма познакомились в кафе два года назад, а через неделю должны пожениться. Они активно готовятся к торжеству: репетируют свадебный танец, общаются с диджеем и фотографом и выбирают напитки на праздничный стол. Однажды за ужином с друзьями Эмма раскрывает неожиданный секрет своего прошлого, и это откровение вынуждает Чарли задуматься, знает ли он её на самом деле.",
-      "poster": "https://image.tmdb.org/t/p/w500/mayjUmmXGM1n5E5AJnOfylig10W.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/mayjUmmXGM1n5E5AJnOfylig10W.jpg",
       "tagline": "«Свадьба года»",
-      "backdrop": "https://image.tmdb.org/t/p/original/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
       "cast": [
         {
           "name": "Зендея",
-          "photo": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
         },
         {
           "name": "Роберт Паттинсон",
-          "photo": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
         },
         {
           "name": "Алана Хаим",
-          "photo": "https://image.tmdb.org/t/p/w185/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
         },
         {
           "name": "Мамуду Ати",
-          "photo": "https://image.tmdb.org/t/p/w185/dUsJ41XjNUEHGQjQcGjBsytrGqo.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/dUsJ41XjNUEHGQjQcGjBsytrGqo.jpg"
         }
       ],
       "director": {
         "name": "Кристоффер Боргли",
-        "photo": "https://image.tmdb.org/t/p/w185/ftLljVAuKvECl8rAG7JbiGANy8P.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ftLljVAuKvECl8rAG7JbiGANy8P.jpg"
       },
       "trailer": "",
       "ageRating": "18+",
@@ -274,7 +274,43 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "6530127",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6530127/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6530127/",
+      "tmdbId": 1325734,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vc7TeZyKhBeVA4YI3z1KAeIXqGV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b8H1a89qmNxF8rqFGrG93Q9qn52.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gemH3TTDSI0tygKff4YCfBeOBLO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/piQnOAsMM5RCiTz2cYUoORUzXM5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/taiMDau0CyWOVSIp5wELiGqNf2S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yLjh1d3SlneSRVHz0ZrX1fuXSob.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gyrFASZMHZ3d4X2ZlrEZhRGr1zV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eNTVAaK1P9vLbnngMFHxNhqSvqR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gQxnJoswBzsENExzygVnFiemvK7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t1S7cLojbI92zEkdTgkWnytW7Oa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bZJSYYVrfhM3upw38KXv7SUz7Kz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/giZ6OA6vXZNI4tbCkZNzSbNo73Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8kCDyZmR1Hxga200THfraz6Sztq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e5OYXfckLI9sGtrqf22v0zGskOZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eEgRkZdiIiwxIOYzkTmjzCRRYZM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uD4zkxaZnmPN0ShYVglxuMw7hfX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gGJOEUiMrwJOLfG9DMiq2wEp7RK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jTeZiE5IW18Q7MOoJfYiynGaBrV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6GbLFsmyGmi7umOXDsyW1iVKfBi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yAZrfCDyVh1GKNKYfiQr2UxJhPU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5qzLJcwua0ETNYgGRIXu40i4lKK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kFwSN2bamcLEHqXyP6UEFZ602X9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8E3nR7rm33pAoHBa2nojl2Oek58.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eykG7ruITj1uLtZCVToJSXsUph4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8RVvbjh2AQ0n9OKj7BTYkRRbGnC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3QYnv5ZYwENDTDks4ccOZA7cCa7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qZvzyb1VoF4Vf1hmYfkLCJTjwNX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4WuqwDZ7gn6HBGF6QGXen4nFiXc.jpg"
+      ]
     },
     {
       "title": "8 миля",
