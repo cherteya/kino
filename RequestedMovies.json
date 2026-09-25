@@ -1868,7 +1868,7 @@
         },
         {
           "name": "Сэмюэл Л. Джексон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
         },
         {
           "name": "Робин Райт",
@@ -1898,7 +1898,40 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false,
-      "dateWatched": "09.09.2026 15:09"
+      "dateWatched": "09.09.2026 15:09",
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hjPirVLui7vWD4AsOQPV9kjg7pg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p9y9KPZbHZ1D0N6sOn0tJIl3Lqr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eDN7P0P3VFuj90wiBmGRc33UazN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2Gq4teAIkVVv0kc6JsfU66C3VOJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mvaF4VHf9fLuWtr8CW00TpAcPXT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/njouxUl0xpvlqVNUUFIHHltvktS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lBUkQhZxgI1ugUCJGnZ5cKb4ZbQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2AvNtGJUGqfGSyX9eUlskOKMo9S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kxXPepFUn59WY2LU9mgxpil9i6c.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fK0KYp0lgixgUhSPuT9HCqS6Yy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i4ssYOvTIfwRyuHkUyZsAtO2xJt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mrJSIlMQEaVhEMousX74kTU5LmB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h69Ga004bNSRs8ZOr45FdxHuh9S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/etZY3HaAXx8M7fqSWM7Ywkgkjyh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rERFEicIiHVTyt4OOPRhxntr9R4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a40092coo0EWj0cGZPZ5HaTsOTo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5cuFWC89NKrwa6Wx7aXNclHHKKl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qg7FPMCKqcBDcK06kz9PKx54WM3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8uVmsuT0uJ9ywWwlQxZoa5PGeUn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bJDDR0cP9MsPRiPy7kB8gXGmDf3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fahZD22zm0FS6l7J6lpHQdyJVE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dFCAoEAQBfaVGFjQUheuvVGhXuf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jytuBsiqEd03qd1uI8JgOZBwc9n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wI0kXgs6twuoW4djrazIEyY6Ea.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3QtEfXa6SmN1O9hPaw1RX7jQSO5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4rqeZuwNBpCotgsYBUaEEe2CeK7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6UIZeBJ3f4edvfBjS6SSeNViKvt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bZryPJtQ4wSe4EjoNESutixBE4L.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kS8Ng7yiHNoe2yw6chnXIWwqQBm.jpg"
+      ]
     },
     {
       "title": "Стекло",
@@ -1931,7 +1964,7 @@
         },
         {
           "name": "Сэмюэл Л. Джексон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
         },
         {
           "name": "Сара Полсон",
@@ -1957,40 +1990,7 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false,
-      "dateWatched": "14.09.2026 14:03",
-      "requestedEpisodes": 0,
-      "frames": [
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rzsMWXQ7GaN60wIpg3yf01iBmXy.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ngBFDOsx13sFXiMweDoL54XYknR.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iRJnw5OpueLhrYMnCxdydogVHUg.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8nGGk6pmmMfVrUFHrQvBQlWEvh4.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oAhIC1m7YhmB4Vtn1V3KghfjlRx.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7E75rVyfdW0iGVGwN4ZnrUAqmEE.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lvjscO8wmpEbIfOEZi92Je8Ktlg.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t9Hc1efMoWHUbDTvgwETJbvAFwb.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/q1TPQtz2Eme87wfydCn6cCk8wRw.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/f72r6GH8zvv5OcdK9nz7vMtKs3W.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uKTwzBEC8unRvOPDoLElX4CrekO.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fRIfD1WVpUL23KZ5iVUMZeYjRYj.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cxem85s9RXlXfMjYLhhHTLyyJbS.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rMRbnUjJF7PdVemOMSA80plSNuc.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eM6UuMLKVbOBdMQu3mjmUtiWh1b.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zuo0jvHvBnizO2x8tEtrr3EBWLa.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pfXMUlkUCSnuqRb47N7z9uRSa5W.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4zgdLLjMvzlQcbMMMBdp4MeqweR.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8JRLxAJq9RKkfDLkzhlzmxTvsZe.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fplsaCW073XeXYlAUTw0msvlOEd.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yGhOdbAvI0MoWRwZrcHXYcXaYde.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xlk29RzQcxqqSpsuccccUiqnNHh.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uZn5P8qRcbuZnWWrL43cIstIrDx.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yRzzEz6AZlLEfUgi9hyYGi2IB77.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1SFUYO5Jvai9B3j1kr8jq6rNHaP.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cwP8kyLXUeMbgRjQ3Tf57MosHCB.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uUK0NMvqYvH1WT0uVRcGDHgbGj5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aHvNv1UnrECTjT5g1Xi9awoJ7SF.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3wXseE4w6oxehK20zQrPBDJmM3r.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tgAUXpw3QjbbFtzLenQIxM96jG.jpg"
-      ]
+      "dateWatched": "14.09.2026 14:03"
     }
   ],
   "pepusha_": [
