@@ -1004,32 +1004,32 @@
       "studios": "🟢 Walt Disney Feature Animation, 🟢 Walt Disney Pictures",
       "budget": "100.000.000 $",
       "revenue": "169.327.687 $",
-      "tmdbRating": "7.565",
+      "tmdbRating": "7.6",
       "overview": "Как и положено царственной особе, император Куско — очень занятой человек. Но последнее его занятие грозит обернуться большими неприятностями: правитель решил построить для себя водный парк, предварительно снеся одну из деревень королевства.  Этот план непременно бы воплотился в жизнь, если бы неприятность не произошла уже с самим императором: недруги превратили его в ламу! Но напасти на этом не закончились: единственным человеком, который мог помочь императору вернуться на трон и в собственное тело, оказывается житель деревни, обреченной на снос. Дорога домой для Куско обещает быть очень долгой.",
-      "poster": "https://image.tmdb.org/t/p/w500/xeDg6fbmjjj5H7CsKEWpOEK9n2m.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/xeDg6fbmjjj5H7CsKEWpOEK9n2m.jpg",
       "tagline": "",
-      "backdrop": "https://image.tmdb.org/t/p/original/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
       "cast": [
         {
           "name": "Дэвид Спейд",
-          "photo": "https://image.tmdb.org/t/p/w185/jt01hSaSyHgaJtnCTFkfQGHyywV.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8tv638lAMLmYh8bSLICqPzbW3tv.jpg"
         },
         {
           "name": "Джон Гудман",
-          "photo": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
         },
         {
           "name": "Eartha Kitt",
-          "photo": "https://image.tmdb.org/t/p/w185/e1Lc2KU1ejimRNOMAL3mHegQFvc.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/e1Lc2KU1ejimRNOMAL3mHegQFvc.jpg"
         },
         {
           "name": "Патрик Уорбертон",
-          "photo": "https://image.tmdb.org/t/p/w185/eLqDtbFYmlTxov9vT9Dwldn839v.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/eLqDtbFYmlTxov9vT9Dwldn839v.jpg"
         }
       ],
       "director": {
         "name": "Марк Диндал",
-        "photo": "https://image.tmdb.org/t/p/w185/333OWiQBGLBjAWUemWySFzxCbhx.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/333OWiQBGLBjAWUemWySFzxCbhx.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=WzHDBmvHBo4",
       "ageRating": "G",
@@ -1044,7 +1044,40 @@
       "isAuction": false,
       "dateWatched": "19.08.2025 16:39",
       "kinopoiskId": "658",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/658/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/658/",
+      "tmdbId": 11688,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9OeAqmKObc0IqVrY8PRwVPvWTRU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gGxXXbiaivFvuMhBRmA14tuJiRe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w0sI4WjNFhFMNd5QhZYplsADx8g.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oi79TiAlRgX5OMXUgM2X20xhgq9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4NxVLxuoQDPz889TG1njH4L7cYB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3eaZRI3ie9go3Y9IdgAkq1nTiXy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uTPWZ2G12ypUN0keY6MnW5S4Rr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/64QsrHWvM8KqxBGzdFuuUYVCequ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6snCcyPZNqIyGsoHXEyBuhdkGLQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y3xfNQGUSkX3K4H71JQYQsm4DHp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sIEkBsUzBTsCwsdsMe2VzJa9q5n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uFN0g7MpvBI51z2ylSLaULYlEn2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/v5FvTjI9lbiHLFVedns2Ts59i6T.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lc5H9aLPcavwzrHM4UlGPUToUfs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uwNs4tVhSECFJM8ZX7KuNYmovnv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4yp9pwSqA5FC0Qm86I1o8W6yBL6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p64IUB7krMHw8F2dzkcBDlcGr8V.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yrOwjxygUv1uL6SoZbLZgyQkutC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2iCYA9QbRLHSSKutmXbBWanJl8z.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pfCIzm7HmR4tmgE0BNlfkPFXfN4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1DVumdfVB5tSrYuy2Oc6XVN9ptC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8shxsikaVEAOa6nggQFrlZK8VHC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yEfMuE3gJ1oqzu3kSfLxCm8inaM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hCzrAKVBVuaTeWfqPsH4NFrSibv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m5nxMkYZ3sJWDJAgwfKYPMtE87K.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tvYZAOQ1qAHBFPCQqX3XU2lYKNs.jpg"
+      ]
     },
     {
       "title": "Горбун из Нотр Дама",
