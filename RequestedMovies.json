@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:22",
+    "lastUpdated": "25.09.2026 15:23",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -3216,8 +3216,8 @@
       "year": "2024",
       "type": "Мультфильм",
       "tmdbId": 698687,
-      "kinopoiskId": "",
-      "kinopoiskUrl": "",
+      "kinopoiskId": "1229682",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1229682/",
       "altPoster": "",
       "postUrl": "",
       "runtime": "1 ч 44 мин",
@@ -3241,7 +3241,7 @@
         },
         {
           "name": "Скарлетт Йоханссон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg"
         },
         {
           "name": "Киган-Майкл Кей",
@@ -3266,7 +3266,40 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gfxGibm7hpZxqPl5DOb95QmHy2g.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zViRwl3ySscZnbXZJ2Q9wq3SeUG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3XmEfq5ToHCoWIPKIkun55QQcH2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vQqkdEqwyME0B1JSxBQI6tMgDSw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hBEYh2O1vxU1VrLpoxgXmSTNewl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4UXRTGYIAqFBqRQKQrNJnw7j4Ja.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tjBuvXL2DDX8dul3t9M1vmeE1Yw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1yyEvW1QLD27olQkC9XSdCs4B6a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lAUqqzfgsBfANCNmcIJTfLvlrqI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ezedmJ7k7mObYgjX4KK8N16n4Dz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rtx87125OchiS36cxF1cySKy0ds.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lkldIvFHTMe5a8MnhwpNKufholx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hcmpxqvQB87pGbWl1NjsD7sss1Y.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uMXVeVL2v57lMv6pqBmegDHHPqz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2h9yTYWTb909J28bzNTIE7dyNqP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oPUOpnl3pqD8wuidjfUn17mO1yA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tOtlWHAsjVEf0KpHEPj6QS504d0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m1DkRQbNXjs2RYC0FP4r6mdaLCi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fRDNF9H4mrtR4zFcWJeEALvE8LO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m1WBMaPAdK8iRhkrDIC7z2kgGTU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pO3vNbz5wNubSVAIDqH3gyU90sc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yNU8UF3DOmv3G9gVNAj34beclTG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aPDLFO1MZWaYYIDCvEW3fORQtn7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/j37VQlM7FuhHRRB1z4sFSJ0W4je.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rRcZaaZ6sHLsEi58WxU3rJZZ70b.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b5N8UD0yMuPKKPfCZ95rN5lEGNc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uyznx4DL50HVIxAFKs1EfukDj9o.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9bEylQZK7PT5Ea17u1O5ZSV1Mxc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rkIqAss89CJdk3DZbntPytskxEH.jpg"
+      ]
     }
   ],
   "Evnnomore": [
