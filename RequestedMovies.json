@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:25",
+    "lastUpdated": "25.09.2026 15:26",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -655,32 +655,32 @@
       "studios": "🔴 Warner Bros. Pictures",
       "budget": "50.000.000 $",
       "revenue": "145.079.584 $",
-      "tmdbRating": "7.277",
+      "tmdbRating": "7.3",
       "overview": "У Кола Уивера, пуританских взглядов семьянина в возрасте «чуть-чуть за сорок», не жизнь, а мечта — хорошая работа, прекрасный дом, замечательные дети и брак со школьной возлюбленной. Но когда Кол узнает, что его жена Эмили изменила ему и хочет развода, его «идеальная» жизнь быстро рушится. Хуже того, говоря современным языком, Кол, который уже пару десятилетий не ходил на свидания, являет собой настоящего «лоха».И вот, проводя все свое свободное время в баре в дурном расположении духа, несчастный Кол становится протеже обаятельного («чуть-чуть за тридцать») игрока Джейкоба Палмера. Пытаясь помочь Колу забыть жену и начать собственную жизнь, Джейкоб открывает ему глаза на многочисленные возможности, открывающиеся перед ним: кокетливые женщины, крепкие напитки и чувство стиля, которое нельзя найти в дешевой парикмахерской или магазине распродаж.",
-      "poster": "https://image.tmdb.org/t/p/w500/ho2mxV5t3ZxsgSNP1JMHfxdxpkW.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/ho2mxV5t3ZxsgSNP1JMHfxdxpkW.jpg",
       "tagline": "Это - сумашествие",
-      "backdrop": "https://image.tmdb.org/t/p/original/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
       "cast": [
         {
           "name": "Стив Карелл",
-          "photo": "https://image.tmdb.org/t/p/w185/cS7Cbyff6wFVfUGem497vy9LS7A.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sSxw69G0znJuettMYGDCAXfSwSY.jpg"
         },
         {
           "name": "Райан Гослинг",
-          "photo": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
         },
         {
           "name": "Джулианна Мур",
-          "photo": "https://image.tmdb.org/t/p/w185/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
         },
         {
           "name": "Эмма Стоун",
-          "photo": "https://image.tmdb.org/t/p/w185/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
         }
       ],
       "director": {
         "name": "Гленн Фикарра",
-        "photo": "https://image.tmdb.org/t/p/w185/23EaR6q7B1wcg9trxtr7xHzKu7q.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/23EaR6q7B1wcg9trxtr7xHzKu7q.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=SPklWG6YH94",
       "ageRating": "PG-13",
@@ -694,7 +694,40 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "493992",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/493992/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/493992/",
+      "tmdbId": 50646,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vyrCniZsrXZAW08eECKIp1BMLPh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/izxt0tTNWr5DWoTiKzvvd4Hu0pR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i2v5a5F715xlKgSrlOc4INFjFNr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4Uhf7FGZgobnaShSkrLR3RsYA4N.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jjNF8QxFZSPzH0RcP2y8aZwCTsN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vTwNAu8C4SkYvPp73rFAmLvXVym.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/d7BzfMl7vtNAtXIBmS8oWzo5pVe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ytY39maLlU3Xs2dvSg8PldpIZyT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yyQYKi2zZt9zNhDGUehTI73wFYN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9J8dyrMfr0oK9awMjufLDY5L8v0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ym8ltC5YqYFyclMfdYvtwukplfQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h9LC3RgkQeLTelJNwaVMDJ6TuCa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nZHJRe7A3kT20iCFZSHlmz7LMDp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nZmppvzoCFpPfgobyU5xPJvNNQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1A1DJFSpYEWqn1Qo4qV8dbJjcMn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iTNhFnWNgEKwfWT6z6NRaVgMTCI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/v8XOMwh2ZfuXxfbfrC9hSYijVPO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2yHNer6R6YjHD6y4O9YjznUUKgt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eqM8uK5hyLGkAeCRrStkybN2jjg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tJs6HnByP08b6ppK90THyR8oJ8a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sPp1bem58EYyl8xdaITjSPmYb2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ymvXcamk8NSsu77GgYEIro9nISj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eZgMhUvrdsISmQrMqFLCegNnYIH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y9VDwpcfDcgalHNYU9MFEkOHpT2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/53tsByc4lhHNdCA1lJetXQIeBGL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uRhaaDSDfyXuTkCIFa64QuT4sDn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wu4VXFLgHHys7pYcbGxSfYo9cNx.jpg"
+      ]
     },
     {
       "title": "Отель «Гранд Будапешт»",
