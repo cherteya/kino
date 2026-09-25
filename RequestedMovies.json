@@ -403,32 +403,32 @@
       "studios": "🟢 Studio Chizu, 🟢 Nippon Television Network Corporation, 🟢 dentsu, 🟢 TOHO, 🟢 KADOKAWA, 🟢 Hakuhodo DY Media Partners, 🟢 Yomiuri Telecasting Corporation, 🟢 BookWalker, 🟢 NTT Docomo, 🟢 Lawson Entertainment, 🟢 Yomiuri Shimbun Company, 🟢 movic",
       "budget": "Нет данных",
       "revenue": "63.501.160 $",
-      "tmdbRating": "7.611",
+      "tmdbRating": "7.6",
       "overview": "17-летняя старшеклассница Судзу воспитывается отцом и никак не может смириться с ранней смертью матери. Так как вдвоём с мамой они очень любили петь, с тех пор Судзу забросила пение, но стала писать песни. Девушка решает, что в виртуальном пространстве U, где обитает 5 миллиардов пользователей, она станет другой личностью, и создаёт полную свою противоположность — красавицу-певицу по имени Белль. В этой новой реальности девушка быстро становится популярной и обретает миллионы поклонников. Однажды её виртуальный концерт срывает загадочный пользователь в виде дракона, и Судзу решает узнать, кто же он на самом деле.",
-      "poster": "https://image.tmdb.org/t/p/w500/s0Tx3CjieqroyN0mHcuMuCoHnCc.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/s0Tx3CjieqroyN0mHcuMuCoHnCc.jpg",
       "tagline": "«Открой мир, где ты можешь любить, где ты можешь быть собой»",
-      "backdrop": "https://image.tmdb.org/t/p/original/7aiVtavsu145yo6n4ZpazwMDLXL.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/7aiVtavsu145yo6n4ZpazwMDLXL.jpg",
       "cast": [
         {
           "name": "Кахо Накамура",
-          "photo": "https://image.tmdb.org/t/p/w185/kW0WsXcYUdGjxgVN7YsJgg1Rltp.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kW0WsXcYUdGjxgVN7YsJgg1Rltp.jpg"
         },
         {
           "name": "Рё Нарита",
-          "photo": "https://image.tmdb.org/t/p/w185/f42OXn4J7cM62wtykL196YW7x85.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2EFimbwi4lf9B19cgu2bJaNJiVq.jpg"
         },
         {
           "name": "Сёта Сомэтани",
-          "photo": "https://image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
         },
         {
           "name": "Тина Тамасиро",
-          "photo": "https://image.tmdb.org/t/p/w185/u2OfpoFq4ZFaWnuCuH0JSpTo6hr.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/u2OfpoFq4ZFaWnuCuH0JSpTo6hr.jpg"
         }
       ],
       "director": {
         "name": "Мамору Хосода",
-        "photo": "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=eHXBEBOcROY",
       "ageRating": "6+",
@@ -442,7 +442,40 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "2043233",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2043233/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2043233/",
+      "tmdbId": 776305,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7aiVtavsu145yo6n4ZpazwMDLXL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a1Dyw1vruQkDOCUIgTdwiBjQi1q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sG7GfPasGq0RqXXFYMlR6Hg4BP1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vTJ58PV71yGp65MJlQ9FPSsX5Rq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mecnWdpDCZhZzaPySWxxLRumQxG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zSOZAddVLAsDlKs8eqV6nszitFp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5f1cqx9q2yXjm5s7H9Moqz5POCG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pPkOOrQOFVea4vtaaLF7tuALhnn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kiy40L5I7cYpMYTWxCDYyTf290x.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w7Rm6ZqbwWICuKlVrG5eh1s7bxl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h33YomaKeb2DIyCXpZn4F4cJFmS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/A2bfGljTmBtxStkUWo1Ql6jEc4W.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kU2Jf3QkD4XAkOwtySmWNAO5QNJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ioDfGJVhDqo9cILznuR9ZDevwEn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ZYSShdOIABwgj6t3O9DOLIASoM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jQosvfvgYGaf8hRo74KcaddTy5E.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dY3H7iL8fk8YAEZ0KIPDfVLiOAn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vEW7lf0njlVJ3WEWfpDjNVuVJGD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7FRKV2PyqXifGgmKfI4xgV69YFA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ffGszenb3EOogWvJZhfkKNfgxBh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iJBt1BYqexF5yMq4ilUSDe63qf8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ws2aBRxR9Pgg4WmB8QsiFVE1ddM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/LOpxRdlb4oLiQIoVhLYbdBSc3U.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8qw5kdPnGyaW2BNKmLnKgLIbcL2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nFaQUpDBJVpF7q37k9uQsBN3f5P.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3qHnJZwl6MVAsfPGupAsgHQEKsR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7IvscsaF3GP9HVN9LE8xWIQ5EE.jpg"
+      ]
     },
     {
       "title": "Девочка, покорившая время",
