@@ -4308,32 +4308,32 @@
       "studios": "🟢 Regency Enterprises, 🟢 New Regency Pictures, 🟢 Summit Entertainment, 🟢 Weed Road Pictures, 🟢 Epsilon Motion Pictures",
       "budget": "110.000.000 $",
       "revenue": "487.287.646 $",
-      "tmdbRating": "6.693",
+      "tmdbRating": "6.7",
       "overview": "Джон и Джейн женаты не так долго, но уже утомлены своим браком. Им кажется, что они знают друг о друге все. Но есть кое-что, что каждый предпочитает держать при себе: оба они — наемные убийцы, которые тайно путешествуют по миру, выполняя опасные миссии. Эти отдельные тайные приключения становятся их общей судьбой в тот момент, когда Джейн получает заказ на Джона, а Джон на Джейн.",
-      "poster": "https://image.tmdb.org/t/p/w500/i3hxOQV0F334Vb4HMFxhI1J0iyZ.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/i3hxOQV0F334Vb4HMFxhI1J0iyZ.jpg",
       "tagline": "Пока смерть не разлучит нас.",
-      "backdrop": "https://image.tmdb.org/t/p/original/iFaWUETEE2umP1WY0LUAmjSpzm7.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/tgDSUwWMgypgmcBhRs9u30RLPNC.jpg",
       "cast": [
         {
           "name": "Анджелина Джоли",
-          "photo": "https://image.tmdb.org/t/p/w185/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
         },
         {
           "name": "Брэд Питт",
-          "photo": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
         },
         {
           "name": "Винс Вон",
-          "photo": "https://image.tmdb.org/t/p/w185/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
         },
         {
           "name": "Адам Броди",
-          "photo": "https://image.tmdb.org/t/p/w185/qKBWrohBYegm6AAaLrtxEqqouIK.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qKBWrohBYegm6AAaLrtxEqqouIK.jpg"
         }
       ],
       "director": {
         "name": "Даг Лайман",
-        "photo": "https://image.tmdb.org/t/p/w185/5pPcmwI7GMZ45CyrYLJ3n0IXm6e.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5pPcmwI7GMZ45CyrYLJ3n0IXm6e.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=5TWFZ_YkYDM",
       "ageRating": "12+",
@@ -4348,7 +4348,43 @@
       "isAuction": false,
       "dateWatched": "13.07.2026 16:51",
       "kinopoiskId": "12090",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/12090/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/12090/",
+      "tmdbId": 787,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tgDSUwWMgypgmcBhRs9u30RLPNC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iFaWUETEE2umP1WY0LUAmjSpzm7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2YJOXPl4QtCskixYA58ToyCXEW0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ka9sZqQfam7gv3evgNTXV1UmEFT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zxYMe9GoJ67LP9xpPP3cgqCUuIU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wBPxAlZF6ITQ6T5BMmVuVjeduTe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pyFWHVfb9vc3MKUDpc3eDfLdPs6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nW4aHudGQLDPcqQZQzNqiDc0ia0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pTJUVfzXMBXFYIfMnKFo3NuIFF5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z4Tq8xE0FZA0pS8KwTTZ20WyY8i.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oZx1XBXElbvyejqofefkt48asZJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6xBknFMZhCaNJYWXyyzHEXTRk3S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/r8MIlAnBUp8vbOozsmoY7ddjYOc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9eBjTQuPWdXBRFPLBcu6DutGkxt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7MRH4pfnzMQ4yesm60vqxmkULXN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7fXefkwWmkf7pSqrixoFmPY0BmZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n86p0tTWxu1EzFxWfhvQeIl40bK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dwCNjhspPNie1GhEPBpUGGn0g5P.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1x799duadWi4lMrUaXBwTVRuLgS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1Aryt3wEOSF9xTcnzKGahp0MUlj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mT6iDCWmanQ8ADDB1mTNub4KLb5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yrZfwGo2XFdkrjuuV90GbYmfXWa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gTamTtqCuMelKXmQByj01esjSvL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yXU7NVL6T2jC2WUjUInaSEPALSe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8DiKot2eWbx2NwzL7WRz732Jtrn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p0IUi56S6vEvHj3fUpe54KvDS9U.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dN0cv5uItJsHrFJLwmCC0f0m7Ow.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4IoZ8aXyCMmlZvZuyhogUwaaAhM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1vaHkUq8DxjhpRvLitZUw3HmjyS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/A3KMKKPTgF5i0AEaKGh0pskju6x.jpg"
+      ]
     },
     {
       "title": "Лара Крофт: Расхитительница гробниц",
