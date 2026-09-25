@@ -2640,32 +2640,32 @@
       "studios": "🟢 Universal Pictures, 🟢 DreamWorks Pictures, 🟢 Imagine Entertainment",
       "budget": "58.000.000 $",
       "revenue": "316.791.257 $",
-      "tmdbRating": "7.853",
+      "tmdbRating": "7.9",
       "overview": "От всемирной известности до греховных глубин — все это познал на своей шкуре Джон Форбс Нэш-младший. Математический гений, он на заре своей карьеры сделал титаническую работу в области теории игр, которая перевернула этот раздел математики и практически принесла ему международную известность. Однако буквально в то же время заносчивый и пользующийся успехом у женщин Нэш получает удар судьбы, который переворачивает уже его собственную жизнь.",
-      "poster": "https://image.tmdb.org/t/p/w500/7EX8TTBKCJR3x7xziOSp6M0bQdF.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/7EX8TTBKCJR3x7xziOSp6M0bQdF.jpg",
       "tagline": "«Если реальность ополчилась против тебя, ничто больше не безопасно...»",
-      "backdrop": "https://image.tmdb.org/t/p/original/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
       "cast": [
         {
           "name": "Рассел Кроу",
-          "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
         },
         {
           "name": "Дженнифер Коннелли",
-          "photo": "https://image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
         },
         {
           "name": "Эд Харрис",
-          "photo": "https://image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
         },
         {
           "name": "Пол Беттани",
-          "photo": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
         }
       ],
       "director": {
         "name": "Рон Ховард",
-        "photo": "https://image.tmdb.org/t/p/w185/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=LH_UFaCZVTY",
       "ageRating": "Нет данных",
@@ -2682,7 +2682,43 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "tmdbId": 453,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9PwUQZDHGPKsgbnoBl1Ah9zXWjk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mRAOy1u55zQzrDanCUOdlFeThGw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pRBBy46A54eiayd8zPbGOz2yKcH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uSvBDOtyxeVIC06xVGtiI4MwkFy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zbpZOYrRCxEF8lFT5JC8XodEggC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/obJ4bpJ4E9qcoAbR2l3tlWrM9uz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jl6fuM8twuNcWa3lKMrTKQ8u0Z5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3Pm3wFux0qdUeh3sJPG0gCSTL1u.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qZrsfw5nd4fjakWH7dQr9shOpfE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oK9UByMkurtsUYFsJB7V1CdiXfD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5SUhfSPTQ2CMo4hkWbH9xlLv2x7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/SQgp6zgJ8r0xKvOe8A83ENpvpG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uXSazs1mstXyglogzjwrFd8wlto.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lP8BRzL4uEFk2Ag6FlhySAllIJ3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6LT5N3imY9j7pKSCPB7IokqxKGZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ijy74PzwU5qpsnNJSkALvl13KQy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/du9nbUPgMTXC44BRffnQZwPXnNt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1Ji1W3GroxNWeeWpFBQXCY2KVlU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/no7Dj5fjkKqhzzBeRMWkr63ApHV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yEdZY0r4VRiJRpJaOro96LUg7x4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zUm2n5NvUlb55Mx8QiDpE5Bm8sH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8N7X1hrhCwOGzEXzTc5Esj2iEl4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wDWisx04fsXeTqGkz3sdMXsoWmz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hXJRJc85hkjWfL2MSW134frjMBa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pEluDzYg0FDpBggo3zGniJGNFiK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/12YDmBPMNctrUtsk98BYaQcpMAw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3VshuqpYhfNUtf4UbtFwg3SSu9G.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nVVrObIgtRczNnXt5aJwbLv2Mqf.jpg"
+      ]
     },
     {
       "title": "История рыцаря",
