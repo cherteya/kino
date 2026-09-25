@@ -1201,39 +1201,39 @@
     },
     {
       "title": "Джентльмены",
-      "year": "2020",
+      "year": "2019",
       "type": "Фильм",
       "runtime": "1 ч 53 мин",
       "genres": "боевик, комедия, криминал",
       "studios": "🟢 Miramax, 🟢 Toff Guy Films, 🟢 Coach Films",
       "budget": "22.000.000 $",
       "revenue": "115.171.795 $",
-      "tmdbRating": "7.659",
+      "tmdbRating": "7.7",
       "overview": "Один ушлый американец ещё со студенческих лет приторговывал наркотиками, а теперь придумал схему нелегального обогащения с использованием поместий обедневшей английской аристократии и очень неплохо на этом разбогател. Другой пронырливый журналист приходит к Рэю, правой руке американца, и предлагает тому купить киносценарий, в котором подробно описаны преступления его босса при участии других представителей лондонского криминального мира — партнёра-еврея, китайской диаспоры, чернокожих спортсменов и даже русского олигарха.",
-      "poster": "https://image.tmdb.org/t/p/w500/vWxVVECgYDPSg5o0Rhw5u7KFa7X.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/vWxVVECgYDPSg5o0Rhw5u7KFa7X.jpg",
       "tagline": "«Криминал. Класс»",
-      "backdrop": "https://image.tmdb.org/t/p/original/hClLP88yMIuhslwSVxtYrvWmxfp.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/hClLP88yMIuhslwSVxtYrvWmxfp.jpg",
       "cast": [
         {
           "name": "Мэттью Макконахи",
-          "photo": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
         },
         {
           "name": "Чарли Ханнэм",
-          "photo": "https://image.tmdb.org/t/p/w185/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5WIDrnY25Ps2RYu0zIzHSVuSt5n.jpg"
         },
         {
           "name": "Мишель Докери",
-          "photo": "https://image.tmdb.org/t/p/w185/pgPJGf2wAPgoC6Bp5PBJYQV7IVt.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pgPJGf2wAPgoC6Bp5PBJYQV7IVt.jpg"
         },
         {
           "name": "Джереми Стронг",
-          "photo": "https://image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
         }
       ],
       "director": {
         "name": "Гай Ричи",
-        "photo": "https://image.tmdb.org/t/p/w185/9pLUnjMgIEWXi0mlHYzie9cKUTD.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9pLUnjMgIEWXi0mlHYzie9cKUTD.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=e-aiHVdRlJg",
       "ageRating": "18+",
@@ -1248,7 +1248,43 @@
       "isAuction": false,
       "dateWatched": "11.09.2025 16:41",
       "kinopoiskId": "1143242",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1143242/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1143242/",
+      "tmdbId": 522627,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hClLP88yMIuhslwSVxtYrvWmxfp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tintsaQ0WLzZsTMkTiqtMB3rfc8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9Qfawg9WT3cSbBXQgDRuWbYS9lj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/80dORlIfiNfqjOTEUEYYe0KIOgs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xz5nXb69ayjSzmorJBN0q1tIe1K.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5HXsuPQrDphfAbXjxW2zp8YC41U.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z1Ocv3mAiHXplQJ44LNLmkK4g8r.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bTRQ0EdIwNTiRZWlrRhXJvqIZZu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jXRfACT6LIYDeBLj8EVrPTD3u4s.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1uZIkohvYHalbUMFz4HVGs2ePob.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bgmvswp0E4Htxkte2tLMw4Hvj1B.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iZo7QLfjdDl1c62YdvBcVwp9PLE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s6fSFATmgD0gcuTgXJNJAyktHzi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k2tvQK7fGexgYGVyLWeZLndSY3b.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aq82IdoSGYW7erVi3zBDcD91K02.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ejv8DD1m4d5zKfwoPHrAlrB71ZP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xLDtRQEZ1wKapanDP62Yiz6FM5r.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uZ4ZBgsPsYjd0hbP3QMBBJgKexS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vh4H4PxF2cJQly6BEb18kCIHL3r.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yIIAEvip7BV3ghMuaLKQHKSfsML.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hHmGP0mM9LCOoCvPvr676nQxDrt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yNoh53V5tgPJOZSpMl80Lm3lrlh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3u0tIxR2dDG28R5NpjpTqP67Utz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4S2MnohvIcjm9MSH2bOxERhse3G.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2HQmwf7WuC1QKBRE50LMrzmqkId.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vj6uRrdfW13LpZVi6xaIhLbT3D2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lA4TEvLT0dJY6fGMfLitD9MGvmC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8l2DxP39kRDcMN5rZrG1cG7tZ0n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w7WbNdzM9inOpNtz0djPCsxGbXt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e87QYSgFOc1MA3pHGI8v2xcfo1D.jpg"
+      ]
     },
     {
       "title": "Аладдин",
