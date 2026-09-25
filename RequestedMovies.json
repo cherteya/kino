@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:26",
+    "lastUpdated": "25.09.2026 15:34",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -4383,7 +4383,26 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false,
-      "dateWatched": "25.09.2026 15:03"
+      "dateWatched": "25.09.2026 15:03",
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t5S0EaBud0lT4lbn4HvIFZ4EBU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kKUX4xvdL5wmYpFbTg4qYAguGLP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vfacHQ0BQhkDdms6TFIUVx05bYY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4VdlFtdcDwN7rp8AsiNTfOtomOB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/56H7AtJ5GK4UxFoHuw9QDwI7wzD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uw4v9I6uug15VE9n8DMN9QsslC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/64cblz6jOEy00Z0s3jU0QZFJjOb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mPZlptjgk1bOlEZ3fuqXG3htmNY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mksDdIFQRYi2mdb5nw1ekekHl3B.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yoEHuKO2EIjhWiwVgMhaR89EFRh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/u1HfWV9znIwahWb7NrIXOUugoIQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e5hKwrYOSi7N38tC1I1uR2OHcIT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o9ByFu9SzckBOJuo9Bczp0SYYJp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iH5PkBYfjHrPNKaqYl4CvHj4HVM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z9alx2UfENdM6IdjXmKeKhh7VrC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yTZv8w4Fhp2rolMEEETMbxMndCu.jpg"
+      ]
     }
   ],
   "finiba0": [
