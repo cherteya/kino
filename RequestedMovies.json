@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:24",
+    "lastUpdated": "25.09.2026 15:25",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -486,32 +486,32 @@
       "studios": "🟢 Madhouse, 🟢 Happinet Pictures, 🟢 KADOKAWA, 🟢 KADOKAWA Shoten, 🟢 Q-TEC, 🟢 Memory-Tech, 🟢 Studio Chizu",
       "budget": "Нет данных",
       "revenue": "3.478.290 $",
-      "tmdbRating": "7.773",
+      "tmdbRating": "7.8",
       "overview": "17-летняя Макото Конно не слишком хорошо учится, часто опаздывает и не знает, кем хочет стать после окончания школы. По вечерам она играет с друзьями в бейсбол, каждое утро вскакивает на велосипед и торопится в школу. Но внезапно в её привычной размеренной жизни случается странное событие, после чего Макото обретает способность перемещаться во времени.",
-      "poster": "https://image.tmdb.org/t/p/w500/fm4EDWhUFcWQwzmwXHng4jWqS73.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/fm4EDWhUFcWQwzmwXHng4jWqS73.jpg",
       "tagline": "«Есть будущее, которого мы не можем дождаться»",
-      "backdrop": "https://image.tmdb.org/t/p/original/6m2qbAqSMJTX4HUwRvVEQI6ioiO.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/6m2qbAqSMJTX4HUwRvVEQI6ioiO.jpg",
       "cast": [
         {
           "name": "Рииса Нака",
-          "photo": "https://image.tmdb.org/t/p/w185/lQHNZeMCqEK8AJvNb15BFnji7qO.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qXrDTOBrj3PbNTGzf4HLj8bCnLm.jpg"
         },
         {
           "name": "Такуя Исида",
-          "photo": "https://image.tmdb.org/t/p/w185/aHQk6XxqyJinfvrVRADEIg31nOk.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/aHQk6XxqyJinfvrVRADEIg31nOk.jpg"
         },
         {
           "name": "Мицутака Итакура",
-          "photo": "https://image.tmdb.org/t/p/w185/mnKYU7HIsuRkx3YjdRO5FLXCdX5.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/mnKYU7HIsuRkx3YjdRO5FLXCdX5.jpg"
         },
         {
           "name": "Аями Какиути",
-          "photo": "https://image.tmdb.org/t/p/w185/lUhVV9u5VGMCNdCAVhGzg8GFSdo.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lUhVV9u5VGMCNdCAVhGzg8GFSdo.jpg"
         }
       ],
       "director": {
         "name": "Мамору Хосода",
-        "photo": "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
@@ -525,7 +525,40 @@
       "cried": false,
       "isAuction": false,
       "kinopoiskId": "273209",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/273209/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/273209/",
+      "tmdbId": 14069,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6m2qbAqSMJTX4HUwRvVEQI6ioiO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iu1Xxh86uRX7b5r0NpBv7qYRqBW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cTI3mSDwkQEmYriuRSiG90ntBbZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wyVO297404vkmA8UmUofbPvO5mX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5pKDPM8P8IAPSFijjIaAfrxgTTU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/unnOaUFjHWS68eDTSL7hI20Ob1H.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/geb9rshjxNqeLQAc8CS8VRzFDlF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1sO3PeplPWn7uOokHLJL3BFvHFA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ctpLxUGxlR1cEoHtu9d7VHxLqsZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z5Q5uxodjr8sPS1MCmK4Ab9HMJd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wb2fyWBYYU2ACEqBk12HCxqEPvB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wL7m6HNUbVDVXMGOzx7Xntq4MU6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bowBrd2EvLvRMYw9hM99QZvprbp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pIopDKnHxU1nVYfnsh4YGT5NySL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aXsc6HTAOf4GLHojhuveQZqGFdQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cQbxWzm6qkXNtDsoRGa99YXr43o.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4hSrsyluO7X3oWV94wGBMDlsxC2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yDxUeqeVMtffvHBQ9eyMZH9Fo40.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9rCJzOBKCUppggWk5ivb7QJpiov.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/YUIouuEFsblb0PH61287xR4INW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7TOfCfHg6yecDfGu83J3V9yZsBJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mRgwIwMAzfuIv5PI2tgrPxf38rf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/diwyFOai7N99Rq0cXgX7CjwbLsN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/c9PucyFRb8ZwcYkCshZ6KmiaIz4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nsvFe5YR1Ku4yKyMhrpPlD5JT9B.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gRO4fqx3iiR4ZlBxPn7m62H2QD9.jpg"
+      ]
     },
     {
       "title": "Облачно, возможны осадки в виде фрикаделек",
