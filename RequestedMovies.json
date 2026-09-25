@@ -1055,32 +1055,32 @@
       "studios": "🟢 Walt Disney Pictures, 🟢 Walt Disney Feature Animation",
       "budget": "100.000.000 $",
       "revenue": "325.300.000 $",
-      "tmdbRating": "7.134",
+      "tmdbRating": "7.1",
       "overview": "Юная цыганка Эсмеральда зарабатывает на жизнь танцами. У нее есть друзья, но недоброжелатели столь могущественны, что Эсмеральда попадает в тюрьму. Звонарь Квазимодо устраивает девушке побег. А потом спасает ее, когда ослепленный ненавистью епископ Фролло пытается сам расправиться с ней. Этот мультфильм, в отличии от известного романа В. Гюго, кончается счастливо для главных героев.",
-      "poster": "https://image.tmdb.org/t/p/w500/c2grvHRrQmnHfCs4mg4w5OMDpQb.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/c2grvHRrQmnHfCs4mg4w5OMDpQb.jpg",
       "tagline": "Присоединяйтесь к вечеринке!",
-      "backdrop": "https://image.tmdb.org/t/p/original/k4HIk81b03lLeNo7I0dHxD3VPKD.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/k4HIk81b03lLeNo7I0dHxD3VPKD.jpg",
       "cast": [
         {
           "name": "Том Халс",
-          "photo": "https://image.tmdb.org/t/p/w185/sQslzbyYZr4Qjv55VseLbbjpuMY.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/sQslzbyYZr4Qjv55VseLbbjpuMY.jpg"
         },
         {
           "name": "Деми Мур",
-          "photo": "https://image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg"
         },
         {
           "name": "Кевин Клайн",
-          "photo": "https://image.tmdb.org/t/p/w185/ArH5dACd9AmWNNMnI6bGEkiFYIM.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ArH5dACd9AmWNNMnI6bGEkiFYIM.jpg"
         },
         {
           "name": "Tony Jay",
-          "photo": "https://image.tmdb.org/t/p/w185/rlL918sjBA5m6qVEjYDCKmxU7QO.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/rlL918sjBA5m6qVEjYDCKmxU7QO.jpg"
         }
       ],
       "director": {
         "name": "Гари Труздейл",
-        "photo": "https://image.tmdb.org/t/p/w185/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/yczbyaRGnhWYGU5OeFtTrzVaR87.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=m7WtNNvLLNU",
       "ageRating": "G",
@@ -1095,7 +1095,43 @@
       "isAuction": false,
       "dateWatched": "20.08.2025 16:40",
       "kinopoiskId": "2421",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2421/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2421/",
+      "tmdbId": 10545,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k4HIk81b03lLeNo7I0dHxD3VPKD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gANMasppEDQk95SvLsFNHtfBYNy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/geU7XW9G2n7EqhXsF1v8CvzAbGa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pcRHkfhNzXrDpmaup3Z6qRj4I72.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oslaee3VX9kJAjVezbjZKlEJDzn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tekszQqhniBZx1kQsn1JbFKeYuH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mYSuhIRUrs0KSOkG15StWhEEsiS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vVIQJDAdrV9ZG9VLrg90G9015JA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1iqLnkWfg07wDouKHGDHQIdJijz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uRPtcB9RnxQ15gyspKZDzSNsqvG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ghGo2HRpDvtbLAis2NPa4rLYDUx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a6uSuR3JIbQ0YwCMUhEMoH5HWz4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ocyLeZpTxxG1KpOo4BTvOpok5tz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oUVvvPolQzYal3H5pmv1d5781Oi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uhzIzQ0B8tYR9x2rlD1oKO2AJgc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xx3Vm4x78uWIwWvhiYPiv9YZ11h.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4cO5RHnpGXTBesX51JX5OVeNjDl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3zEiAO45PWgaakvSS55o6qL0ksH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rlKlVPPsQ5RpiEpm0tZsrQPgyLc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/arkxGf1uultLT1tRpj2lhtletWK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vn2GdGfW1OtzLdA10OwQhALOqcp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kJrToGglFCYCUKfYjpNbzmBkcRm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ptxYLlkJs5IXZHEhDjGEsw1sTAw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6JoSPhg8tM98txO5uxom8CpQT9S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1Q8OcWwMwOLlWcisL7IBnnfjMip.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vgIPLnSlNEQrenfdVuGitDoefmQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1xx0O82lMtjCAl6kDMmHXFdVrpy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/62tcJDgzKObwhTEhxLwQjJiRAOd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jTQcC5tez8tATFCvRKisSXLxiC6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cVRuKHDWmqtpfsYd2LrRQd3ZdNq.jpg"
+      ]
     },
     {
       "title": "Карлик Нос",
