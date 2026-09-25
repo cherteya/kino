@@ -2430,7 +2430,7 @@
         },
         {
           "name": "Пол Беттани",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
         }
       ],
       "director": {
@@ -2451,7 +2451,40 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gkT737kgnmI6jZyXbUBJRwVbGkW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nAh87l7Yl14bDmVPV6Vyf0yImyz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sJGbXiHdJEAKfPfTiYeN55DpVjy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qyzo6IgQ5qRjN9aO8ZikFtf4Ybq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ip6Qy9kjj8RFR2hCSZ6K5juKZFO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xVmpVd5C7RDXVXFBDGcnqQzmTBy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/v8gOYbL44qk8ytVUjWaIlBrAQQx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/inFHVFQb1qUzSSb8OjQs3B6kmIJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/312TdsR5z7wYFYblSbVC0crnYpX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/owpLMshw28hxgYuOCTMgJl1pxDI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cX3UBYgmhmeHQt626vWMvbptYq4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2DnpndC7kUVKN41bQoypkKFn1g7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7BicyhHoUwVx6kBObUwAjMXd9Lu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ukjPIPv8xOvkSmTPV7PwjUvY1x3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6gIwV1GM43CR9MPyJLXVxAqB7aB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cizi44iHsvjcjdXfxgFUADXtJ9Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nwkyXIMHyoWBPhG6lhF39JEXjEn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wbYmGqzdhZPTHzZv13xpvDxLemo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3eL1ddxRpxVxtmyrsaTDsxt1EQM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8VqEESEZtVLAp5LTCUSAq7rVzax.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1tkSisxFwE6uCVYN9cELdjt4Vrj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k9qtmsGmyXSsVDxLgluWrIvmw0R.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vqEuYhnX40yNoU1u5ME99rRAoU4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a8RNNY1InxkME6gNygTPxhhJ15N.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jimflVsEGPRXEDblNPwU9VFvx0a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6krigeHEIVyloX7hJO6imuKNL7V.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eDtciLmA1WI0scgAuw0tMb79U8F.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6sAz3FLuu0wlSG358bRbyUP5jxA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eegfZG4pjFcVBFWkh8Z7r9hUmn0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dWhJvc0xhIXKa2VCxBWQhJvYvLO.jpg"
+      ]
     },
     {
       "title": "Клик: С пультом по жизни",
