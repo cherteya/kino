@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:38",
+    "lastUpdated": "25.09.2026 15:39",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -3531,32 +3531,32 @@
       "studios": "🟢 DreamWorks Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Paramount Pictures",
       "budget": "150.000.000 $",
       "revenue": "709.709.780 $",
-      "tmdbRating": "6.843",
+      "tmdbRating": "6.8",
       "overview": "В течение многих столетий две расы роботов-инопланетян, Автоботы и Десептиконы, вели войну, ставкой в которой была судьба Bселенной. И вот война докатилась до Земли. В то время, когда силы зла ищут ключ к верховной власти, наш последний шанс на спасение находится в руках юного землянина. Единственное, что стоит между несущими зло Десептиконами и высшей властью — это ключ, находящийся в руках простого парнишки.",
-      "poster": "https://image.tmdb.org/t/p/w500/eYFRGx7qk4JGOqUvjSWIpgToHLi.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/eYFRGx7qk4JGOqUvjSWIpgToHLi.jpg",
       "tagline": "«Наш мир. Их война»",
-      "backdrop": "https://image.tmdb.org/t/p/original/iCDMBi6WLjUBnt24dNwHqqF81UL.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/iCDMBi6WLjUBnt24dNwHqqF81UL.jpg",
       "cast": [
         {
           "name": "Шайа ЛаБаф",
-          "photo": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
         },
         {
           "name": "Меган Фокс",
-          "photo": "https://image.tmdb.org/t/p/w185/zQp2YM0zbC27Ws97LNbyicysk8p.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9khvk5svs81TLqIGlI3ZJqYtqaY.jpg"
         },
         {
           "name": "Марк Райан",
-          "photo": "https://image.tmdb.org/t/p/w185/9I0mFMnJJutVwVsCJhh3PtfqtFv.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9I0mFMnJJutVwVsCJhh3PtfqtFv.jpg"
         },
         {
           "name": "Питер Каллен",
-          "photo": "https://image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
         }
       ],
       "director": {
         "name": "Майкл Бэй",
-        "photo": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8I9H9IKROECFEn7usvyChbRMhbI.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=cSwuDTqx9uo",
       "ageRating": "PG-13",
@@ -3571,7 +3571,43 @@
       "isAuction": false,
       "kinopoiskId": "81288",
       "kinopoiskUrl": "https://www.kinopoisk.ru/film/81288/",
-      "dateWatched": "07.08.2026 15:42"
+      "dateWatched": "07.08.2026 15:42",
+      "tmdbId": 1858,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iCDMBi6WLjUBnt24dNwHqqF81UL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1mBRoDVPPJ4T7bDleBBaYvGUYUc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iq6oCC769VhakJubpAeJNFCgvff.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wcTDxW9JEr9cORajaQLrv8ls9Ly.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eXlmQHijPhAG6E1ikFtZEfQsBxk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p4keVXRxWiG3Nb2wJxIa66Oo0zZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hhqIGDY0zJ5BQkxLgXaiQ12ROjR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5UcMIuPB5zDZPLbIJrHAuacvbdy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jmkLTGmVU9EgaiwSskZzwCiw0M9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pu4vOXaCRR8qnVzXShvAH3FoBJa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dj1vX0u9WV5H6qhtukX9AfAUgi5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1nhHXA2SwT9DE813OTe83hcoub2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/blFfzTxwmXxOkvfZ5m8u39JykfD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oj7a9mHHOozBjadHZSNrQZw5ISd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sL9OkOFVHgjG2ybfsEomFIJuHZe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/q4kqsaXPKbFMl3S7leIwI2UKYt4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/elOiEc92oo3ZjVO86qAvxjs2Qp7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jGquam9S4PHSng9GnEvlCJ94YOe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/swJt65WGYppLIaG5r3igaC09cCx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/65gcdAH7A4LOjs2kgNQHAZZIK1L.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yroC7kjwckak8ykUpBNuAvgBo2y.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/248NLtWPHVp23VYDCZemRhlg4Dx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aN3wXrnq32PyK6DiyDt26atgNXG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bk0YcIMk9NNMcAiXgOMXHngCHp6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2WFEjlQN02cysQ2x3GYqKEHCXaN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hNUKnbOykE04axQdrwB2bRuUMkj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bmwvojKebJ6y3P2oNmxQ1Ymu04M.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ajBwLjPPgivggQaHYaWUPt9h6Kh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zUdaBqF6TXKrOKuYdlx7pC2oKG3.jpg"
+      ]
     },
     {
       "title": "Трансформеры 2: Месть Падших",
