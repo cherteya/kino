@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:41",
+    "lastUpdated": "25.09.2026 15:42",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -1514,32 +1514,32 @@
       "studios": "🟢 Pixar",
       "budget": "150.000.000 $",
       "revenue": "389.685.783 $",
-      "tmdbRating": "8.185",
+      "tmdbRating": "8.1",
       "overview": "Любительница животных Мейбл использует умную новуютехнологию, предназначенную для «перескакивания» человеческого сознанияв реалистичных роботизированных животных, чтобы общаться с бобрами, раскрывая тайны животного мира, которые она даже не могла себе представить.",
-      "poster": "https://image.tmdb.org/t/p/w500/4eqr5LZH122BiU9hboXHZxX8bBl.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/4eqr5LZH122BiU9hboXHZxX8bBl.jpg",
       "tagline": "«Будь собой»",
-      "backdrop": "https://image.tmdb.org/t/p/original/3Jj0A10NVu2dWnoEL5t5oT79L1Y.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "cast": [
         {
           "name": "Пайпер Курда",
-          "photo": "https://image.tmdb.org/t/p/w185/oyitEBcracNWMuF8Frhsqkjgzuc.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/oyitEBcracNWMuF8Frhsqkjgzuc.jpg"
         },
         {
           "name": "Бобби Мойнахан",
-          "photo": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
         },
         {
           "name": "Джон Хэмм",
-          "photo": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
         },
         {
           "name": "Кэти Наджими",
-          "photo": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
         }
       ],
       "director": {
         "name": "Дэниел Чонг",
-        "photo": "https://image.tmdb.org/t/p/w185/gMYqVwLdoaPhIFyWUAQrRlGGjkE.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gMYqVwLdoaPhIFyWUAQrRlGGjkE.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=ngrz1qTFsq8",
       "ageRating": "Нет данных",
@@ -1554,7 +1554,43 @@
       "isAuction": false,
       "dateWatched": "10.06.2026 16:51",
       "kinopoiskId": "6111021",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6111021/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6111021/",
+      "tmdbId": 1327819,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3Jj0A10NVu2dWnoEL5t5oT79L1Y.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eHGuxEYWvtTUAaXu4hq6Co6h5GU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qTAVABFI5YdddMntdu8Wl0gCCjc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3gM4xYuRQiSZDj2qz3IQHTGY1xb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i5i7xWRO70oGLM5AMR5jN0GL7EZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kmsEkv3DTjwCkvXvS661mPRROGt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kKvcnXN9QwjqST1C1d79H8gLJBq.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/beey3npIAjV6kgyVp7xhhFGe0kT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rqwEc3FgYwjDf6A2xxG0IZJXe6C.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e2L60iTfMm0KTKRVIECRus1SNiN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a7upgetjSna35UfjPPlpOcQxQ1s.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1oqNHtVupMgMQyLcY22vpG5DF58.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6eoKWa89CoU5Vhf8MbqjsNCs6SN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hFcF4hsEaY73UuTSm1P6JDUxfQ0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7Zk07DUBunUp9E1LtLK63jJGiDk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gTKBGnxWVVg3yHA3mjJjnJRgU1v.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/A5HG1ctEAUSaZgOZlWsnbuX7MOJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lSNexpucVdSvpjau9OARj7yCwvi.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8ZsWydXkQw8fUr1WMlDiVgUi1wc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1q07RH8Gzt1D7JgQUbH02sFKYgu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hiakixRgbIFo3X2URGdTEcaT1a3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/19s4DNIDKbK1zXFxov5J4ECFogl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/j6PQtExzItfzaaLWENyNmZVB7Nd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/CD8alzNm4VUowOsYWNzMvO0flo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7cmxKPjsoGhBXYYZ42shMKIdrNC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5rlnS87v7T9VXNizbrQNTXf73fo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/x91763uieHs7u0TbJalHQDECAGj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n1gp9MMfLGSI77pIJjEAIITzV2J.jpg"
+      ]
     },
     {
       "title": "Goat: Мечтай по-крупному",
