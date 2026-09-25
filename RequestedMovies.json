@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:36",
+    "lastUpdated": "25.09.2026 15:37",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -3550,32 +3550,32 @@
       "studios": "🟢 Paramount Pictures, 🟢 di Bonaventura Pictures, 🟢 DeSanto/Murphy Productions, 🟢 Ian Bryce Productions",
       "budget": "195.000.000 $",
       "revenue": "1.123.794.079 $",
-      "tmdbRating": "6.238",
+      "tmdbRating": "6.2",
       "overview": "Для наших героев наступили печальные будни: Сэм потерял Микаэлу, правительство выпускает законодательный акт о выселении Автоботов с Земли, а пока Мегатрон скрывается после позорного поражения Фоллена, десептикон Шокуэйв, правитель Кибертрона, готовится нанести визит нашей планете с совсем недобрыми намерениями.",
-      "poster": "https://image.tmdb.org/t/p/w500/9wamNeMspa2wLWyZW1af6PMhfCa.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/9wamNeMspa2wLWyZW1af6PMhfCa.jpg",
       "tagline": "«Последний шанс цивилизации»",
-      "backdrop": "https://image.tmdb.org/t/p/original/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
       "cast": [
         {
           "name": "Шайа ЛаБаф",
-          "photo": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
         },
         {
           "name": "Роузи Хантингтон-Уайтли",
-          "photo": "https://image.tmdb.org/t/p/w185/oq5iX2VoLGF41P5DmNDNJcczESR.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/oq5iX2VoLGF41P5DmNDNJcczESR.jpg"
         },
         {
           "name": "Питер Каллен",
-          "photo": "https://image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/9Snf4fBUkk5MrAjqtNtgZRJYJbj.jpg"
         },
         {
           "name": "Леонард Нимой",
-          "photo": "https://image.tmdb.org/t/p/w185/eKhw3oK8ak5LDB29X9zQDLIqRhw.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/weK8ZaqE4o99qLO0JP346DtgrYt.jpg"
         }
       ],
       "director": {
         "name": "Майкл Бэй",
-        "photo": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8I9H9IKROECFEn7usvyChbRMhbI.jpg"
       },
       "trailer": "",
       "ageRating": "Нет данных",
@@ -3594,7 +3594,43 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "tmdbId": 38356,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h3js4rulxzKMOokM2oO5Kr0mBZU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cKNNFPZ2bOLoN2G1LmfhxNmjhj9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/x2sSPVVKFt20vzHDwOWJK1UUfSj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Ar5bCKiVugJNBcYvOpkk8vge5Ig.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jswUEP2jrNJccuzY8kWEJblqlHI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ftBshiMYyI28dOJNZrzKAsqXRTP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/c9SDd0yIb5gyqiOw9iTB87LEfP7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oVWG2OZG0inaXDRFXfGbPtZqsP3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k6gUa0v8dgYI79OrdiwKVW7AdzL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fysM9wfw30ZhNIZBndgoXG34Ap3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/af2duhAt9evRkxzkhxjgQ1naOM6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e0P0M8vjCyflqD7noTRmDZfoQHP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g2ZULo4E3LqWLgQAuUgqoS9flTz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dGObN6vUkjUEqZruK9P3GgFw0pk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ogO5HRnB1q5JCEsnf02LUjVjItP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ApvnKKeMEapIBba6Di7Fgc7Eo90.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yxySsVHPgWv5AkNwGz1dn4J3Ld1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tlLNZfa12nbz3OHvt7aNUKyfvf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/azEcyqMVQi6jBlMN8xNDHsHd6Vf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z1A4jpew2xt7L0anrbyGveNb4nK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hT8iHd1KHQIPtfbuz9cn6jfgwaz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k7JzUrsoZinaJtqMmoOLd4ekXvf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qayAw6WD0Zxy7pWgNQCRcNsTyyQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a2HL731dX6TuG79dUL4DwTcriZQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p7RfXjVkpu4r7KlUt6OXfCBT4hz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vdBIGZ8OJIBan89wq8XOeBeiDrD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6mCpHh9IrszS4v7kwB0yjraXw2T.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nLt2IayGqUAUxfs5xDdSDD85HMJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uPGmLdTJTbmINmjFc8ayldQSx1z.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/78QInwmJ5qVgRlSjNuMNLd8xlgQ.jpg"
+      ]
     },
     {
       "title": "Трансформеры 4: Эпоха истребления",
