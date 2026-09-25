@@ -3643,32 +3643,32 @@
       "studios": "🟢 Pixar",
       "budget": "92.000.000 $",
       "revenue": "631.442.092 $",
-      "tmdbRating": "7.728",
+      "tmdbRating": "7.7",
       "overview": "История семьи супергероев, члены которой уже отошли от больших дел и предпочитают жить непримечательной жизнью обычных землян. В прошлом все они обладали сверхъестественными способностями и относительно легко справлялись с мировым злом. Но в один прекрасный день папаше и его домочадцам приходится вновь облачиться в прорезиненные костюмы супергероев (а для этого нужно срочно сбросить лишние килограммы!) и в очередной раз спасти человечество от таинственного злодея…",
-      "poster": "https://image.tmdb.org/t/p/w500/nVJGGWCs8CQ41G4fzJoTttfCgpQ.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/nVJGGWCs8CQ41G4fzJoTttfCgpQ.jpg",
       "tagline": "Кто не рискует, тот не пьет шампанское",
-      "backdrop": "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
       "cast": [
         {
           "name": "Крэйг Т. Нельсон",
-          "photo": "https://image.tmdb.org/t/p/w185/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
         },
         {
           "name": "Холли Хантер",
-          "photo": "https://image.tmdb.org/t/p/w185/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
         },
         {
           "name": "Sarah Vowell",
-          "photo": "https://image.tmdb.org/t/p/w185/dP1hMYTk2q4voIUxtgmvD81nMty.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/dP1hMYTk2q4voIUxtgmvD81nMty.jpg"
         },
         {
           "name": "Spencer Fox",
-          "photo": "https://image.tmdb.org/t/p/w185/vMyWK5qZWEG0GZh4FXCDXx4Jqfm.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/vMyWK5qZWEG0GZh4FXCDXx4Jqfm.jpg"
         }
       ],
       "director": {
         "name": "Брэд Бёрд",
-        "photo": "https://image.tmdb.org/t/p/w185/zB9Uz0Rs1K9uwHffXRFaBwwSYI.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zB9Uz0Rs1K9uwHffXRFaBwwSYI.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=Li8hi4mX06E",
       "ageRating": "6+",
@@ -3683,7 +3683,43 @@
       "isAuction": false,
       "dateWatched": "18.05.2026 16:46",
       "kinopoiskId": "38903",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/38903/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/38903/",
+      "tmdbId": 9806,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7bQNyDNvnBMAkRw5Hq9An0CUh0r.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AtXtk99bZQb4L3oxNjpC3u9HzQw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s9mdsiIl9PpMd2JJwbJtGAHWBUQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h138DP62gGqPV7sxCnIPbTMh3a6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1wgJIfxabXiRH7PJWk2UzoT53RG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oj5aJQ29VB8SWljB5dhgeztDz3d.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qQRfIjYKLRiUMr6Lngrxq7rH1Zk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9Y5sqtqB3byC67qh7xxVlU2ROem.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3BzsK5fa6QF9m4p7SSV6DaaRmxx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/b3GDX3tMh8qbrJaFtttVLeIw6yN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4R5yRx4qH1un4OvmlaEG8F1LQ5A.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ougiU5flUDlPhyBwjVLBy4LsKpV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rd8biwa3EuFmOeYV1BnYOS8zuGU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dT2gZziCkrL5hkQtD14AgxzQSt9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qEqrnYQWxHFBss0ugQsLORAI6aL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lBVEPGbt7Z83VP0QdLRAfAlexh9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/97bAydIWGQoulxr1cxwAcN6LlAE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1t1NivpvWQgNwJTxt7hMJNfq3tf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cnORTKYtAzPXIY6lizTJspfoXnd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lNvvQI73V7YtBcblZdantgEuZR9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ukj94VEzbIQhfxQTpBhGaPSVMag.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tDtryMfBdUQUj704IpPeij3LOG0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jIgPOnmdsUqm52rmJVnrdJ1uuep.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gsSBK7MxQOvcs0uumFvf5UYx40a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uqmBGrU8OJtI6TJvFU8iu9tvpzj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/vmVnDuU3VcyQAUmzcIdSoyAgABD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/puQ2WFEXG6IoPSd3E9H0z8YUrny.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yYWQClF7Zz5KXClAhfSl1HCUHIk.jpg"
+      ]
     },
     {
       "title": "Лесная братва",
