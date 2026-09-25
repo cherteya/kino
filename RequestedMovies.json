@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:21",
+    "lastUpdated": "25.09.2026 15:22",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -2772,7 +2772,40 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fAGYRJCujRBMw7TCuTp893eSG8e.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7tZt3PA948fvSTFx0699YF44Tdt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9Gk3h004bow0jflh09iU4nPig48.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hGtmFJI7q1S0UN1FeLSM9pwkWks.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/peZI7LOBmZ75swPRdmpwsUsJCf0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eauLgY8lq56b8vU777loTqF9Eg2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Aiy7K68IlTODqt4XfTVTVpgDEqa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aC9d1RHXacabXFVxz0WdkdFkFit.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4TSZHY0j6qDWxXT1cozejbauz04.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fmcxVkgyvFsqFgTvwpHE3HYuEjy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jRxxp0ZOBt9pgfFHMViKYCL0Ken.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AbIbkLgXnpgKv8y7GdYVnuctTdW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1nlsY3Eawg9wLOqHNYPLoJum473.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s5R6kTMfOxkGit96A8lqcDL4uVk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4TYFrxJvgTsw10oskYoQeQYY4Rl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4Ehbt9vvcufmJr3BvBQkvi9v6Ey.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/atLhthEyHxb1jOISe64ioW9l5QK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7NHnPjs4WXpPK7Nd3qTDFeHBjZc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cnYruwRk3Ev3RisCGNuLzneiNr5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bHhwwpurWAch5aGIy4F68VYlkqv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m5kDmjLO1VhkVxHlRSKMI6mzuC5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g1U311jgL4DJbGgvIZgiCfHp44Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6wqrHOuFMNv74Ik2nH2o1AMcU0g.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yp08g2eFEdcgL0Rrj9IXt8SxdP5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qqLvyhBf3c8sEDn9jorDJLjxKsy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qAfEcyzswtGKMYGQAfYx4OOEVA6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lm8L6EOppVE4wRv9rLeGbSpCuEj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4lKEK1lpDORS6ySMZx95o6tTGFj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kJRF3YYCeiy9sobM4aKJPcQ4NiP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mjxygfk4tG8BmDpxWIpuFowTfQD.jpg"
+      ]
     }
   ],
   "SeRRRg0": [
