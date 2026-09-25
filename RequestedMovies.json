@@ -1463,32 +1463,32 @@
       "studios": "🔴 Warner Bros. Pictures | 🟢 RatPac Entertainment, 🟢 Warner Animation Group, 🟢 Stoller Global Solutions",
       "budget": "70.000.000 $",
       "revenue": "182.379.278 $",
-      "tmdbRating": "6.681",
+      "tmdbRating": "6.7",
       "overview": "Аисты приносят детей... или, во всяком случае, раньше приносили. Теперь же они занимаются доставкой посылок для огромного сайта интернет-продаж. Джуниор, лучший аист в курьерской компании, должен пойти на повышение, но он случайно активирует машину для создания детей и получает очаровательную, но совершенно незапланированную девочку.",
-      "poster": "https://image.tmdb.org/t/p/w500/ujSKynpeLqSVM8VZ5pSccQQrEyW.jpg",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/ujSKynpeLqSVM8VZ5pSccQQrEyW.jpg",
       "tagline": "Дети — наша работа",
-      "backdrop": "https://image.tmdb.org/t/p/original/3dhuShnYmB0UOQrn8v8gT9DBf0T.jpg",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/3dhuShnYmB0UOQrn8v8gT9DBf0T.jpg",
       "cast": [
         {
           "name": "Энди Сэмберг",
-          "photo": "https://image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
         },
         {
           "name": "Katie Crown",
-          "photo": "https://image.tmdb.org/t/p/w185/mpkqHBsRDs4EAbmWCD0xswicruI.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/mpkqHBsRDs4EAbmWCD0xswicruI.jpg"
         },
         {
           "name": "Келси Грэммер",
-          "photo": "https://image.tmdb.org/t/p/w185/5zik4VJim6YTSWDjC7tkp13wxUp.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5zik4VJim6YTSWDjC7tkp13wxUp.jpg"
         },
         {
           "name": "Дженнифер Энистон",
-          "photo": "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
         }
       ],
       "director": {
         "name": "Doug Sweetland",
-        "photo": "https://image.tmdb.org/t/p/w185/zYxgikK0IBkMUmUBXBppJJDK4ZD.jpg"
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zYxgikK0IBkMUmUBXBppJJDK4ZD.jpg"
       },
       "trailer": "https://www.youtube.com/watch?v=VcXfMCEoYVM",
       "ageRating": "6+",
@@ -1503,7 +1503,21 @@
       "isAuction": false,
       "dateWatched": "13.05.2026 16:45",
       "kinopoiskId": "894045",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/894045/"
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/894045/",
+      "tmdbId": 332210,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3dhuShnYmB0UOQrn8v8gT9DBf0T.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wr8Fbs1j6FPsKqxHYELwp21zuZL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gZFk3my6eTSsqujAsLy8yR1LTBu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9Htc6RoobykyeYZgFAd4lvfs7Pu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iJmSu545zRD6ENLNqIwZOR3TwLY.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xGuMhPSMv0HZHjAZKTK6jB4ZUTl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sIv714qX0KSpoWAHwJxodKQsGcK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p1hquueQI6Cgfv07cFp6H6wgWRf.jpg"
+      ]
     },
     {
       "title": "Прыгуны",
