@@ -2994,8 +2994,8 @@
       "ourRating": "7",
       "cried": false,
       "isAuction": false,
-      "kinopoiskId": "1122114",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1122114/",
+      "kinopoiskId": "2408",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/2408/",
       "requestedSeason": 0,
       "tmdbId": 11622,
       "altPoster": "",
@@ -3004,7 +3004,26 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false,
-      "dateWatched": "24.09.2026 15:43"
+      "dateWatched": "24.09.2026 15:43",
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qr3yKVRrPmPCpxqtEeFkdisGE4n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fPa7GF5bMqZFLnZvuP5lMQn95o6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4Touq3xuoXUJmgbZ0VN4v6Icfhj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/u2mBCKZHSIqGvt0oJNYIoMCfcn1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mcvnY2PFJfTW4ei8yj83UyODACS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m2EMen5rxOSIxSYosmycMRnJpCW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xUIMwHcVhnUFPKTtDDwLAU5Tigz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ijod40x8GPFB541FMrPfJ03MtWj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7UehKBuBWWIxa3mGwE9hgF1a12p.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lumuUV7EE4GZlXoKI0H1AGfBfhz.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/A9gW1wO3Sb49RTgWpmRAwc8ONS1.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tX7KEhQgublJgKcffqWA31dNkN9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qOl69z92eBWUSRXW40UXwovvaCc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ss14PsWzpmnsglyyNT9AQSNxhkG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pBlZUxkzbMBhHoR96J6dfZBZMRF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dlzr8mPJR9z55o5bRUMQvE956po.jpg"
+      ]
     }
   ],
   "nikisnej192": [
