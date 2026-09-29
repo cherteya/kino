@@ -5886,7 +5886,12 @@
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8NFoBfKiO636BcoItVdc0yMtpaV.jpg",
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6cyF1U6G0phK4JjbNmorPOezxI9.jpg",
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yhFdUbwpB3UxbXRyrkbg0CweYte.jpg"
-      ]
+      ],
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "tgRecordUrl": "https://t.me/cherteyavod/66"
     }
   ],
   "chipotl_s": [
