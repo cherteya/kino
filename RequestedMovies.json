@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "29.09.2026 16:16",
+    "lastUpdated": "29.09.2026 18:15",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -2136,98 +2136,6 @@
       "tvStatus": "Ended"
     },
     {
-      "title": "Неуязвимый",
-      "requestedSeason": 0,
-      "year": "2000",
-      "type": "Фильм",
-      "tmdbId": 9741,
-      "kinopoiskId": "866",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/866/",
-      "altPoster": "",
-      "postUrl": "",
-      "runtime": "1 ч 46 мин",
-      "genres": "триллер, драма, детектив",
-      "studios": "🟢 Barry Mendel Productions, 🟢 Blinding Edge Pictures, 🟢 Touchstone Pictures",
-      "budget": "75.000.000 $",
-      "revenue": "248.118.121 $",
-      "tmdbRating": "7.1",
-      "overview": "В 3:15 пополудни происходит страшная железнодорожная катастрофа. Из 132 пассажиров в живых остается только один. Дэйвид Данн не просто уцелел посреди мгновенного ада из железа и огня — он не получил ни одной царапины. И лишь один человек на земле знает причину этого чуда — Элайджа Прайс по прозвищу «Мистер Стекло», чьи кости могут сломаться даже от незначительного внешнего усилия…",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/jz968bMurZtNJr1kGNdnqVgqmrJ.jpg",
-      "tagline": "Два полюса одной тайны",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
-      "cast": [
-        {
-          "name": "Брюс Уиллис",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
-        },
-        {
-          "name": "Сэмюэл Л. Джексон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
-        },
-        {
-          "name": "Робин Райт",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
-        },
-        {
-          "name": "Спенсер Трит Кларк",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
-        }
-      ],
-      "director": {
-        "name": "М. Найт Шьямалан",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=X7oI6jqHdUI",
-      "ageRating": "12+",
-      "keywords": "philadelphia, pennsylvania, parent child relationship, marriage crisis, superhero, train accident",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/11f87f17-1439-4079-af5d-d3d778a76800-profile_image-600x600.jpeg",
-      "collection": "",
-      "id": 65,
-      "dateRequested": "08.09.2026 14:07",
-      "status": "Смотрели",
-      "ourRating": "8",
-      "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false,
-      "dateWatched": "09.09.2026 15:09",
-      "requestedEpisodes": 0,
-      "frames": [
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hjPirVLui7vWD4AsOQPV9kjg7pg.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p9y9KPZbHZ1D0N6sOn0tJIl3Lqr.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eDN7P0P3VFuj90wiBmGRc33UazN.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2Gq4teAIkVVv0kc6JsfU66C3VOJ.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mvaF4VHf9fLuWtr8CW00TpAcPXT.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/njouxUl0xpvlqVNUUFIHHltvktS.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lBUkQhZxgI1ugUCJGnZ5cKb4ZbQ.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2AvNtGJUGqfGSyX9eUlskOKMo9S.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kxXPepFUn59WY2LU9mgxpil9i6c.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fK0KYp0lgixgUhSPuT9HCqS6Yy.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i4ssYOvTIfwRyuHkUyZsAtO2xJt.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mrJSIlMQEaVhEMousX74kTU5LmB.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h69Ga004bNSRs8ZOr45FdxHuh9S.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/etZY3HaAXx8M7fqSWM7Ywkgkjyh.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rERFEicIiHVTyt4OOPRhxntr9R4.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a40092coo0EWj0cGZPZ5HaTsOTo.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5cuFWC89NKrwa6Wx7aXNclHHKKl.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qg7FPMCKqcBDcK06kz9PKx54WM3.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8uVmsuT0uJ9ywWwlQxZoa5PGeUn.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bJDDR0cP9MsPRiPy7kB8gXGmDf3.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fahZD22zm0FS6l7J6lpHQdyJVE.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dFCAoEAQBfaVGFjQUheuvVGhXuf.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jytuBsiqEd03qd1uI8JgOZBwc9n.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wI0kXgs6twuoW4djrazIEyY6Ea.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3QtEfXa6SmN1O9hPaw1RX7jQSO5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4rqeZuwNBpCotgsYBUaEEe2CeK7.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6UIZeBJ3f4edvfBjS6SSeNViKvt.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bZryPJtQ4wSe4EjoNESutixBE4L.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kS8Ng7yiHNoe2yw6chnXIWwqQBm.jpg"
-      ]
-    },
-    {
       "title": "Стекло",
       "requestedSeason": 0,
       "year": "2019",
@@ -2561,6 +2469,99 @@
       "isWatching": false,
       "isMarvel": false,
       "tgRecordUrl": "https://t.me/cherteyavod/17"
+    },
+    {
+      "title": "Неуязвимый",
+      "requestedSeason": 0,
+      "year": "2000",
+      "type": "Фильм",
+      "tmdbId": 9741,
+      "kinopoiskId": "866",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/866/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 46 мин",
+      "genres": "триллер, драма, детектив",
+      "studios": "🟢 Barry Mendel Productions, 🟢 Blinding Edge Pictures, 🟢 Touchstone Pictures",
+      "budget": "75.000.000 $",
+      "revenue": "248.118.121 $",
+      "tmdbRating": "7.1",
+      "overview": "В 3:15 пополудни происходит страшная железнодорожная катастрофа. Из 132 пассажиров в живых остается только один. Дэйвид Данн не просто уцелел посреди мгновенного ада из железа и огня — он не получил ни одной царапины. И лишь один человек на земле знает причину этого чуда — Элайджа Прайс по прозвищу «Мистер Стекло», чьи кости могут сломаться даже от незначительного внешнего усилия…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/jz968bMurZtNJr1kGNdnqVgqmrJ.jpg",
+      "tagline": "Два полюса одной тайны",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+      "cast": [
+        {
+          "name": "Брюс Уиллис",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        },
+        {
+          "name": "Сэмюэл Л. Джексон",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+        },
+        {
+          "name": "Робин Райт",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+        },
+        {
+          "name": "Спенсер Трит Кларк",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
+        }
+      ],
+      "director": {
+        "name": "М. Найт Шьямалан",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tOhFWjauKvJgjCVLJFnhbBCZuxZ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=X7oI6jqHdUI",
+      "ageRating": "12+",
+      "keywords": "philadelphia, pennsylvania, parent child relationship, marriage crisis, superhero, train accident",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/11f87f17-1439-4079-af5d-d3d778a76800-profile_image-600x600.jpeg",
+      "collection": "",
+      "id": 65,
+      "dateRequested": "08.09.2026 14:07",
+      "status": "Смотрели",
+      "ourRating": "8",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "dateWatched": "09.09.2026 15:09",
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hjPirVLui7vWD4AsOQPV9kjg7pg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p9y9KPZbHZ1D0N6sOn0tJIl3Lqr.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eDN7P0P3VFuj90wiBmGRc33UazN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2Gq4teAIkVVv0kc6JsfU66C3VOJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mvaF4VHf9fLuWtr8CW00TpAcPXT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/njouxUl0xpvlqVNUUFIHHltvktS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lBUkQhZxgI1ugUCJGnZ5cKb4ZbQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2AvNtGJUGqfGSyX9eUlskOKMo9S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kxXPepFUn59WY2LU9mgxpil9i6c.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fK0KYp0lgixgUhSPuT9HCqS6Yy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/i4ssYOvTIfwRyuHkUyZsAtO2xJt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mrJSIlMQEaVhEMousX74kTU5LmB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h69Ga004bNSRs8ZOr45FdxHuh9S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/etZY3HaAXx8M7fqSWM7Ywkgkjyh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rERFEicIiHVTyt4OOPRhxntr9R4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a40092coo0EWj0cGZPZ5HaTsOTo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5cuFWC89NKrwa6Wx7aXNclHHKKl.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qg7FPMCKqcBDcK06kz9PKx54WM3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8uVmsuT0uJ9ywWwlQxZoa5PGeUn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bJDDR0cP9MsPRiPy7kB8gXGmDf3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fahZD22zm0FS6l7J6lpHQdyJVE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dFCAoEAQBfaVGFjQUheuvVGhXuf.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jytuBsiqEd03qd1uI8JgOZBwc9n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wI0kXgs6twuoW4djrazIEyY6Ea.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3QtEfXa6SmN1O9hPaw1RX7jQSO5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4rqeZuwNBpCotgsYBUaEEe2CeK7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6UIZeBJ3f4edvfBjS6SSeNViKvt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bZryPJtQ4wSe4EjoNESutixBE4L.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kS8Ng7yiHNoe2yw6chnXIWwqQBm.jpg"
+      ],
+      "tgRecordUrl": "https://t.me/cherteyavod/106"
     }
   ],
   "pepusha_": [
