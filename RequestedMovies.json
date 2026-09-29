@@ -2967,86 +2967,6 @@
       ]
     },
     {
-      "title": "Боб Тревино поставил лайк",
-      "year": "2025",
-      "type": "Фильм",
-      "kinopoiskId": "7144323",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/7144323/",
-      "runtime": "1 ч 41 мин",
-      "genres": "комедия, драма",
-      "studios": "🟢 Laymon's Terms, 🟢 Five By Eight Productions, 🟢 Purple Suit Factory, 🟢 Off Media, 🟢 Myriad Pictures, 🟢 BondIt Media Capital, 🟢 ArtImage Entertainment, 🟢 Daydream Studios, 🟢 Seasick Studios",
-      "budget": "Нет данных",
-      "revenue": "237.416 $",
-      "tmdbRating": "7.4",
-      "overview": "Одинокая девушка Лили Тревино, пытаясь найти в социальных сетях отца, который оборвал с ней все связи, натыкается на его полного тёзку — добродушного строителя Боба Тревино, переживающего собственный кризис. Их случайное знакомство постепенно перерастает в дружбу, помогающую обоим по-новому взглянуть на жизнь и найти в себе силы изменить её к лучшему.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/rCVO3B8VIrPwFRLi8Aj6Xkc0TbG.jpg",
-      "tagline": "",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
-      "cast": [
-        {
-          "name": "Барби Феррейра",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kl59GoAbazPffmmZtSLZmUQCK6S.jpg"
-        },
-        {
-          "name": "Джон Легуизамо",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
-        },
-        {
-          "name": "Френч Стюарт",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5c1YaxSkFmwsqEnL7ARyQw2FQ3D.jpg"
-        },
-        {
-          "name": "Lauren 'Lolo' Spencer",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5Dot27yaI6m4HYhkYDZGQpTA77f.jpg"
-        }
-      ],
-      "director": {
-        "name": "Трейси Лэймон",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iR5vVudmCVtb9zJPwXarrROEN0s.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=qd3o32-1Tys",
-      "ageRating": "16+",
-      "keywords": "friendship, melancholy, based on true story, coming of age, heartbreak",
-      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
-      "collection": "",
-      "id": 47,
-      "dateRequested": "07.08.2026 12:59",
-      "status": "Смотрели",
-      "ourRating": "10",
-      "cried": true,
-      "isAuction": false,
-      "dateWatched": "17.08.2026 15:50",
-      "requestedSeason": 0,
-      "altPoster": "",
-      "postUrl": "",
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false,
-      "tmdbId": 1169789,
-      "requestedEpisodes": 0,
-      "frames": [
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uFZFLUtbHJDY7S7I7QARz83QXKG.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5T21iuLXRMywQR68rQcVFHWFjEZ.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3WokdjvFDXdD7DDO6VkdLhLkLD7.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s9o8F5gb9jhpsPUDRTgU6h3TCxV.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5AxGQzUsLM9ZtfG3iChaThPAIhs.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8OnnfZxqAiHY0x2cdY6IgEwGdql.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wsopF6WQz8uLsoTdU38gwfb7WC5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kQ7Wf46pytz7rgiafjHEFPnK5NT.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dm9O8PqFpUxWS22oaJG8LBJyJgb.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/numTFdKySMAcxlHN9LVZ8beXiCP.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/j9Ql73JTkIZLu262c4Qc3eIghjn.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kxdvAUfxeiMt8JJjInUUQ4PVs1n.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y0HlyRccDpLu6JwDIVNEEBD4cBv.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s5HD8nDylSQstRxaiwVJRgWtbd2.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qisnrlqsznFQPBM2zs5fznkHyki.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jBNgizuucsI4noNupyssg8VOUdh.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xfhJ8Kuwo2F5Nh4GdxVx1qPP8BV.jpg"
-      ]
-    },
-    {
       "title": "Эдди «Орёл»",
       "year": "2016",
       "type": "Фильм",
@@ -3126,6 +3046,87 @@
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nDAIPDpDjuM7zMzBRwn631YBvOW.jpg"
       ],
       "tgRecordUrl": "https://t.me/cherteyavod/91"
+    },
+    {
+      "title": "Боб Тревино поставил лайк",
+      "year": "2025",
+      "type": "Фильм",
+      "kinopoiskId": "7144323",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/7144323/",
+      "runtime": "1 ч 41 мин",
+      "genres": "комедия, драма",
+      "studios": "🟢 Laymon's Terms, 🟢 Five By Eight Productions, 🟢 Purple Suit Factory, 🟢 Off Media, 🟢 Myriad Pictures, 🟢 BondIt Media Capital, 🟢 ArtImage Entertainment, 🟢 Daydream Studios, 🟢 Seasick Studios",
+      "budget": "Нет данных",
+      "revenue": "237.416 $",
+      "tmdbRating": "7.4",
+      "overview": "Одинокая девушка Лили Тревино, пытаясь найти в социальных сетях отца, который оборвал с ней все связи, натыкается на его полного тёзку — добродушного строителя Боба Тревино, переживающего собственный кризис. Их случайное знакомство постепенно перерастает в дружбу, помогающую обоим по-новому взглянуть на жизнь и найти в себе силы изменить её к лучшему.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/rCVO3B8VIrPwFRLi8Aj6Xkc0TbG.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
+      "cast": [
+        {
+          "name": "Барби Феррейра",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kl59GoAbazPffmmZtSLZmUQCK6S.jpg"
+        },
+        {
+          "name": "Джон Легуизамо",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+        },
+        {
+          "name": "Френч Стюарт",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5c1YaxSkFmwsqEnL7ARyQw2FQ3D.jpg"
+        },
+        {
+          "name": "Lauren 'Lolo' Spencer",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5Dot27yaI6m4HYhkYDZGQpTA77f.jpg"
+        }
+      ],
+      "director": {
+        "name": "Трейси Лэймон",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iR5vVudmCVtb9zJPwXarrROEN0s.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=qd3o32-1Tys",
+      "ageRating": "16+",
+      "keywords": "friendship, melancholy, based on true story, coming of age, heartbreak",
+      "userAvatar": "https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-600x600.png",
+      "collection": "",
+      "id": 47,
+      "dateRequested": "07.08.2026 12:59",
+      "status": "Смотрели",
+      "ourRating": "10",
+      "cried": true,
+      "isAuction": false,
+      "dateWatched": "17.08.2026 15:50",
+      "requestedSeason": 0,
+      "altPoster": "",
+      "postUrl": "",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "tmdbId": 1169789,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uFZFLUtbHJDY7S7I7QARz83QXKG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5T21iuLXRMywQR68rQcVFHWFjEZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3WokdjvFDXdD7DDO6VkdLhLkLD7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s9o8F5gb9jhpsPUDRTgU6h3TCxV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5AxGQzUsLM9ZtfG3iChaThPAIhs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8OnnfZxqAiHY0x2cdY6IgEwGdql.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wsopF6WQz8uLsoTdU38gwfb7WC5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kQ7Wf46pytz7rgiafjHEFPnK5NT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dm9O8PqFpUxWS22oaJG8LBJyJgb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/numTFdKySMAcxlHN9LVZ8beXiCP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/j9Ql73JTkIZLu262c4Qc3eIghjn.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kxdvAUfxeiMt8JJjInUUQ4PVs1n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/y0HlyRccDpLu6JwDIVNEEBD4cBv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s5HD8nDylSQstRxaiwVJRgWtbd2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qisnrlqsznFQPBM2zs5fznkHyki.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jBNgizuucsI4noNupyssg8VOUdh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xfhJ8Kuwo2F5Nh4GdxVx1qPP8BV.jpg"
+      ],
+      "tgRecordUrl": "https://t.me/cherteyavod/79"
     }
   ],
   "MadMan1408": [
