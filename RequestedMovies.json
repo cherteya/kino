@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "25.09.2026 15:56",
+    "lastUpdated": "29.09.2026 15:24",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -4682,8 +4682,8 @@
       "collection": "",
       "id": 64,
       "dateRequested": "03.09.2026 15:40",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
+      "status": "Смотрели",
+      "ourRating": "8",
       "cried": false,
       "isAuction": false,
       "isBanned": false,
@@ -4722,7 +4722,8 @@
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uyznx4DL50HVIxAFKs1EfukDj9o.jpg",
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9bEylQZK7PT5Ea17u1O5ZSV1Mxc.jpg",
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/rkIqAss89CJdk3DZbntPytskxEH.jpg"
-      ]
+      ],
+      "dateWatched": "29.09.2026 15:24"
     }
   ],
   "Evnnomore": [
