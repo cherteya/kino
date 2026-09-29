@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "29.09.2026 16:15",
+    "lastUpdated": "29.09.2026 16:16",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -6006,7 +6006,8 @@
       "isBanned": false,
       "isTheme": false,
       "isWatching": false,
-      "isMarvel": false
+      "isMarvel": false,
+      "tgRecordUrl": "https://t.me/cherteyavod/13"
     }
   ]
 }
