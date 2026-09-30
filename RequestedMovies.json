@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "29.09.2026 18:16",
+    "lastUpdated": "30.09.2026 14:57",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -5621,6 +5621,85 @@
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p2DA0KLWRW7GL4X9ROU0qlbRqis.jpg",
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dXVJXXjDpoKIDF003V7DQwgelfH.jpg"
       ]
+    },
+    {
+      "title": "Дора и затерянный город",
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "year": "2019",
+      "type": "Фильм",
+      "tmdbId": 499701,
+      "kinopoiskId": "1108415",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/1108415/",
+      "altPoster": "",
+      "runtime": "1 ч 42 мин",
+      "genres": "семейный, комедия, приключения",
+      "studios": "🟢 Nickelodeon Movies, 🟢 Paramount Players, 🟢 Walden Media, 🟢 Paramount Pictures, 🟢 MRC",
+      "budget": "49.000.000 $",
+      "revenue": "120.600.000 $",
+      "tmdbRating": "6.6",
+      "overview": "Практически всё детство Дора провела в джунглях, где работали её родители-исследователи. Но никакие прежние приключения не могли подготовить девушку к опасностям старшей школы — непониманию, соперничеству, зависти. Вдобавок таинственным образом исчезают родители Доры. Но она не была бы собой, если бы опустила руки. Первая любовь, а также старые и новые друзья вдохновляют смелую девушку отправиться на поиски родных. На пути к цели их ждёт масса испытаний, а также леденящая кровь загадка потерянной цивилизации…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/j3U3Vn7pX0Ah6z1A6PL1zF7Icyi.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/ltt9yiCGmCQZunmxtkhtPxzmDzx.jpg",
+      "cast": [
+        {
+          "name": "Изабела Мерсед",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
+        },
+        {
+          "name": "Jeff Wahlberg",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2l4keQAgLuv0acsPcmfP9SJ28sF.jpg"
+        },
+        {
+          "name": "Мадлен Мэдден",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/oOZ1EJeq2DHxNNLAkLEyYYOlqlM.jpg"
+        },
+        {
+          "name": "Эухенио Дербес",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/6o1w3mYF947N6TTakQXcs3NNy4w.jpg"
+        }
+      ],
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ltt9yiCGmCQZunmxtkhtPxzmDzx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/61sbyO47yIpsMFyLhY1MWcqjg1Q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/843PwG97xLcz7TUW8tKDNrOc2sj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7SivJ0rf2Bv3KFpPmfgvft4wQg0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8gSdwdWjUFZZNDbrUv2pRZ2GmEP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9NrUc6sD6udW8PWZfD9bxuY0nFO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hAtZ04U0vrPSoSbEytMbgPaGhHk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/z9M7AK5ONl1aPELUfeXSBJwKukg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qFqMsF1L8ektJT4k7SGzXnW7WDI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/A7HYuD1mZFvl7B3KZ2Yjx6sEyTA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/58Onn3SC2wgLXCsOHDBTaicHxSM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kagD0H8Aq077HjYzGERnf26ErS0.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ouL5rlCoTM20vHkqhFk9OrsJqJF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ptQinWxcRCiAzJrMHVfrld0htE2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sGQWxZudgrR7Gq5xrm0MwEN76kO.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mkKO1ukuLpyGOnT3d5xYY2pUzgH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yiuew4X9k6JENNbBPnpgXw6EBzk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/gG4obQlhUqrrClPFVpscvhCU9S9.jpg"
+      ],
+      "director": {
+        "name": "Джеймс Бобин",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kz3WxFYkJaFtPOerclkt8Zl0M93.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=Mp0UQUoewCk",
+      "ageRating": "6+",
+      "keywords": "peru, museum, fox, based on cartoon, jungle",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/1dbf6029-67b7-4508-a0d3-f6f833c3ff3f-profile_image-600x600.png",
+      "collection": "Приключения Доры (Коллекция)",
+      "id": 73,
+      "dateRequested": "30.09.2026 14:57",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "reviewUrl": ""
     }
   ],
   "filimonia": [
