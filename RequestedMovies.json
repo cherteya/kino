@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "30.09.2026 16:33",
+    "lastUpdated": "02.10.2026 10:37",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -5193,84 +5193,6 @@
       ]
     },
     {
-      "title": "Давайте потанцуем",
-      "year": "2004",
-      "type": "Фильм",
-      "kinopoiskId": "22361",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/22361/",
-      "runtime": "1 ч 46 мин",
-      "genres": "драма, мелодрама, комедия",
-      "studios": "🟢 Miramax, 🟢 Simon Fields Productions",
-      "budget": "50.000.000 $",
-      "revenue": "170.128.460 $",
-      "tmdbRating": "6.4",
-      "overview": "Благоустроенная жизнь, преданная жена и восхитительная дочь. Все в жизни хорошо, но чего-то все-таки не хватает… Каждый вечер, возвращаясь на поезде с работы, он видел прекрасную женщину в окне одного из зданий. И однажды он вышел на этой станции…",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/rP58ZY4lHuRTc3uuxIDbi6C4Af6.jpg",
-      "tagline": "«A new comedy about following your own lead.»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/dbk1GH7eRmUrs8y9WFQP1corti2.jpg",
-      "cast": [
-        {
-          "name": "Ричард Гир",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
-        },
-        {
-          "name": "Дженнифер Лопес",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iDiicDZ6CMib20QSCQYB55iynEk.jpg"
-        },
-        {
-          "name": "Сьюзан Сарандон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
-        },
-        {
-          "name": "Стэнли Туччи",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
-        }
-      ],
-      "director": {
-        "name": "Peter Chelsom",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/afuVtGcuVC157yar0xt1W15zmoD.jpg"
-      },
-      "trailer": "",
-      "ageRating": "PG-13",
-      "keywords": "dance, jealousy, husband wife relationship, dancer, dancing master",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bdfab78-2ce3-4c92-886e-7437896bf7c0-profile_image-600x600.png",
-      "collection": "",
-      "id": 55,
-      "dateRequested": "17.08.2026 14:09",
-      "status": "Смотрели",
-      "ourRating": "7",
-      "cried": false,
-      "isAuction": false,
-      "requestedSeason": 0,
-      "tmdbId": 4380,
-      "altPoster": "",
-      "postUrl": "",
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false,
-      "dateWatched": "22.09.2026 16:02",
-      "requestedEpisodes": 0,
-      "frames": [
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dbk1GH7eRmUrs8y9WFQP1corti2.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AdoMlWz43fVDdi3C43xNwrYFiP5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5Onau7CHT5Cr1a0tBex3Nh1SX1l.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6J5C5gbm3QV7I0DcQ9T9dvX0wkF.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m2ISObfd1g1GRnSzWo0VBWuykFu.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/srtoDBitaLcbWrjfjlO6R9WkPk7.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/38qWTtLbgO5gxvYXVw1VGRukIfI.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a8LfZu0li310QLmG0cXMVT1WK14.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l3s90vxTQuw1oDtShYJC2az0xXm.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o5KmeromVXZPGc5TfIIqaNWVH0W.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kCLRyfHsqgLZB88eyvBX1KrvlwC.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fLliBHLDERGhUWcKBFTfhilDrLW.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uQMnQKKPKb5kJGkVg4AHLiNPyrp.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wjSTATn0puEb1bt6GJmZV4h6gML.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9eoYDcByqMsZSoWR7865Tx30WJo.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/buWXFjWx1xx2OUGlM6BxdumiHUa.jpg"
-      ]
-    },
-    {
       "title": "Правдивая ложь",
       "year": "1994",
       "type": "Фильм",
@@ -5452,6 +5374,85 @@
       "isWatching": false,
       "isMarvel": false,
       "tgRecordUrl": "https://t.me/cherteyavod/2"
+    },
+    {
+      "title": "Давайте потанцуем",
+      "year": "2004",
+      "type": "Фильм",
+      "kinopoiskId": "22361",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/22361/",
+      "runtime": "1 ч 46 мин",
+      "genres": "драма, мелодрама, комедия",
+      "studios": "🟢 Miramax, 🟢 Simon Fields Productions",
+      "budget": "50.000.000 $",
+      "revenue": "170.128.460 $",
+      "tmdbRating": "6.4",
+      "overview": "Благоустроенная жизнь, преданная жена и восхитительная дочь. Все в жизни хорошо, но чего-то все-таки не хватает… Каждый вечер, возвращаясь на поезде с работы, он видел прекрасную женщину в окне одного из зданий. И однажды он вышел на этой станции…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/rP58ZY4lHuRTc3uuxIDbi6C4Af6.jpg",
+      "tagline": "«A new comedy about following your own lead.»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/dbk1GH7eRmUrs8y9WFQP1corti2.jpg",
+      "cast": [
+        {
+          "name": "Ричард Гир",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+        },
+        {
+          "name": "Дженнифер Лопес",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iDiicDZ6CMib20QSCQYB55iynEk.jpg"
+        },
+        {
+          "name": "Сьюзан Сарандон",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jR6l2EfvvGA8qCzZ7MB5FT9ZLkq.jpg"
+        },
+        {
+          "name": "Стэнли Туччи",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+        }
+      ],
+      "director": {
+        "name": "Peter Chelsom",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/afuVtGcuVC157yar0xt1W15zmoD.jpg"
+      },
+      "trailer": "",
+      "ageRating": "PG-13",
+      "keywords": "dance, jealousy, husband wife relationship, dancer, dancing master",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5bdfab78-2ce3-4c92-886e-7437896bf7c0-profile_image-600x600.png",
+      "collection": "",
+      "id": 55,
+      "dateRequested": "17.08.2026 14:09",
+      "status": "Смотрели",
+      "ourRating": "7",
+      "cried": false,
+      "isAuction": false,
+      "requestedSeason": 0,
+      "tmdbId": 4380,
+      "altPoster": "",
+      "postUrl": "",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "dateWatched": "22.09.2026 16:02",
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dbk1GH7eRmUrs8y9WFQP1corti2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AdoMlWz43fVDdi3C43xNwrYFiP5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5Onau7CHT5Cr1a0tBex3Nh1SX1l.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6J5C5gbm3QV7I0DcQ9T9dvX0wkF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m2ISObfd1g1GRnSzWo0VBWuykFu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/srtoDBitaLcbWrjfjlO6R9WkPk7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/38qWTtLbgO5gxvYXVw1VGRukIfI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a8LfZu0li310QLmG0cXMVT1WK14.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l3s90vxTQuw1oDtShYJC2az0xXm.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o5KmeromVXZPGc5TfIIqaNWVH0W.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kCLRyfHsqgLZB88eyvBX1KrvlwC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fLliBHLDERGhUWcKBFTfhilDrLW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uQMnQKKPKb5kJGkVg4AHLiNPyrp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wjSTATn0puEb1bt6GJmZV4h6gML.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9eoYDcByqMsZSoWR7865Tx30WJo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/buWXFjWx1xx2OUGlM6BxdumiHUa.jpg"
+      ],
+      "tgRecordUrl": "https://t.me/cherteyavod/120"
     }
   ],
   "tiltnessa": [
