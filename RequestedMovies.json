@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "02.10.2026 10:38",
+    "lastUpdated": "11.10.2026 11:27",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -3310,6 +3310,88 @@
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dlzr8mPJR9z55o5bRUMQvE956po.jpg"
       ],
       "tgRecordUrl": "https://t.me/cherteyavod/129"
+    },
+    {
+      "title": "До встречи с тобой",
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "year": "2016",
+      "type": "Фильм",
+      "tmdbId": 296096,
+      "kinopoiskId": "807318",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/807318/",
+      "altPoster": "",
+      "runtime": "1 ч 50 мин",
+      "genres": "драма, мелодрама",
+      "studios": "🔴 New Line Cinema | 🟢 Sunswept Entertainment, 🟢 Metro-Goldwyn-Mayer",
+      "budget": "20.000.000 $",
+      "revenue": "207.945.075 $",
+      "tmdbRating": "7.9",
+      "overview": "Лу Кларк знает, сколько шагов от автобусной остановки до ее дома. Она знает, что ей очень нравится работа в кафе и что, скорее всего, она не любит своего бойфренда Патрика. Но Лу не знает, что вот-вот потеряет свою работу и что в ближайшем будущем ей понадобятся все силы, чтобы преодолеть свалившиеся на нее проблемы.  Уилл Трейнор знает, что сбивший его мотоциклист отнял у него желание жить. И он точно знает, что надо сделать, чтобы положить конец всему этому. Но он не знает, что Лу скоро ворвется в его мир буйством красок. И они оба не знают, что навсегда изменят жизнь друг друга.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/30xQ7FYFBrIXK5Y63jq1ilMD1Xk.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+      "cast": [
+        {
+          "name": "Эмилия Кларк",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iFY6t7Ux9r70WB7Sp0TTVz6eGtm.jpg"
+        },
+        {
+          "name": "Сэм Клафлин",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+        },
+        {
+          "name": "Джанет Мактир",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qOKAI6aunD4J5MXiwwomAhI3jI2.jpg"
+        },
+        {
+          "name": "Чарльз Дэнс",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pKiXMCLf0uHQNwQPCjSNrjsUiJO.jpg"
+        }
+      ],
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7S1dU00vd09eSAPJkXUdkgXRlYg.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fEzY1DqYRu2AbEfmjj5p7OggI1J.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6aQSqZspTjxqPA50KhH956uB21H.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iS5kVrBRrP7Rq3jrdI6dTJ9uJxK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cQEaKXHR6cfRoA54mLLtRGzIsaA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7jjwdoIVPJp7gcDo9uE1sVZi2Rs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iSR27TPEylaWpGJY6m8utE9JEaQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/srXOKg7n3PUt6SdrbQGX9XNP2JW.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eExDUvol4RXvXkIrtu7L5uF6LOX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/io5YdMkRjHHxU3mSkw214wJmtSv.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xGzoTqbOlCR4mAzeRs4PB53i8c7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cZZTXTJIFITyInpZRwTMMzvpvc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/781m8otx1tB3EHv3k7POCyj9bXM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2CYhtROCOftwQ6POOTRmgYEglgd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p6bOuCbKn7ffuDWDdR0QHOUkfD6.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qogqS8XKZg00WKZTrRUUJeaolg9.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m7ZSNFdSO1Ql2LVb2Sp0lyklxIx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zuiHLmonC8kvt2K4fi6xGYTKkhe.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/t2K6hkeDmOn5pwJV67mx8k4bU3P.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bSkHaHpzvarcbwt14WCTCJqUr2m.jpg"
+      ],
+      "director": {
+        "name": "Теа Шэррок",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/levYh65v2zBLBROydIjQijBupgW.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=jmJ0UpOof_I",
+      "ageRating": "12+",
+      "keywords": "depression, small town, based on novel or book, england, artist",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 74,
+      "dateRequested": "11.10.2026 11:27",
+      "status": "Не смотрели",
+      "ourRating": "Без оценки",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "reviewUrl": ""
     }
   ],
   "nikisnej192": [
