@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "27.10.2026 15:02",
+    "lastUpdated": "09.11.2026 15:56",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -4038,54 +4038,86 @@
   ],
   "bblove": [
     {
-      "title": "Реквием по мечте",
-      "requestedSeason": 0,
-      "year": "2000",
-      "type": "Фильм",
-      "tmdbId": 641,
-      "kinopoiskId": "367",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/367/",
-      "altPoster": "",
-      "postUrl": "",
-      "runtime": "1 ч 42 мин",
-      "genres": "криминал, драма",
-      "studios": "🟢 Artisan Entertainment, 🟢 Thousand Words, 🟢 Protozoa Pictures, 🟢 Industry Entertainment Partners, 🟢 Bandeira Entertainment",
-      "budget": "4.500.000 $",
-      "revenue": "7.390.108 $",
-      "tmdbRating": "8.0",
-      "overview": "Каждый стремится к своей заветной мечте. Сара Голдфарб мечтала сняться в известном телешоу, ее сын Гарольд с другом Тайроном — сказочно разбогатеть, подруга Гарольда Мэрион грезила о собственном модном магазине, но на их пути были всевозможные препятствия. Все они выбирают неочевидные пути достижения своих целей, и мечты по-прежнему остаются недостижимыми, а жизни героев рушатся безвозвратно.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/zjSGcoP8q8C3bTtMqeQnxUXoklW.jpg",
-      "tagline": "«Невыносимая легкость апокалипсиса»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/fAGYRJCujRBMw7TCuTp893eSG8e.jpg",
-      "cast": [
-        {
-          "name": "Эллен Бёрстин",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg"
-        },
-        {
-          "name": "Джаред Лето",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
-        },
-        {
-          "name": "Дженнифер Коннелли",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
-        },
-        {
-          "name": "Марлон Уэйанс",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg"
-        }
-      ],
-      "director": {
-        "name": "Даррен Аронофски",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=yBQDcVd-Ct0",
-      "ageRating": "18+",
-      "keywords": "isolation, drug addiction, hallucination, tragedy, psychological drama",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/15d747da-371b-4116-b7a6-fd1ff932cf1e-profile_image-600x600.jpg",
-      "collection": "",
       "id": 60,
       "dateRequested": "01.09.2026 12:38",
+      "title": "Живая сталь",
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "year": "2011",
+      "type": "Фильм",
+      "tmdbId": 39254,
+      "kinopoiskId": "88198",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/88198/",
+      "altPoster": "",
+      "runtime": "2 ч 7 мин",
+      "genres": "боевик, фантастика, драма",
+      "studios": "🟢 DreamWorks Pictures, 🟢 Reliance Entertainment, 🟢 21 Laps Entertainment, 🟢 Montford / Murphy Productions",
+      "budget": "110.000.000 $",
+      "revenue": "299.300.000 $",
+      "tmdbRating": "7.2",
+      "overview": "События фильма происходят в будущем, где бокс запрещен за негуманностью и заменен боями 2000-фунтовых роботов, управляемых людьми. Бывший боксер, а теперь промоутер, переметнувшийся в Робобокс, решает, что наконец нашел своего чемпиона, когда ему попадается выбракованный, но очень способный робот. Одновременно на жизненном пути героя возникает 16-летний пацан, оказывающийся его блудным сыном. И по мере того, как машина пробивает свой путь к вершине, обретшие друг друга отец и сын учатся дружить.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/3y9qKKMO8wJuw1UHnIgWm7LVr4p.jpg",
+      "tagline": "«Чемпионами не рождаются, их собирают»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+      "cast": [
+        {
+          "name": "Хью Джекман",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+        },
+        {
+          "name": "Дакота Гойо",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/xHfxZDILa8JRZu5OoaXKiDa781o.jpg"
+        },
+        {
+          "name": "Эванджелин Лилли",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+        },
+        {
+          "name": "Кевин Дюранд",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+        }
+      ],
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pjlxrd646cBYznHoPBWTzz6FujX.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2t8uXcm5CuChOoX5gEKl918yv6I.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dm1ARBecuQEYrKuG141jAO594MP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4Y4nNRjlIWcuyYZs92oykeXdWFA.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jCByn5lFKGCQi0a22a6otGeoh1C.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sAOwQ0DkI7aF2wepS1XIfJMm6nP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4f0Kj0QwPui5ydu1UavsnvP1m1o.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qTtfFf5TuEp2PhpUtqpPHHR7lYU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ctEK27226YOq0zXw08zcmGSVmPZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/itLmry8cPCC8WWpOpg9Lj0GcDT8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eO14cwFBUC0GHDqYRrxpNoZtrun.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3j7GvtDzbBdLzQMlkiSeWMxp5ta.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/udapGE5IIWjUsj4qknVGJ0AnKcs.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wppwKzzq1xjmq7HHbMFun1JUaDB.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/x5Z1WCXobqMsNvELJqMG6xXH2Sp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bL8ojCCLQmDtI12GGx3xxUo1ACu.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/d25orEKF4q3E3j5JoRFIq6fMiB3.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/knUS3yKrcjvGg9vMHK8v7hr7zK8.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7xds0KHZTRKJEAWO11OYMcFRP7l.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zevwb5xw8ytYqvUSLTQoTqq9Izo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/5mN7Lft2yglnseu7gH9ZJJUxQeZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uwEkLzE31xcxBkh4998qEGRZFt2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uUnDqxQC16wUGddbTBpOXzrvrGT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nDX9NZFknsuKQEK0GhkxpNxCmuV.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/43YqNwPVi51UmVF4bDZwRINpRFS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bRHsXwbgZk7UN2E6HCqlycyK3Yy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/350XUcbYha8UuaJpBUEFsOSQUZC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/d9Piy6gxdW8NJBjXjUQorMZle7O.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kutuNtzyEF5mx4jfFKNfWOQzhsw.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tI4UrXhpysa6Jzg1vqUJzCguLXs.jpg"
+      ],
+      "director": {
+        "name": "Шон Леви",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z0FxvTNPTkPOzNNCtF9TUPDYMC1.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=8-PnFVykcWI",
+      "ageRating": "18+",
+      "keywords": "future, sports, parent child relationship, fight, giant robot",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/15d747da-371b-4116-b7a6-fd1ff932cf1e-profile_image-600x600.jpg",
+      "collection": "",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
@@ -4094,39 +4126,7 @@
       "isTheme": false,
       "isWatching": false,
       "isMarvel": false,
-      "requestedEpisodes": 0,
-      "frames": [
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fAGYRJCujRBMw7TCuTp893eSG8e.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7tZt3PA948fvSTFx0699YF44Tdt.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9Gk3h004bow0jflh09iU4nPig48.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hGtmFJI7q1S0UN1FeLSM9pwkWks.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/peZI7LOBmZ75swPRdmpwsUsJCf0.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eauLgY8lq56b8vU777loTqF9Eg2.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Aiy7K68IlTODqt4XfTVTVpgDEqa.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aC9d1RHXacabXFVxz0WdkdFkFit.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4TSZHY0j6qDWxXT1cozejbauz04.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fmcxVkgyvFsqFgTvwpHE3HYuEjy.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jRxxp0ZOBt9pgfFHMViKYCL0Ken.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/AbIbkLgXnpgKv8y7GdYVnuctTdW.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1nlsY3Eawg9wLOqHNYPLoJum473.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/s5R6kTMfOxkGit96A8lqcDL4uVk.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4TYFrxJvgTsw10oskYoQeQYY4Rl.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4Ehbt9vvcufmJr3BvBQkvi9v6Ey.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/atLhthEyHxb1jOISe64ioW9l5QK.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/7NHnPjs4WXpPK7Nd3qTDFeHBjZc.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cnYruwRk3Ev3RisCGNuLzneiNr5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bHhwwpurWAch5aGIy4F68VYlkqv.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/m5kDmjLO1VhkVxHlRSKMI6mzuC5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g1U311jgL4DJbGgvIZgiCfHp44Q.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6wqrHOuFMNv74Ik2nH2o1AMcU0g.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yp08g2eFEdcgL0Rrj9IXt8SxdP5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qqLvyhBf3c8sEDn9jorDJLjxKsy.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qAfEcyzswtGKMYGQAfYx4OOEVA6.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/lm8L6EOppVE4wRv9rLeGbSpCuEj.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4lKEK1lpDORS6ySMZx95o6tTGFj.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kJRF3YYCeiy9sobM4aKJPcQ4NiP.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mjxygfk4tG8BmDpxWIpuFowTfQD.jpg"
-      ]
+      "reviewUrl": ""
     }
   ],
   "SeRRRg0": [
