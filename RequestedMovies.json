@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "09.11.2026 15:56",
+    "lastUpdated": "09.11.2026 16:12",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -2877,95 +2877,6 @@
       ]
     },
     {
-      "title": "Клик: С пультом по жизни",
-      "requestedSeason": 0,
-      "year": "2006",
-      "type": "Фильм",
-      "tmdbId": 9339,
-      "kinopoiskId": "77576",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77576/",
-      "altPoster": "",
-      "postUrl": "",
-      "runtime": "1 ч 47 мин",
-      "genres": "комедия, драма, фэнтези",
-      "studios": "🔴 Columbia Pictures | 🟢 Original Film, 🟢 Revolution Studios, 🟢 Happy Madison Productions",
-      "budget": "82.500.000 $",
-      "revenue": "240.685.326 $",
-      "tmdbRating": "6.3",
-      "overview": "Архитектору-трудоголику Майклу попадает в руки пульт дистанционного управления, с помощью которого можно перематывать или ставить на паузу жизненные ситуации. Но техника есть техника - у нее всегда сюрприз в запасе. Запомнив ускоренные моменты, пульт начинает самовольно перематывать Майклу жизнь.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/yUt5heuYmrFiNGqElJrBnn3vw75.jpg",
-      "tagline": "«Представьте, что у вас появился уникальный пульт... Которым можно изменить всю вашу жизнь?»",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
-      "cast": [
-        {
-          "name": "Адам Сэндлер",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
-        },
-        {
-          "name": "Кейт Бекинсейл",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lveqQgmEzW6ak5unOQi4md677kM.jpg"
-        },
-        {
-          "name": "Кристофер Уокен",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
-        },
-        {
-          "name": "Дэвид Хассельхофф",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gRcqYNBUQWFxRoAVRNY7xHzOONP.jpg"
-        }
-      ],
-      "director": {
-        "name": "Frank Coraci",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z280cWJmhWgPmR9HrTXUn4BK06o.jpg"
-      },
-      "trailer": "https://www.youtube.com/watch?v=86-NHBlFPPw",
-      "ageRating": "PG-13",
-      "keywords": "dying and death, regret, workaholic, heart attack, architect",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 72,
-      "dateRequested": "23.09.2026 13:55",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "isBanned": false,
-      "isTheme": false,
-      "isWatching": false,
-      "isMarvel": false,
-      "requestedEpisodes": 0,
-      "frames": [
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fyiVTu5zaXtqdKFim8CXuIgrtw2.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1nfymSGiadOvi6uOLskL2jAOmvh.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w7OBGj9YEA4DcpUnPU9OM6NufJJ.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iX7Gc2eidasIIZLnX4tLMSKUVUS.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zaxj7XVrlahFSNa4wImTqM1cv57.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p2NMrPT8rulweXADZXoSrKmWgjd.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h30q7IXCmlgR1wKLnp9LttH6BCG.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k7f8ktGnfxiLUpVNoVSm416iNFp.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oXOyyivjQv660pMBfPvt06bMYhJ.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mXBDQ9n2osF0BqBjXY9JDyadyRb.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g544yuUh4priiyhHTDeohbGqPaU.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ak3TfLcEuG5WPGZzEqj1RXpxN7l.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e0zR3H15Gl32hLqrY5lB205RWbo.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hvI1ew8tDPYBNN8hFBzj8E2KJs4.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l4g9TrOOeIpjzPxYyjuj0iwq8g7.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/XWjYWLJpGw08As1futgtx2An5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pXexIWRF60vW6Baa5ZgP2C9WrlT.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2XlTHb2g7YbzqoxLvkFp53mNi7a.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/buiYL95tb5ChHHi5vDkNfoipz8n.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/spd37yDuHaNQl4k5IFh25jFELQP.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ldBs2axBbfWRqqpZnDk3rt8c3aL.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xD4F9Mqg3WhxMJCQZCqGWcvQuAT.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/MXQlfbSwqn7eWaA2wdpg3xb2yK.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bagjK2tl0pzs0FBLsye313zlqgZ.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ooxoBsWMbezSBUpTXlakQnsh6OF.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6g9Ki9i39HgzuTqmvcLjpVLPn9S.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eCiPojaIBZq2eaK8Tt1VD6YEJBc.jpg"
-      ]
-    },
-    {
       "title": "С любовью, Рози",
       "year": "2014",
       "type": "Фильм",
@@ -3392,6 +3303,96 @@
       "isWatching": false,
       "isMarvel": false,
       "reviewUrl": ""
+    },
+    {
+      "title": "Клик: С пультом по жизни",
+      "requestedSeason": 0,
+      "year": "2006",
+      "type": "Фильм",
+      "tmdbId": 9339,
+      "kinopoiskId": "77576",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/77576/",
+      "altPoster": "",
+      "postUrl": "",
+      "runtime": "1 ч 47 мин",
+      "genres": "комедия, драма, фэнтези",
+      "studios": "🔴 Columbia Pictures | 🟢 Original Film, 🟢 Revolution Studios, 🟢 Happy Madison Productions",
+      "budget": "82.500.000 $",
+      "revenue": "240.685.326 $",
+      "tmdbRating": "6.3",
+      "overview": "Архитектору-трудоголику Майклу попадает в руки пульт дистанционного управления, с помощью которого можно перематывать или ставить на паузу жизненные ситуации. Но техника есть техника - у нее всегда сюрприз в запасе. Запомнив ускоренные моменты, пульт начинает самовольно перематывать Майклу жизнь.",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/yUt5heuYmrFiNGqElJrBnn3vw75.jpg",
+      "tagline": "«Представьте, что у вас появился уникальный пульт... Которым можно изменить всю вашу жизнь?»",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
+      "cast": [
+        {
+          "name": "Адам Сэндлер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+        },
+        {
+          "name": "Кейт Бекинсейл",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/lveqQgmEzW6ak5unOQi4md677kM.jpg"
+        },
+        {
+          "name": "Кристофер Уокен",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        },
+        {
+          "name": "Дэвид Хассельхофф",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gRcqYNBUQWFxRoAVRNY7xHzOONP.jpg"
+        }
+      ],
+      "director": {
+        "name": "Frank Coraci",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/z280cWJmhWgPmR9HrTXUn4BK06o.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=86-NHBlFPPw",
+      "ageRating": "PG-13",
+      "keywords": "dying and death, regret, workaholic, heart attack, architect",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 72,
+      "dateRequested": "23.09.2026 13:55",
+      "status": "Смотрели",
+      "ourRating": "8",
+      "cried": false,
+      "isAuction": false,
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "requestedEpisodes": 0,
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/n6eIm882V7cj0In0xp8QXNItoTp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fyiVTu5zaXtqdKFim8CXuIgrtw2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/1nfymSGiadOvi6uOLskL2jAOmvh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w7OBGj9YEA4DcpUnPU9OM6NufJJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iX7Gc2eidasIIZLnX4tLMSKUVUS.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zaxj7XVrlahFSNa4wImTqM1cv57.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/p2NMrPT8rulweXADZXoSrKmWgjd.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/h30q7IXCmlgR1wKLnp9LttH6BCG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/k7f8ktGnfxiLUpVNoVSm416iNFp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/oXOyyivjQv660pMBfPvt06bMYhJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/mXBDQ9n2osF0BqBjXY9JDyadyRb.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g544yuUh4priiyhHTDeohbGqPaU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ak3TfLcEuG5WPGZzEqj1RXpxN7l.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e0zR3H15Gl32hLqrY5lB205RWbo.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hvI1ew8tDPYBNN8hFBzj8E2KJs4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/l4g9TrOOeIpjzPxYyjuj0iwq8g7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/XWjYWLJpGw08As1futgtx2An5.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pXexIWRF60vW6Baa5ZgP2C9WrlT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2XlTHb2g7YbzqoxLvkFp53mNi7a.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/buiYL95tb5ChHHi5vDkNfoipz8n.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/spd37yDuHaNQl4k5IFh25jFELQP.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ldBs2axBbfWRqqpZnDk3rt8c3aL.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/xD4F9Mqg3WhxMJCQZCqGWcvQuAT.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/MXQlfbSwqn7eWaA2wdpg3xb2yK.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/bagjK2tl0pzs0FBLsye313zlqgZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ooxoBsWMbezSBUpTXlakQnsh6OF.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6g9Ki9i39HgzuTqmvcLjpVLPn9S.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eCiPojaIBZq2eaK8Tt1VD6YEJBc.jpg"
+      ],
+      "dateWatched": "09.11.2026 16:12"
     }
   ],
   "nikisnej192": [
