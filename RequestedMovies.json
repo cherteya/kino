@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "16.11.2026 15:38",
+    "lastUpdated": "19.11.2026 15:29",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -2654,70 +2654,6 @@
       ]
     },
     {
-      "title": "Целитель Адамс",
-      "year": "1998",
-      "type": "Фильм",
-      "kinopoiskId": "6123",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6123/",
-      "runtime": "1 ч 55 мин",
-      "genres": "комедия, драма",
-      "studios": "🟢 Universal Pictures, 🟢 Bungalow 78 Productions, 🟢 Blue Wolf, 🟢 Farrell/Minoff",
-      "budget": "50.000.000 $",
-      "revenue": "202.292.902 $",
-      "tmdbRating": "7.3",
-      "overview": "Познакомьтесь с Целителем Адамсом — доктором, который резко отличается от своих чопорных и важных коллег. Адамс совершил невероятное открытие в современной медицине. Оказывается, лучшим лекарством от любых болезней является смех. И доктор Адамс готов сделать все возможное, чтобы заставить своих пациентов, как, впрочем, и зрителей этой прекрасной картины, смеяться без перерыва!..",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/tMAz20MjVOgUsBDb3CfNqN2JxYC.jpg",
-      "tagline": "",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
-      "cast": [
-        {
-          "name": "Робин Уильямс",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
-        },
-        {
-          "name": "Дэниэл Лондон",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/feRkUWfs2LpVzULMdkpBHN5JYdM.jpg"
-        },
-        {
-          "name": "Моника Поттер",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
-        },
-        {
-          "name": "Филип Сеймур Хоффман",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
-        }
-      ],
-      "director": {
-        "name": "Том Шедьяк",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
-      },
-      "trailer": "",
-      "ageRating": "Нет данных",
-      "keywords": "based on novel or book, nurse, 1970s, based on true story, psychiatric hospital",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
-      "collection": "",
-      "id": 50,
-      "dateRequested": "07.08.2026 15:43",
-      "status": "Не смотрели",
-      "ourRating": "Без оценки",
-      "cried": false,
-      "isAuction": false,
-      "tmdbId": 10312,
-      "requestedSeason": 0,
-      "requestedEpisodes": 0,
-      "altPoster": "",
-      "frames": [
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w5KgTa5LEokp1ki1zq4pyS3fkYy.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uglfxIpBrjoZaFLo6VRfuOou8Gk.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nMGFBqx0ZHqiEj6RZphnA8vIz8q.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3AsO0Nmj1zeMC5Zuef8U8MG6iM.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/32FtGc8wj0UvOwJ7sTf4GiLJp1K.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6AAN5NxNRJzaPkRPwgUjPyvctBG.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o284tJSHifFYs7iDFqowheyMaVJ.jpg"
-      ]
-    },
-    {
       "title": "Заплати другому",
       "year": "2000",
       "type": "Фильм",
@@ -3393,6 +3329,75 @@
         "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eCiPojaIBZq2eaK8Tt1VD6YEJBc.jpg"
       ],
       "dateWatched": "09.11.2026 16:12"
+    },
+    {
+      "title": "Целитель Адамс",
+      "year": "1998",
+      "type": "Фильм",
+      "kinopoiskId": "6123",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/6123/",
+      "runtime": "1 ч 55 мин",
+      "genres": "комедия, драма",
+      "studios": "🟢 Universal Pictures, 🟢 Bungalow 78 Productions, 🟢 Blue Wolf, 🟢 Farrell/Minoff",
+      "budget": "50.000.000 $",
+      "revenue": "202.292.902 $",
+      "tmdbRating": "7.3",
+      "overview": "Познакомьтесь с Целителем Адамсом — доктором, который резко отличается от своих чопорных и важных коллег. Адамс совершил невероятное открытие в современной медицине. Оказывается, лучшим лекарством от любых болезней является смех. И доктор Адамс готов сделать все возможное, чтобы заставить своих пациентов, как, впрочем, и зрителей этой прекрасной картины, смеяться без перерыва!..",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/tMAz20MjVOgUsBDb3CfNqN2JxYC.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+      "cast": [
+        {
+          "name": "Робин Уильямс",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+        },
+        {
+          "name": "Дэниэл Лондон",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/feRkUWfs2LpVzULMdkpBHN5JYdM.jpg"
+        },
+        {
+          "name": "Моника Поттер",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
+        },
+        {
+          "name": "Филип Сеймур Хоффман",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+        }
+      ],
+      "director": {
+        "name": "Том Шедьяк",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/kuliB1DrKSbdn2jxESncPbWxGrD.jpg"
+      },
+      "trailer": "",
+      "ageRating": "Нет данных",
+      "keywords": "based on novel or book, nurse, 1970s, based on true story, psychiatric hospital",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/a8a6aa04-03ef-40e5-aae6-a8a1580e9d8c-profile_image-600x600.png",
+      "collection": "",
+      "id": 50,
+      "dateRequested": "07.08.2026 15:43",
+      "status": "Смотрели",
+      "ourRating": "8",
+      "cried": false,
+      "isAuction": false,
+      "tmdbId": 10312,
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "altPoster": "",
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/w5KgTa5LEokp1ki1zq4pyS3fkYy.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uglfxIpBrjoZaFLo6VRfuOou8Gk.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nMGFBqx0ZHqiEj6RZphnA8vIz8q.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/3AsO0Nmj1zeMC5Zuef8U8MG6iM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/32FtGc8wj0UvOwJ7sTf4GiLJp1K.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6AAN5NxNRJzaPkRPwgUjPyvctBG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/o284tJSHifFYs7iDFqowheyMaVJ.jpg"
+      ],
+      "dateWatched": "19.11.2026 15:29",
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false
     }
   ],
   "nikisnej192": [
