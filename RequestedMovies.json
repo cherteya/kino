@@ -1,7 +1,7 @@
 {
   "_metadata_": {
     "streamer": "cherteya",
-    "lastUpdated": "19.11.2026 15:29",
+    "lastUpdated": "19.11.2026 15:41",
     "isOnlineBtnVisible": true
   },
   "bazar_gure": [
@@ -92,86 +92,92 @@
   ],
   "susgirl1": [
     {
-      "title": "Мальчишник в Вегасе",
-      "year": "2009",
-      "type": "Фильм",
-      "runtime": "1 ч 40 мин",
-      "genres": "комедия",
-      "studios": "🔴 Warner Bros. Pictures | 🟢 Legendary Pictures, 🟢 Green Hat Films",
-      "budget": "35.000.000 $",
-      "revenue": "469.310.836 $",
-      "tmdbRating": "7.3",
-      "overview": "Мальчишник в Лас-Вегасе выходит из-под контроля: жених исчезает, а трое его друзей совершенно не помнят события прошлой ночи.",
-      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/eqfuqXcv0MlbnzihcfsTaTGMbd.jpg",
-      "tagline": "",
-      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
-      "cast": [
-        {
-          "name": "Брэдли Купер",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
-        },
-        {
-          "name": "Эд Хелмс",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
-        },
-        {
-          "name": "Зак Галифианакис",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/ncBSLoNUufKpg7vzx1gCtjhst8i.jpg"
-        },
-        {
-          "name": "Джастин Барта",
-          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/AalKjN8nR8RZ8g6ZdWV2smnQq4d.jpg"
-        }
-      ],
-      "director": {
-        "name": "Тодд Филлипс",
-        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/A6FPht87DiqXzp456WjakLi2AtP.jpg"
-      },
-      "trailer": "",
-      "ageRating": "R",
-      "keywords": "amnesia, blackjack, stag night, lost weekend, chapel",
-      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9716445-5ace-4b39-83d5-84c012925d11-profile_image-600x600.png",
-      "collection": "Мальчишник в Вегасе (Коллекция)",
       "id": 28,
       "dateRequested": "26.07.2026 12:39",
+      "title": "Синистер",
+      "requestedSeason": 0,
+      "requestedEpisodes": 0,
+      "year": "2012",
+      "type": "Фильм",
+      "tmdbId": 82507,
+      "kinopoiskId": "590022",
+      "kinopoiskUrl": "https://www.kinopoisk.ru/film/590022/",
+      "altPoster": "",
+      "runtime": "1 ч 50 мин",
+      "genres": "ужасы, триллер, детектив",
+      "studios": "🟢 Automatik Entertainment, 🟢 Blumhouse Productions, 🟢 Alliance Films, 🟢 IM Global, 🟢 Summit Entertainment",
+      "budget": "3.000.000 $",
+      "revenue": "87.727.807 $",
+      "tmdbRating": "6.9",
+      "overview": "Вместе с семьей автор детективов поселяется в небольшом городке, в доме, где почти год назад развернулась леденящая душу трагедия — были убиты все жильцы. Писатель случайно находит видеозаписи, которые являются ключом к тайне преступления. Но ничто не дается даром: в доме начинают происходить жуткие вещи и теперь под угрозой жизнь его близких. Они столкнулись с чем-то, от чего нет спасения…",
+      "poster": "https://wsrv.nl/?url=image.tmdb.org/t/p/w500/qtwq9E3v7O69OSLsxSw7yq0WubT.jpg",
+      "tagline": "",
+      "backdrop": "https://wsrv.nl/?url=image.tmdb.org/t/p/original/jovIEk4cAxWmA2dBcPrfhn3jzYN.jpg",
+      "cast": [
+        {
+          "name": "Итан Хоук",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+        },
+        {
+          "name": "Juliet Rylance",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/bN0cZI8DTETIBlYn0bPG3og8u7f.jpg"
+        },
+        {
+          "name": "Винсент Д’Онофрио",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+        },
+        {
+          "name": "Джеймс Рэнсон",
+          "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg"
+        }
+      ],
+      "frames": [
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/jovIEk4cAxWmA2dBcPrfhn3jzYN.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qROEky9DX25FNDYrslqhhfT7k23.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6WvJAj4OigLvnhIxgkfrOmjSJz2.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4iUlPnxxoXXBqXluyXU0FnQi8Av.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cSgDucubHzMSoWhUoA2URo6bRlC.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/zO2RldNGyHZW0BxKBx9v89291C7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cZ9yR6AGN4dTlt9MPxwDvGtozDh.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6tZKFuG9qyYSWRCpkSkBuqZ9GkM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wjuNaJJgNpge1LecKF0C6vTeHnJ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tesZNusWHOUigLkgmJKM1rFKRfU.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e6DjircH10vHhbA93NC0mWxqRUa.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/dIOuR03K2HVsY2Tzi634342RItE.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/aNH3R8EgN3Y4eK4y1BAQ5xlyNn4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4iYfgRNM0Kz7aOiiX62wRw70MI4.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9gvGT3NtLxWsNivr3qC0I7BUlMt.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/x6EnkpVs6HLhwTL22jXOmif5Ayc.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/79WEoBg7YW93P6O85C2r4ipckAM.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4AKTKLSB1dch4DMVsBtwKAmazOQ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/pUY7jVEu9BqdgA79yg2Wyp8mKlj.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/d05efUM6dQKk0rgtWGjPucALvMx.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/yY4vIVwIRPQwvVyoXO7KNCwpgyG.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/eauAh5qvUZUfE7b36PI4dZr7b7.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ym6afOoeaQ0dEtnelBWkLEDg7rp.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hPQCW7e4yzkSMqTuVUJ6VENhnkZ.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/4YLocSZjYFMhso1n0qgJBGg6gdR.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6KEDypT7BPXNpyBdiUi2mZMGf3e.jpg",
+        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6XPo5dHTaIhgnk41Z7fmQpahFiH.jpg"
+      ],
+      "director": {
+        "name": "Скотт Дерриксон",
+        "photo": "https://wsrv.nl/?url=image.tmdb.org/t/p/w185/caapCMfXLifC7XveUiY653xWBsZ.jpg"
+      },
+      "trailer": "https://www.youtube.com/watch?v=UljkvGAx26s",
+      "ageRating": "18+",
+      "keywords": "drowning, pennsylvania, usa, writing, child murder, snuff",
+      "userAvatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/f9716445-5ace-4b39-83d5-84c012925d11-profile_image-600x600.png",
+      "collection": "Синистер (Коллекция)",
       "status": "Не смотрели",
       "ourRating": "Без оценки",
       "cried": false,
       "isAuction": false,
-      "kinopoiskId": "426004",
-      "kinopoiskUrl": "https://www.kinopoisk.ru/film/426004/",
-      "tmdbId": 18785,
-      "requestedSeason": 0,
-      "requestedEpisodes": 0,
-      "altPoster": "",
-      "frames": [
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ubiu5Y7nP187ZFWUzjPj7Hgw6Go.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/e6ZyJ1BOk38frPkzICskIsYaztg.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/8RbtwAQu0Z4B8BTd3Bim2zv55Bk.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/Ap6u3M5W0Lg2yiMrmdOZpnIW1Zk.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ihy1ivZ32SDMMg7DPhgDStz0avI.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/sV49hOlUky6AhVYl4K0d3rergTA.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/qaStvnv2VdNxITnHoN85fCM67el.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/nug1RF3CgYtY21Hy326jiFEPt6U.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/fJTDXdfFw6chsPXCluu6Elg0nMd.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hSYhNEF7vZQQb804pnTuogxPgLQ.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ipabR6snXgxYxkwkNTgTskcHWid.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/6AuJoTxkBatb6QfBTZApFzEsNu4.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ou6L8fI0gP0yUAbOaPMoqecfzYk.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/kPb1IW4vlqT6nil82ZaYIeafkZR.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/wRNWkTQgypeUFcVFp8AFp7n6bQW.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/2kCaTDIiPCWlVypAqKFqY2MecnF.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/ryPoudiguEuC2eHjYCJxgVuQCWN.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/9Gdxhnd381xkp4reNOUhXNRhGTw.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/a7tdzj5ivg0wo6x9dNXLp4M53P7.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/hdOXWpQrStciiPlVwK4AWs2ibf7.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/tpjLaVtAP8zdtMa7oEYebl4UwE5.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/uKdyeNGDiIAjLG6OwKuZBljIqKU.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/cZ5Uhvwr2OTjszUSwR72opPGA7I.jpg",
-        "https://wsrv.nl/?url=image.tmdb.org/t/p/w780/g24jDb4NcXQNMUtvb8YGAYHmEJg.jpg"
-      ]
+      "isBanned": false,
+      "isTheme": false,
+      "isWatching": false,
+      "isMarvel": false,
+      "reviewUrl": ""
     },
     {
       "title": "Собачья жизнь",
